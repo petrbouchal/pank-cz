@@ -1,0 +1,6 @@
+---
+title: "Teze o práci s poznatky ve státní správě"
+editor: source
+aliases: 
+  - teze
+---

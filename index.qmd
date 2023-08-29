@@ -1,15 +1,61 @@
 ---
-title: "pank-foolkit"
+title: ""
+pagetitle: "PANK foolkit"
+listing: 
+  - id: pripadovky
+    template: pripadove-studie/pripadovky.ejs
+    contents: pripadove-studie/case*
+  - id: pripadovky-alt
+    type: table
+    contents: pripadove-studie/case*
+    filter-ui: false
+    sort-ui: false
+    fields: [title, description]
+    field-display-names: 
+      title: " "
+      description: " "
+    field-links: 
+      - title
+      - description
+  - id: bloky
+    type: grid
+    template: bloky.ejs
+    contents: bloky.yaml
+    fields: 
+      - title
+      - subtitle
 ---
 
-This is a Quarto website.
+# Osvoboďte potenciál vašeho (ne)analytického oddělení
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#bloky}
+:::
 
-::: {.callout-note icon=false collapse=true}
-### Blah title
+# Vycházíme z mnoholetých zkušeností z prací s analytickými týmy
 
-Blah blah
+## Případové studie
 
+:::{#pripadovky}
+:::
+
+### Alternativa
+
+:::{.callout-note appearance=simple icon=false}
+
+:::{#pripadovky-alt}
+:::
 
 :::
+
+
+## Teze o práci s poznatky ve státní správě
+
+## Systémové bariéry
+
+## Systémová doporučení
+
+
+
+
+
+# Náš tým podporuje informované rozhodování ve veřejné správě

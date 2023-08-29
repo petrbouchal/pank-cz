@@ -1,0 +1,51 @@
+```{=html}
+
+<%
+// Number of columns
+const cols = 3;
+
+// Card alignment
+const align = "left";
+
+// Borders
+const hideBorders = true;
+
+// Cap Options
+const imgHeight = "0%";
+%>
+
+<div class="list grid quarto-listing-cols-<%=cols%>">
+<% for (const item of items) { %>
+  <div class="g-col-1" <%= metadataAttrs(item) %>>
+    <div class="quarto-grid-item card-alt h-100 <%-`card-${align}`%><%= hideBorders ? ' borderless' : '' %>">
+      <% if (item.image) { %>
+        <p class="card-img-top">
+          <img src="<%= item.image %>" class="thumbnail-image card-img" style="height: auto;" alt="<%= item['image-alt'] %>">
+        </p>
+      <% } else { %>
+        <div class="card-img-bg" <%= imgHeight ? ` style="height: ${imgHeight};"` : '' %>>&nbsp;</div>
+      <% } %>
+      <% if ('title' || 'subtitle' || 'description' || 'author' || 'date' || otherFields.length > 0) { %>
+        <div class="card-body">
+          <% if ('title') { %><a href="<%- item.path %>"<h5 class="no-anchor card-title-small listing-title"><%= item.title %></h5></a><% } %>
+          <% if ('tagline') { %><div class="card-subtitle-small listing-subtitle"><%= item.description %></div><% } %>
+
+
+          <%
+          const flexJustify = 'author' && 'date' ? "justify" : 'author' ? "start" : "end";
+          %>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: none; /* no underline */
+            }
+          </style>
+        </div>
+      <% } %>
+
+    </div>
+  </div>
+<% } %>
+</div>
+
+```

@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$h2-font-size:          1.6rem !default;
+$headings-font-weight:  1200 !default;
+$link-color:            white;
+$font-family-sans-serif: "Inter", Arial, Calibri, sans-serif;
+$navbar-bg:     #0e1f38 !default;
+
+/*-- scss:rules --*/
+
+.card-title {
+  font-size: 16pt;
+  margin-bottom: 10pt;
+  font-family: $font-family-sans-serif;
+}
+
+.card {
+  border-radius: 20px;
+  background-color: grey;
+}

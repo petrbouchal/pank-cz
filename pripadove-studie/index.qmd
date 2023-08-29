@@ -1,0 +1,9 @@
+---
+title: "Případové studie"
+xx: "unlistable"
+editor: source
+listing:
+  - id: pripadovky
+    type: default
+    fields: [tagline, title, description, zkratka]
+---

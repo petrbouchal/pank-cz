@@ -1,0 +1,6 @@
+---
+title: "Státní tajemník"
+editor: source
+aliases: 
+  - doporuceni/statni-tajemnik
+---

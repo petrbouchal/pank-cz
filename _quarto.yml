@@ -1,19 +1,32 @@
 project:
   type: website
+  preview:
+    port: 4444
+    navigate: false
 
 website:
-  title: "pank-foolkit"
+  title: "PANK!!!"
+  reader-mode: true
+  body-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - pruvodce/index.qmd
+      - pripadove-studie/index.qmd
+      - teze-o-praci-s-poznatky.qmd
+      - systemova-doporuceni.qmd
+      - dalsi-zdroje.qmd
+      - slovnicek.qmd
+      - pribeh-projektu.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    language: cs
+    lang: cs
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [darkly, styles-dark.scss]
     toc: true
+
 
 
 

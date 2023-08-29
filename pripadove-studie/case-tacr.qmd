@@ -1,0 +1,10 @@
+---
+title: "Analytické oddělení TA ČR"
+subtitle: "Případová studie"
+tagline: "Analytické oddělení se stará o data a analýzy napříč agenturou."
+zkratka: TAČR
+description: "Datově-analytický tým grantové agentury v oblasti aplikovaného výzkumu"
+listable: "listable"
+---
+
+Blah blah

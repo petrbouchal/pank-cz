@@ -1,0 +1,9 @@
+---
+title: "Mixed Methods"
+subtitle: "Jak zkombinovat kvanti a kvali?"
+editor: source
+categories: ["Vychytávka", "Basics"]
+blok: ["metody"]
+---
+
+Some text here

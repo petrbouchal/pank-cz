@@ -1,0 +1,12 @@
+---
+title: "Agentura pro sociální začleňování"
+subtitle: "Případová studie"
+tagline: "**Oddělení výzkumu a evaluací Agentury pro sociální začleňování**, přináší poznatky do rozhodování o sociálním začleňování na lokální i centrální úrovni."
+zkratka: ASZ
+description: "Výzkum a evaluace pro sociální začleňování"
+aliases: 
+  - asz
+listable: "listable"
+---
+
+Blah blah

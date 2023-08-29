@@ -1,0 +1,11 @@
+---
+title: "Uživatelské testování"
+subtitle: "This is abouts uživatelské testování"
+editor: source
+blok: ["vyuziti"]
+custom-field: A custom uživatelské testování
+categories: ["Pro analytiky", "Design"]
+aliases:
+  - metody/uzivatelske-testovani.html
+  - metody/user-testing.html
+---

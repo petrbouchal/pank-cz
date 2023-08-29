@@ -1,0 +1,5 @@
+---
+title: "Slova a pojmy"
+subtitle: "Slovníček pro práci s poznatky"
+editor: source
+---

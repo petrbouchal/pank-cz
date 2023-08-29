@@ -1,0 +1,9 @@
+---
+title: "Zadávání externího výzkumu"
+subtitle: "Jak lépe pořídit výzkum zvenčí"
+description: "Tento návod vás provede pořízením výzkumu zvenčí"
+categories: ["Řízení"]
+blok: ["rizeni", "vyuziti"]
+custom-field: A custom zadavani
+editor: source
+---
