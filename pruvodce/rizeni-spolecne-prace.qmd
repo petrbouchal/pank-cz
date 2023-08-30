@@ -18,7 +18,7 @@ reference-location: margin
 
 :::{.callout-note icon=false appearance=simple collapse=true}
 
-### Poznámka, bez ikony
+### Poznámka, bez ikonky
 
 Nějaký text
 
