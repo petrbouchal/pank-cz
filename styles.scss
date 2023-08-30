@@ -26,11 +26,13 @@ $heading-color:          $cp-primary-blue;
 
 $nav-tabs-border-color: $cp-primary-blue;
 $nav-link-border-color: $cp-primary-blue;
+$nav-link-color: $cp-primary-blue;
 
-$nav-tabs-border-width: 3px;
+$nav-tabs-border-width: 4px;
 $nav-tabs-link-active-color: $cp-primary-blue;
-$nav-tabs-link-active-border-color: $cp-primary-blue $cp-primary-blue rgba(0,0,0,0);
-$nav-tabs-link-hover-border-color: $cp-primary-blue $cp-primary-blue rgba(0,0,0,0);
+$nav-tabs-link-active-bg: $cp-primary-blue;
+$nav-tabs-link-active-border-color: $cp-primary-blue $cp-primary-blue rgba(255,255,255,0) $cp-primary-blue;
+$nav-tabs-link-hover-border-color: $cp-primary-blue $cp-primary-blue rgba(255,255,255,0) $cp-primary-blue;
 
 $callout-color-note: $cp-primary-blue;
 $callout-color-tip: $cp-secondary-blue;
@@ -43,6 +45,12 @@ $btn-border-color: $cp-primary-blue !default;
 $btn-border-width: 3px !default;
 
 /*-- scss:rules --*/
+
+.nav-link.active {
+  border-bottom-width: 0px !important;
+  background: $cp-primary-blue !important;
+  color: $cp-secondary-lightblue !important;
+}
 
 .btn {
   background-color: $cp-primary-blue;
@@ -128,3 +136,15 @@ $btn-border-width: 3px !default;
   font-size: 10pt;
   color: $cp-secondary-dark;
 }
+
+.column-margin {
+  color: $cp-primary-blue !important;
+}
+
+.nav-link.active {
+  color: $cp-secondary-red !important;
+  background: none !important;
+  font-weight: 500;
+}
+
+
