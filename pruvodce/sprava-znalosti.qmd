@@ -5,6 +5,7 @@ description: "Praktické postupy: jak nepoztrácet informace a využívat toho, 
 categories: ["Znalosti"]
 blok: ["rizeni", "vyuziti"]
 title-block-categories: false
+poradi: 1
 editor: source
 ---
 

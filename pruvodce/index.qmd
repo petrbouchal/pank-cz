@@ -16,6 +16,7 @@ listing:
     include:
       blok: "rizeni"
     fields: [title, subtitle, categories, description, author]
+    sort: poradi
     # filter-ui: [title, subtitle, description]
   - id: ziskavani
     type: grid
@@ -24,6 +25,7 @@ listing:
     include:
       blok: "ziskavani"
     fields: [title, subtitle, categories, description]
+    sort: poradi
     # filter-ui: [title, subtitle, description]
   - id: metody
     type: grid
@@ -32,6 +34,7 @@ listing:
     include:
       blok: "metody"
     fields: [title, subtitle, categories, description]
+    sort: poradi
     # filter-ui: [title, subtitle, description]
   - id: vyuziti
     type: grid
@@ -40,6 +43,7 @@ listing:
     include:
       blok: "vyuziti"
     fields: [title, subtitle, categories, description]
+    sort: poradi
     # filter-ui: [title, subtitle, description]
 ---
 

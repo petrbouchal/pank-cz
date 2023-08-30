@@ -6,6 +6,7 @@ categories: ["Řízení"]
 blok: ["rizeni", "vyuziti"]
 title-block-categories: false
 author: "Ano"
+poradi: 100
 editor: source
 ---
 
