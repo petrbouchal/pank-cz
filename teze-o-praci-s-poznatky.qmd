@@ -7,6 +7,6 @@ aliases:
   - teze
 format: 
   html: default
-  pdf: default
+  # pdf: default
   docx: default
 ---
