@@ -5,6 +5,7 @@ description: "Praktické postupy: jak se neztratit v diskusi, nepoztrácet infor
 categories: ["Řízení"]
 blok: ["rizeni", "vyuziti"]
 title-block-categories: false
+author: "Ano"
 editor: source
 ---
 
@@ -70,3 +71,4 @@ Nějaký text
 Nějaký text, minimalistický layout
 
 :::
+

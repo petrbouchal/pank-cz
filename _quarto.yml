@@ -19,7 +19,8 @@ website:
 
 format:
   html:
-    language: cs
+    language:
+      title-block-author-single: "Otestováno?"
     lang: cs
     theme:
       light: [cosmo, styles.scss]
