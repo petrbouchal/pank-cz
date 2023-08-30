@@ -6,10 +6,11 @@ project:
 
 website:
   title: "PANK!!!"
-  page-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>"
+  page-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>. Built with Quarto, kód [na Githubu](https://github.com/petrbouchal/pank-foolkit)"
   navbar:
     left:
       - pruvodce/index.qmd
+    right:
       - pripadove-studie/index.qmd
       - teze-o-praci-s-poznatky.qmd
       - systemova-doporuceni.qmd
@@ -18,11 +19,13 @@ website:
       - pribeh-projektu.qmd
   open-graph:
     locale: cs_CZ
+  repo-url: https://github.com/petrbouchal/pank-foolkit
+  # repo-actions: [edit, issue]
 
 format:
   html:
     language:
-      title-block-author-single: "Otestováno?"
+      title-block-author-single: " "
     lang: cs
     theme:
       light: [cosmo, styles.scss]

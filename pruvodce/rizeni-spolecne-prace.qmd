@@ -5,12 +5,14 @@ description: "Praktické postupy: jak se neztratit v diskusi, nepoztrácet infor
 categories: ["Řízení"]
 blok: ["rizeni", "vyuziti"]
 title-block-categories: false
-author: "Ano"
+author: "[Otestováno]"
 poradi: 100
 editor: source
+margin-footer: "[<< Zpět na obsah průvodce](../pruvodce)"
+reference-location: margin
 ---
 
-[Zpět na obsah průvodce](../pruvodce)
+
 
 # Nadpis 1
 
