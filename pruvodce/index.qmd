@@ -9,7 +9,15 @@ language:
   listing-page-category-all: "Všechna"
   toc-title-website: Kapitoly průvodce
 listing:
-  - id: ziskavani
+  - id: rizeni
+    type: grid
+    grid-columns: 2
+    categories: true
+    include:
+      blok: "ziskavani"
+    fields: [title, subtitle, categories, description]
+    # filter-ui: [title, subtitle, description]
+  - id: metody
     type: grid
     grid-columns: 2
     categories: true
@@ -23,14 +31,6 @@ listing:
     categories: true
     include:
       blok: "metody"
-    fields: [title, subtitle, categories, description]
-    # filter-ui: [title, subtitle, description]
-  - id: rizeni
-    type: grid
-    grid-columns: 2
-    categories: true
-    include:
-      blok: "rizeni"
     fields: [title, subtitle, categories, description]
     # filter-ui: [title, subtitle, description]
   - id: vyuziti
