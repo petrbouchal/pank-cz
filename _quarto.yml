@@ -16,6 +16,8 @@ website:
       - dalsi-zdroje.qmd
       - slovnicek.qmd
       - pribeh-projektu.qmd
+  open-graph:
+    locale: cs_CZ
 
 format:
   html:
