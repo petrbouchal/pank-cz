@@ -1,8 +1,8 @@
 ---
-title: "Zadávání externího výzkumu"
-subtitle: "Jak lépe pořídit výzkum zvenčí"
-description: "Tento návod vás provede pořízením výzkumu zvenčí"
-categories: ["Řízení"]
+title: "Správa znalostí"
+subtitle: "Neboli knowledge management pro smrtelníky"
+description: "Praktické postupy: jak nepoztrácet informace a využívat toho, co víme"
+categories: ["Znalosti"]
 blok: ["rizeni", "vyuziti"]
 title-block-categories: false
 editor: source

@@ -1,9 +1,9 @@
 ---
-title: "Zadávání externího výzkumu"
-subtitle: "Jak lépe pořídit výzkum zvenčí"
-description: "Tento návod vás provede pořízením výzkumu zvenčí"
-categories: ["Řízení"]
-blok: ["rizeni", "vyuziti"]
+title: "Vizualizace dat"
+subtitle: "Jak zobrazit data tak, aby se na to dalo dívat"
+description: "Dobré praxe, tipy a hlavně návod, jak na zlepšení u vás."
+categories: ["Komunikace", "Kvanti"]
+blok: ["vyuziti"]
 title-block-categories: false
 editor: source
 ---

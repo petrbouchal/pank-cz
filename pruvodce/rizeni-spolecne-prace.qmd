@@ -1,12 +1,14 @@
 ---
-title: "Zadávání externího výzkumu"
-subtitle: "Jak lépe pořídit výzkum zvenčí"
-description: "Tento návod vás provede pořízením výzkumu zvenčí"
+title: "Řízení společné práce"
+subtitle: "Jak zvládnout společnou tvůrčí práci na složitých problémech"
+description: "Praktické postupy: jak se neztratit v diskusi, nepoztrácet informace, udržet téma"
 categories: ["Řízení"]
 blok: ["rizeni", "vyuziti"]
 title-block-categories: false
 editor: source
 ---
+
+[Zpět na obsah průvodce](../pruvodce)
 
 # Nadpis 1
 

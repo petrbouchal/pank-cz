@@ -1,17 +1,17 @@
 ---
-title: Průvodce
+title: "[Průvodce]"
 page-layout: full
 listable: not
 execute:
   echo: false
 language: 
-  listing-page-field-categories: "K čemu to je"
-  listing-page-field-filter: "Filtrovat"
-  listing-page-category-all: "Ke všemu"
+  listing-page-field-categories: "Témata"
+  listing-page-category-all: "Všechna"
+  toc-title-website: Kapitoly průvodce
 listing:
   - id: ziskavani
     type: grid
-    grid-columns: 1
+    grid-columns: 2
     categories: true
     include:
       blok: "ziskavani"
@@ -19,7 +19,7 @@ listing:
     # filter-ui: [title, subtitle, description]
   - id: metody
     type: grid
-    grid-columns: 1
+    grid-columns: 2
     categories: true
     include:
       blok: "metody"
@@ -27,7 +27,7 @@ listing:
     # filter-ui: [title, subtitle, description]
   - id: rizeni
     type: grid
-    grid-columns: 1
+    grid-columns: 2
     categories: true
     include:
       blok: "rizeni"

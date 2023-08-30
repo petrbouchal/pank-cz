@@ -12,6 +12,9 @@ $cp-secondary-lightblue: #CDE7FF;
 $cp-secondary-red: #F9B3B8;
 $cp-secondary-dark: #2F3030;
 
+$footer-bg: $cp-primary-blue;
+$footer-fg: $cp-secondary-lightblue;
+
 $link-color:            $cp-primary-blue;
 $font-family-sans-serif: "Inter", Arial, Calibri, sans-serif;
 $navbar-bg:             $cp-primary-blue;
@@ -21,7 +24,39 @@ $body-bg:             $cp-secondary-lightblue;
 $body-color:             $cp-primary-blue;
 $heading-color:          $cp-primary-blue;
 
+$nav-tabs-border-color: $cp-primary-blue;
+$nav-link-border-color: $cp-primary-blue;
+
+$nav-tabs-border-width: 3px;
+$nav-tabs-link-active-color: $cp-primary-blue;
+$nav-tabs-link-active-border-color: $cp-primary-blue $cp-primary-blue rgba(0,0,0,0);
+$nav-tabs-link-hover-border-color: $cp-primary-blue $cp-primary-blue rgba(0,0,0,0);
+
+$callout-color-note: $cp-primary-blue;
+$callout-color-tip: $cp-secondary-blue;
+$callout-color-warning: red;
+$callout-color-important: $cp-secondary-dark;
+
+$btn-padding: 0px;
+$btn-background-color: $cp-primary-blue;
+$btn-border-color: $cp-primary-blue !default;
+$btn-border-width: 3px !default;
+
 /*-- scss:rules --*/
+
+.btn {
+  background-color: $cp-primary-blue;
+  padding-bottom: 0px;
+}
+
+.btn p {
+  margin-bottom: 5px;
+}
+
+.btn p a {
+  text-decoration: none;
+  color: white !important
+}
 
 .card-title {
   font-size: 20pt;
@@ -33,7 +68,7 @@ $heading-color:          $cp-primary-blue;
 
 .card-title-small {
   font-size: 14pt;
-  color: $cp-secondary-lightblue !important;
+  color: $cp-primary-blue !important;
   text-decoration: none;
   margin-bottom: 10pt;
   font-weight: 800;
@@ -42,23 +77,38 @@ $heading-color:          $cp-primary-blue;
 
 .card-subtitle-small {
   font-size: 12pt;
-  color: $cp-secondary-lightblue !important;
+  color: $cp-secondary-dark !important;
   font-family: $font-family-sans-serif;
 }
 
 .card-alt {
   padding: 20px;
-  border-radius: 20px;
-  background-color: $cp-secondary-dark;
-}
-.card {
-  border-radius: 20px;
+  border-radius: 0px;
+  border-color: red;
+  border-left-width: 5px !important;
+  border-right-width: 5px !important;
   background-color: $cp-secondary-blue;
-  border-color: white;
 }
 
-.callout-note {
-  border-color: $cp-primary-blue !important;
+.card {
+  border-radius: 0px;
+  border-top-right-radius: 0px;
+  border-width: 7px;
+  background-color: $cp-secondary-blue;
+  border-color: $cp-primary-blue;
+}
+
+.card-case {
+  background-color: $cp-secondary-red;
+}
+
+.callout {
+  border-radius: 0px;
+  border-right-color: white !important;
+  border-top-color: white !important;
+  border-bottom-color: white !important;
+  border-width: 3px !important;
+  border-left-width: 7px !important;
 }
 
 .listing-category {
@@ -66,4 +116,15 @@ $heading-color:          $cp-primary-blue;
   border-color: $cp-secondary-lightblue !important;
 }
 
+.navbar {
+  border-bottom: 7px solid $cp-primary-red;
+}
 
+.lead {
+  font-weight: 500;
+}
+
+.quarto-listing-category .category {
+  font-size: 10pt;
+  color: $cp-secondary-dark;
+}

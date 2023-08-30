@@ -6,7 +6,6 @@ project:
 
 website:
   title: "PANK!!!"
-  reader-mode: true
   body-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>"
   navbar:
     left:
@@ -24,7 +23,7 @@ format:
     lang: cs
     theme:
       light: [cosmo, styles.scss]
-      dark: [darkly, styles-dark.scss]
+      # dark: [darkly, styles-dark.scss]
     toc: true
 
 

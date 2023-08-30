@@ -8,7 +8,7 @@ const cols = 3;
 const align = "left";
 
 // Borders
-const hideBorders = true;
+const hideBorders = false;
 
 // Cap Options
 const imgHeight = "0%";
@@ -17,7 +17,7 @@ const imgHeight = "0%";
 <div class="list grid quarto-listing-cols-<%=cols%>">
 <% for (const item of items) { %>
   <div class="g-col-1" <%= metadataAttrs(item) %>>
-    <div class="quarto-grid-item card-alt h-100 <%-`card-${align}`%><%= hideBorders ? ' borderless' : '' %>">
+    <div class="quarto-grid-item card card-case h-100">
       <% if (item.image) { %>
         <p class="card-img-top">
           <img src="<%= item.image %>" class="thumbnail-image card-img" style="height: auto;" alt="<%= item['image-alt'] %>">

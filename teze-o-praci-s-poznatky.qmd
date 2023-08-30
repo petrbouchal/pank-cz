@@ -1,6 +1,12 @@
 ---
-title: "Teze o práci s poznatky ve státní správě"
+title: "O práci s poznatky ve státní správě"
+subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
+title-block-style: manuscript
 aliases: 
   - teze
+format: 
+  html: default
+  pdf: default
+  docx: default
 ---

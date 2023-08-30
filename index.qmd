@@ -1,6 +1,8 @@
 ---
 title: ""
 pagetitle: "PANK foolkit"
+page-layout: article
+toc: false
 listing: 
   - id: pripadovky
     template: pripadove-studie/pripadovky.ejs
@@ -26,7 +28,7 @@ listing:
       - subtitle
 ---
 
-# Osvoboďte potenciál vašeho (ne)analytického oddělení
+# Osvoboďte potenciál svého (ne)analytického týmu
 
 :::{#bloky}
 :::
@@ -49,6 +51,14 @@ listing:
 
 
 ## Teze o práci s poznatky ve státní správě
+
+:::{.panel-tabset}
+
+### Pro týmy
+
+### Pro stát
+
+:::
 
 ## Systémové bariéry
 
