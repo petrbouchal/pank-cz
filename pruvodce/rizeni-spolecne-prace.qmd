@@ -24,6 +24,8 @@ Nějaký text
 
 :::
 
+[Poznámka na straně.]{.aside}
+
 ## Nadpis 2
 
 :::{.panel-tabset}
@@ -46,6 +48,12 @@ Nějaký text
 [Prolink na případovku ASZ](../pripadove-studie/asz)
 :::
 
+<br />
+
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: Poznámka na straně s odkazem do textu.
 
 ### Nadpis 3 {#id-pro-odkazy}
 
