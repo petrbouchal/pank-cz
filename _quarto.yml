@@ -6,7 +6,7 @@ project:
 
 website:
   title: "PANK!!!"
-  body-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>"
+  page-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>"
   navbar:
     left:
       - pruvodce/index.qmd
