@@ -15,7 +15,9 @@ Níže popsané má za cíl určit zda by útvar veřejné správy měl přemý�
 
 Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělením TA ČR.
 
-- [> přečíst případovou studii](../pripadove-studie/case-tacr.html)
+:::{.btn .btn-primary}
+[přečíst případovou studii](../pripadove-studie/case-tacr.html)
+:::
 
 # Sebediagnostika: je to pro mě?
 
