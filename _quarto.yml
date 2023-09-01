@@ -14,8 +14,8 @@ website:
       - pripadove-studie/index.qmd
       - teze-o-praci-s-poznatky.qmd
       - systemova-doporuceni.qmd
-      - dalsi-zdroje.qmd
       - slovnicek.qmd
+      - dalsi-zdroje.qmd
       - pribeh-projektu.qmd
   open-graph:
     locale: cs_CZ
