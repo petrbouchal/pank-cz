@@ -15,7 +15,7 @@ website:
       - teze-o-praci-s-poznatky.qmd
       - systemova-doporuceni.qmd
       - slovnicek.qmd
-      - dalsi-zdroje.qmd
+      - inspirace.qmd
       - pribeh-projektu.qmd
   open-graph:
     locale: cs_CZ
