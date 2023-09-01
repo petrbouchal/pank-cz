@@ -1,5 +1,5 @@
 ---
-title: "O práci s poznatky ve státní správě"
+title: "O práci s poznatky"
 subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: true
