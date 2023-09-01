@@ -19,6 +19,7 @@ website:
       - pribeh-projektu.qmd
   open-graph:
     locale: cs_CZ
+  favicon: favicon.png
   repo-url: https://github.com/petrbouchal/pank-foolkit
   # repo-actions: [edit, issue]
 
