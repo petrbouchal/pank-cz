@@ -6,10 +6,10 @@ toc: false
 listing: 
   - id: pripadovky
     template: pripadove-studie/pripadovky.ejs
-    contents: pripadove-studie/case*
+    contents: pripadove-studie/case*.qmd
   - id: pripadovky-alt
     type: table
-    contents: pripadove-studie/case*
+    contents: pripadove-studie/case*.qmd
     filter-ui: false
     sort-ui: false
     fields: [title, description]
