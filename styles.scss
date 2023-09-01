@@ -16,7 +16,7 @@ $footer-bg: $cp-primary-blue;
 $footer-fg: $cp-secondary-lightblue;
 
 $link-color:            $cp-primary-blue;
-$font-family-sans-serif: "Inter", Arial, Calibri, sans-serif;
+$font-family-sans-serif: "Inter", Helvetica, Arial, Calibri, sans-serif;
 $navbar-bg:             $cp-primary-blue;
 $navbar-fg:             white;
 $navbar-hl:             $cp-secondary-lightblue;
@@ -43,6 +43,8 @@ $btn-padding: 0px;
 $btn-background-color: $cp-primary-blue;
 $btn-border-color: $cp-primary-blue !default;
 $btn-border-width: 3px !default;
+$btn-active-bg: $cp-secondary-lightblue;
+$btn-active-border-color: $cp-primary-blue;
 
 /*-- scss:rules --*/
 
@@ -141,10 +143,15 @@ $btn-border-width: 3px !default;
   color: $cp-primary-blue !important;
 }
 
-.nav-link.active {
-  color: $cp-secondary-red !important;
-  background: none !important;
+.panel-tabset .nav-link.active {
+  color: $cp-secondary-lightblue !important;
+  background: $cp-primary-blue !important;
   font-weight: 500;
 }
+
+.toc-active .nav-link.active {
+  background: none !important;
+}
+
 
 
