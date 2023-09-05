@@ -6,5 +6,5 @@ listing:
   - id: pripadovky
     type: default
     contents: case*.qmd
-    fields: [tagline, title, description, zkratka]
+    fields: [title, description]
 ---
