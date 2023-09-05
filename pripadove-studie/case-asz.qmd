@@ -67,10 +67,10 @@ Zde bude popis intervence Data management
 Mezi nedostatky, které identifikovali členové týmu během diagnostické fáze patří nesjednocené grafické formy datových výstupů. Při hlubší analýze těchto výstupů jsme nicméně konstatovali, že některé datové vizualizace trpí nedostatky z hlediska formy a obsahu. 
 
 Kroky v intervenci:
-Definovat skupiny uživatelů výstupů a jejich potřeb
-Analýza výstupů - identifikovat dobré a špatné praxe
-testování srozumitelnosti a čitelnosti datových vizualizací 
-Vytvoření checklistu 
+- Definovat skupiny uživatelů výstupů a jejich potřeb
+- Analýza výstupů - identifikovat dobré a špatné praxe
+- Testování srozumitelnosti a čitelnosti datových vizualizací 
+- Vytvoření checklistu 
 
 # Zobecnitelější vhledy
 
