@@ -54,49 +54,65 @@ Oslovit 3 až 5 potenciálních uživatelů, kteří spadají do různých skupi
 - pro jaké účely byste využil*a stránku?
 - jaká máte očekávání od takového produktu?
 
+## Testování webu
+
+### Rozhovory s uživateli
+
+Příprava:
+- Předem připravíme sadu úloh (1-3), které uživatel bude vykonávat. 
+- Připravíme si sadu hypotéz ohledně toho, jaké překážky mohou vzniknout.
+
+Realizace rozhovoru:
+- V první části rozhovoru nám respondent popíše všechny úlohy, které hodlá dělat a účel pro jejich vykonání 
+- Dále vypozorujeme jak 1-3 úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
+- Ve třetí části debrief ohledně toho, co brání tomu, co chce uživatel udělat 
+
+### Feedbackový dotazník
+
+Příprava:
+- Zvolit sadu otázek (System Usability Scale nebo UMUX) a škál pro odpovědi (většinou 1 až 5).
+- Vytvořit dotazník např. v Google Forms.
+- Rozhodnout, zda dotazník bude distribuován přímo na stránkách pomocí prosbou o feedback nebo cíleně přes email.
 
 
-### Záložka
+### Syntéza výsledků
+- Popis úloh a účelů dle skupin uživatelů
+-Soupis identifikovaných překážek a popis jejich příčin
+- Prioritizace problémů dle proveditelnosti řešení
 
-:::
+# Na co si dát pozor
+- Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
+- Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
 
-:::{.callout-note collapse=false}
+# Další zdroje a literatura
 
-### Tip
+## Sada otázek pro dotazníkové šetření
 
-Nějaký text
+### System Usability Scale
 
-:::
+1. Věřím, že většina lidí se naučí používat tento systém velmi rychle.
+2. Systém mi připadal zbytečně složitý.
+3. Myslel(a) jsem si, že používání systému bylo snadné.
+4. Myslím si, že bych potřeboval(a) podporu technické osoby, abych mohl(a) tento systém používat.
+5. Funkce v tomto systému byly dobře integrovány.
+6. Myslel(a) jsem si, že v systému bylo příliš mnoho nesourodosti.
+7. Představuji si, že většina lidí se naučí používat tento systém velmi rychle.
 
-:::{.btn .btn-primary}
-[Prolink na případovku ASZ](../pripadove-studie/asz)
-:::
+### UMUX
 
+1. Moje požadavky jsou splněny schopnostmi tohoto systému.
+2. Naučit se používat tento systém je snadné.
+3. Musím se naučit mnoho věcí, než budu moci tento systém používat.
+4. Práce se systémem je nepohodlná.
+5. Úkoly mohu efektivně dokončovat pomocí tohoto systému.
+6. Potřeboval(a) bych hodně času, abych se zvykl(a) na tento systém.
+7. Funkce systému jsou dobře integrovány.
 
-### Nadpis 3 {#id-pro-odkazy}
+# Další zdroje a literatura
 
-:::{.callout-important collapse=true}
-
-### Důležité, sbaleno
-
-Nějaký text
-
-:::
-
-## Další nadpis 2
-
-:::{.callout-warning collapse=false}
-
-### Pozor
-
-Nějaký text
-
-:::
-
-:::{.callout-caution icon=false appearance=minimal}
-
-### Opatrně
-
-Nějaký text, minimalistický layout
-
-:::
+Dittrich, J. (online). A Beg­inner’s Guide to Finding User Needs 
+UK GOV (online). User research - Service Manual - GOV.UK
+Winters, S. (2017). Content Design
+Downe, L. (2020). Good Services
+Design systém gov.cz
+MUNI-KISK (2015). 100 metod
