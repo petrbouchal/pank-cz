@@ -115,8 +115,6 @@ Více na [webu 100 metod](https://100metod.cz/post/157274192704/93-system-usabil
 
 ### UMUX
 
-Více na [webu measuringu](https://measuringu.com/umux-lite/)
-
 1. Moje požadavky jsou splněny schopnostmi tohoto systému.
 2. Naučit se používat tento systém je snadné.
 3. Musím se naučit mnoho věcí, než budu moci tento systém používat.
@@ -124,6 +122,8 @@ Více na [webu measuringu](https://measuringu.com/umux-lite/)
 5. Úkoly mohu efektivně dokončovat pomocí tohoto systému.
 6. Potřeboval(a) bych hodně času, abych se zvykl(a) na tento systém.
 7. Funkce systému jsou dobře integrovány.
+
+Více na [webu measuringu](https://measuringu.com/umux-lite/)
 
 ## Literatura
 
