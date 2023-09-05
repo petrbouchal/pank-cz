@@ -6,4 +6,48 @@ categories: ["Vychytávka", "Basics"]
 blok: ["metody"]
 ---
 
-Some text here
+# O co jde a k čemu to je
+Ve fázi designu výzkumu definujeme výzkumné otázky a metodický postup. Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
+
+# Případová studie
+
+Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agentura pro sociální začleňování)
+
+# Popis problému
+
+- Nevhodná kombinace metod vzhledem k výzkumným otázkám a nedostatečné odůvodnění využití smíšených postupů.
+- Nedostatečná koordinace mezi výzkumníky s různými metodologickými zazemími. 
+- Netransparentní a nereplikovatelný výzkumný design.
+
+# Jak na to
+
+## Definujte výzkumné otázky
+
+## Zvolte vhodný výzkumný design
+
+- paralelní (konvergentní) design: QUAN a QUAL metody jsou aplikované souběžně 
+- sekvenční design: aplikace QUAN metod předchází kvalitativnímu výzkumu, zejména pro identifikaci respondentů. 
+
+### Design dotazníkového šetření
+
+Při designu dotazníků je potřeba vyvážit kvalitu a množší otázek a zároveň explicitně odůvodnit potřebu sbírat data skrz dotazníkové šetření. 
+Mezi možná odůvodnění lze zařadit následující prvky:
+- zkoumaná populace je velká (velké n)
+- jevy jsou snadno měřitelné
+- je relevantní porovnávat poznatky s běžnou populací či s jinou obcí, před a po, atp
+- skrz QUAN šetření lze identifikovat další respondenty
+- zkoumají se různé optiky na stejný problém, QUAN pro zjištění frekvencí a možnost je porovnávat, QUAL pro pochopení souvisejících mechanismů
+
+### Zjištěte, jaké máte kapacity
+
+- výzkumníci jsou vyškolení, umí metodu aplikovat a vyhodnocovat výsledky
+- jsou k dispozici data v případě QUAN analýz
+- jsou k dispozici softwary a výzkumníci je umí používat
+
+## Znázorněte výzkumný design do flowchartu
+
+Obrázek flowchartu (TBC)
+
+# Na co si dát pozor
+
+# Další zdroje
