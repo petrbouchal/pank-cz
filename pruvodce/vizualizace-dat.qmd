@@ -42,10 +42,9 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
   - Forma: přehled vs. detail, standard vs. inovace, …
   - Účel: Zaujmout, přesvědčit, prozkoumat, hledat vzorce…
 
-
 ## Definujte sdělení
 
-### Tabulka nebo graf  
+### Tabulka nebo graf?
 
 **Tabulka**
 
@@ -88,10 +87,15 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
   - Podtitulek: = popis datové sady, území a časového úseku: “Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022”
 - Zdroj  
 
+## Použijte checklisty
 
-## Otestujte srozumitelnost a pochopitelnost
+### Checklist pro tabulky
 
-### Testujte graf **na sobě:**  
+### Checklist pro grafy
+
+## Otestujte srozumitelnost a pochopitelnost grafu
+
+### Otestujte graf na sobě:
 
 - *Jak bych popsal/a graf nebo tabulku po telefonu?*
 
@@ -102,9 +106,6 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 Pokuste se taky ukázat někomu graf na pouhých 5 vteřin a zeptejte se, co je jeho hlavní myšlenkou. 
 
-## Vytvořte si checklisty
-
-Odkaz na checklists
 
 # Další zdroje
 
