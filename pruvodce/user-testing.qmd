@@ -1,5 +1,4 @@
 ---
----
 title: "Uživatelský výzkum a testování webového produktu"
 subtitle: "Jak prezentovat výsledky na webu."
 description: "Součástí práce analytika je umět výsledky analýz předávat pomocí webových stránek. "
