@@ -46,7 +46,14 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 Zmapovat zamýšlené uživatelské skupiny a popsat hlavní aktivity, které by měli na webu dělat
 
 - vytvořit matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
-- vys
+- specifikovat motivace, obavy a potřeby skupin uživatelů pomocí nástroje Value Proposition Canvas 
+
+### Rozhovory s cílovými skupinami
+
+Oslovit 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30min rozhovor (lze provést i online) s následujícími okruhy otázek
+- pro jaké účely byste využil*a stránku?
+- jaká máte očekávání od takového produktu?
+
 
 
 ### Záložka
