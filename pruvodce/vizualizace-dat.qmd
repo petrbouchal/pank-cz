@@ -36,12 +36,9 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 **Vytvořte karty uživatelů**
 
 - Kdo to je, jaký*á je, co dělá? (jméno, věk, role, vzdělání, postoje, …)
-
 - Čeho potřebuje dosáhnout? (sepsat analýzu / přesvědčit paní X / vysvětlit téma T, …)
-
 - Co ho*ji trápí, čemu čelí, s čím se potýká (“Jsem busy” / “Nerad čtu data” / “Špatně vidím”)
-
-- Co chce od vizualizace dat  
+- Co chce od vizualizace dat
   - Forma: přehled vs. detail, standard vs. inovace, …
   - Účel: Zaujmout, přesvědčit, prozkoumat, hledat vzorce…
 
