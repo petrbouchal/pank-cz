@@ -46,8 +46,6 @@ Text poznámky
 
 :::
 
-{{< include ../_test.qmd >}}
-
 ## Nadpis 2
 
 :::{.panel-tabset}

@@ -12,7 +12,8 @@ editor: source
 
 Před vypuštěním jakékoliv vizualizace dat do světa je dobré otestovat, zda je srozumitelná a pochopitelá.
 
-Vizualizace je datový produkt a tak k němu můžete přistupovat.      
+Vizualizace je datový produkt a tak k němu můžete přistupovat.
+
 - Chápat, kdo jsou uživatelé  
 - Vcítit se do jejich situace  
 - Zjišťovat (nebo aspoň odhadovat), co potřebují  
@@ -97,13 +98,13 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 {{< include vizualizace-checklist.qmd >}}
 
+:::
+:::{.aside}
 :::{.btn .btn-primary}
 [Stáhnout checklist ve wordu](vizualizace-checklist.docx)
 :::
-
----
-
 :::
+
 
 ## Otestujte srozumitelnost a pochopitelnost grafu
 
