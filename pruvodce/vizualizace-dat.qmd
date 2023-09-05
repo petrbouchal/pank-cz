@@ -67,21 +67,21 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 **Statistické souvislosti**  
 
--  Sloupcový:
+-  Sloupcový:  
   - distribuce
   - řazení
   - deviace
   - magnituda
   - časová řada
 
-- Čarový:
+- Čarový:  
   - časová řada
   - korelace
 
-- Koláčový:
+- Koláčový:  
   - část celku
 
-- Bodový:
+- Bodový:  
   - korelace
 
 **Další prvky grafů**
