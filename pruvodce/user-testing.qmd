@@ -35,13 +35,15 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 
 ### Analýza cílových skupin a jejich potřeb
 
-Zmapovat zamýšlené uživatelské skupiny a popsat hlavní aktivity, které by měli na webu dělat
+Zmapovat zamýšlené uživatelské skupiny a popsat hlavní aktivity, které by měli na webu dělat:
+
 - vytvořit matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
 - specifikovat motivace, obavy a potřeby skupin uživatelů pomocí nástroje Value Proposition Canvas 
 
 ### Rozhovory s cílovými skupinami
 
 Oslovit 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30min rozhovor (lze provést i online) s následujícími okruhy otázek
+
 - pro jaké účely byste využil*a stránku?
 - jaká máte očekávání od takového produktu?
 
@@ -50,10 +52,12 @@ Oslovit 3 až 5 potenciálních uživatelů, kteří spadají do různých skupi
 ### Rozhovory s uživateli
 
 Příprava:
+
 - Předem připravíme sadu úloh (1-3), které uživatel bude vykonávat. 
 - Připravíme si sadu hypotéz ohledně toho, jaké překážky mohou vzniknout.
 
 Realizace rozhovoru:
+
 - V první části rozhovoru nám respondent popíše všechny úlohy, které hodlá dělat a účel pro jejich vykonání 
 - Dále vypozorujeme jak 1-3 úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
 - Ve třetí části debrief ohledně toho, co brání tomu, co chce uživatel udělat 
@@ -61,19 +65,22 @@ Realizace rozhovoru:
 ### Feedbackový dotazník
 
 Příprava:
+
 - Zvolit sadu otázek (System Usability Scale nebo UMUX) a škál pro odpovědi (většinou 1 až 5).
 - Vytvořit dotazník např. v Google Forms.
 - Rozhodnout, zda dotazník bude distribuován přímo na stránkách pomocí prosbou o feedback nebo cíleně přes email.
 
 
 ### Syntéza výsledků
+
 - Popis úloh a účelů dle skupin uživatelů
 - Soupis identifikovaných překážek a popis jejich příčin
 - Prioritizace problémů dle proveditelnosti řešení
 
 # Na co si dát pozor
-Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
-Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
+
+- Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
+- Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
 
 # Další zdroje a literatura
 
