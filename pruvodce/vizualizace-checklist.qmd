@@ -9,43 +9,51 @@ format:
 ### Tabulky
 
 **Sdělení**
+
 - [ ] je vhodnější tabulka nebo graf?
 - [ ] je zvolena adekvátní úroveň detailu (např. setiny, halíře, časové rozlišení…)?
 - [ ] uvádí tabulka příliš mnoho informací?
 
 **Uspořádání**
+
 - [ ] hodnoty jsou graficky blízko k sobě
 - [ ] hodnoty jsou uvedeny ve sloupcích
 - [ ] zaokrouhlení odpovídá variabilitě proměnné a usnadňuje srovnání, pokud cílem není poskytnout přesné hodnoty
 
 **Formátování**
+
 - [ ] číselné hodnoty jsou zarovnané doprava, popř. i na desetinnou čárku, textové doleva
 - [ ] hodnoty <1 jsou uvedeny s nulou před čárkou
 - [ ] přebytečné čáry jsou vypuštěny (často lze vypustit svislé)
 - [ ] použité písmo má tabulární číslice (stejně široké)
 
 **Seskupení, seřazení a hierarchizace**
+
 - [ ] hodnoty jsou seskupeny podle relevance
 - [ ] hodnoty, které chceme srovnávat, jsou vedle sebe
 - [ ] hierarchické (podmnožinné) vztahy jsou znázorněny odsazením 
 - [ ] seřazení je logické (např. čas, kraje…)
 
 **Součty, souhrny a zaokrouhlení**
+
 - [ ] součty a souhry jsou dole nebo vpravo (! pokud hlavní sdělení: nahoře nebo vlevo)
 - [ ] všechny hodnoty mají stejné zaokrouhlení
 
 **Titulky a popisky**
+
 - [ ] titulek uvádí hlavní sdělení
 - [ ] podtitulek uvádí dataset, časové období a území
 - [ ] tabulka je očíslovaná 
 - [ ] pod tabulkou je uveden zdroj ve formátu [název datasetu / zdroj] s odkazem
 
 **Záhlaví (headers)**
+
 - [ ] záhlaví popisují data v každé kolonce 
 - [ ] záhlaví uvádí jednotku (! pouze pokud odlišné, v opačném případě pouze v podtitulu)
 - [ ] optional, podle využití: záhlaví se neopakují, pokud to není nutné 
 
 **Fonty**
+
 - [ ] jednotný font
 - [ ] minimální velikost 12pt
 - [ ] sans serif font (např. Arial)
@@ -54,6 +62,7 @@ format:
 ### Grafy
 
 **Volba typu grafu**
+
 - [ ] účel/sdělení?
 - [ ] tradiční/netradiční?
 - [ ] podporuje ta srovnání, která bude čtenář chtít dělat?
@@ -61,6 +70,7 @@ format:
 - [ ] zobrazení nejistoty?
 
 **Encoding**
+
 - [ ] barevné škály
   - [ ] jsou zvoleny s ohledem na sdělení - např. divergentní škála pro zobrazení odchylek od průměru 
   - [ ] řazení např. barev ve složeném sloupci odpovídá přiřozenému pořadí
@@ -77,6 +87,7 @@ format:
   - [ ] různě dlouhé intervaly jsou zobrazeny odpovídajícími rozestupy
 
 **Titulky a popisky**
+
 - [ ] text je dostatečně velký pro dané použití (dokument vs. prezentace)
 - [ ] text názvu grafu sděluje hlavní informaci
 - [ ] v titulku nebo podtitulku je popsána veličina, záběr a jednotka dat
@@ -85,13 +96,16 @@ format:
 - [ ] volitelně: popis osy Y může být v podtitulu (oproti otočenému textu u osy)
 
 **Legenda**
+
 - [ ] řazení odpovídá grafu a/nebo přirozenému pořadí 
 - [ ] pokud lze, data jsou označena přímo (např. u čarového grafu), ne legendou
 
 **Anotace**
+
 - [ ] anotace vysvětlují klíčové datové body, trendy, změny, anomálie aj.
 
 **Nedatové prvky: osy, vodicí linky, řazení**
+
 - [ ] řazení kategorií na osách odpovídá přirozenému pořadí a/nebo podporuje čtení (např. kategorie Jiné/Ostatní je řazena poslední)
 - [ ] řazení kategorií na koláčovém grafu usnadňuje srovnání a koláč začíná na 12:00
 - [ ] jsou použity smysluplně, tj. tak, pomáhaly čtení grafu a nerozptylovaly
@@ -101,6 +115,7 @@ format:
   - [ ] nechybí/nejsou přeskočený žádné popisky na kategorické ose
 
 **Špatné praxe**
+
  - [ ] 3D grafy
  - [ ] podseknutá osa u sloupcového grafu
  - [ ] příliš roztažená osa Y u časových grafů (není vidět variabilita)
