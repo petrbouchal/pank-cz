@@ -1,11 +1,71 @@
 ---
-title: "Uživatelský výzkum a testování webového produktu"
-subtitle: "This is abouts uživatelské testování"
-editor: source
-blok: ["vyuziti"]
-custom-field: A custom uživatelské testování
-categories: ["Pro analytiky", "Design"]
-aliases:
-  - metody/uzivatelske-testovani.html
-  - metody/user-testing.html
 ---
+title: "Uživatelský výzkum a testování webového produktu"
+subtitle: "Jak prezentovat výsledky na webu."
+description: "Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to čím dál tím více pomocí webových stránek. "
+categories: ["Vzor", "Zásobník"]
+blok: ["ziskavani", "rizeni", "metody", "vyuziti"]
+title-block-categories: false
+editor: source
+---
+
+# Nadpis 1
+
+:::{.callout-note icon=false appearance=simple collapse=true}
+
+### Poznámka, bez ikony
+
+Nějaký text
+
+:::
+
+## Nadpis 2
+
+:::{.panel-tabset}
+
+### Záložka
+
+### Záložka
+
+:::
+
+:::{.callout-note collapse=false}
+
+### Tip
+
+Nějaký text
+
+:::
+
+:::{.btn .btn-primary}
+[Prolink na případovku ASZ](../pripadove-studie/asz)
+:::
+
+
+### Nadpis 3 {#id-pro-odkazy}
+
+:::{.callout-important collapse=true}
+
+### Důležité, sbaleno
+
+Nějaký text
+
+:::
+
+## Další nadpis 2
+
+:::{.callout-warning collapse=false}
+
+### Pozor
+
+Nějaký text
+
+:::
+
+:::{.callout-caution icon=false appearance=minimal}
+
+### Opatrně
+
+Nějaký text, minimalistický layout
+
+:::
