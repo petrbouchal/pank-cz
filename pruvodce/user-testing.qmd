@@ -77,6 +77,16 @@ Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti
 
 # Další zdroje a literatura
 
+## Value Proposition Canvas
+
+Pro každou cílovou skupinu popsat v následujícím pořadí:
+
+Potřeby: Co je motivuje k využití našich služeb?
+Motivace: Čeho chce náš uživatel dosáhnout? Jakou potřebu mu uspokojujeme?
+Obavy:Co jim brání ve využití našich služeb?
+Popis nabízených služeb: Jaké služby nebo produkty jim nabízíme, abychom uspokojili jejich potřeby?
+
+
 ## Sada otázek pro dotazníkové šetření
 
 ### System Usability Scale
@@ -103,7 +113,7 @@ Více na [webu measuringu](https://measuringu.com/umux-lite/)
 6. Potřeboval(a) bych hodně času, abych se zvykl(a) na tento systém.
 7. Funkce systému jsou dobře integrovány.
 
-# Další zdroje a literatura
+## Literatura
 
 [Dittrich, J. A Beg­inner’s Guide to Finding User Needs](https://jdittrich.github.io/userNeedResearchBook/) 
 [UK GOV. User research - Service Manual - GOV.UK](https://www.gov.uk/service-manual/user-research)
