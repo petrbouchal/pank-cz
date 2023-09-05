@@ -91,10 +91,10 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 :::{.callout-note title="Checklist" collapse=true}
 
-{{< include example-checklist.qmd >}}
+{{< include vizualizace-checklist.qmd >}}
 
 :::{.btn .btn-primary}
-[Stáhnout checklist ve wordu](mixed-methods-checklist.docx)
+[Stáhnout checklist ve wordu](vizualizace-checklist.docx)
 :::
 
 ---
