@@ -16,12 +16,6 @@ Součástí práce analytika je umět výsledky analýz předávat dalším uži
 
 V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu [strategie RIS3](https://www.ris3.cz/) spolu s členy oddělení S3 na MPO.
 
-# Co řešíme za problém?
-
-- Zdlouhavé a složité dohledávání analýz a dat na webových stránkách může odradit uživatelé.
-- V případě, že nelze analytický materiál snadno dohledat, snižuje se tím transparentnost využití poznatků při rozhodování.
-- Nehospodárnost vynaložených finančních prostředků do rozvoje webu vzhledem k reálnému využití.
-
 # Sebediagnostika: je to vůbec pro mě?
 
 - Má webový produkt za cíl oslovit širší skupinu uživatelů?
@@ -55,7 +49,7 @@ Položte jim následující otázky:
 Příprava:
 
 - Vytvořte sadu témat, které chcete od uživatelů zjišťovat.
-- Připravte sadu úloh (1-3), které uživatel bude vykonávat během testování. 
+- Připravte sadu úloh (1 až 3), které uživatel bude vykonávat během testování. 
 - Připravte si sadu hypotéz ohledně toho, jaké překážky mohou vzniknout.
 
 Realizace rozhovoru:
@@ -71,14 +65,13 @@ Příprava:
 
 - Zvolte sadu otázek (System Usability Scale nebo UMUX) a škál pro odpovědi (většinou 1 až 5).
 - Vytvořte dotazník např. v Google Forms.
-- Rozhodňete si, zda dotazník bude distribuován přímo na stránkách pomocí prosbou o feedback nebo cíleně přes email.
-
+- Rozhodňete si, zda dotazník bude distribuován přímo na stránkách pomocí prosby o feedback nebo cíleně přes email.
 
 ### Syntéza výsledků
 
-- Popište skupiny uživatelů
-- Sepište identifikované překážky a popis jejich příčin
-- Prioritizujte problémy dle proveditelnosti řešení
+- Popište skupiny uživatelů, jejich charakteristiky a potřeby.
+- Sepište identifikované překážky a popis jejich příčin.
+- Prioritizujte problémy dle proveditelnosti řešení.
 
 # Na co si dát pozor
 
@@ -100,29 +93,29 @@ Více k Value Proposition Canvas na [webu 100 metod](https://kisk.phil.muni.cz/1
 
 ## Sada otázek pro dotazníkové šetření
 
-### System Usability Scale
+### 
 
-1. Věřím, že většina lidí se naučí používat tento systém velmi rychle.
-2. Systém mi připadal zbytečně složitý.
-3. Myslel(a) jsem si, že používání systému bylo snadné.
-4. Myslím si, že bych potřeboval(a) podporu technické osoby, abych mohl(a) tento systém používat.
-5. Funkce v tomto systému byly dobře integrovány.
-6. Myslel(a) jsem si, že v systému bylo příliš mnoho nesourodosti.
-7. Představuji si, že většina lidí se naučí používat tento systém velmi rychle.
+System Usability Scale
+  1. Věřím, že většina lidí se naučí používat tento systém velmi rychle.
+  2. Systém mi připadal zbytečně složitý.
+  3. Myslel(a) jsem si, že používání systému bylo snadné.
+  4. Myslím si, že bych potřeboval(a) podporu technické osoby, abych mohl(a) tento systém používat.
+  5. Funkce v tomto systému byly dobře integrovány.
+  6. Myslel(a) jsem si, že v systému bylo příliš mnoho nesourodosti.
+  7. Představuji si, že většina lidí se naučí používat tento systém velmi rychle.
 
 Více na [webu 100 metod](https://100metod.cz/post/157274192704/93-system-usability-scale)
 
-### UMUX
+UMUX
+  1. Moje požadavky jsou splněny schopnostmi tohoto systému.
+  2. Naučit se používat tento systém je snadné.
+  3. Musím se naučit mnoho věcí, než budu moci tento systém používat.
+  4. Práce se systémem je nepohodlná.
+  5. Úkoly mohu efektivně dokončovat pomocí tohoto systému.
+  6. Potřeboval(a) bych hodně času, abych se zvykl(a) na tento systém.
+  7. Funkce systému jsou dobře integrovány.
 
-1. Moje požadavky jsou splněny schopnostmi tohoto systému.
-2. Naučit se používat tento systém je snadné.
-3. Musím se naučit mnoho věcí, než budu moci tento systém používat.
-4. Práce se systémem je nepohodlná.
-5. Úkoly mohu efektivně dokončovat pomocí tohoto systému.
-6. Potřeboval(a) bych hodně času, abych se zvykl(a) na tento systém.
-7. Funkce systému jsou dobře integrovány.
-
-Více na [webu measuringu](https://measuringu.com/umux-lite/)
+Více na [webu Measuringu](https://measuringu.com/umux-lite/)
 
 ## Literatura
 
