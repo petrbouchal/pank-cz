@@ -21,6 +21,14 @@ Nejprve je potřeba zajistit kapacity
 - jsou k dispozici data, případně je potřeba je sbírat?
 - jsou k dispozici statistické softwary a výzkumníci je umí používat?
 
+Pokud jste v minulosti realizovali mixed methods výzkumy, analyzujte je zpětně pomocí tohoto návodu.
+
+- Jak vypadá postup pro realizaci analýz kombinující kvantitativní a kvalitativní metody?
+- Jaké zdroje dat jsou využity a za jakým účelem?
+- Jak jsou data uchovávána a popsána pro další využití? 
+- Jak jsou komunikovány výsledky z kvantitativních šetření?
+- Jak funguje Quality Assurance výzkumu v případě kvantitativních analýz?
+
 # Jak na to
 
 ## Definujte výzkumné otázky
