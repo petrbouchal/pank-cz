@@ -28,6 +28,7 @@ V rámci této diagnostické fáze jsme také identifikovali blízké spolupraco
 Oproti očekávání jsme proto nakonec posbírali širší obraz o tom, jakou má práce s poznatky v organizaci pozici a kde jsou prostory pro zlepšení i nad rámec samotného analytického oddělení, což vedlo k vytvoření sekundárního diagnostického zaměření v rámci naší spolupráce. Vše bylo doplněno o náš vlastní desk research, který se týkal organizace jako celku, tak práce analytického oddělení. Diagnostiku oddělení jsme tedy uchopili především se zaměřením na vztah oddělení a jeho interních “zákazníků”. Diagnostiku celé organizace jsme zaměřili především na core proces celé organizace, kde práce s poznatky hraje důležitou roli.    
 
 Po diagnostické fázi jsme vypracovali naší diagnostickou zprávu o stavu analytického oddělení. Dokument byl rozdělen do následujících části: 
+
 -  Role analytického oddělení
 -  Komunikace
 -  Šíření datových dovedností
@@ -92,10 +93,12 @@ To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tu
 -  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.           
 
 # Systémové bariéry
+
 -  Dostupnost dat ve veřejné správě
 -  Dostupnost dat pro evaluace
 
 # Dobré praxe
+
 -  Interní dashboardy
 -  Interní rozvoj technických dovedností
 -  Datoví ambasadoři / demokratizace dat
