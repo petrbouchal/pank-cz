@@ -19,8 +19,6 @@ Vedení a členové týmu se plně ztotožňují s myšlenkou evidence-based př
 
 Odbor (Agentura) pro sociální začleňování (dále jen ASZ) na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. Oddělení výzkumů a evaluace je hlavní realizátorem analytických aktivit monitorování sociálního vyloučení na celostátní úrovni [(Index sociálního vyloučení)](https://www.socialni-zaclenovani.cz/index_socialniho_vylouceni/), realizace tematicko-průřezových studií v dílčích oblastech sociálního vyloučení), tvorba analytických vstupů pro strategické materiály ASZ, definování a sledování potřeb obyvatel sociálně vyloučených lokalit (vstupní analýzy v obcích a návrhy doporučení v oblasti sociálního začleňování) a evaluace činností ASZ. Celkem je v oddělení přibližně 40 výzkumníků. 
 
-OVE vytváří tyto analytické materiály díky kompilaci kvalitativních i kvantitativních dat. Kvantitativní data využívají výzkumníci deskriptivně pro popis stavu sociálního vyloučení v dané lokalitě (např. podíly osob v exekucích, počty odběratelů dávek, atp). Jedná se zejména o administrativní data od různých poskytovatelů (mj. ČSÚ, MPSV, MŠMT, Policie ČR, Exekutorská komora…), do menší míry sbírá ASZ vlastní data skrz dotazníková šetření. Pro hlubší poznání v terénu jsou využívány kvalitativní metody rozhovorů (příp. fokusní skupiny) a pozorování. Díky těmto poznatkům dokáží zachytit subjektivní vnímání aktérů v lokalitách, ať se jedná přímo o sociálně vyloučené osoby nebo o sociální pracovníky a lokální úředníky či zastupitelé. Souhrn těchto poznatků tvoří různé analytické podklady (např. vstupní a situační analýzy, tematické analýzy), které jsou využívány různými aktéry jak uvnitř, tak vně ASZ. Uvnitř ASZ jsou hlavními adresáty lokální koordinátoři a lokální experti, kteří působí dlouhodobě v zapojených lokalitách a jednají přímo s lokálními úřady, regionální centra a centrální vedení v Praze. Hlavními uživateli výstupů mimo ASZ jsou zástupci samospráv (zastupitelé a úředníci), kteří navrhují a implementují doporučená opatření, dále představitelé neziskových organizací a sociálních služeb. Lze též předpokládát, že výstupy jsou využívány i akademickými výzkumníky.
-
 # Průběh spolupráce v PANK
 
 ## Diagnostická fáze
@@ -44,21 +42,18 @@ Využitelnost výstupů týmu OVE je důležitým aspektem, který má vliv na p
 
 ## Využití smíšených metod
 
+Ve fázi designu výzkumu definujeme výzkumné otázky a metodický postup. Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
 
+Mixed methods proklik
 
 ## Data management
 
 Zde bude popis intervence Data management
 
-### Vizualizace dat
+## Vizualizace dat
 
-Mezi nedostatky, které identifikovali členové týmu během diagnostické fáze patří nesjednocené grafické formy datových výstupů. Při hlubší analýze těchto výstupů jsme nicméně konstatovali, že některé datové vizualizace trpí nedostatky z hlediska formy a obsahu. 
+Zde bude popis intervence vizualizace dat
 
-Kroky v intervenci:
-- Definovat skupiny uživatelů výstupů a jejich potřeb
-- Analýza výstupů - identifikovat dobré a špatné praxe
-- Testování srozumitelnosti a čitelnosti datových vizualizací 
-- Vytvoření checklistu 
 
 # Zobecnitelější vhledy
 
