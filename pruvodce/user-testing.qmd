@@ -1,7 +1,7 @@
 ---
 title: "Uživatelský výzkum a testování webového produktu"
 subtitle: "Jak prezentovat výsledky na webu."
-description: "Jak výsledky analýz předávat pomocí webových stránek."
+description: 
 categories: ["Pro analytiky", "Design"]
 blok: ["vyuziti"]
 title-block-categories: false
