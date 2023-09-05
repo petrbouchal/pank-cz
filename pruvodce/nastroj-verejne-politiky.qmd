@@ -38,11 +38,11 @@ Tato intervence je vhodná pro týmy, které jsou v zhruba těchto situacích
 
 # Jak na to
 
-## 1. Identifikujte smysluplné kategorie v databázi
+## 1. Vyjasněte zaměření a cíle výzvy
 
-Kolegové z analytického oddělení doporučují nepřesáhnout více jak tři kategorie podle kterých analýzy řadit
+a. Rešerše relevantní odborné literatury 
 
-b. V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku databáze
+b.   
 
 ## 2. Navrhněte strukturu přehledu
 
