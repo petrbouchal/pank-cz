@@ -1,4 +1,93 @@
 ---
 title: "Doporučení pro stát"
 editor: source
+title-block-banner: true
 ---
+
+# Bariéry
+
+## Organizační oddělení věcných a implementačních útvarů
+
+Lepšímu využívání poznatků v tvorbě politik brání to, že na řadě ministerstev jsou věcné útvary oddělené od implementačních skrze DOPLNIT. Toto vede k tomu, že věcná oddělení nejsou schopny efektivně dodávat svým implementačním protějškům zadání a obecně k nízké komunikaci. To pak také vede k fragmentaci a duplikaci analytických kapacit, které se budují ad hoc na implementačních odděleních. Jednou z příčin tohoto problému je disproporčně velké budování kapacit ze zdrojů ESIF, které jsou ale často v systému ministerstev postaveny mimo stálé útvary. 
+
+## Nestabilita analytických kapacit
+
+Uvnitř státní správy je velká část analytiků a analytiček zaměstnaná na projektech ESIF, které ale ze své podstaty nepředstavují stálá pracoviště, na nichž by bylo možné budovat analytické kapacity. Logika projektového řízení vede k přetrhávání kontinuity, nedostatku času k vybudování institucionalizovaného know-how, a prioritizaci generování výstupů místo zázemí a infrastruktury. 
+
+Dále existuje riziko vznikání nerovností v analytických možnostech uvnitř státní správy, jelikož projekty ESIF mají vzhledem k finančním prostředkům větší možnosti zaměstnávat zručné analytiky a analytičky (alespoň​ zatím). Delegování analytické práce na pracoviště (dočasně) financované ESIF ale zároveň signalizuje, že budování analytického týmu a know-how není pro stát prioritou. 
+
+## Přístup k datům
+
+Orgány státní správy čelí velmi složitému přístupu k relevantním datovým zdrojům. Mezirezortní výměně brání nezprovozněná datová infrastruktura (mezery v RPP - bohužel nerozumím) a chybějící prvky umožňující efektivní využití dat jako jsou metadata a datové modely. Přístup k externím zdrojům je pak problematický z legálních důvodů, kdy současné legislativní nastavení tento přístup znemožňuje. To se týká i statistických mikrodat, jejichž využití omezuje (zabraňuje?) zákon o státní službě. Celý problém je ještě umocněn nízkou uživatelskou přístupností výstupů a zdrojů ČSÚ.  
+
+## Rozdíly v technických řešeních ve veřejném a soukromém sektoru
+
+Státní správa má velmi odlišné standardy od soukromého sektoru co se týče technických řešení práce s daty a informační architektury. Zatímco firmy využívají flexibilnějších modulárních řešení a logiky projektového řízení, státní sektor stále z důvodu zvyku, nedostatečných inovativních interních kapacit a logice nákupů spoléhá na velké systémy. Tyto rozdílné přístupy pak ztěžují jak personální přesuny odborníků a odbornic mezi soukromými subjekty a orgány státní správy, tak i spolupráci napříč sektory. 
+
+Chybějící podpora pro základní principy a postupy datové práce 
+Na mnoha pracovištích státní správy neexistují zavedené a institucionalizované principy správy dat a poznatků jako je jejich vytváření, kategorizace a sdílení. Neexistuje podpora pro zavedení data analysis jakožto autonomní a důležité sady dovedností a standardů, které je třeba rozvíjet. 
+
+## Rezortní výzkumné ústavy?
+
+Během spolupráce s některými útvary státní správy se ukázalo, že je nevyjasněná role rezortních výzkumných útvarů a jejich vztah s daným ministerstvem. V zásadě se jedná o otázku, zda-li má daný výzkumný ústav naplňovat primárně požadavky a potřeby odpovídajícího ministerstva, nebo mají dělat vlastní výzkum v dané oblasti, který může být i relevantní pro jejich kolegy a kolegyně z rezortu. Až nepříliš nepřekvapivě se nám na základě dosavadních zkušeností jeví, že na tuto otázku odpovídají odlišně zaměstnanci výzkumných ústavů a daných ministerstev. V každém případě tato nevyjasněnost brání efektivnější spolupráci mezi výzkumnými ústavy a danými rezorty. 
+
+## Chybí uchopení profese analytik/čka
+
+Obecným systémovým problémem práce s poznatky je absence uchopení analytika/čky jako specifické profese. Problematické v tomto ohledu není to, že není zavedena přesná definice, což by naopak vzhledem k šíři práce s poznatky ve veřejném sektoru mohlo být zbytečně omezující. Deficitem současného neuchopení analytické profese je to, že následně neexistuje etablovaná komunita, v níž by mohlo docházet k výměně zkušeností a vzájemnému se učení, odborný rozvoj, profesní identita a související motivace se rozvíjet. Dále pak chybí více institucionalizované mechanismy jako společný onboarding nebo přehled základních datových a informačních zdrojů.  
+
+
+## Absence etablované analytické komunity (V)
+
+TO DO / FIX
+
+## Chybí postupy, jak dosáhnout základních datových schopností u širokého spektra úředníků 
+
+V současném fungování veřejné správy neexistují mechanismy, které by pomohly zajistit základní schopnosti práce s daty u širšího spektra úředníků a úřednic, například ve formě úvodního “evidence bootcampu”. Toto se netýká pouze “tvrdé” datové práce, ale i obecnější schopnosti výzkumné činnosti včetně zadávání výzkumu analytickým oddělením. Tato absence podpory a incentiv rozvoje datových schopností je přítomná i v náboru, kontinuálním vzdělávání a hodnocení. 
+
+## Neuvědomění si, že řada oddělení dělá policy work/analysis
+
+Na řadě oddělení, která nejsou oficiálně definována jako analytická, reálně probíhá analytická práce a policy work, což ale není reflektováno v nastavení veřejné správy. To se týká především nejasné definice pozic a rolí, kdy jsou uchazeči a uchazečky najímáni na kvazi-analytické pozice, aniž by toto bylo jasně artikulované. Tato skutečnost pak dale není reflektována v podpoře daných zaměstnanců a zaměstnankyň, zaměření jejich vzdělávání a očekávání na ně kladené. 
+
+## Práce s lidmi nereflektuje problematiku práce s poznatky (nábor/vstupní vzdělávání a zkouška/hodnocení/povyšování)
+
+[Přepsat na širší problém přesahující úřednickou zkoušku]
+
+Očekávání na úřednickou profesi ve formě úřednické zkoušky jsou velmi úzce zaměřené na především právní problematiku. Toto zaměření nejenže může snadno odradit i dobré uchazeče a uchazečky, ale také to nereflektuje a nevede k rozvíjené reálně potřebných znalostí a dovedností. Dále pak dává zkreslující a zavádějící signál o roli veřejné správy a typu práce v ní. 
+
+## Chybí mechanismy zapojení externích expertů/ek (V?)
+
+V současném fungování státní správy jsou externí odbornice a odborníci chápáni jako jedna z dalších skupin stakeholderů, nikoliv jako expertní hlas. Odborné poradní orgány jsou zároveň z velké části konzultační a brány spíše jako formální nutnost, což se odráží i v jejich slabé administrativní a technické podpoře a netransparentním výběru členů a členek. 
+
+## Chybí designovaní protagonisti zlepšování práce s poznatky 
+
+Systém veřejné správy nedisponuje kategoriemi pozic, které by byly klíčovými uzly v práci s poznatky. DOPLNIT
+
+## Chybí ucelené vzdělávací programy
+
+V současné době neexistují komplexní vzdělávací schémata, která by zaměstnance a zaměstnankyně státní správy připravila na práci s poznatky. 
+
+## Chybí motivace na akademické straně (V)
+
+V českém kontextu neprobíhá příliš intenzivní spolupráce a výměna mezi státní správou a akademickou sférou. Příčinou je především nedostatečná motivace na akademické straně.
+
+## Není podpora základních personalistických procesů, které navazují na práci s poznatky 
+
+Skutečnost, že práce s poznatky je velkou součástí agendy řady zaměstnanců a zaměstnankyň veřejné správy, není reflektována v základních personalistických procesech. DOPLNIT
+
+Těžkopádné personální procesy a jejich omezení oslabují schopnost nabrat externí expertizu
+
+Neflexibilní principy personalistické politiky velmi ztěžují možnosti najímání externích expertů a expertek na dohody o práci apod. 
+
+## Chybí profesní linka rozvoje
+
+V současném nastavené kariérního rozvoje jediná široce přístupná linie vede k manažerské pozici. To ale nereflektuje skutečnost, že dobré (i excelentní) analytické schopnosti nemusí nutně implikovat manažerské vlohy. Zároveň se ani v procesu povýšení a přesunu do manažerské pozice dotyčným nedostane proškolení např. ve formě bootcampu.  
+Funkční specializace a logika systemizace (???) brání vzniku projektových týmů 
+Současná struktura státní správy je organizována dle funkcí a zaměření jednotlivých oddělení, které se zaměřují na danou agendu. Toto nastavení zabraňuje flexibilnějšímu vznikání týmů na projektové bázi, které by se po určitou dobu věnovaly danému problému, což může být vhodnější model pro potýkání se se společenskými výzvami. 
+
+## Auditní a kontrolní aktéři mohou nevědomky omezovat motivaci k empirické práci popř. inovacím šířeji
+
+Logika auditu a indikátorů, která v současnosti slouží ke kontrole výkonu oddělení státní správy, může nezáměrně vést ke snižování motivace k výzkumné práci a přijímání inovativních postupů obecněji. 
+
+## Platová politika
+
+Očividnou překážkou lepší analytické práce je nastavení platových podmínek, které omezují možnosti náboru a udržení kvalifikovaných analytiků a analytiček, především v oboru datové analýzy.
