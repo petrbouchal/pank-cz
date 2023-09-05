@@ -27,12 +27,13 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných 
 
 # Sebediagnostika: je to pro mě?
 
-Má smysl v naší situaci vytvářet databázi analýz?
+Tato intervence je vhodná pro týmy, které jsou v zhruba těchto situacích
+- Jejich pracovní agenda se obvykle neskládá z přípravy nástrojů veřejné politiky
+- Nedisponují dostatečnými lidskými kapacitami (především znalosti metod, postupů atd.) ani časovými možnostmi 
+- Nemají vyjasněné zadání zeshora 
+- Není jasná definice toho, k čemu má daný nástroj mířit
+- Nedisponují dostatečnou datovou podporou
 
-- Dostáváme příliš ad hoc opakujících se dotazů jejichž odpovědi lze najít v našich - předchozích výstupech?
-- Děláme dostatečně velký počet analýz, aby databáze měla smysl?
-- Umožní nám databáze lépe plánovat a prioritizovat činnosti?
-- Umožní nám databáze identifikovat procesy pro zjednodušení/automatizaci zaběhlých - analýz?
 
 # Jak na to
 
