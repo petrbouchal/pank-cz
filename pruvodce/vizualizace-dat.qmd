@@ -97,10 +97,6 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 ## Otestujte srozumitelnost a pochopitelnost
 
-### Vytvořte si checklisty
-
-Odkaz na checklists
-
 ### Testujte graf **na sobě:**  
 
 - *Jak bych popsal/a graf nebo tabulku po telefonu?*
@@ -110,4 +106,9 @@ Odkaz na checklists
 - Čtení: *Ukážu ti graf, komentuj prosím průběžně nahlas, jak ho postupně čteš, jak nad ním přemýšlíš, čemu nerozumíš, co si odvozuješ.*
 - Sdělení: *Projdi si, prosím, graf a zkus identifikovat, co je jeho hlavní myšlenkou, sdělením.*
 
+## Vytvořte si checklisty
+
+Odkaz na checklists
+
+# Další zdroje
 
