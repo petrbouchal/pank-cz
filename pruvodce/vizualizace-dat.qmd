@@ -41,7 +41,7 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 - Co ho*ji trápí, čemu čelí, s čím se potýká (“Jsem busy” / “Nerad čtu data” / “Špatně vidím”)
 
-- Co chce od vizualizace dat
+- Co chce od vizualizace dat  
   - Forma: přehled vs. detail, standard vs. inovace, …
   - Účel: Zaujmout, přesvědčit, prozkoumat, hledat vzorce…
 
@@ -67,31 +67,31 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 **Statistické souvislosti**  
 
--  Sloupcový:  
-  - distribuce  
-  - řazení  
-  - deviace  
-  - magnituda  
-  - časová řada 
+-  Sloupcový:
+  - distribuce
+  - řazení
+  - deviace
+  - magnituda
+  - časová řada
 
 - Čarový:
   - časová řada
-  - korelace  
+  - korelace
 
 - Koláčový:
-  - část celku  
+  - část celku
 
 - Bodový:
   - korelace
 
 **Další prvky grafů**
 
-- Anotační vrstva  
+- Anotační vrstva
 - Osy, škály, legendy  
-- Nedatové prvky (vodítka, pozadí)  
-- Titulek a podtitulek  
-  - Titulek = hlavní sdělení grafu: “Nárůst počtu uchazečů o zaměstnání”  
-  - Podtitulek: = popis datové sady, území a časového úseku: “Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022”  
+- Nedatové prvky (vodítka, pozadí)
+- Titulek a podtitulek
+  - Titulek = hlavní sdělení grafu: “Nárůst počtu uchazečů o zaměstnání”
+  - Podtitulek: = popis datové sady, území a časového úseku: “Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022”
 - Zdroj  
 
 
@@ -101,11 +101,11 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 Odkaz na checklists
 
-### Testujte to **na sobě:**  
+### Testujte graf **na sobě:**  
 
 - *Jak bych popsal/a graf nebo tabulku po telefonu?*
 
-### Testujte to **na ostatních:**  
+### Testujte graf **na ostatních:**  
 
 - Čtení: *Ukážu ti graf, komentuj prosím průběžně nahlas, jak ho postupně čteš, jak nad ním přemýšlíš, čemu nerozumíš, co si odvozuješ.*
 - Sdělení: *Projdi si, prosím, graf a zkus identifikovat, co je jeho hlavní myšlenkou, sdělením.*
