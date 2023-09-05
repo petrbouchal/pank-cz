@@ -1,8 +1,8 @@
 ---
 title: "Tvroba nástroje veřejné politiky"
 subtitle: "Jak lépe připravovat dotační výzvy a podobné instrumenty"
-categories: ["Organizace práce", "Analýza jako služba"]
-blok: ["vyuziti"]
+categories: ["Organizace práce", "Design politik"]
+blok: ["metody"]
 title-block-banner: true
 title-block-banner-color: "#CDE7FF"
 title-block-categories: false
