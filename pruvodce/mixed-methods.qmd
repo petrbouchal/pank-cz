@@ -4,14 +4,22 @@ subtitle: "Jak zkombinovat kvanti a kvali?"
 editor: source
 categories: ["Vychytávka", "Basics"]
 blok: ["metody"]
+format: 
+  html: default
+  docx: default
 ---
 
 # O co jde a k čemu to je
+
 Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
 
 # Případová studie
 
 Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agentura pro sociální začleňování).
+
+:::{.btn .btn-primary}
+[Přečíst případovou studii](pripadove-studie/asz)
+:::
 
 # Sebediagnostika: je to pro mě?
 
