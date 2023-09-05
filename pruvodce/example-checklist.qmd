@@ -1,0 +1,12 @@
+---
+title: "Mixed methods checklist"
+editor: source
+format: 
+  html: default
+  docx: default
+---
+
+Checklist
+
+- [ ] krok jedna
+- [ ] krok dva
