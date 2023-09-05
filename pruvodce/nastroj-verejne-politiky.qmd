@@ -28,6 +28,7 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných 
 # Sebediagnostika: je to pro mě?
 
 Tato intervence je vhodná pro týmy, které jsou v zhruba těchto situacích
+
 - Jejich pracovní agenda se obvykle neskládá z přípravy nástrojů veřejné politiky
 - Nedisponují dostatečnými lidskými kapacitami (především znalosti metod, postupů atd.) ani časovými možnostmi 
 - Nemají vyjasněné zadání zeshora 
