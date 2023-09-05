@@ -18,6 +18,7 @@ Nejvíce jsme v projektu pracovali s týmem, který se stará o analyticko-strat
 # Diagnostika
 
 Diagnostická fáze vycházela ze čtyř hlavních proudů poznání:
+
 -  Polostrukturované rozhovory
 -  Workshopy
 -  Desk research
@@ -53,6 +54,7 @@ Prvním adresovaným tématem bylo zadávání výzkumu, ačkoliv jsme se s anal
 První problém jsme řešili tak, že jsme společně vypracovali šablonu pro jednání s gestory výzkumu. Každá schůzka s potenciálním gestorem se měla držet této šablony, kde gestrovi bude jasně vysvětleno, co výzkum obnáší, co mu může přinést, ale také vyžaduje vyjasnění z jeho strany.
 
 Šablona obsahuje následující:
+
 -  Představení od analytického oddělení
 -  Na úvod vyjasnění toho proč jsme se dnes sešli 
 -  Vyjasnění jak výzkumný program probíhá a jaké jsou role v projektu
