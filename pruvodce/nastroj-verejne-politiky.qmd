@@ -3,7 +3,7 @@ title: "Tvorba nástroje veřejné politiky"
 subtitle: "Jak lépe připravovat dotační výzvy a podobné instrumenty"
 description: "Tento návod vás provede postupem od formulace cílů nástroje až po přípravu evaluace"
 categories: ["Vzor", "Zásobník"]
-blok: ["ziskavani", "rizeni", "metody", "vyuziti"]
+blok: ["vyuziti"]
 title-block-categories: false
 editor: source
 ---
