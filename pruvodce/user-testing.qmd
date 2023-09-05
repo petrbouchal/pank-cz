@@ -16,17 +16,38 @@ editor: source
 Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to čím dál tím více pomocí webových stránek. Před samotným rozvojem webového produktu je důležité umět sondovat potřeby budoucích uživatelů a přizpůsobit webový produkt jejim očekáváním. Po vytvoření webových stránek je užitečné je otestovat a zjistit, zda web skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k využití produktu. 
 
 
-### Poznámka, bez ikony
+## Případová studie
 
-Nějaký text
+V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu strategie RIS3.
 
 :::
 
-## Nadpis 2
+# Co řešíme za problém?
+
+- Zdlouhavé a složité dohledávání analýz a dat na webových stránkách může odradit uživatelé.
+- V případě, že nelze analytický materiál snadno dohledat, snižuje se tím transparentnost využití poznatků při rozhodování.
+- Nehospodárnost vynaložených finančních prostředků do rozvoje webu vzhledem k reálnému využití.
+
 
 :::{.panel-tabset}
 
-### Záložka
+# Sebediagnostika: je to vůbec pro mě?
+
+- Má webový produkt za cíl oslovit širší skupinu uživatelů?
+- Máme dostatečnou kapacitu na to, abychom realizovali uživatelský výzkum ještě než se zadají specifikace developerům? 
+- Bude možnost po spuštění webu provádět změny na základě uživatelského testování? Do jaké míry? Za jaké náklady?
+
+# Jak na to?
+
+## Před začátkem rozhoje webu
+
+### Analýza cílových skupin a jejich potřeb
+
+Zmapovat zamýšlené uživatelské skupiny a popsat hlavní aktivity, které by měli na webu dělat
+
+- vytvořit matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
+- vys
+
 
 ### Záložka
 
