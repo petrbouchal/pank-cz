@@ -21,6 +21,7 @@ website:
       - slovnicek.qmd
       - inspirace.qmd
       - pribeh-projektu.qmd
+    logo: logo.png
   open-graph:
     locale: cs_CZ
   favicon: favicon.png
