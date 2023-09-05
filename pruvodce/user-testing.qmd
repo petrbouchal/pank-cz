@@ -33,49 +33,53 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 
 ## Před začátkem rozvoje webu
 
-### Analýza cílových skupin a jejich potřeb
+### Analyzujte cílové skupiny a jejich potřeby
 
-Zmapovat zamýšlené uživatelské skupiny a popsat hlavní aktivity, které by měli na webu dělat:
+Zmapujte zamýšlené uživatelské skupiny a popište aktivity, které by měly na webu dělat:
 
-- vytvořit matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
-- specifikovat motivace, obavy a potřeby skupin uživatelů pomocí nástroje Value Proposition Canvas 
+- vytvořte matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
+- specifikujte jejich motivace, obavy a potřeby pomocí nástroje Value Proposition Canvas (viz níže) 
 
-### Rozhovory s cílovými skupinami
+### Pobavte se s cílovými skupinami
 
-Oslovit 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30min rozhovor (lze provést i online) s následujícími okruhy otázek
+Oslovte 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30min rozhovor.
+
+Položte jim následující otázky:
 
 - pro jaké účely byste využil*a stránku?
 - jaká máte očekávání od takového produktu?
 
 ## Testování webu
 
-### Rozhovory s uživateli
+### Pobavte se s uživateli
 
 Příprava:
 
-- Předem připravíme sadu úloh (1-3), které uživatel bude vykonávat. 
-- Připravíme si sadu hypotéz ohledně toho, jaké překážky mohou vzniknout.
+- Vytvořte sadu témat, které chcete od uživatelů zjišťovat.
+- Připravte sadu úloh (1-3), které uživatel bude vykonávat během testování. 
+- Připravte si sadu hypotéz ohledně toho, jaké překážky mohou vzniknout.
 
 Realizace rozhovoru:
 
-- V první části rozhovoru nám respondent popíše všechny úlohy, které hodlá dělat a účel pro jejich vykonání 
-- Dále vypozorujeme jak 1-3 úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
-- Ve třetí části debrief ohledně toho, co brání tomu, co chce uživatel udělat 
+- V první části rozhovoru se zeptejte respondenta, jaké úlohy hodlá dělat a proč.
+- Zadejte 1 až 3 předem připravené úlohy
+- Pozorujte, jak úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
+- Ve třetí části udělejte debrief 
 
 ### Feedbackový dotazník
 
 Příprava:
 
-- Zvolit sadu otázek (System Usability Scale nebo UMUX) a škál pro odpovědi (většinou 1 až 5).
-- Vytvořit dotazník např. v Google Forms.
-- Rozhodnout, zda dotazník bude distribuován přímo na stránkách pomocí prosbou o feedback nebo cíleně přes email.
+- Zvolte sadu otázek (System Usability Scale nebo UMUX) a škál pro odpovědi (většinou 1 až 5).
+- Vytvořte dotazník např. v Google Forms.
+- Rozhodňete si, zda dotazník bude distribuován přímo na stránkách pomocí prosbou o feedback nebo cíleně přes email.
 
 
 ### Syntéza výsledků
 
-- Popis úloh a účelů dle skupin uživatelů
-- Soupis identifikovaných překážek a popis jejich příčin
-- Prioritizace problémů dle proveditelnosti řešení
+- Popište skupiny uživatelů
+- Sepište identifikované překážky a popis jejich příčin
+- Prioritizujte problémy dle proveditelnosti řešení
 
 # Na co si dát pozor
 
