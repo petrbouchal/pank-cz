@@ -12,38 +12,38 @@ title-block-banner: true
 listing:
   - id: rizeni
     type: grid
-    grid-columns: 2
+    grid-columns: 3
     categories: true
     include:
       blok: "rizeni"
-    fields: [title, subtitle, categories, description, author]
+    fields: [title, subtitle, categories]
     sort: poradi
     # filter-ui: [title, subtitle, description]
   - id: ziskavani
     type: grid
-    grid-columns: 2
+    grid-columns: 3
     categories: true
     include:
       blok: "ziskavani"
-    fields: [title, subtitle, categories, description]
+    fields: [title, subtitle, categories]
     sort: poradi
     # filter-ui: [title, subtitle, description]
   - id: metody
     type: grid
-    grid-columns: 2
+    grid-columns: 3
     categories: true
     include:
       blok: "metody"
-    fields: [title, subtitle, categories, description]
+    fields: [title, subtitle, categories]
     sort: poradi
     # filter-ui: [title, subtitle, description]
   - id: vyuziti
     type: grid
-    grid-columns: 2
+    grid-columns: 3
     categories: true
     include:
       blok: "vyuziti"
-    fields: [title, subtitle, categories, description]
+    fields: [title, subtitle, categories]
     sort: poradi
     # filter-ui: [title, subtitle, description]
 ---
