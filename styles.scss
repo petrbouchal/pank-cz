@@ -1,7 +1,9 @@
 /*-- scss:defaults --*/
 $h2-font-size:          1.6rem !default;
-$headings-font-weight:  600 !default;
+$headings-font-weight:  700 !default;
 $headings-font-family: Vollkorn, serif;
+
+$font-family-monospace: "JetBrains Mono";
 
 $cp-primary-blue: #003C71;
 $cp-primary-grey: #BBBCBC;
@@ -38,6 +40,70 @@ $callout-color-note: $cp-primary-blue;
 $callout-color-tip: $cp-secondary-blue;
 $callout-color-warning: red;
 $callout-color-important: $cp-secondary-dark;
+
+@font-face {
+  font-display: swap;
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/Vollkorn-Bold.woff2') format('woff2'),
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/Vollkorn-Italic.woff2') format('woff2'),
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Vollkorn-Regular.woff2') format('woff2'),
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: 700;
+  src: url('fonts/Vollkorn-BoldItalic.woff2') format('woff2'),
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: regular;
+  font-weight: 700;
+  src: url('fonts/Inter-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 700;
+  src: url('fonts/Inter-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Inter-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/Inter-Italic.woff2') format('woff2');
+}
 
 
 /*-- scss:rules --*/
