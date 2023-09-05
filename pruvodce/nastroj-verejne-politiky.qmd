@@ -1,70 +1,71 @@
 ---
-title: "Tvorba nástroje veřejné politiky"
+title: "Tvroba nástroje veřejné politiky"
 subtitle: "Jak lépe připravovat dotační výzvy a podobné instrumenty"
-description: "Tento návod vás provede postupem od formulace cílů nástroje až po přípravu evaluace"
-categories: ["Vzor", "Zásobník"]
-blok: ["vyuziti"]
+categories: ["Organizace práce", "Analýza jako služba"]
+blok: ["rizeni"]
+title-block-banner: true
+title-block-banner-color: "#CDE7FF"
 title-block-categories: false
 editor: source
 ---
 
-# Nadpis 1
+# O co jde a k čemu to je
 
-:::{.callout-note icon=false appearance=simple collapse=true}
+Níže popsané má za cíl určit zda by útvar veřejné správy měl přemýšlet nad vytvořením databáze úkolů a jak případně v tomto vytváření postupovat tak, aby byla databáze smysluplná a udržitelná. 
 
-### Poznámka, bez ikony
+## Případové studie
 
-Nějaký text
+Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělením TA ČR.
 
-:::
-
-## Nadpis 2
-
-:::{.panel-tabset}
-
-### Záložka
-
-### Záložka
-
-:::
-
-:::{.callout-note collapse=false}
-
-### Tip
-
-Nějaký text
-
-:::
+<center>
 
 :::{.btn .btn-primary}
-[Prolink na případovku ASZ](../pripadove-studie/asz)
+[přečíst případovou studii](../pripadove-studie/tacr)
 :::
 
+</center    >
 
-### Nadpis 3 {#id-pro-odkazy}
+# Sebediagnostika: je to pro mě?
 
-:::{.callout-important collapse=true}
+Má smysl v naší situaci vytvářet databázi analýz?
 
-### Důležité, sbaleno
+- Dostáváme příliš ad hoc opakujících se dotazů jejichž odpovědi lze najít v našich - předchozích výstupech?
+- Děláme dostatečně velký počet analýz, aby databáze měla smysl?
+- Umožní nám databáze lépe plánovat a prioritizovat činnosti?
+- Umožní nám databáze identifikovat procesy pro zjednodušení/automatizaci zaběhlých - analýz?
 
-Nějaký text
+# Jak na to
 
-:::
+## 1. Identifikujte smysluplné kategorie v databázi
 
-## Další nadpis 2
+Kolegové z analytického oddělení doporučují nepřesáhnout více jak tři kategorie podle kterých analýzy řadit
 
-:::{.callout-warning collapse=false}
+b. V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku databáze
 
-### Pozor
+## 2. Navrhněte strukturu přehledu
 
-Nějaký text
+Cílem je mít přehled udělaný tak, aby byla pochopitelný i pro zbytek organizace a dalo se v něm lehce vyhledávat. 
 
-:::
+a. To nejen pro členy analytického oddělení, ale také pro jeho zákazníky, kteří by databázi měli využívat.
 
-:::{.callout-caution icon=false appearance=minimal}
+b. Zde doporučujeme přizvání několika archetypů těchto zákazníků do procesu vytváření, aby jejich zpětná vazba mohla být součástí finálního produktu. Při designu je také zapotřebí mít na paměti potenciální růst celé databáze, která v čase může významně překonat současnou velikost. 
 
-### Opatrně
+## 3. Zaneste jednotlivé činnosti do přehledu
 
-Nějaký text, minimalistický layout
+a. Pokud historicky existuje velké množství analýz, doporučujeme doplnit databázi např. za poslední rok a pak postupně doplňovat nově vzniklé analýzy (tzv. from now on). Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
 
-:::
+## 4. Reflexe
+
+Zamyslete se, jak s přehledem pracovat dále, kdo se o něj bude starat apod.
+
+## 5. Vyjasněte si komunikační plán přehledu 
+
+a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je důležité, aby se o její existenci dozvěděli. Lze možné konzultace např. i s PR oddělením organizace.
+
+b. Doporučujeme vytvoření zjednodušeného přehledu, který se zveřejní k využití pro běžného uživatele.
+
+# Na co si dát pozor aneb tipy & triky
+
+Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby databáze byla nadesignovaná tak, aby se s ní dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy databáze novému člověku.
+
+Dále navrhujeme vytvořit kromě samotné databáze také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
