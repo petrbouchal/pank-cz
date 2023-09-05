@@ -25,9 +25,6 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 - V případě, že nelze analytický materiál snadno dohledat, snižuje se tím transparentnost využití poznatků při rozhodování.
 - Nehospodárnost vynaložených finančních prostředků do rozvoje webu vzhledem k reálnému využití.
 
-
-:::{.panel-tabset}
-
 # Sebediagnostika: je to vůbec pro mě?
 
 - Má webový produkt za cíl oslovit širší skupinu uživatelů?
