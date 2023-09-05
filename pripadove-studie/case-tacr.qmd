@@ -9,4 +9,89 @@ aliases:
   - pripadove-studie/tacr
 ---
 
-Blah blah
+# Představení 
+
+Níže popsaná případová studie se týká analytického oddělení, které v mnohém vnímáme jako příklad dobré praxe. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky do svého fungování. Naše spolupráce především přinesla impuls věnovat se věcem, na který dříve “nebyl” čas, jako systematické uchopení souhrnu všech analýz či větší zaměření se na zákazníky analytických výstupů a jejich potřeb.    
+
+# Charakteristika zapojeného útvaru
+
+Analytické oddělení je jedním ze stěžejních útvarů pro práci s poznatky ve své organizaci. Oddělení pracuje jak na koncepčních a plánovaných analýzách tak na více ad hoc analýzách přicházejících od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že se oddělení musí vyrovnávat s touto dvojí rolí náplně práce, kdy poptávka po ad hoc analýzách může někdy vést k upozadění koncepčnější práce. Oddělení je složeno z jednotek zaměstnanců.
+
+Naše spolupráce vycházela ze zájmu vedení organizace, která podporuje snahy o poznatky informované rozhodování, tak ze zájmu samotného týmu, který má chuť na sobě pracovat a dále se vzdělávat. 
+
+# Diagnostická fáze
+
+Po sladění se s vedením analytického oddělení ohledně cílů naší spolupráce následovali asi devadesáti-minutové rozhovory se všemi členy analytického oddělení, ve kterých jsme se snažili zjistit, jak svou práci vnímají, kde jsou prostory pro zlepšení a kde jsou největší bariéry pro případné změny.
+
+V rámci této diagnostické fáze jsme také identifikovali blízké spolupracovníky analytického oddělení, jak v rámci organizace, tak mimo ní. To proto, abychom pochopili také jejich perspektivu a dozvěděli se od nich, co funguje a kde jsou prostory pro zlepšení. Relativní centralita analytického oddělení v organizaci pro nás znamenala rozhovory s lidmi na vícero úrovních v organizaci a z různých oddělení. 
+
+Oproti očekávání jsme proto nakonec posbírali širší obraz o tom, jakou má práce s poznatky v organizaci pozici a kde jsou prostory pro zlepšení i nad rámec samotného analytického oddělení, což vedlo k vytvoření sekundárního diagnostického zaměření v rámci naší spolupráce. Vše bylo doplněno o náš vlastní desk research, který se týkal organizace jako celku, tak práce analytického oddělení. Diagnostiku oddělení jsme tedy uchopili především se zaměřením na vztah oddělení a jeho interních “zákazníků”. Diagnostiku celé organizace jsme zaměřili především na core proces celé organizace, kde práce s poznatky hraje důležitou roli.    
+
+Po diagnostické fázi jsme vypracovali naší diagnostickou zprávu o stavu analytického oddělení. Dokument byl rozdělen do následujících části: 
+-  Role analytického oddělení
+-  Komunikace
+-  Šíření datových dovedností
+-  Práce s daty
+-  Výstupy analytického oddělení a analytická práce v celé organizaci. 
+
+Každá kapitola byla obohacena o diskuzní body, jejichž cílem bylo usnadnit facilitaci diskuze na následném setkání s analytickým oddělením.
+
+Identifikace oblastí rozvoje
+
+Z diskuze s členy analytického oddělení byl vytvořen seznam priorit na které jsme se v projektu chtěli zaměřit. Každá priorita ke zlepšení obsahovala tyto kategorie: 
+Pro které členy oddělení je téma relevantní (ne každá práce se týká všech členů)
+Popis problému
+Cílový stav - čeho chceme dosáhnout 
+Potenciální způsoby řešení (nabídka vícero způsobů, které vyžadují různé kapacitní zatížení)
+Dodatečné otázky a obava (proč se nám něco nemusí povést či obava ze špatně pojmenovaného problému a případná existence důležitějšího problému). 
+
+Konkrétní priority byly následující: 
+Zvýšení využití analytického výstupu
+Komunikace výstupů a analýz
+Plánování práce - roadmapa
+Ministáže v rámci organizace
+Řízení a přijímání zakázek
+
+Z těchto priorit jsme si dále vybírali ty, které odpovídali časovým a obsahovým kapacitám oddělení. Tím je myšleno, že jsme se vždy společně snažili pracovat na tom, co pro členy analytického oddělení v danou chvíli dávalo smysl, především z hlediska komplementarity z jejich aktivitami v daný čas. Nedávalo by moc smysl snažit se pracovat na něčem, na co členové oddělení v danou chvíli neměli čas ani neměli na pořadu dne, nebo nevnímali jako důležitou agendu.  
+
+Intervence [každá se svým názvem v podnadpisu]
+
+Zvýšení využití analytického výstupu
+První prioritou bylo zvýšení využití analytického výstupu. Analytické oddělení dlouhodobě vydává časově náročnou a komplexní analýzu. Jak ovšem sami identifikovali, tato analýza není využívaná tak často, jak přímo v organizaci, tak mimo ní, jak by si čas vložený do ní a její relevantnost zasloužili. Hlavním předmětem této aktivity proto bylo zjistit důvody tohoto nízkého využití a především najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci využívat. Samotný postup k těmto zjištěním probíhal takto: 
+
+Nejdříve analytické oddělení sepsalo seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad “okrajovými” stakeholdery, jež spíše mohou svým zájem o výstup překvapit. Zatímco v rámci organizace udělali několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterých vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikování jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. Celkově vnímáme proces jako povedený. Poučení pro nás určitě bylo, že v době, kdy analytické oddělení pracovalo na podobě výstupu se nám již nepodařilo nad tématem sednout a pracovat společně i v průběhu tvorby. Především z důvodu kapacit analytického oddělení, ale také možná jejich vidiny smysluplnosti tohoto setkání.
+
+Úspora času díky lepší komunikaci a lepšímu plánování práce
+Dalším dva prostory pro zlepšení, které byly identifikovány popíšeme společně, jelikož práce na nich měla komplementární řešení. Tím prvním bylo obecné nastavení komunikace výstupů a analýz, kde hlavním problém byla neznalost stakeholderů všech již zpracovaných analýz a na to navazující dotazy, které analytické oddělení zbytečně kapacitně zatěžovaly. Tou druhou bylo plánování práce - roadmapa analytického oddělení. V kontextu, kdy jste často zahlceni ad hoc analýzami a dotazy se těžko hledá prostor pro koncepční práci, který jsme se snažili vytvořit. Proto základním identifikovaným řešením bylo vytvoření přehledu všech analýz, které analytické oddělení zpracovalo a na kterých ví, že bude pracovat (to se týká především těch, které se pravidelně opakují). Tento přehled měl několik kategorií, které měly napomoci k dosažení výše zmíněných řešení. Cílem tohoto přehledu byl minimálně trojí. Prvně umožňuje sdílení se zbytkem organizace, aby ostatní měli přehled, co analytické oddělení dělalo a dělá. Za druhé přehled umožňuje lepší plánování práce, jelikož si je analytické oddělení lépe vědomo, kdy je jaká práce čeká. V neposlední řadě toto cvičení pomohlo vyjasnit si, kam dává smysl vkládat energii do automatizace některých procesů.
+
+Přehled analytických aktivit přinesl kýžené dopady a je analytickým oddělením nadále využíván a rozvíjen. Jeden z limitů je počet kategorií, které jsme při vytvoření do přehledu zavedli. Člen analytického oddělení za sebe doporučuje držet se max. tří hlavních kategorií, které mají být kvalitně popsány, aby kdokoliv nový měl jasnou představu co si pod danou kategorií představit. Pro nás z toho určitě plyne poučení, jelikož jsme dostatečně neotestovali jaké kategorie dávají opravdu smysl a jaký je smysluplný počet.
+
+Jak téma ministáži, tak téma přijímání zakázek jsme s analytickým týmem diskutovali, ale v rámci kapacit jsme již systematicky nepracovali. Nemáme proto dostatek poznatků, které bychom zde mohli sdílet. Základem myšlenky ministáží bylo umožnit to, aby zaměstnanci analytického týmu mohli na krátkou dobu (v řadě několika dnů) vidět pod ruku relevantním partnerům - sami členové analytického oddělení zmiňovali, že i krátké pozorování práci kolegů v jiných útvarech organizace jim pomohlo identifikovat procesy, kde může efektivnější práce s daty pomoci. Cílem by bylo to, aby lépe rozuměli jejich práci, potřebám a lépe určili co za analýzy dává smysl těmto partnerům nabízet. Často se totiž setkáváme s tím, že problém se zadáváním analýz je na straně jejich poptavatelů. To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tudíž zadat správnou analýzu 2. V návaznosti na to, nemá často představy čeho jsou analytická oddělení schopna a co si můžu zadat. Podobně u tématu přijímání zakázek měl tým záměr minimalizovat nejasnosti a nedorozumění v momentu, kdy interní zákazníci u analytického oddělení poptávají analytickou práci nebo datový výstup. Zde tým měl hypotézu, že by mohl pomoci ticketovací systém podobný tomu, jaký typicky využívají podpůrné IT týmy, popř. sada vstupních otázek. Tato řešení jsme ale neměli prostor otestovat. V praktické rovině se týmu osvědčil princip “zákazník se má soustředit na popis problému, který potřebuje vyřešit, ne na popis řešení, o kterém předpokládá, že povede k řešení”; rolí analytika je pak společně se zákazníkem definovat otázku a výsledkem je zadání, které obsahuje právě specifikaci otázky, kterou má analýza zodpovědět, porozumění účelu analýzy (k čemu ji zákazník použije) a specifikace formy výstupu. Jinými slovy, pomožte zákazníkovi, aby vám dobře popsal problém/otázku, raději než řešení, která ho napadají - to už je vaše práce.         
+
+Zobecnitelnější vhledy
+Spolupráce s oddělením X a práce na výše zmíněných oblastech poukázala na několik aspektů práce s poznatky, které jsou relevantní i pro další oddělení státní správy, především pro interní datové týmy, případně i jednotlivce v roli datového analytika.     
+Interní datově analytické týmy často musí vyvažovat naplňování ad hoc potřeb interních a externích zákazníků a ambici pracovat na koncepčnějších, dlouhodobějších nebo metodologicky sofistikovanějších projektech. Pomůže udělat si dobrý přehled o tom, jaké ad hoc úkoly plníte a podle toho	
+Lépe zorganizovat práci - co kdy a pro koho vytváříte
+Ujasnit si, co je a není třeba
+Investovat do automatizace
+Vyplatí se investovat do komunikace vlastní práce, a to v několika rovinách:
+U větších projektů myslete na uživatele, znát jejich potřeby, a následně na ně cílit vhodnou formou výstupu
+U dílčích analýz je vhodné udržovat jejich přehled např. na intranetu - tím omezíte duplicitní poptávky a zvýšíte šanci, že vaši práci objeví a využijí další lidé
+U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.           
+
+Systémové bariéry
+Dostupnost dat ve veřejné správě
+Dostupnost dat pro evaluace
+
+Dobré praxe
+Interní dashboardy
+Interní rozvoj technických dovedností
+Datoví ambasadoři / demokratizace dat
+Interní rozcestník analýz
+INKAviz - řízený přístup k datům
+Data governance - gestoři datových položek
+Datový tým zapojený do tvorby nového IT systému, přitom zapojuje věcné gestory
+Na úrovni TA ČR: systém řízení změn
+Na úrovni TA ČR: schopnost a ochota jednotlivých specialistů využívat data pro zlepšování procesů
+Na úrovni TA ČR: evaluační funkce (dělají i nepovinné ex post evaluace, metodologicky solidní)
+
