@@ -45,7 +45,7 @@ Cílový stav - čeho chceme dosáhnout
 Potenciální způsoby řešení (nabídka vícero způsobů, které vyžadují různé kapacitní zatížení)
 Dodatečné otázky a obava (proč se nám něco nemusí povést či obava ze špatně pojmenovaného problému a případná existence důležitějšího problému). 
 
-Konkrétní priority byly následující: 
+## Konkrétní priority byly následující: 
 
 -  Zvýšení využití analytického výstupu
 -  Komunikace výstupů a analýz
@@ -87,8 +87,8 @@ To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tu
 -  Ujasnit si, co je a není třeba
 -  Investovat do automatizace
 -  Vyplatí se investovat do komunikace vlastní práce, a to v několika rovinách:
---  U větších projektů myslete na uživatele, znát jejich potřeby, a následně na ně cílit vhodnou formou výstupu
---  U dílčích analýz je vhodné udržovat jejich přehled např. na intranetu - tím omezíte duplicitní poptávky a zvýšíte šanci, že vaši práci objeví a využijí další lidé
+- U větších projektů myslete na uživatele, znát jejich potřeby, a následně na ně cílit vhodnou formou výstupu
+- U dílčích analýz je vhodné udržovat jejich přehled např. na intranetu - tím omezíte duplicitní poptávky a zvýšíte šanci, že vaši práci objeví a využijí další lidé
 -  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.           
 
 # Systémové bariéry
