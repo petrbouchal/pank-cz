@@ -65,22 +65,19 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 ### Grafy: čáry, body, sloupce, koláče
 
-**Statistické souvislosti**  
+**Statistické souvislosti**
 
--  Sloupcový:  
+- Sloupcový
   - distribuce
   - řazení
   - deviace
   - magnituda
   - časová řada
-
-- Čarový:  
+- Čarový
   - časová řada
   - korelace
-
 - Koláčový:  
   - část celku
-
 - Bodový:  
   - korelace
 
