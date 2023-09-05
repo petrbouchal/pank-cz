@@ -131,14 +131,20 @@ $callout-color-important: $cp-secondary-dark;
 
 .card-title {
   font-size: 20pt;
+  font-family: $headings-font-family !important;
   color: $cp-primary-blue;
   margin-bottom: 10pt;
   font-weight: 800;
   font-family: $font-family-sans-serif;
 }
 
+.card-subtitle {
+  font-size: 13px !important;
+}
+
 .card-title-small {
-  font-size: 14pt;
+  font-size: 18pt;
+  font-family: $headings-font-family !important;
   color: $cp-primary-blue !important;
   text-decoration: none;
   margin-bottom: 10pt;
@@ -147,30 +153,43 @@ $callout-color-important: $cp-secondary-dark;
 }
 
 .card-subtitle-small {
-  font-size: 12pt;
+  font-size: 10pt;
   color: $cp-secondary-dark !important;
   font-family: $font-family-sans-serif;
 }
 
 .card-alt {
-  padding: 20px;
+  padding: 30px;
   border-radius: 0px;
-  border-color: red;
-  border-left-width: 5px !important;
-  border-right-width: 5px !important;
-  background-color: $cp-secondary-blue;
+  background-color: $cp-primary-blue;
 }
 
 .card {
-  border-radius: 0px;
-  border-top-right-radius: 0px;
-  border-width: 7px;
+  border-radius: 30px;
+  border-width: 0px;
+  padding: 5px;
+  padding-bottom: 0px;
   background-color: $cp-secondary-lightblue;
-  border-color: $cp-primary-blue;
+}
+
+.card-red {
+  background-color: $cp-secondary-red;
+}
+
+.card-blue {
+  background-color: $cp-secondary-lightblue;
+}
+
+.card-grey {
+  background-color: $cp-secondary-grey;
+}
+
+.card-darkblue {
+  background-color: $cp-secondary-blue;
 }
 
 .card-case {
-  background-color: $cp-secondary-red;
+  background-color: $cp-secondary-grey;
 }
 
 .callout {
@@ -184,12 +203,13 @@ $callout-color-important: $cp-secondary-dark;
 
 .listing-category {
   color: $cp-primary-blue !important;
+  font-size: 6pt !important;
   border-color: $cp-primary-blue !important;
 }
 
 .listing-categories {
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
 .navbar {
@@ -219,5 +239,15 @@ $callout-color-important: $cp-secondary-dark;
   background: none !important;
 }
 
+.title .lead {
+  font-size: 30pt;
+}
 
+h1, h2, h3, h4, h5 {
+  border-bottom-width: 0px;
+}
 
+.rizeni-blok {
+  background-color: $cp-primary-blue;
+  padding: 20px;
+}
