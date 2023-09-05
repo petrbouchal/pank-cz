@@ -39,12 +39,6 @@ $callout-color-tip: $cp-secondary-blue;
 $callout-color-warning: red;
 $callout-color-important: $cp-secondary-dark;
 
-$btn-padding: 0px;
-$btn-background-color: $cp-primary-blue;
-$btn-border-color: $cp-primary-blue !default;
-$btn-border-width: 3px !default;
-$btn-active-bg: $cp-secondary-lightblue;
-$btn-active-border-color: $cp-primary-blue;
 
 /*-- scss:rules --*/
 
@@ -55,8 +49,9 @@ $btn-active-border-color: $cp-primary-blue;
 }
 
 .btn {
-  background-color: $cp-primary-blue;
-  padding-bottom: 0px;
+  padding-bottom: 3px;
+  background: $cp-primary-blue;
+  border-color: $cp-primary-blue;
 }
 
 .btn p {
