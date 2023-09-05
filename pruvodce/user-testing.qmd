@@ -2,7 +2,7 @@
 ---
 title: "Uživatelský výzkum a testování webového produktu"
 subtitle: "Jak prezentovat výsledky na webu."
-description: "Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to čím dál tím více pomocí webových stránek. "
+description: "Součástí práce analytika je umět výsledky analýz předávat pomocí webových stránek. "
 categories: ["Pro analytiky", "Design"]
 blok: ["vyuziti"]
 title-block-categories: false
