@@ -40,7 +40,7 @@ Integrace kvantitativních a kvalitativních může proběhnut dvěma způsoby
 
 Výplňte do flowchartu popis každého kroku realizace výzkumu. Tento flowchart může poté sloužit pro popis metodiky výzkumu
 
-
+![Flowchart paralelní design](pruvodce/PANK ASZ - Flowchart design mixed methods výzkumu.drawio.png)
 
 # Na co si dát pozor
 
