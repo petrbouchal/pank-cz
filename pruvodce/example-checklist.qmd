@@ -1,6 +1,4 @@
 ---
-title: "Datavizulizační checklist"
-editor: source
 format: 
   html: default
   docx: default

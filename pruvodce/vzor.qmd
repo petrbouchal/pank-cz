@@ -39,13 +39,14 @@ Text poznámky
 {{< include example-checklist.qmd >}}
 
 :::{.btn .btn-primary}
-[Stáhnout checklist ve wordu](mixed-methods-checklist.docx)
+[Stáhnout checklist ve wordu](example-checklist.docx)
 :::
 
 ---
 
 :::
 
+{{< include ../_test.qmd >}}
 
 ## Nadpis 2
 
