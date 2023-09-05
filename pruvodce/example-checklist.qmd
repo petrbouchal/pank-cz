@@ -1,12 +1,17 @@
 ---
-title: "Mixed methods checklist"
+title: "Datavizulizační checklist"
 editor: source
 format: 
   html: default
   docx: default
 ---
 
-Checklist
+Tabulky
+
+- [ ] krok jedna
+- [ ] krok dva
+
+Grafy
 
 - [ ] krok jedna
 - [ ] krok dva
