@@ -92,10 +92,10 @@ Příprava:
 
 Pro každou cílovou skupinu popsat v následujícím pořadí:
 
-Potřeby: Co je motivuje k využití našich služeb?
-Motivace: Čeho chce náš uživatel dosáhnout? Jakou potřebu mu uspokojujeme?
-Obavy:Co jim brání ve využití našich služeb?
-Popis nabízených služeb: Jaké služby nebo produkty jim nabízíme, abychom uspokojili jejich potřeby?
+- Potřeby: Co je motivuje k využití našich služeb?
+- Motivace: Čeho chce náš uživatel dosáhnout? Jakou potřebu mu uspokojujeme?
+- Obavy:Co jim brání ve využití našich služeb?
+- Popis nabízených služeb: Jaké služby nebo produkty jim nabízíme, abychom uspokojili jejich potřeby?
 
 
 ## Sada otázek pro dotazníkové šetření
