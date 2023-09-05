@@ -17,7 +17,7 @@ Součástí práce analytika je umět výsledky analýz předávat dalším uži
 
 ## Případová studie
 
-V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu strategie RIS3.
+V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu [strategie RIS3](https://www.ris3.cz/)
 
 :::
 
