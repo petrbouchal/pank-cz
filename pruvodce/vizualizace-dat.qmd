@@ -42,7 +42,7 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
   - Forma: přehled vs. detail, standard vs. inovace, …
   - Účel: Zaujmout, přesvědčit, prozkoumat, hledat vzorce…
 
-![](pruvodce/dataviz-karta uživatele.png){fig-alt="Karta uživatele"}
+![](dataviz-karta-uzivatele.png){fig-alt="Karta uživatele"}
 
 
 
