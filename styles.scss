@@ -20,7 +20,7 @@ $font-family-sans-serif: "Inter", Helvetica, Arial, Calibri, sans-serif;
 $navbar-bg:             $cp-primary-blue;
 $navbar-fg:             white;
 $navbar-hl:             $cp-secondary-lightblue;
-$body-bg:             $cp-secondary-lightblue;
+$body-bg:             white;
 $body-color:             $cp-primary-blue;
 $heading-color:          $cp-primary-blue;
 
@@ -70,7 +70,7 @@ $btn-active-border-color: $cp-primary-blue;
 
 .card-title {
   font-size: 20pt;
-  color: $cp-secondary-dark;
+  color: $cp-primary-blue;
   margin-bottom: 10pt;
   font-weight: 800;
   font-family: $font-family-sans-serif;
@@ -104,7 +104,7 @@ $btn-active-border-color: $cp-primary-blue;
   border-radius: 0px;
   border-top-right-radius: 0px;
   border-width: 7px;
-  background-color: $cp-secondary-blue;
+  background-color: $cp-secondary-lightblue;
   border-color: $cp-primary-blue;
 }
 
@@ -123,7 +123,12 @@ $btn-active-border-color: $cp-primary-blue;
 
 .listing-category {
   color: $cp-primary-blue !important;
-  border-color: $cp-secondary-lightblue !important;
+  border-color: $cp-primary-blue !important;
+}
+
+.listing-categories {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .navbar {
