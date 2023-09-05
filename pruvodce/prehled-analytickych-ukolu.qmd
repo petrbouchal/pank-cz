@@ -1,8 +1,10 @@
 ---
 title: "Přehled analytických úkolů"
-description: "Udělejte si přehled v tom, co všechno děláte"
+subtitle: "Udělejte si přehled v tom, co všechno děláte"
 categories: ["Organizace práce", "Analýza jako služba"]
 blok: ["rizeni"]
+title-block-banner: true
+title-block-banner-color: "#CDE7FF"
 title-block-categories: false
 editor: source
 ---
@@ -15,9 +17,13 @@ Níže popsané má za cíl určit zda by útvar veřejné správy měl přemý�
 
 Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělením TA ČR.
 
+<center>
+
 :::{.btn .btn-primary}
-[přečíst případovou studii](../pripadove-studie/case-tacr.html)
+[přečíst případovou studii](../pripadove-studie/tacr)
 :::
+
+</center    >
 
 # Sebediagnostika: je to pro mě?
 

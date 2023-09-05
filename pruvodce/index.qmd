@@ -1,5 +1,5 @@
 ---
-title: "[Průvodce]"
+title: "Průvodce"
 page-layout: full
 listable: not
 execute:
@@ -8,6 +8,7 @@ language:
   listing-page-field-categories: "Témata"
   listing-page-category-all: "Všechna"
   toc-title-website: Kapitoly průvodce
+title-block-banner: true
 listing:
   - id: rizeni
     type: grid
@@ -49,12 +50,13 @@ listing:
 
 ## Řízení týmu
 
-Zlepšete, jak sbíráte a získáváte poznatky - data, podklady aj. - pro svou práci.
 
 ::: {#rizeni}
 :::
 
 ## Přístup k poznatkům a datům
+
+Zlepšete, jak sbíráte a získáváte poznatky - data, podklady aj. - pro svou práci.
 
 ::: {#ziskavani}
 :::
