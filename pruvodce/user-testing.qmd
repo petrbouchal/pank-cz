@@ -97,6 +97,7 @@ Pro každou cílovou skupinu popsat v následujícím pořadí:
 - Obavy:Co jim brání ve využití našich služeb?
 - Popis nabízených služeb: Jaké služby nebo produkty jim nabízíme, abychom uspokojili jejich potřeby?
 
+Více k Value Proposition Canvas na [webu 100 metod](https://kisk.phil.muni.cz/100metod/value-proposition-canvas)
 
 ## Sada otázek pro dotazníkové šetření
 
