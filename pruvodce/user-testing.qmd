@@ -31,12 +31,11 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 
 # Jak na to?
 
-## Před začátkem rozhoje webu
+## Před začátkem rozvoje webu
 
 ### Analýza cílových skupin a jejich potřeb
 
 Zmapovat zamýšlené uživatelské skupiny a popsat hlavní aktivity, které by měli na webu dělat
-
 - vytvořit matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
 - specifikovat motivace, obavy a potřeby skupin uživatelů pomocí nástroje Value Proposition Canvas 
 
@@ -69,12 +68,12 @@ Příprava:
 
 ### Syntéza výsledků
 - Popis úloh a účelů dle skupin uživatelů
--Soupis identifikovaných překážek a popis jejich příčin
+- Soupis identifikovaných překážek a popis jejich příčin
 - Prioritizace problémů dle proveditelnosti řešení
 
 # Na co si dát pozor
-- Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
-- Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
+Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
+Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
 
 # Další zdroje a literatura
 
@@ -90,7 +89,11 @@ Příprava:
 6. Myslel(a) jsem si, že v systému bylo příliš mnoho nesourodosti.
 7. Představuji si, že většina lidí se naučí používat tento systém velmi rychle.
 
+Více na [webu 100 metod](https://100metod.cz/post/157274192704/93-system-usability-scale)
+
 ### UMUX
+
+Více na [webu measuringu](https://measuringu.com/umux-lite/)
 
 1. Moje požadavky jsou splněny schopnostmi tohoto systému.
 2. Naučit se používat tento systém je snadné.
