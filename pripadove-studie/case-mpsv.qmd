@@ -8,5 +8,15 @@ aliases:
   - mpsv
 listable: "listable"
 ---
+# Úvod
 
+Tato případová studie diskutuje útvar, které má být implementačním oddělením, nicméně vzhledem ke strukturálnímu nastavení daného ministerstva vykonává i analytickou práci, na níž nicméně nemá dostačující časové a personální kapacity. Motivací týmu a jeho vedení k zapojení do projektu PANK spočívala právě v rozvinutí analytických schopností a znalostí. Spolupráce se tak zaměřila především na proces policy work a přípravu dotačních výzev. 
+
+# Představení zapojeného útvaru
+
+Oddělení X, které se zúčastnilo projektu PANK, spadá pod odbor realizace programů ESF veřejná správa, sociální inovace a rovné příležitosti, které jsou součástí sekce evropských fondů a mezinárodní spolupráce. Činnost oddělení se z velké většiny sestává z administrace výběru a hodnocení projektů daného operačního programu. Dále kontroluje zprávy o realizaci a průběhu realizace vybraných projektů, které se dějí jak v informačních systémech, tak i na daném místě. Oddělení zároveň věcně informuje o dané problematice potenciální žadatele na seminářích nebo skrz brožury. V neposlední řadě se oddělení zabývá tvorbou výzev na podporu politiky v dané oblasti, pro které je zásadní práce s poznatky a analýzami. Oddělení nepředstavuje analytický tým, jehož výstupy by měly externí uživatele - tým sám je primárním uživatelem své vlastní analytické práce a svých výstupů. 
+
+Součástí oddělení je okolo 17 zaměstnanců, kteří pracují na pozicích projektových manažerů a kteří se rovnoměrně věnují agendě daného oddělení, kterou ve zkratce můžeme shrnout jako přípravu a administrace výzev, komunikaci s příjemci a evaluací daných výzev. Během většiny času naší spolupráce byla součástí našeho projektu vedoucí oddělení paní X, která na podzim roku 2022 předala své místo paní Y, která se vrátila z mateřské dovolené. Paní X nastoupila na místo vedoucí jiného oddělení na stejném ministerstvu, kam si s sebou vzala i část týmu z oddělení X. Nicméně spolupráce na projektu PANK se zachovala v rámci obou oddělení a primárně se tedy věnovala tvorbě výzev a jejich následné evaluaci. 
+
+Na začátku spolupráce byl představen projekt PANK a specifikovány jeho cíle.
 
