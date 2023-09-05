@@ -7,46 +7,40 @@ blok: ["metody"]
 ---
 
 # O co jde a k čemu to je
-Ve fázi designu výzkumu definujeme výzkumné otázky a metodický postup. Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
+Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
 
 # Případová studie
 
-Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agentura pro sociální začleňování)
+Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agentura pro sociální začleňování).
 
-# Popis problému
+# Sebediagnostika: je to pro mě?
 
-- Nevhodná kombinace metod vzhledem k výzkumným otázkám a nedostatečné odůvodnění využití smíšených postupů.
-- Nedostatečná koordinace mezi výzkumníky s různými metodologickými zazemími. 
-- Netransparentní a nereplikovatelný výzkumný design.
+Nejprve je potřeba zajistit kapacity
+
+- umí výzkumníci aplikovat kvantitativní a kvalitativní metody?
+- jsou k dispozici data, případně je potřeba je sbírat?
+- jsou k dispozici statistické softwary a výzkumníci je umí používat?
 
 # Jak na to
 
 ## Definujte výzkumné otázky
 
+Definujte výzkumné otázky, na které chcete odpovědět. 
+
+- Jaký jev chcete zkoumat.
+- Jaký typ informací chcete získat.
+
 ## Zvolte vhodný výzkumný design
 
-- paralelní (konvergentní) design: QUAN a QUAL metody jsou aplikované souběžně 
-- sekvenční design: aplikace QUAN metod předchází kvalitativnímu výzkumu, zejména pro identifikaci respondentů. 
-
-## Design dotazníkového šetření
-
-Při designu dotazníků je potřeba vyvážit kvalitu a množší otázek a zároveň explicitně odůvodnit potřebu sbírat data skrz dotazníkové šetření. 
-Mezi možná odůvodnění lze zařadit následující prvky:
-- zkoumaná populace je velká (velké n)
-- jevy jsou snadno měřitelné
-- je relevantní porovnávat poznatky s běžnou populací či s jinou obcí, před a po, atp
-- skrz QUAN šetření lze identifikovat další respondenty
-- zkoumají se různé optiky na stejný problém, QUAN pro zjištění frekvencí a možnost je porovnávat, QUAL pro pochopení souvisejících mechanismů
-
-## Zjištěte, jaké máte kapacity
-
-- výzkumníci jsou vyškolení, umí metodu aplikovat a vyhodnocovat výsledky
-- jsou k dispozici data v případě QUAN analýz
-- jsou k dispozici softwary a výzkumníci je umí používat
+Integrace kvantitativních a kvalitativních může proběhnut dvěma způsoby  
+- paralelní (konvergentní) design: kvantitativní a kvalitativní metody jsou aplikované souběžně 
+- sekvenční design: kvantitativní šetření slouží k identifikaci respondentů pro kvalitativní výzkum 
 
 ## Znázorněte výzkumný design do flowchartu
 
-Obrázek flowchartu (TBC)
+Výplňte do flowchartu popis každého kroku realizace výzkumu. Tento flowchart může poté sloužit pro popis metodiky výzkumu
+
+
 
 # Na co si dát pozor
 
