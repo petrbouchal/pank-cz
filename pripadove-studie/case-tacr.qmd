@@ -92,18 +92,18 @@ To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tu
 -  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.           
 
 # Systémové bariéry
-Dostupnost dat ve veřejné správě
-Dostupnost dat pro evaluace
+-  Dostupnost dat ve veřejné správě
+-  Dostupnost dat pro evaluace
 
 # Dobré praxe
-Interní dashboardy
-Interní rozvoj technických dovedností
-Datoví ambasadoři / demokratizace dat
-Interní rozcestník analýz
-INKAviz - řízený přístup k datům
-Data governance - gestoři datových položek
-Datový tým zapojený do tvorby nového IT systému, přitom zapojuje věcné gestory
-Na úrovni TA ČR: systém řízení změn
-Na úrovni TA ČR: schopnost a ochota jednotlivých specialistů využívat data pro zlepšování procesů
-Na úrovni TA ČR: evaluační funkce (dělají i nepovinné ex post evaluace, metodologicky solidní)
+-  Interní dashboardy
+-  Interní rozvoj technických dovedností
+-  Datoví ambasadoři / demokratizace dat
+-  Interní rozcestník analýz
+-  INKAviz - řízený přístup k datům
+-  Data governance - gestoři datových položek
+-  Datový tým zapojený do tvorby nového IT systému, přitom zapojuje věcné gestory
+-  Na úrovni TA ČR: systém řízení změn
+-  Na úrovni TA ČR: schopnost a ochota jednotlivých specialistů využívat data pro zlepšování procesů
+-  Na úrovni TA ČR: evaluační funkce (dělají i nepovinné ex post evaluace, metodologicky solidní)
 
