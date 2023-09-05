@@ -20,3 +20,70 @@ Součástí oddělení je okolo 17 zaměstnanců, kteří pracují na pozicích 
 
 Na začátku spolupráce byl představen projekt PANK a specifikovány jeho cíle.
 
+# Diagnostika
+
+Následně byla provedena diagnostika oddělení. K té byly využity následující výzkumné metody: desk-research, workshop, polostrukturované rozhovory a mini-etnografie (pozorování). Úvodního workshopu se zúčastnilo 17 členů oddělení, vedoucí oddělení a ředitelka odboru. Cílem bylo vzájemné představení a budování důvěry. Součástí workshopu byly také dvě cvičení. Jedno se věnovalo popsání aktivit a agend v oddělení a druhé bylo zacíleno na identifikaci pozitivních změn po ukončení spolupráce na projektu PANK. Výsledky a výstupy z workshopu 1 jsme použili při tvorbě scénáře pro individuální rozhovory s členy týmu. Individuální rozhovory proběhly s 6 členy týmu, které byly vybrány paní vedoucí. Rozhovory trvaly kolem 1,5 hodiny, byly nahrávány a zároveň také zapisovány druhým členem řešitelského týmu, který se účastnil. Po ukončení individuálních rozhovorů jsme analyzovali všechny poznatky a sjednotili je do finálních bariér, které jsme poté použili při tvorbě individuálního scénáře pro rozhovor s vedoucí oddělení. Rozhovor s vedoucí oddělení byl časově náročnější a trval kolem 2.5 hodiny. V oddělení také proběhlo 5 pozorování a to jak pracovní skupiny na přípravu výzvy, tak porady celého oddělení. V neposlední řadě také proběhl rozhovor s ředitelkou odboru, na kterém jsme jí primárně sdělili výsledky diagnostické části a snažili jsme se najít shodu nad oblastmi rozvoje. Na podzim roku 2022 proběhl finální workshop se všemi členy oddělení, na kterém jsme jim sdělili výsledky diagnostiky a společně jsme naplánovali další spolupráci, která se týkala oblastí rozvoje a jejich potřeb v agendách, které pro ně byly aktuální. Je nutné zmínit, že oblasti rozvoje jsme identifikovali a strukturovali do našeho PANK frameworku, který je členěný na následující oblasti: role a řízení týmu, přístup k poznatkům a práce s nimi, analytické postupy a metody a využitelnost výstupů a který jsme zároveň použili během diagnostické fáze. Nasbíraným datům z diagnostické fáze jsme se snažili porozumět pomocí našeho frameworku: role a řízení týmu, přístup k poznatkům a práce s nimi, analytické postupy a metody, využitelnost výstupů. 
+
+Diagnostika poukázala na několik strukurálních problémů, kterým oddělení čelí. Prvním je skutečnost, že formálně má být pouze administrátorem projektů, ale ve skutečnosti musí minimálně v některých obdobích připravovat samotné výzvy, je tedy i tvůrcem nástroje veřejné politiky a do určité míry dotváří i cíle, resp. priority veřejné politiky v této oblasti. Na to nicméně nemá dostatečné vlastní kapacity ani neexistuje institucionalizovaná podpora ze strany jiných částí státní správy. Dochází tak k diskrepanci mezi požadavky kladenými na oddělení jedné straně, a jeho možnostmi na straně druhé. Spojeným problémem je nedostatečná komunikace s věcně odděleními, které by mohly určovat obsahové zadání pro výzvy ESF. Jedním z pravděpodobných důvodů je skutečnost, že oddělení X má v gesci evropské zdroje, které jsou ostatními částmi ministerstva vnímány jako oddělená problematika, ačkoliv operační programy by měly především plnit strategické cíle formulované věcnými útvary ministerstev. Tyto strukturální faktory se promítaly do spolupráce mezi Českými prioritami a oddělením v průběhu řešení projektu PANK.
+
+# Intervence
+
+## Knowledge management a řízení práce v týmu
+
+První sada intervencí, která byla v různé míře přítomná během celé spolupráce, se týkala knowledge managementu a týmového řízení práce. V sérii menších workshopů s různými členy a členkami týmu se probíraly hlavní problémy oddělení, což bylo ukotvení problému (v tomto případě zaměření plánované výzvy), zahlcení informacemi, chybějící strukturizace práce v týmu a absence efektivního řízení schůzek a společné práce. Na workshopech pak byly představeny postupy jako vytvoření mapy problémů, procesní mapy, systematické organizace práce a efektivního brainstormingu. Tyto praxe pak byly tématizovány během celé spolupráce. 
+
+## Příprava výzvy a její evaluace 
+
+Od září 2022 se spolupráce s oddělením X zaměřila na přípravu výzvy Y. Probíhala především formou komentování oddělením připravovaných dokumentů a workshopů, na nichž byly diskutovány různé aspekty přípravy výzvy. V první fázi byla řešena především intervenční logika a přesnější zaměření výzvy. Šéfka oddělení s týmem PANK nasdílela drafty výzvy a doplňujících materiálů, v nichž byly představeny relevance výzvy a podporované aktivity. Na základě těchto podkladů proběhlo několik workshopů, kde členové týmu PANK poskytli zpětnou vazbu na připravované dokumenty, a dále pak vedli podrobnější debatu o intervenční logice a na ní navazujícící podobu a aktivity v rámci výzvy. V následující fázi od pozdního podzimu 2022 byla dále otevřena otázka budoucí evaluace výsledků a dopadů výzvy. Na těchto workshopech, kterých se účastnily i kolegyně z evaluačního oddělení daného ministerstva, byly nejdříve probírány různé typy a možné cíle evaluace. Následně pak probíhala moderované debata o ambicích evaluace výzvy připravované oddělením. Na závěr bylo pak uspořádané setkání mezi členy projektu PANK a zaměstnanci a zaměstnankyně oddělení, kde proběhla společná reflexe spolupráce.   
+
+V průběhu celé spolupráce se ukázalo, že nejefektivnější formou intervencí jsou ty, které jsou přímo navázány na konkrétní činnosti a aktivity oddělení. V první fázi spolupráce byly workshopy a setkání zaměřeny na obecné principy práce s poznatky a na její rozvoj. Toto zaměření se ale ukázalo být do velké míry příliš obecné a obtížně vztažitelné k agendě a každodenní práci oddělení, což mělo za výsledek, že dopad těchto kroků na posun práce s poznatky byl omezený. Naopak když začaly být intervence v rámci PANKu cíleny na specifické úkoly, kterým oddělení X čelilo (což byla především příprava výzvy Y), pro pracovnice a pracovníky oddělení bylo jasnější, jak dané postupy využít i v jiných kontextech. 
+
+Dalším důležitým zjištěním bylo, že v procesu přípravy výzvy a její evaluace byla velmi přínosná přítomnost externích pozorovatelů a komentátorů. Členky a členové Českých priorit nepůsobili pouze jako lektorky a lektoři na daných workshopech, ale i moderátoři/ky a facilitátoři/ky debat oddělení. V průběhu projektu a v závěrečné reflexi se členky a členové oddělení X do velké míry shodovali, že pohled zvenčí od někoho, kdo nebyl zatížený ustanovenými procesy, poskytla nové impulsy a reflexi, které pomohly posunout diskuzi oddělení nad opakujícími se problémy. 
+
+
+# Zobecnitelnější vhledy
+
+Spolupráce s oddělením X a práce na výše zmíněných oblastech poukázala na několik aspektů práce s poznatky, které jsou relevantní i pro další oddělení státní správy. 
+
+První z nich, který byl přítomný i na dalších odděleních zapojených do projektu PANK, je pozitivní přínos zapojení externích osob do různých procesů a práce dané jednotky. Přítomnost osob, které jsou obeznámeny s agendou oddělení, ale přímo na ní nepracují, je užitečná pro moderaci a facilitaci diskuzí a pro poskytování zpětné vazby a reflexe z pozice, která není zatížená opakovanými diskuzemi na dané téma uvnitř týmu.  
+
+Druhým důležitým a zobecnitelnějším zjištěním bylo, že i relativně základní principy práce v týmu jako je stanovení agendy před schůzkami, jejich strukturované vedení a pořízení a sdílení zápisů z nich, fungují jako knowledge management. Tyto postupy shromažďují a strukturují poznatky sdílené a generované členy týmu, a umožňují tak jejich lepší práci s nimi. 
+
+Třetím poznatkem je, že oddělení reálně vytvářelo policy design, ačkoliv svoji práci takto explicitně nepojmenovávalo - práce na přípravě výzvy ale implicitně obnášela zamyšlení se nad mechanismy, skrze které měla mít kýžený dopad na cílovou skupinu, tj. nad intervenční logikou. Zjištěním relevantním pro další oddělení je pak to, že představení odborné literatury a sofistikovaných konceptů ze strany týmu PANK nebylo pro oddělení příliš nápomocné pro lepší uchopení celého procesu policy work. Naopak konkrétnější diskuze ohledně cíl policy, definice problému a nalézání možných řešení byla užitečnější v posunu práce oddělení na výzvě.  
+
+Poslední aspekt se pak týká specificky evaluací dopadů daného policy nástroje. Práce oddělení X ukazuje, že je nanejvýše žádoucí začít řešit proces evaluace co nejdříve, ideálně již při formulaci intervenční logiky. To se týká obzvláště cílů a ambicí evaluace, kdy je dobré si ujasnit, co přesně má být evaluováno.  
+
+# Dobré praxe
+
+Během spolupráce s oddělením X vykrystalizovalo několik postřehů, které mohou sloužit jako dobré praxe napříč státní správou. 
+
+První z nich je úzká spolupráce s evaluační jednotkou. V průběhu přípravy výzvy a její evaluace oddělení komunikovalo s evaluátory a evaluátorkami, což vedlo k důkladnější debaty nad evaluačním designem a nepřímo i intervenční logikou. 
+
+Další dobrou praxí, která může být inspirací i pro další oddělení státní správy, je podrobná práce s intervenční logikou v případech, kdy se daná jednotka angažuje v přípravě policy nástrojů, jako např. dotační výzva. Zevrubná rešerše a příprava intervenční logiky významně usnadní přípravu i implementaci daného nástroje.  
+
+
+# Systémové bariéry
+
+Spolupráce v rámci projektu PANK poukázala na několik systémových překážek, kterým oddělení X čelí a které poukazují na širší aspekty fungování minimálně daného ministerstva. 
+
+Na daném ministerstvu chybí chápání policy analysis a policy work jakožto svébytné činnosti, které tvoří min. část pracovní náplně jeho zaměstnanců a zaměstnankyň. Ačkoliv je příprava výzev a podobných policy nástrojů součástí agendy oddělení, tato skutečnost není reflektována v popisu práce zaměstnanců a zaměstnankyň ani v podpoře jejich práce.  
+
+Zároveň neexistuje základní přehled o dostupných zdrojích dat relevantních a zásadních pro kvalitní policy práci. To významně komplikuje přípravu policy instrumentů a další analytické i policy práce. 
+
+Na daném ministerstvu je pak nedostatečně institucionalizovaná spolupráce mezi odděleními zabývajícími se evropskými fondy a ostatními jednotkami. Fondy EU by logicky mohly sloužit jako (komplementární) nástroj implementace státních politik, ale v praxi neexistuje úzká komunikace a spolupráce mezi věcnými a fondovými odděleními. V případě oddělení X to pak znamenalo, že docházelo k minimálnímu inputu ze strany věcného oddělení, jehož expertíza přitom mohla práci oddělení na výzvě zkvalitnit a usnadnit.    
+
+V procesu přípravy výzvy a její evaluace se dále ukázalo, že stále existují mezery v přístupu k administrativním datům relevantním pro přípravu dané výzvy a její evaluace. Ačkoliv evaluační jednotka danými daty z části disponuje, neexistuje ustanovený mechanismus jejich sdílení s dalšími odděleními, které by je mohly využít v jejich činnostech. 
+
+Při uvažování o možnosti externí realizace evaluace se pak ukázala slabá místa rozhraní mezi státní správou a výzkumným sektorem: nejasná role a schopnost ministerstva úkolovat zřizované výzkumné pracoviště, relativně slabé povědomí na ministerstvu o možnostech využití programů aplikovaného výzkumu, a konečně i neschopnost sladit potřeby a možnosti veřejné správy a akademické sféry.
+
+Poslední bariérou na systémové úrovni jsou nevyjasněné role různých aktrérů v rámci konzultačních mechanismů v procesu tvorby politik. Evropské fondy, ve kterých se oddělení pohybuje, má nastaveny konzultační mechanismy (zde tzv. Programová partnerství). Jejich prostřednictvím jsou do procesu přípravy výzvy vtahování relevantní aktéři. V konzultované skupině se ale mísí experti, zástupci zájmových skupin, zástupci veřejné správy a zástupci příjemců. Zpětná vazba pak má často formu připomínek z těchto různých pozic. Tato konfigurace komplikuje využití expertů (pokud jsou zastoupeni, jejich hlas je sekundární), omezuje konzultaci s příjemci (interakce s nimi sklouzává do advocacy) a celkově tak může tvůrce politiky přivést k mylnému dojmu, že provedl plnohododnotný konzultační proces a sběr poznatků z terénu.
+
+
+# Závěr
+
+Spolupráce s oddělením X ukazuje, že je vhodné navázat intervence na konkrétní agendu, které se členové a členky dané jednotky momentálně věnují. Tento postup pomůže zajistit, že pro dané zaměstnance a zaměstnankyně je jednodušší se se k daným postupům a principům vztáhnout a uplatnit je v praxi. Zrcadlově pak nepříliš dobře fungovaly intervence, které byly příliš abstraktní a obecné. Zároveň se během spolupráce opakovaně ukazoval význam externích komentátorů a moderátorů diskuzí nad danými problémy.      
+
+
+
+
+
