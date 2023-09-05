@@ -3,14 +3,18 @@ project:
   preview:
     port: 4444
     navigate: false
+  resources:
+  - fonts
 
 website:
-  title: "PANK!!!"
-  page-footer: "<br />České priority 2023, CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>. <br/> Built with Quarto, kód [na Githubu](https://github.com/petrbouchal/pank-foolkit)"
+  title: "PANK [draft]"
+  page-footer:
+    left: "České priority 2023<br />CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>."
+    right: "Built with Quarto, kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   navbar:
-    left:
-      - pruvodce/index.qmd
     right:
+      - pruvodce/index.qmd
+      - text: "|||"
       - pripadove-studie/index.qmd
       - teze-o-praci-s-poznatky.qmd
       - systemova-doporuceni.qmd
@@ -29,9 +33,10 @@ format:
       title-block-author-single: " "
     lang: cs
     theme:
-      light: [cosmo, styles.scss]
+      light: [cosmo.scss, styles.scss]
       # dark: [darkly, styles-dark.scss]
     toc: true
+
 
 
 
