@@ -14,7 +14,7 @@ website:
   navbar:
     right:
       - pruvodce/index.qmd
-      - text: "|||"
+      - text: "   "
       - pripadove-studie/index.qmd
       - teze-o-praci-s-poznatky.qmd
       - systemova-doporuceni.qmd
