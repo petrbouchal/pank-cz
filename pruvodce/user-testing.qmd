@@ -10,12 +10,10 @@ editor: source
 
 # O co jde a k čemu to je
 
-:::{.callout-note icon=false appearance=simple collapse=true}
-
 Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to čím dál tím více pomocí webových stránek. Před samotným rozvojem webového produktu je důležité umět sondovat potřeby budoucích uživatelů a přizpůsobit webový produkt jejim očekáváním. Po vytvoření webových stránek je užitečné je otestovat a zjistit, zda web skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k využití produktu. 
 
 
-## Případová studie
+# Případová studie
 
 V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu [strategie RIS3](https://www.ris3.cz/) spolu s členy oddělení S3 na MPO.
 
