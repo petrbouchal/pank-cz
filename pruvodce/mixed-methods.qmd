@@ -28,7 +28,7 @@ Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agent
 - paralelní (konvergentní) design: QUAN a QUAL metody jsou aplikované souběžně 
 - sekvenční design: aplikace QUAN metod předchází kvalitativnímu výzkumu, zejména pro identifikaci respondentů. 
 
-### Design dotazníkového šetření
+## Design dotazníkového šetření
 
 Při designu dotazníků je potřeba vyvážit kvalitu a množší otázek a zároveň explicitně odůvodnit potřebu sbírat data skrz dotazníkové šetření. 
 Mezi možná odůvodnění lze zařadit následující prvky:
@@ -38,7 +38,7 @@ Mezi možná odůvodnění lze zařadit následující prvky:
 - skrz QUAN šetření lze identifikovat další respondenty
 - zkoumají se různé optiky na stejný problém, QUAN pro zjištění frekvencí a možnost je porovnávat, QUAL pro pochopení souvisejících mechanismů
 
-### Zjištěte, jaké máte kapacity
+## Zjištěte, jaké máte kapacity
 
 - výzkumníci jsou vyškolení, umí metodu aplikovat a vyhodnocovat výsledky
 - jsou k dispozici data v případě QUAN analýz
