@@ -89,9 +89,17 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 ## Použijte checklisty
 
-### Checklist pro tabulky
+:::{.callout-note title="Checklist" collapse=true}
 
-### Checklist pro grafy
+{{< include example-checklist.qmd >}}
+
+:::{.btn .btn-primary}
+[Stáhnout checklist ve wordu](mixed-methods-checklist.docx)
+:::
+
+---
+
+:::
 
 ## Otestujte srozumitelnost a pochopitelnost grafu
 
