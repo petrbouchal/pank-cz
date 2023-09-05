@@ -18,7 +18,7 @@ Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je
 Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agentura pro sociální začleňování).
 
 :::{.btn .btn-primary}
-[Přečíst případovou studii](pripadove-studie/asz)
+[Přečíst případovou studii](/pripadove-studie/asz)
 :::
 
 # Sebediagnostika: je to pro mě?
