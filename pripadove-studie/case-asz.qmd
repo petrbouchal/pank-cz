@@ -11,7 +11,7 @@ listable: "listable"
 
 Zaměstnanci tohoto oddělení realizují výzkumnou práci v obcích, které spolupracují s MMR na tvorbě lokálních strategiích sociálního začleňování. V tomto ohledu se jedná o čistě analytický útvar, který sbírá data a vytváří podklady pro tvorbu lokálních strategií, návrhy opatření a jejich následná evaluace. Hlavním těžištěm práce historicky spočívalo ve sběru kvalitativních dat skrz rozhovory a pozorování, ale v posledních letech se vyvíjí snahy o jejich doplnění a rozšíření pomocí kvantitativních dat. 
 
-#Proč se tým zapojil do projektu 
+# Proč se tým zapojil do projektu 
 
 Vedení a členové týmu se plně ztotožňují s myšlenkou evidence-based přístupů při tvorbě veřejných politik v oblasti sociálního začleňování. Ty nicméně mnohdy naráží na politické motivace a zájmy lokálních zastupitelů, a proto mají kvalitativní i kvantitativní poznatky z terénu hrát stěžejnější roli při vyjednávání s lokálními zastupiteli. Zvýšení jejich kvality, ale i srozumitelnosti a využitelnosti dalšími aktéry tudíž bylo hlavní motivací, proč se zapojit do projektu PANK. 
 
