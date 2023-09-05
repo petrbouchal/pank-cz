@@ -4,9 +4,6 @@ pagetitle: "PANK foolkit"
 page-layout: article
 toc: false
 listing: 
-  - id: pripadovky
-    template: pripadove-studie/pripadovky.ejs
-    contents: pripadove-studie/case*.qmd
   - id: pripadovky-alt
     type: table
     contents: pripadove-studie/case*.qmd
@@ -37,16 +34,7 @@ listing:
 
 ## Případové studie
 
-:::{#pripadovky}
-:::
-
-### Alternativa
-
-:::{.callout-note appearance=simple icon=false}
-
 :::{#pripadovky-alt}
-:::
-
 :::
 
 

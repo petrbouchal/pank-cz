@@ -4,6 +4,7 @@ xx: "unlistable"
 editor: source
 listing:
   - id: pripadovky
+    template: pripadovky.ejs
     type: default
     contents: case*.qmd
     fields: [title, description]
