@@ -1,5 +1,5 @@
 ---
-title: "Uživatelské testování"
+title: "Uživatelský výzkum a testování webového produktu"
 subtitle: "This is abouts uživatelské testování"
 editor: source
 blok: ["vyuziti"]
