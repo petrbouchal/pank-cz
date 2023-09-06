@@ -74,35 +74,37 @@ h. Vypracování intervenční logiky
 
 ## 2. Záměr nástroje
 
-  i. Interní dokument, který v krátkosti představuje problematiku a cíle a metody nástroje
-  ii. Vypracování prvního draftu 
-  iii. Interní připomínkování draftu
-  iv. Konzultace draftu s odborníky a odbornicemi
-  v. Připomínkování ze strany vedení
+  a. Interní dokument, který v krátkosti představuje problematiku a cíle a metody nástroje
+  b. Vypracování prvního draftu 
+  c. Interní připomínkování draftu
+  d. Konzultace draftu s odborníky a odbornicemi
+  e. Připomínkování ze strany vedení
 
+## 3. Příprava budoucí evaluace
 
-Cílem je mít přehled udělaný tak, aby byla pochopitelný i pro zbytek organizace a dalo se v něm lehce vyhledávat. 
+  a. Seznámení se s principy, cíly a metodami evaluace
+  b. Konzultace s interní evaluační jednotkou (pokud taková existuje), případně externími odborníky a odbornicemi 
+  c. Vydefinování cílů evaluace
+  d. Zanesení mechanismů (budoucí) evaluace do záměru nástroje a jeho vypsání 
 
-a. To nejen pro členy analytického oddělení, ale také pro jeho zákazníky, kteří by databázi měli využívat.
+## 4. Vypracování a zveřejnění samotného nástroje
 
-b. Zde doporučujeme přizvání několika archetypů těchto zákazníků do procesu vytváření, aby jejich zpětná vazba mohla být součástí finálního produktu. Při designu je také zapotřebí mít na paměti potenciální růst celé databáze, která v čase může významně překonat současnou velikost. 
+  BUDE DOPLNĚNO
 
-## 3. Zaneste jednotlivé činnosti do přehledu
+# Inspirace/zdroje 
 
-a. Pokud historicky existuje velké množství analýz, doporučujeme doplnit databázi např. za poslední rok a pak postupně doplňovat nově vzniklé analýzy (tzv. from now on). Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
+  BUDE DOPLNĚNO
 
-## 4. Reflexe
+# V čem může pomoci účast externích spolupracovníků? 
 
-Zamyslete se, jak s přehledem pracovat dále, kdo se o něj bude starat apod.
+  a. Moderace a facilitace interních workshopů k problematice
+  b. Strukturování nápadů a debat 
+  c. Feedback na drafty jednotlivých dokumentů
 
-## 5. Vyjasněte si komunikační plán přehledu 
+# Tipy a triky
 
-a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je důležité, aby se o její existenci dozvěděli. Lze možné konzultace např. i s PR oddělením organizace.
-
-b. Doporučujeme vytvoření zjednodušeného přehledu, který se zveřejní k využití pro běžného uživatele.
-
-# Na co si dát pozor aneb tipy & triky
-
-Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby databáze byla nadesignovaná tak, aby se s ní dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy databáze novému člověku.
-
-Dále navrhujeme vytvořit kromě samotné databáze také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
+  a. Zkušenosti ukazují, že je důležité přípravu intervenční logiky nepodcenit, jelikož se pak propisuje do všech dalších kroků 
+  b. Záměr nástroje je nápomocný v definici celkové problematiky a jejího vyjasnění si uvnitř týmu
+  c. Stejně tak evaluaci nástroje je nutné řešit již v průběhu formulace, aby bylo možné do designu nástroje zanést evaluační mechanismy 
+  d. Kolektivní brainstorming a připomínkování 
+  e. Vhodná je přítomnost někoho externího, pokud existuje ta možnost
