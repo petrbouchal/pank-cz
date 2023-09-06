@@ -5,6 +5,6 @@ editor: source
 
 # Zdroje
 
-[ 1OO metod ] (https://kisk.phil.muni.cz/100metod)
+[ (1OO metod) ] (https://kisk.phil.muni.cz/100metod)
 
 
