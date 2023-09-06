@@ -13,17 +13,19 @@ editor: source
 
 Níže popsané má za cíl určit zda by útvar veřejné správy měl přemýšlet nad vytvořením databáze úkolů a jak případně v tomto vytváření postupovat tak, aby byla databáze smysluplná a udržitelná. 
 
-## Případové studie
+:::{.aside}
+
+**Případové studie**
 
 Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělením TA ČR.
 
-<center>
+<br />
 
 :::{.btn .btn-primary}
 [přečíst případovou studii](../pripadove-studie/tacr)
 :::
 
-</center    >
+:::
 
 # Sebediagnostika: je to pro mě?
 
@@ -33,6 +35,8 @@ Má smysl v naší situaci vytvářet databázi analýz?
 - Děláme dostatečně velký počet analýz, aby databáze měla smysl?
 - Umožní nám databáze lépe plánovat a prioritizovat činnosti?
 - Umožní nám databáze identifikovat procesy pro zjednodušení/automatizaci zaběhlých - analýz?
+
+:::{.strip .page-columns .page-full}
 
 # Jak na to
 
@@ -64,8 +68,11 @@ a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je
 
 b. Doporučujeme vytvoření zjednodušeného přehledu, který se zveřejní k využití pro běžného uživatele.
 
+:::
+
 # Na co si dát pozor aneb tipy & triky
 
 Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby databáze byla nadesignovaná tak, aby se s ní dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy databáze novému člověku.
 
 Dále navrhujeme vytvořit kromě samotné databáze také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
+

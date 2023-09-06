@@ -1,7 +1,7 @@
 ---
 title: "Vizualizace dat"
 subtitle: "Jak zobrazit data tak, aby se na to dalo dívat"
-description: "Dobré praxe, tipy a hlavně návod, jak vylepšit své datové vizualizace"
+# description: "Dobré praxe, tipy a hlavně návod, jak vylepšit své datové vizualizace"
 categories: ["Komunikace", "Kvanti"]
 blok: ["vyuziti"]
 title-block-categories: false
@@ -21,18 +21,24 @@ Vizualizace je datový produkt a tak k němu můžete přistupovat.
 - Produkt před vypuštěním do světa otestovat  
 - Pak sbírat zpětnou vazbu a iterativně zlepšovat  
 
-# Případová studie
+:::{.aside}
+
+### Případová studie
 
 Tuto intervenci jsme aplikovali s týmem OVE na MMR
+
+:::
 
 # Sebediagnostika: je to pro mě?
 
 - Máme signály o tom, že nemáme optimální vizualizace?
 - ...
 
-# Jak na to
 
-## Vcíťte se do čtenáře 
+
+# Jak na to {.strip}
+
+## 1. Vciťte se do čtenáře 
 
 **Vytvořte karty uživatelů**
 
@@ -47,7 +53,7 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 
 
-## Definujte sdělení
+## 2. Definujte sdělení
 
 ### Tabulka nebo graf?
 
@@ -92,7 +98,7 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
   - Podtitulek: = popis datové sady, území a časového úseku: “Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022”
 - Zdroj  
 
-## Použijte checklisty
+## 4. Použijte checklisty
 
 :::{.callout-note title="Checklist" collapse=true}
 
@@ -106,7 +112,7 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 :::
 
 
-## Otestujte srozumitelnost a pochopitelnost grafu
+## 5. Otestujte srozumitelnost a pochopitelnost grafu
 
 ### Otestujte graf na sobě:
 
@@ -118,7 +124,6 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 - Sdělení: *Projdi si, prosím, graf a zkus identifikovat, co je jeho hlavní myšlenkou, sdělením.*
 
 Pokuste se taky ukázat někomu graf na pouhých 5 vteřin a zeptejte se, co je jeho hlavní myšlenkou. 
-
 
 # Další zdroje
 

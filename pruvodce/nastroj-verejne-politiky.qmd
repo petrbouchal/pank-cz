@@ -1,10 +1,8 @@
 ---
-title: "Tvroba nástroje veřejné politiky"
+title: "Tvorba nástroje veřejné politiky"
 subtitle: "Jak lépe připravovat dotační výzvy a podobné instrumenty"
 categories: ["Organizace práce", "Design politik"]
 blok: ["metody"]
-title-block-banner: true
-title-block-banner-color: "#CDE7FF"
 title-block-categories: false
 editor: source
 ---
@@ -13,17 +11,19 @@ editor: source
 
 Tato intervence se zabývá zlepšením a zefektivněním přípravy nástroje veřejné politiky jako jsou například evaluační výzvy. Popisuje činnost od prvních kroků formulace cílů nástroje až po přípravu evaluace jeho působení. Je určena pro oddělení, jejichž agenda se neskládá primárně z policy analysis a přípravy nástrojů veřejné politiky, a jejichž zaměstnanci a zaměstnankyně nejsou příliš zkušení v těchto činnostech. 
 
-## Případové studie
+:::{.aside}
+
+**Případové studie**
 
 Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných příležitostí ESF MPSV.
 
-<center>
+<br />
 
 :::{.btn .btn-primary}
 [přečíst případovou studii](../pripadove-studie/mpsv)
 :::
 
-</center    >
+:::
 
 # Sebediagnostika: je to pro mě?
 
@@ -35,8 +35,9 @@ Tato intervence je vhodná pro týmy, které jsou v zhruba těchto situacích
 - Není jasná definice toho, k čemu má daný nástroj mířit
 - Nedisponují dostatečnou datovou podporou
 
+:::{.strip .page-full .page-columns}
 
-# Jak na to
+# Jak na to 
 
 ## 1. Vyjasněte zaměření a cíle výzvy
 
@@ -90,6 +91,8 @@ h. Vypracování intervenční logiky
 
   BUDE DOPLNĚNO
 
+:::
+
 # Inspirace/zdroje 
 
   BUDE DOPLNĚNO
@@ -99,6 +102,7 @@ h. Vypracování intervenční logiky
   a. Moderace a facilitace interních workshopů k problematice
   b. Strukturování nápadů a debat 
   c. Feedback na drafty jednotlivých dokumentů
+
 
 # Tipy a triky
 
