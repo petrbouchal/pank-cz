@@ -3,6 +3,7 @@ title: "O práci s poznatky"
 subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: true
+toc-location: left
 aliases: 
   - teze
 format: 
@@ -11,7 +12,7 @@ format:
   docx: default
 ---
 
-# Týmové
+# Co by si měly uvědomit týmy a jejich členové
 
 ## Široké chápání analytické práce
 
@@ -78,7 +79,7 @@ TO DO
 
 TO DO
 
-# Systémové
+# Co je třeba vědět, abychom zvládli systémová zlepšení
 
 ## Široké chápání analytické práce 
 
