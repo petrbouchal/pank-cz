@@ -7,4 +7,3 @@ editor: source
 
 [1OO metod] (https://kisk.phil.muni.cz/100metod) Rozcestník služeb pro odpovědný design informační služeb
 
-
