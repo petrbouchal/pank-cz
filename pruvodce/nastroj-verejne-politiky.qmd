@@ -46,12 +46,11 @@ Tato intervence je vhodná pro týmy, které jsou v zhruba těchto situacích
 
   - i. Zdroje DOPLNIT
 
-c. Rešerše k empirické problematice
+- c. Rešerše k empirické problematice
 
-d. Vyjasnění cílové skupiny
-
-  i. Na koho nástroj míří?
-  ii. Co o cílové skupině víme?
+ - d. Vyjasnění cílové skupiny
+  - i. Na koho nástroj míří?
+  - ii. Co o cílové skupině víme?
 
 e. Vyjasnit si problém: Co víme o problémech, který má výzva adresovat?
 
