@@ -6,7 +6,8 @@ zkratka: TAČR
 description: "Datově-analytický tým grantové agentury v oblasti aplikovaného výzkumu"
 listable: "listable"
 aliases: 
-  - pripadove-studie/tacr
+  - /pripadove-studie/tacr
+  - /tacr
 ---
 
 # Představení 
