@@ -23,9 +23,15 @@ Vizualizace je datový produkt a tak k němu můžete přistupovat.
 
 :::{.aside}
 
-### Případová studie
+**Případová studie**
 
 Tuto intervenci jsme aplikovali s týmem OVE na MMR
+
+<br />
+
+:::{.btn .btn-primary}
+[přečíst případovou studii](../pripadove-studie/asz)
+:::
 
 :::
 
