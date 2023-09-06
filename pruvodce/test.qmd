@@ -10,7 +10,7 @@ language:
   toc-title-website: Kapitoly průvodce
 title-block-banner: true
 aliases: 
-  - test
+  - v2
 listing:
   - id: rizeni
     template: ../ejs/navod-listing.ejs
