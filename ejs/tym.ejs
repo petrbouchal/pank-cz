@@ -1,0 +1,51 @@
+```{=html}
+
+<%
+// Number of columns
+const cols = 2;
+
+// Card alignment
+const align = "left";
+
+// Borders
+const hideBorders = true;
+
+// Cap Options
+const imgHeight = "30%";
+%>
+
+<div class="list grid quarto-listing-cols-<%=cols%>">
+<% for (const item of items) { %>
+  <div class="g-col-1" <%= metadataAttrs(item) %>>
+    <div class="quarto-grid-item card card-case h-100">
+      <% if (item.image) { %>
+        <span class="card-img-top">
+          <img src="<%= item.image %>" class="thumbnail-image card-img" style="height: 100%; width: 30%;" alt="<%= item['image-alt'] %>">
+        </span>
+      <% } else { %>
+        <span class="card-img-bg" <%= imgHeight ? ` style="height: ${imgHeight};"` : '' %>>&nbsp;</span>
+      <% } %>
+      <% if ('title' || 'subtitle' || 'description' || 'author' || 'date' || otherFields.length > 0) { %>
+        <div class="card-body">
+          <% if ('title') { %><div class="no-anchor card-title-team"><b><%= item.title %> </b></div><% } %>
+          <% if ('tagline') { %><div class="card-subtitle-small listing-subtitle"><%= item.description %></div><% } %>
+
+
+          <%
+          const flexJustify = 'author' && 'date' ? "justify" : 'author' ? "start" : "end";
+          %>
+          <style>
+            .listing-categories .listing-category .listing-href {
+              color: inherit; /* blue colors for links too */
+              text-decoration: none; /* no underline */
+            }
+          </style>
+        </div>
+      <% } %>
+
+    </div>
+  </div>
+<% } %>
+</div>
+
+```

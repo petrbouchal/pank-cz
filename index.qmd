@@ -23,6 +23,10 @@ listing:
     fields: 
       - title
       - subtitle
+  - id: tym
+    type: grid
+    template: ejs/tym.ejs
+    contents: tym.yaml
 ---
 
 # Osvoboďte potenciál svého (ne)analytického týmu
@@ -50,9 +54,36 @@ listing:
 
 ## Systémové bariéry
 
-## Systémová doporučení
+Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskepriority.cz).
+
+Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvodce) nebo s Vámi prodiskutujeme naše [doporučení](/doporuceni).
+
+:::{.btn .btn-primary}
+[Ozvěte se nám ⟶](mailto:email@ceskepriority.cz)
+:::
 
 
+<br />
+
+:::{#tym}
+:::
+
+V odborném poradním týmu nám pomáhala řada expertů z řad praktiků a akademiků a těžili jsme také z rad mnoha mezinárodních odborníků.
+
+
+Kromě rozvoje analytické práce se České priority soustředí na systémové změny v oblasti informovaného rozhodování. Pomáháme také rozvíjet foresight, forecasting a aplikace metod analýzy přínosů a nákladů.
+
+:::{.btn .btn-primary}
+[Více o Českých prioritách ⟶](https://ceskepriority.cz)
+:::
+
+<br />
+
+Tento průvodce a všechny související výstupy vznikly díky Technologické agentuře ČR, která podpořila náš projekt PANK. 
+
+:::{.btn .btn-primary}
+[Příběh projektu ⟶](/pribeh-projektu)
+:::
 
 
 
