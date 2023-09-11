@@ -1,7 +1,7 @@
 ---
 # title: "Osvoboďte potenciál svého (ne)analytického týmu"
-title: "Pracovat s poznatky* potřebuje i Váš tým."
-subtitle: "Zlepšete se v tom."
+title: "<br />Pracovat s poznatky* potřebuje i Váš tým.<br />"
+subtitle: "<br />Rádi vám s tím pomůžeme.<br />"
 pagetitle: "PANK foolkit"
 title-block-banner: true
 toc: false
@@ -21,7 +21,7 @@ listing:
 
 > **\* *poznatky*: analýzy, data, podklady**, nebo taky angl. *evidence* [| viz [slovníček](/slovnicek)]{class="grey-text"}
 
-# Know-how nejen pro analytické týmy
+# Průvodce prací s poznatky: know-how <br/> nejen pro analytické týmy
 
 :::{.aside}
 
@@ -45,7 +45,7 @@ Reagují na **reálné problémy a situace** a vychází ze současné mezináro
 
 # Vycházíme z mnoholetých zkušeností s prací s analytickými týmy
 
-Návody a jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích.  
+Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích. Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích. Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
 
 :::{.btn .btn-primary}
 [Číst případové studie ⟶](/pripadove-studie)
@@ -63,6 +63,12 @@ Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste
 ## Doporučení pro systémovou změnu
 
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+
+:::{.btn .btn-primary}
+[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/teze)
+:::
+
+<br />
 
 :::
 

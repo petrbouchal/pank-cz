@@ -8,19 +8,24 @@ project:
   - fonts
 
 website:
-  title: "PANK [draft]"
+  title: "PANK"
   page-footer:
     left: "České priority 2023<br />CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>."
     right: "Built with Quarto, kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   navbar:
     right:
-      - text: "<button class = 'btn-top'>Průvodce</button>"
+      - text: "<button class = 'btn-top'>Průvodce prací s poznatky</button>"
         file: pruvodce/index.qmd
       - pripadove-studie/index.qmd
-      - teze-o-praci-s-poznatky.qmd
-      - systemova-doporuceni.qmd
-      - slovnicek.qmd
-      - inspirace.qmd
+      - text: "Slovníček"
+        file: slovnicek.qmd
+      - text: "Doporučení"
+        menu:
+        - text: "Jak přemýšlet o práci s poznatky"
+          file: teze-o-praci-s-poznatky.qmd
+        - systemova-doporuceni.qmd
+        - text: "Co číst a využívat"
+          file: inspirace.qmd
       - pribeh-projektu.qmd
     logo: logo.png
   open-graph:
