@@ -1,21 +1,11 @@
 ---
-title: ""
+# title: "Osvoboďte potenciál svého (ne)analytického týmu"
+title: "Pracovat s poznatky* potřebuje i Váš tým."
+subtitle: "Zlepšete se v tom."
 pagetitle: "PANK foolkit"
-page-layout: article
+title-block-banner: true
 toc: false
 listing: 
-  - id: pripadovky-alt
-    type: table
-    contents: pripadove-studie/case*.qmd
-    filter-ui: false
-    sort-ui: false
-    fields: [title, description]
-    field-display-names: 
-      title: " "
-      description: " "
-    field-links: 
-      - title
-      - description
   - id: bloky
     type: grid
     template: bloky.ejs
@@ -29,30 +19,54 @@ listing:
     contents: tym.yaml
 ---
 
-# Osvoboďte potenciál svého (ne)analytického týmu
+> **\* *poznatky*: analýzy, data, podklady**, nebo taky angl. *evidence* [| viz [slovníček](/slovnicek)]{class="grey-text"}
+
+# Know-how nejen pro analytické týmy
+
+:::{.aside}
+
+<br />
+
+:::
+
+
+V [průvodci](pruvodce) najdete **návody, postupy a zlepšováky**, které jsme pro vás dva roky vyvíjeli a testovali spolu s několika analytickými a neanalytickými týmy v české státní správě. 
+
+Reagují na **reálné problémy a situace** a vychází ze současné mezinárodní **praxe a odborné literatury**.
+
+<br />
 
 :::{#bloky}
 :::
 
-# Vycházíme z mnoholetých zkušeností z prací s analytickými týmy
+<br />
 
-## Případové studie
+:::{.strip .page-columns .page-full}
 
-:::{#pripadovky-alt}
+# Vycházíme z mnoholetých zkušeností s prací s analytickými týmy
+
+Návody a jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích.  
+
+:::{.btn .btn-primary}
+[Číst případové studie ⟶](/pripadove-studie)
 :::
 
 
 ## Teze o práci s poznatky ve státní správě
 
-:::{.panel-tabset}
+Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
-### Pro týmy
+:::{.btn .btn-primary}
+[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze)
+:::
 
-### Pro stát
+## Doporučení pro systémovou změnu
+
+Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
 :::
 
-## Systémové bariéry
+# Náš tým podporuje informované rozhodování ve veřejné správě
 
 Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskepriority.cz).
 
@@ -87,4 +101,3 @@ Tento průvodce a všechny související výstupy vznikly díky Technologické a
 
 
 
-# Náš tým podporuje informované rozhodování ve veřejné správě
