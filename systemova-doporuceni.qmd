@@ -2,6 +2,8 @@
 title: "Doporučení pro stát"
 editor: source
 title-block-banner: true
+aliases: 
+  - /doporuceni
 ---
 
 # Bariéry
