@@ -1,0 +1,8 @@
+---
+title: "Máte nápad?"
+subtitle: "Dejte nám vědět a my Vaši dobrou praxi doplníme."
+editor: source
+napad: true
+blok: ["vyuziti", "rizeni", "ziskavani", "metody"]
+poradi: 1000
+---

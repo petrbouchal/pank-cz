@@ -192,6 +192,10 @@ $callout-color-important: $cp-secondary-dark;
   background-color: $cp-secondary-grey;
 }
 
+.card-napad {
+  border-style: dotted;
+}
+
 .callout {
   border-radius: 0px;
   border-right-color: white !important;
