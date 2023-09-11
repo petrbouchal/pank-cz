@@ -1,6 +1,5 @@
 ---
 title: "Průvodce"
-page-layout: full
 listable: not
 execute:
   echo: false
@@ -9,64 +8,72 @@ language:
   listing-page-category-all: "Všechna"
   toc-title-website: Kapitoly průvodce
 title-block-banner: true
+aliases: 
+  - v2
 listing:
   - id: rizeni
-    type: grid
-    grid-columns: 3
-    categories: true
-    include:
+    template: ../ejs/navod-listing.ejs
+    categories: false
+    sort: poradi
+    include: 
       blok: "rizeni"
-    fields: [title, subtitle, categories]
-    sort: poradi
-    # filter-ui: [title, subtitle, description]
+    template-params:
+      bg: "red"
   - id: ziskavani
-    type: grid
-    grid-columns: 3
-    categories: true
-    include:
+    categories: false
+    sort: poradi
+    template: ../ejs/navod-listing.ejs
+    include: 
       blok: "ziskavani"
-    fields: [title, subtitle, categories]
-    sort: poradi
-    # filter-ui: [title, subtitle, description]
+    template-params:
+      bg: "blue"
   - id: metody
-    type: grid
-    grid-columns: 3
-    categories: true
-    include:
+    categories: false
+    sort: poradi
+    template: ../ejs/navod-listing.ejs
+    include: 
       blok: "metody"
-    fields: [title, subtitle, categories]
-    sort: poradi
-    # filter-ui: [title, subtitle, description]
+    template-params:
+      bg: "grey"
   - id: vyuziti
-    type: grid
-    grid-columns: 3
-    categories: true
-    include:
-      blok: "vyuziti"
-    fields: [title, subtitle, categories]
+    categories: false
     sort: poradi
-    # filter-ui: [title, subtitle, description]
+    template: ../ejs/navod-listing.ejs
+    include: 
+      blok: "vyuziti"
+    template-params:
+      bg: "darkblue"
 ---
+
+
 
 ## Řízení týmu
 
+<br />
 
 ::: {#rizeni}
 :::
 
-## Přístup k poznatkům a datům
+## Přístup k poznatkům
 
-Zlepšete, jak sbíráte a získáváte poznatky - data, podklady aj. - pro svou práci.
+<br />
 
 ::: {#ziskavani}
 :::
 
 ## Metody a postupy
 
+<br />
+
 ::: {#metody}
 :::
 
-## Využití výstupů
+## Využitelnost výstupů
+
+<br />
 
 ::: {#vyuziti}
 :::
+
+
+
