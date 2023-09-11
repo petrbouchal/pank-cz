@@ -16,7 +16,7 @@ Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je
 
 # Případová studie
 
-Tuto intervenci jsme aplikovali s oddělením výzkumů a evaluace na MMR (Agentura pro sociální začleňování).
+Tento návod jsme vyvíjeli a testovali ve spolupráci s týmem výzkumu a evaluací Agentury pro sociální začleňování.
 
 :::{.btn .btn-primary}
 [Přečíst případovou studii](/pripadove-studie/asz)
