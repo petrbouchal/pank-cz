@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
   preview:
     port: 4444
     navigate: false
@@ -13,8 +14,8 @@ website:
     right: "Built with Quarto, kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   navbar:
     right:
-      - pruvodce/index.qmd
-      - text: "   "
+      - text: "<button class = 'btn-top'>Průvodce</button>"
+        file: pruvodce/index.qmd
       - pripadove-studie/index.qmd
       - teze-o-praci-s-poznatky.qmd
       - systemova-doporuceni.qmd
@@ -30,6 +31,8 @@ website:
 
 format:
   html:
+    filters:
+    - pandoc-quotes.lua
     language:
       title-block-author-single: " "
     lang: cs
