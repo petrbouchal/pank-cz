@@ -6,7 +6,7 @@ categories: ["Řízení"]
 blok: ["rizeni"]
 title-block-categories: false
 author: "[Otestováno]"
-poradi: 100
+poradi: 9
 editor: source
 margin-footer: "[<< Zpět na obsah průvodce](../pruvodce)"
 reference-location: margin

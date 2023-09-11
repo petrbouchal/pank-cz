@@ -4,6 +4,7 @@ subtitle: "Jak zkombinovat kvanti a kvali?"
 editor: source
 categories: ["Vychytávka", "Basics"]
 blok: ["metody"]
+poradi: 6
 format: 
   html: default
   docx: default

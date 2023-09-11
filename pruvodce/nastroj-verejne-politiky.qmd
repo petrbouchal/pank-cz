@@ -4,6 +4,7 @@ subtitle: "Jak lépe připravovat dotační výzvy a podobné instrumenty"
 categories: ["Organizace práce", "Design politik"]
 blok: ["metody"]
 title-block-categories: false
+poradi: 7
 editor: source
 ---
 

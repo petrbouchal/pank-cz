@@ -6,6 +6,7 @@ categories: ["Komunikace", "Kvanti"]
 blok: ["vyuziti"]
 title-block-categories: false
 editor: source
+poradi: 2
 ---
 
 # O čem to je

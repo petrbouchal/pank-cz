@@ -6,6 +6,7 @@ blok: ["rizeni"]
 title-block-banner: true
 title-block-banner-color: "#CDE7FF"
 title-block-categories: false
+poradi: 8
 editor: source
 ---
 

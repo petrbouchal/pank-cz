@@ -4,6 +4,7 @@ subtitle: "Podtitulek, co vysvětlí a naláká"
 description: "O něco delší popis, co taky vysvětlí a naláká, jen klidně na celý řádek"
 categories: ["Vzor", "Zásobník"]
 blok: ["ziskavani"]
+poradi: 1
 title-block-categories: false
 editor: source
 ---

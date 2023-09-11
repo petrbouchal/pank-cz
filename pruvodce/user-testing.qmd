@@ -4,6 +4,7 @@ subtitle: "Jak prezentovat výsledky na webu"
 categories: ["Pro analytiky", "Design"]
 blok: ["vyuziti"]
 title-block-categories: false
+poradi: 11
 editor: source
 ---
 
