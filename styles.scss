@@ -30,7 +30,7 @@ $nav-tabs-border-color: $cp-primary-blue;
 $nav-link-border-color: $cp-primary-blue;
 $nav-link-color: $cp-primary-blue;
 
-$nav-tabs-border-width: 4px;
+$nav-tabs-border-width: 0px;
 $nav-tabs-link-active-color: $cp-primary-blue;
 $nav-tabs-link-active-bg: $cp-primary-blue;
 $nav-tabs-link-active-border-color: $cp-primary-blue $cp-primary-blue rgba(255,255,255,0) $cp-primary-blue;
@@ -109,15 +109,16 @@ $callout-color-important: $cp-secondary-dark;
 /*-- scss:rules --*/
 
 .nav-link.active {
-  border-bottom-width: 0px !important;
   background: $cp-primary-blue !important;
   color: $cp-secondary-lightblue !important;
 }
 
 .btn {
-  padding-bottom: 3px;
+  border-radius: 20px;
+  padding-bottom: 0pt;
   background: $cp-primary-blue;
   border-color: $cp-primary-blue;
+  width: fit-content;
 }
 
 .btn p {
@@ -143,19 +144,43 @@ $callout-color-important: $cp-secondary-dark;
 }
 
 .card-title-small {
-  font-size: 18pt;
+  font-size: 23pt;
   font-family: $headings-font-family !important;
   color: $cp-primary-blue !important;
-  text-decoration: none;
-  margin-bottom: 10pt;
+  text-decoration: none !important;
   font-weight: 800;
   font-family: $font-family-sans-serif;
+  line-height: 1.2;
+}
+
+.listing-title {
+  font-size: 21pt !important;
+  line-height: 23pt;
+  text-decoration: none !important;
+}
+
+.card-title-small .listing-title {
+  margin-bottom: 50pt !important;
+  padding-bottom: 50pt !important;
+}
+
+.card-title-team {
+  font-size: 17pt !important;
+  font-family: $font-family-sans-serif !important;
 }
 
 .card-subtitle-small {
-  font-size: 10pt;
+  font-size: 14pt;
   color: $cp-secondary-dark !important;
   font-family: $font-family-sans-serif;
+}
+
+.grey-text {
+  color: grey;
+}
+
+.grey-text a {
+  color: grey !important;
 }
 
 .card-alt {
@@ -166,10 +191,12 @@ $callout-color-important: $cp-secondary-dark;
 
 .card {
   border-radius: 30px;
-  border-width: 0px;
+  border-width: 2px;
+  border-color: $cp-primary-blue;
   padding: 5px;
   padding-bottom: 0px;
-  background-color: $cp-secondary-lightblue;
+  background-color: white;
+  text-decoration: none !important;
 }
 
 .card-red {
@@ -243,12 +270,32 @@ $callout-color-important: $cp-secondary-dark;
   background: none !important;
 }
 
+.title {
+  font-size: 30pt;
+}
+
 .title .lead {
   font-size: 30pt;
 }
 
+.title .listing-title {
+  font-size: 10pt;
+}
+
+a {
+  text-decoration: underline;
+}
+
 h1, h2, h3, h4, h5 {
   border-bottom-width: 0px;
+}
+
+h1 {
+  font-size: 25pt !important;
+}
+
+h2 {
+  font-size: 20pt;
 }
 
 .rizeni-blok {
@@ -262,4 +309,42 @@ h1, h2, h3, h4, h5 {
 
 .strip {
   background-color: $cp-secondary-lightblue;
+}
+
+.tab-content {
+  border-width: 0px;
+}
+
+.btn-bloky {
+  width: 150px;
+  margin-bottom: 15pt;
+  margin-left: 10pt;
+  padding: 5pt;
+}
+
+.btn-bloky:hover {
+  background-color: $cp-secondary-blue;
+}
+
+.btn-bloky > a {
+  color: white;
+  text-decoration: none;
+}
+
+.blockquote {
+  color: $cp-primary-blue;
+}
+
+.nav-pills {
+  border-radius: 10px;
+}
+
+.nav-item {
+  border-radius: 10px;
+}
+
+.btn-top {
+  background-color: $cp-primary-red;
+  color: white;
+  border: none;
 }
