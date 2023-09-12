@@ -25,7 +25,7 @@ Změna je snazší než se zdá (začni u sebe)
 
 V analytické práci je komunikace zásadním aspektem celého procesu, který bývá často upozaděn. Pokud vyrábíme analytický produkt pro někoho, nebo po nás takový produkt někdo požaduje, je zásadní komunikovat během celého procesu, již od samotného zadání, jaký problém řešíme, jak a kým bude produkt využíván. Jinými slovy, je zapotřebí pravidelně komunikovat se zadavatelem/příjemce analýz tak, aby konečná analýza byla využitelná. V prostředí veřejné správy je důležité mít na paměti, že připomínkové řízení není dostatečnou substitucí za kvalitní komunikaci a k následnému využití analýz a podobných výstupů. 
 
-Úroveň výkonu/služby: individuální, tým, systém (org / cross-org)
+## Úroveň výkonu/služby: individuální, tým, systém (org / cross-org)
 
 V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Tím prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na “systém”. Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systematizován, jak efektivně a dobře nastavit jednotlivé sekce apd. V projektu jsem se snažili pracovat především s úrovní, která se nachází “mezi” těmito dvěma variantami. Tou je práce s týmem jako entitou, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání je dle naší zkušenosti smysluplné dívat se na to jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme.    
 
@@ -79,13 +79,13 @@ TO DO
 
 TO DO
 
+## Produkty, nejen projekty
+
+TO DO
+
 # Co je třeba vědět, abychom zvládli systémová zlepšení
 
-## Široké chápání analytické práce 
-
 ## Dilema: servisní nebo samostatná práce
-
-## Pozor na tech fixes
 
 ## Široké chápání analytické práce
 
@@ -111,6 +111,8 @@ Analytická práce nespočívá výlučně v produkci nových textů a zpráv, a
 Práce s poznatky probíhá i na řadě útvarů, které formálně “analytické” nejsou. 
 
 Dalším závěrem, který vychází ze širokého chápání práce s poznatky, je skutečnost, že kategorie analytických útvarů zahrnuje celou řadu oddělení - od “tvrdě” analytických, které se věnují datové analýze, po ty, kde k analytické práci dochází v rámci specifických a dílčích činností. I tyto útvary nicméně potřebují přístup k zásadám a postupům práce s poznatky, s čímž by měla veřejná správa počítat.
+
+## Knowledge Delivery funkce
 
 ## Technické fixy nejsou všespásné
 
