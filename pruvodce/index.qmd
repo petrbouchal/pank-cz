@@ -56,7 +56,7 @@ Zlepšete, jak váš tým funguje při práci s poznatky
 ::: {#rizeni}
 :::
 
-## Jak se dostat k datům poznatkům
+## Jak se dostat k datům a poznatkům
 
 Naučte se hledat a sbírat podklady a vstupy pro svou práci
 
