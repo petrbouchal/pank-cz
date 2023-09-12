@@ -3,7 +3,7 @@ title: "Zadávání externího výzkumu"
 subtitle: "Jak lépe pořídit výzkum zvenčí"
 description: "Tento návod vás provede pořízením výzkumu zvenčí"
 categories: ["Řízení"]
-blok: ["rizeni", "vyuziti", "ziskavani"]
+blok: ["ziskavani"]
 title-block-categories: false
 poradi: 12
 editor: source

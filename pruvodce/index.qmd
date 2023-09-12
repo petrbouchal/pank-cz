@@ -47,7 +47,7 @@ listing:
 
 
 
-## Jak řídit tým
+## Jak spolupracovat v týmu
 
 Zlepšete, jak váš tým funguje při práci s poznatky
 

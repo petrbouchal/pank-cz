@@ -9,7 +9,7 @@ editor: source
 poradi: 2
 ---
 
-# O čem to je
+# O co jde a k čemu to
 
 Před vypuštěním jakékoliv vizualizace dat do světa je dobré otestovat, zda je srozumitelná a pochopitelá.
 
@@ -36,7 +36,7 @@ Tuto intervenci jsme aplikovali s týmem OVE na MMR
 
 :::
 
-# Sebediagnostika: je to pro mě?
+# Je to pro mě?
 
 - Máme signály o tom, že nemáme optimální vizualizace?
 - ...
