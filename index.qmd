@@ -1,7 +1,7 @@
 ---
 # title: "Osvoboďte potenciál svého (ne)analytického týmu"
-title: "<br />Pracovat s poznatky* potřebuje i Váš tým.<br />"
-subtitle: "<br />Rádi vám s tím pomůžeme.<br />"
+title: "Pracovat s poznatky* potřebuje i Váš tým.<br />"
+subtitle: "<br />* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*"
 pagetitle: "PANK foolkit"
 title-block-banner: true
 toc: false
