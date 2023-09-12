@@ -9,3 +9,11 @@ listing:
     contents: case*.qmd
     fields: [title, description]
 ---
+
+Návody a postupy jsme vyvíjeli a testovali ve spolupráce se **šesti týmy** v několika organizacích. Pro některé byla **práce s poznatky** jejich hlavní rolí, pro některé ne.
+
+Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích. Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
+
+Každá případová studie také v kontextu a detailně ukazuje, jak v daném týmu vznikal návod, který najdete v průvodci.
+
+<br />

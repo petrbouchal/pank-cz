@@ -247,6 +247,11 @@ $callout-color-important: $cp-secondary-dark;
   border-style: dotted;
 }
 
+.card-zacit {
+  border-width: 5px;
+  border-color: $cp-primary-red;
+}
+
 .callout {
   border-radius: 0px;
   border-right-color: white !important;

@@ -19,8 +19,6 @@ listing:
     contents: tym.yaml
 ---
 
-> **\* *poznatky*: analýzy, data, podklady**, nebo taky angl. *evidence* [| viz [slovníček](/slovnicek)]{class="grey-text"}
-
 # Průvodce prací s poznatky: know-how <br/> nejen pro analytické týmy
 
 :::{.aside}
@@ -33,6 +31,8 @@ listing:
 V [průvodci](pruvodce) najdete **návody, postupy a zlepšováky**, které jsme pro vás dva roky vyvíjeli a testovali spolu s několika analytickými a neanalytickými týmy v české státní správě. 
 
 Reagují na **reálné problémy a situace** a vychází ze současné mezinárodní **praxe a odborné literatury**.
+
+Projděte si návody podle kategorií, nahlédněte do [**celého průvodce**](/pruvodce), nebo si nechte poradit [**jak začít**](/pruvodce/jak-zacit).
 
 <br />
 

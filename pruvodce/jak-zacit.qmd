@@ -1,0 +1,9 @@
+---
+title: "Průvodce: jak začít"
+blok: ['rizeni']
+poradi: 1
+zacit: true
+editor: source
+aliases: 
+  - /pruvodce/jak-zacit
+---
