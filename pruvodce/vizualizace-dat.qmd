@@ -9,7 +9,7 @@ editor: source
 poradi: 2
 ---
 
-# O co jde a k čemu to
+# O co jde a k čemu to je
 
 Před vypuštěním jakékoliv vizualizace dat do světa je dobré otestovat, zda je srozumitelná a pochopitelá.
 
