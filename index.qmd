@@ -43,7 +43,7 @@ Reagují na **reálné problémy a situace** a vychází ze současné mezináro
 
 :::{.strip .page-columns .page-full}
 
-# Vycházíme z mnoholetých zkušeností s prací s analytickými týmy
+# Návody a doporučení vychází z praxe týmů ve státní správě
 
 Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích. Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích. Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
 
