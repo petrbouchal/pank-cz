@@ -19,7 +19,7 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělen
 
 <br />
 
-:::{.btn .btn-primary .btn-resource}
+:::{.btn .btn-resource}
 [přečíst případovou studii](../pripadove-studie/tacr)
 :::
 
