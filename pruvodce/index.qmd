@@ -18,7 +18,7 @@ listing:
     include: 
       blok: "rizeni"
     template-params:
-      bg: "red"
+      bg: "blue"
   - id: ziskavani
     categories: false
     sort: poradi
@@ -26,7 +26,7 @@ listing:
     include: 
       blok: "ziskavani"
     template-params:
-      bg: "blue"
+      bg: "grey"
   - id: metody
     categories: false
     sort: poradi
@@ -34,7 +34,7 @@ listing:
     include: 
       blok: "metody"
     template-params:
-      bg: "grey"
+      bg: "red"
   - id: vyuziti
     categories: false
     sort: poradi
