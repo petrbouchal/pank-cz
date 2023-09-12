@@ -115,19 +115,35 @@ $callout-color-important: $cp-secondary-dark;
 
 .btn {
   border-radius: 20px;
-  padding-bottom: 0pt;
+  padding-bottom: 5pt;
   background: $cp-primary-blue;
   border-color: $cp-primary-blue;
   width: fit-content;
 }
 
-.btn p {
-  margin-bottom: 5px;
+.btn-checklist {
+  background-color: transparent;
+  border-color: $cp-primary-blue;
 }
 
-.btn p a {
+.btn-checklist:hover {
+  background-color: $cp-secondary-lightblue;
+  border-color: $cp-primary-blue;
+}
+
+.btn-checklist p a {
+  color: $cp-primary-blue !important;
+  text-decoration: none !important;
+}
+
+.btn p {
+  margin-bottom: 0px;
+}
+
+.btn-primary p a {
   text-decoration: none;
-  color: white !important
+  color: white !important;
+  text-decoration: none;
 }
 
 .card-title {
