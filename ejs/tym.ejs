@@ -17,7 +17,7 @@ const imgHeight = "30%";
 <div class="list grid quarto-listing-cols-<%=cols%>">
 <% for (const item of items) { %>
   <div class="g-col-1" <%= metadataAttrs(item) %>>
-    <div class="quarto-grid-item card card-case h-100">
+    <div class="quarto-grid-item card card-tym h-100">
       <% if (item.image) { %>
         <span class="card-img-top">
           <img src="<%= item.image %>" class="thumbnail-image card-img" style="height: 100%; width: 30%;" alt="<%= item['image-alt'] %>">
