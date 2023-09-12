@@ -42,6 +42,7 @@ format:
     language:
       title-block-author-single: " "
     lang: cs
+    toc-location: left
     theme:
       light: [cosmo.scss, styles.scss]
       # dark: [darkly, styles-dark.scss]
