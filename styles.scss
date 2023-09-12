@@ -234,7 +234,10 @@ $callout-color-important: $cp-secondary-dark;
 }
 
 .card-case {
-  background-color: $cp-secondary-grey;
+  background-color: white;
+  border-color: $cp-secondary-dark;
+}
+
 .card-tym {
   background-color: white;
   border-color: $cp-secondary-blue;
