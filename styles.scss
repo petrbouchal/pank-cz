@@ -40,7 +40,7 @@ $nav-tabs-link-hover-border-color: $cp-primary-blue $cp-primary-blue rgba(255,25
 
 $callout-color-note: $cp-primary-blue;
 $callout-color-tip: $cp-secondary-blue;
-$callout-color-warning: red;
+$callout-color-warning: $cp-secondary-red;
 $callout-color-important: $cp-secondary-dark;
 
 @font-face {
@@ -248,6 +248,18 @@ $callout-color-important: $cp-secondary-dark;
   border-bottom-color: white !important;
   border-width: 3px !important;
   border-left-width: 7px !important;
+}
+
+.callout-tip {
+  border-left-color: $cp-primary-blue !important;
+}
+
+.callout-info {
+  border-left-color: $cp-secondary-dark !important;
+}
+
+.callout-color-warning {
+  border-left-color: $cp-primary-red !important;
 }
 
 .listing-category {
