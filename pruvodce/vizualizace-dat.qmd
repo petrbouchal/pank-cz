@@ -26,7 +26,7 @@ Vizualizace je datový produkt a tak k němu můžete přistupovat.
 
 **Případová studie**
 
-Tuto intervenci jsme aplikovali s týmem OVE na MMR
+Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 
 <br />
 
