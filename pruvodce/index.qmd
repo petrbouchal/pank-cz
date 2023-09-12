@@ -47,28 +47,36 @@ listing:
 
 
 
-## Řízení týmu
+## Jak řídit tým
+
+Zlepšete, jak váš tým funguje při práci s poznatky
 
 <br />
 
 ::: {#rizeni}
 :::
 
-## Přístup k poznatkům
+## Jak se dostat k datům poznatkům
+
+Naučte se hledat a sbírat podklady a vstupy pro svou práci
 
 <br />
 
 ::: {#ziskavani}
 :::
 
-## Metody a postupy
+## Jak s poznatky pracovat
+
+Využitje vhodné postupy a metody pro práci s poznatky a daty
 
 <br />
 
 ::: {#metody}
 :::
 
-## Využitelnost výstupů
+## Jak svou práci dostat do světa
+
+Nenechte vaši práci ležet v šuplíku
 
 <br />
 

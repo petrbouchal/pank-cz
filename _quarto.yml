@@ -10,8 +10,9 @@ project:
 website:
   title: "PANK"
   page-footer:
-    left: "České priority 2023<br />CC-BY-ND, Podpořeno <a href=\"https://tacr.cz\">TA ČR v programu Éta</a>."
-    right: "Built with Quarto, kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
+    left: "[České priority](https://ceskepriority.cz) 2023<br />[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)"
+    center: "[![](/images/logolink_eta.png)](https://starfos.tacr.cz/cs/project/TL05000330)"
+    right: "Built with [Quarto](https://quarto.org), kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   navbar:
     right:
       - text: "<button class = 'btn-top'>Průvodce prací s poznatky</button>"
