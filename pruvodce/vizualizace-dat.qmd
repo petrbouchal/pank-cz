@@ -30,7 +30,7 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 
 <br />
 
-:::{.btn .btn-checklist}
+:::{.btn .btn-resource}
 [přečíst případovou studii](../pripadove-studie/asz)
 :::
 
@@ -115,7 +115,7 @@ Může k tomu použít třeba checklist níže
 
 :::
 :::{.aside}
-:::{.btn .btn-checklist}
+:::{.btn .btn-resource}
 [Stáhnout checklist ve wordu](vizualizace-checklist.docx)
 :::
 :::

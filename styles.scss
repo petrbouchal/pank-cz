@@ -123,17 +123,17 @@ $callout-color-important: $cp-secondary-dark;
   width: fit-content;
 }
 
-.btn-checklist {
+.btn-resource {
   background-color: transparent;
   border-color: $cp-primary-blue;
 }
 
-.btn-checklist:hover {
+.btn-resource:hover {
   background-color: $cp-secondary-lightblue;
   border-color: $cp-primary-blue;
 }
 
-.btn-checklist p a {
+.btn-resource p a {
   color: $cp-primary-blue !important;
   text-decoration: none !important;
 }

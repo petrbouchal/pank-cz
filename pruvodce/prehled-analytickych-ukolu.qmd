@@ -3,9 +3,6 @@ title: "Přehled analytických úkolů"
 subtitle: "Udělejte si přehled v tom, co všechno děláte"
 categories: ["Organizace práce", "Analýza jako služba"]
 blok: ["rizeni"]
-title-block-banner: true
-title-block-banner-color: "#CDE7FF"
-title-block-categories: false
 poradi: 8
 editor: source
 ---
@@ -22,13 +19,13 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělen
 
 <br />
 
-:::{.btn .btn-primary}
+:::{.btn .btn-primary .btn-resource}
 [přečíst případovou studii](../pripadove-studie/tacr)
 :::
 
 :::
 
-# Sebediagnostika: je to pro mě?
+# ⚠ Sebediagnostika: je to pro mě?
 
 Má smysl v naší situaci vytvářet databázi analýz?
 
@@ -39,7 +36,7 @@ Má smysl v naší situaci vytvářet databázi analýz?
 
 :::{.strip .page-columns .page-full}
 
-# Jak na to
+# ↪ Jak na to
 
 ## 1. Identifikujte smysluplné kategorie v databázi
 
