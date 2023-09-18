@@ -3,6 +3,7 @@ title: "O práci s poznatky"
 subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: true
+toc-depth: 1
 toc-location: left
 aliases: 
   - /teze

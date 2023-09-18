@@ -2,6 +2,7 @@
 title: "Doporučení pro stát"
 editor: source
 title-block-banner: true
+toc-depth: 1
 aliases: 
   - /doporuceni
 ---
@@ -93,3 +94,5 @@ Logika auditu a indikátorů, která v současnosti slouží ke kontrole výkonu
 ## Platová politika
 
 Očividnou překážkou lepší analytické práce je nastavení platových podmínek, které omezují možnosti náboru a udržení kvalifikovaných analytiků a analytiček, především v oboru datové analýzy.
+
+# Doporučení
