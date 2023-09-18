@@ -5,8 +5,8 @@ execute:
   echo: false
 language: 
   toc-title-website: Kapitoly průvodce
+toc: false
 title-block-banner: true
-sidebar: true
 listing:
   - id: rizeni
     template: ../ejs/navod-listing.ejs

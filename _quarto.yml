@@ -25,6 +25,21 @@ website:
           file: inspirace.qmd
       - pribeh-projektu.qmd
     logo: logo.png
+  sidebar:
+  - title: Průvodce
+    id: pruvodce
+    style: docked
+    alignment: right
+    background: "warning"
+    border: false
+    contents:
+    - text: "Celý průvodce"
+      file: pruvodce/index.qmd
+    - "pruvodce/list-rizeni.qmd"
+    - "pruvodce/list-ziskavani.qmd"
+    - "pruvodce/list-metody.qmd"
+    - "pruvodce/list-vyuziti.qmd"
+  - title: "Placeholder thing"
   open-graph:
     locale: cs_CZ
   favicon: favicon.png
