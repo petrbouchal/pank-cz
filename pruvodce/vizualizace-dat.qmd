@@ -109,7 +109,7 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 
 Může k tomu použít třeba checklist níže
 
-:::{.callout-tip title="Checklist dobrých vizualizačních praxí (rozbal vpravo)" collapse=true}
+:::{.callout-tip title="Checklist dobrých vizualizačních praxí (rozbal kliknutím)" collapse=true}
 
 {{< include vizualizace-checklist.qmd >}}
 
