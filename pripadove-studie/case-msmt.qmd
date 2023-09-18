@@ -7,6 +7,9 @@ description: "<strong>Odbory řízení a koordinace regionálního školství</s
 aliases: 
   - msmt
 listable: "listable"
+format: 
+  docx: default
+  html: default
 ---
 
 Popis této případové studie se oproti ostatním liší tím, jakou šíři od začátku projektu představuje. To z toho důvodu, že spolupráce byla navázaná se dvěma odbory ministerstva, kde jeden odbor je zaměřený na analytickou podporu a strategické řízení a druhý odbor více implementační, ačkoliv má také své vlastní analytické kapacity a zabývá se strategickými otázkami. Z podstaty této šíře už bylo nutné také do určité míry zapojit další dva věcné odbory (čímž byla pokryta celá sekce ministerstva), které sice analytickou práci nevykonávají, ale jsou jejími uživateli.     

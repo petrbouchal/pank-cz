@@ -8,6 +8,9 @@ aliases:
   - /pripadove-studie/asz
   - /asz
 listable: "listable"
+format: 
+  docx: default
+  html: default
 ---
 
 Odbor (Agentura) pro sociální začleňování (dále jen ASZ) na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. Člené oddělení výzkumů a evaluace zkoumají výskyt, rozsah a mechanismy sociálního vyloučení ve spolupracujících obcích.  

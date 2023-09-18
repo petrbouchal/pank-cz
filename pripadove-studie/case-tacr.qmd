@@ -8,6 +8,9 @@ listable: "listable"
 aliases: 
   - /pripadove-studie/tacr
   - /tacr
+format: 
+  docx: default
+  html: default
 ---
 
 # Představení 

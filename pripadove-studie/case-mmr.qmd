@@ -5,6 +5,9 @@ tagline: "Evaluační jednotka NOK na MMR se stará o evaluace evropských fond�
 zkratka: ASZ
 description: "Evaluační jednotka NOK na MMR se stará o evaluace evropských fondů."
 listable: "listable"
+format: 
+  docx: default
+  html: default
 ---
 
 Blah blah

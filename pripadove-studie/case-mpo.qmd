@@ -5,6 +5,9 @@ tagline: "**Oddělení S3** kombinuje analytickou, strategickou a koordinační 
 zkratka: MPO
 description: "Tým, který řídí strategii S3"
 listable: ["listable"]
+format: 
+  docx: default
+  html: default
 ---
 
 Blah blah

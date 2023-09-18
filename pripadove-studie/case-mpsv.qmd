@@ -7,6 +7,9 @@ description: "Práce s poznatky mezi administrací"
 aliases: 
   - mpsv
 listable: "listable"
+format: 
+  docx: default
+  html: default
 ---
 # Úvod
 
