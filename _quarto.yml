@@ -9,13 +9,9 @@ project:
 
 website:
   title: "PANK"
-  page-footer:
-    left: "[České priority](https://ceskepriority.cz) 2023<br />[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)"
-    center: "[![](/images/logolink_eta.png)](https://starfos.tacr.cz/cs/project/TL05000330)"
-    right: "Built with [Quarto](https://quarto.org), kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   navbar:
     right:
-      - text: "<button class = 'btn-top'>Průvodce prací s poznatky</button>"
+      - text: "Průvodce prací s poznatky"
         file: pruvodce/index.qmd
       - pripadove-studie/index.qmd
       - text: "Slovníček"
@@ -32,6 +28,10 @@ website:
   open-graph:
     locale: cs_CZ
   favicon: favicon.png
+  page-footer:
+    left: "[České priority](https://ceskepriority.cz) 2023<br />[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)"
+    center: "[![](/images/logolink_eta.png)](https://starfos.tacr.cz/cs/project/TL05000330)"
+    right: "Built with [Quarto](https://quarto.org), kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   repo-url: https://github.com/petrbouchal/pank-foolkit
   # repo-actions: [edit, issue]
 
