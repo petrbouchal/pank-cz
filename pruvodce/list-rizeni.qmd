@@ -21,10 +21,6 @@ listing:
       bg: "blue"
 ---
 
-
-
-## Jak spolupracovat v týmu
-
 Zlepšete, jak váš tým funguje při práci s poznatky
 
 <br />

@@ -21,10 +21,6 @@ listing:
       bg: "blue"
 ---
 
-
-
-## Jak s poznatky pracovat
-
 Zlepšete, jak váš tým funguje při práci s poznatky
 
 <br />

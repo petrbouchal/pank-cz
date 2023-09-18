@@ -21,8 +21,6 @@ listing:
       bg: "grey"
 ---
 
-## Jak se dostat k datům a poznatkům
-
 Naučte se hledat a sbírat podklady a vstupy pro svou práci
 
 <br />
