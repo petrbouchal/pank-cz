@@ -25,6 +25,7 @@ website:
           file: inspirace.qmd
       - pribeh-projektu.qmd
     logo: logo.png
+  site-url: pank-foolkit.netlify.app
   sidebar:
   - title: Průvodce
     id: pruvodce
@@ -62,10 +63,16 @@ format:
       title-block-author-single: " "
     lang: cs
     toc-location: left
+    grid:
+      sidebar-width: 370px
     theme:
       light: [cosmo.scss, styles.scss]
       # dark: [darkly, styles-dark.scss]
     toc: true
+    toc-expand: true
+    anchor-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 
 
