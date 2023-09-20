@@ -117,18 +117,18 @@ $bs-btn-active-border-color: white;
   color: $cp-secondary-lightblue !important;
 }
 
-.btn {
+.btn-primary {
   border-radius: 20px;
   padding-bottom: 5pt;
   width: fit-content;
-}
-
-.btn-primary {
   background-color: $cp-primary-blue;
   border-color: $cp-primary-blue;
 }
 
 .btn-resource {
+  border-radius: 20px;
+  padding-bottom: 5pt;
+  width: fit-content;
   background-color: transparent;
   border-color: $cp-primary-blue;
 }
@@ -364,6 +364,8 @@ h2 {
 .btn-bloky {
   width: 150px;
   margin-bottom: 15pt;
+  background-color: $cp-primary-blue;
+  border-radius: 20px;
   margin-left: 10pt;
   padding: 5pt;
 }
