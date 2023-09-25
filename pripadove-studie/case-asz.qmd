@@ -1,16 +1,16 @@
 ---
 title: "Agentura pro sociální začleňování"
-subtitle: "Případová studie"
+subtitle: "Evaluace a výzkum pro podporu sociálního začleňování"
 tagline: "**Oddělení výzkumu a evaluací Agentury pro sociální začleňování**, přináší poznatky do rozhodování o sociálním začleňování na lokální i centrální úrovni."
 zkratka: ASZ
-description: "Výzkum a evaluace pro sociální začleňování"
 aliases: 
   - /pripadove-studie/asz
   - /asz
 listable: "listable"
-format: 
-  docx: default
-  html: default
+# format: 
+  # html:
+    # include-before-body: "breadcrumb.html"
+
 ---
 
 [Odbor (Agentura) pro sociální začleňování](https://www.mmr.cz/cs/ministerstvo/agentura-pro-socialni-zaclenovani) na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. V oddělení výzkumů a evaluace zkoumají výskyt, rozsah a mechanismy sociálního vyloučení v obcích, které s ASZ spolupracují. 

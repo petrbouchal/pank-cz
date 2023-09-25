@@ -1,12 +1,12 @@
 ---
-title: "Průvodce"
+title: "Celý průvodce"
 listable: not
 execute:
   echo: false
 language: 
   toc-title-website: Kapitoly průvodce
 toc: false
-title-block-banner: true
+title-block-banner: false
 listing:
   - id: rizeni
     template: ../ejs/navod-listing.ejs
