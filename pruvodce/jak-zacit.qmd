@@ -1,6 +1,6 @@
 ---
 title: "Průvodce: jak začít"
-blok: ['rizeni']
+# blok: ['rizeni']
 poradi: 1
 zacit: true
 editor: source
