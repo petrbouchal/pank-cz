@@ -7,9 +7,9 @@ aliases:
   - /pripadove-studie/asz
   - /asz
 listable: "listable"
-# format: 
-  # html:
-    # include-before-body: "breadcrumb.html"
+format: 
+  docx: default
+  html: default
 
 ---
 
