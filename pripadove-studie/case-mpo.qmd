@@ -10,4 +10,94 @@ format:
   html: default
 ---
 
-Blah blah
+Oddělení S3 na MPO je gestorem [Výzkumné a inovační strategie pro inteligentní specializaci (strategie RIS3)](https://www.ris3.cz/o-ris3/ris3-zakladni-popis-a-smysl). Oddělení S3 vykonává administrativní, analytické a komunikační funkce v souvislosti s implementací strategie RIS3.
+
+# Představení týmu
+
+Strategie RIS3 definuje rámec pro národní a evropské dotační tituly v oblasti podpory výzkumu, vývoje a inovací (dále VaVaI). Oddělení S3 spadá pod Odbor digitální ekonomiky a chytré specializace (Sekce digitalizace a inovací) na MPO.
+
+Agendy oddělení S3 pokrývají administrativní činnosti (komunikace s krajskými úrovněmi, projektová administrace, koordinace národních inovačních platforem, komunikace s Evropskou komisí) a analytické práce (tzv. entrepreneurial discovery process, monitoring a evaluace RIS3 strategie, sběr dat, externí zadávání analytických podkladů pro tvorbu strategie). V oddělení je současně zaměstnáno přibližně 12 lidí.
+
+Analytické aktivity představují pouze zlomek práce v oddělení (cca 20% času), nicméně se jedná o podpůrnou aktivitu pro celou agendu oddělení. Analytické činnosti oddělení spočívají v sběr a syntézu poznatků pro interní potřeby v rámci koncepční činnosti a designu strategie RIS3, dále pro její samotnou gesci a řízení (zejm. monitoring a evaluace). Oddělení S3 ale paralelně generuje výstupy, které využívá řada dalších aktérů v inovačním ekosystému (poskytovatelé evropských a národních podpor, kraje, výzkumné organizace…), zejména podklady pro rozhodování o doménách specializace (např. data o VaVaI, poznatky z terénu a horizon scanning), podklady pro nastavení podpor a obecněji informace ohledně příležitostí na národní a EU úrovni). 
+
+# Proč se tým zapojil do projektu 
+
+Informované vládnutí (evidence-informed policymaking) je jedním z hlavních stavebních kamenů pro koncepci a implementaci RIS3 strategií napříč EU. [Metodické pokyny](https://s3platform.jrc.ec.europa.eu/guidance), které vydává Evropská komise, doporučují opřít design a implementaci strategie o analytické podklady ohledně současného stavu a potenciálu výzkumného prostředí na národní i regionální úrovni. 
+
+Posílení anaytických kapacit oddělení S3 tak má přispět ke zkvalitnění těchto podkladů. Vedle toho vykonává oddělení S3 řadu dalších činností, které jsou spíše administrativního a komunikačního rázu, v rámci kterých lze vycházet z vědeckých poznatků pro jejich úspěšný průběh. To se týká například způsobů, jak lépe facilitovat průběh konzultačních platforem (tzv. Entrepreneurial Discovery Process - EDP) a zajistit účast širokého spektra relevantních aktérů (tzv. Quadruple helix). V neposlední řadě se jeví členům týmu klíčový i širší aspekt komunikace s těmito aktéry.
+
+# Průběh spolupráce v PANK
+
+Pro získání poznatků do diagnostické fáze byly využity čtyři výzkumné metody: workshopy, polostrukturované rozhovory, pozorování a analýza dokumentů (desk research). 
+
+Během úvodního workshopu (30. 11. 2021) se členové týmu představili a popsali své pracovní činnosti. Následně proběhlo 8 polostrukturovaných rozhovorů s členy týmu a vedením. Rozhovory se soustředily na způsoby práce, vnímání překážek pro rozvoj analytických kapacit a úvahy o dílčích intervencích, které by mohly přispět pozitivním změnám ve fungování týmu.
+Následně jsme zmapovali vstupní poznatky, výstupy a jejich příjemce a část z nich jsme podrobili podrobnější analýze obsahu i formy. 
+
+V závěrečné fázi diagnostické práce jsme realizovali rozhovory s příjemci výstupů. Jednalo se o členy národních inovačních platforem, představitelé krajských RIS3 a řídícího organu OP JAK (MŠMT). Zároveň proběhlo několik pozorování pracovních schůzek (národní inovační platformy, pracovní schůzky ohledně definice RIS3 misí, účast na workshopech ohledně designu misí RIS3).
+
+## Diagnostická fáze
+
+Během úvodního workshopu byli členové a členky týmu dotázáni ohledně potenciálních směrů rozvoje, které považují za žádoucí v souvislosti s analytickými činnostmi. Mezi hlavními identifikovanými oblastmi patří zejména řízení týmu s ohledem na interní komunikaci a vzájemnou informovanost, nebo možnosti rozvoje dovedností skrz školení. Další vyjádřené ambice se týkají způsobů sdílení a dostupnosti dat. V neposlední řadě považují členové týmu za klíčové umět prezentovat a komunikovat výsledky své práce. 
+
+Na základě dalších sesbíraných poznatků ohledně současného stavu analytických kapacit shrnujeme níže hlavní závěry.
+
+### Řízení týmu
+
+Tým je vnímán jako funkční a profesionální i přesto, že se potýká s nedostatkem personálních kapacit. Aplikace evidence-based přístupů k tvorbě a gesce strategie je explicitně vyžadována a podporována. Vedení se snaží zaujmout aktivní přístup k rozvoji týmu a hledá způsoby, jak celý tým rozvíjet. Tým zaujímá proklientský přístup při komunikaci se zainteresovanými stranami, zejména skrz osobní kontakt. 
+
+Potenciálním prostorem pro zlepšení v oblasti řízení týmu je systematičtější a explicitnější aplikace pracovních postupů pro práci s poznatky. Díky tomu lze zejména zkrátit adaptační proces při náboru nových zaměstnanců. 
+
+### Přístup k poznatkům a práce s nimi
+
+RIS3 klade formální důraz na evidence-based přístupy, což je reflektováno jak v koncepčních činnostech a designu strategie, tak v procesech vedoucí k prioritizaci oblastí podpory VaVaI. Z evaluací a z individuálních rozhovorů vyplývá, že v posledních letech došlo k značným pokrokům směrem k aplikování evidence-based přístupů. 
+
+Z hlediska nastavení procesů lze uvést příklad řízení EDP procesu, který vychází z [analytického podkladu Technologického centra Praha](https://www.mpo.cz/assets/cz/podnikani/ris3-strategie/projekty-na-podporu-ris3/operacni-program-technicka-pomoc/2020/12/Analyza-nastaveni-fungovani-Narodnich-inovacnich-platforem.pdf), ve kterém jsou popsány dobré praxe v zahraničí a v ČR, návrhy systému fungování Národních inovačních platforem a postupy pro jejich efektivní řízení. Z hlediska obsahu se aktualizovaná NRIS3 do větší míry opírá o analytické podklady popisující [Klíčové umožňující technologie a jejich vazby na aplikační sféru](https://www.mpo.cz/assets/cz/podnikani/ris3-strategie/projekty-na-podporu-ris3/operacni-program-technicka-pomoc/2020/9/KETs_NRIS_souhrn_zprava_final.pdf). Dále jsou v rámci agendy RIS3 ustanoveny Národní inovační platformy, které mají sloužit pro sběr poznatků z terénu, zejména ohledně definování priorit podpory VaVaI. I přes vysoké nároky na organizaci a koordinaci se daří tyto platformy pravidelně zapojovat do procesů tvorby a implementace strategie. Právě na nutnost informovat a koordinovat různé aktéry navazuje tvorba webové platformy pro usnadnění komunikace (tzv. [EDP portál](https://www.ris3.cz/)). 
+
+Největší překážkou pro rozvoj analytických kapacit v oddělení S3 jsou složité postupy při získávání některých datových sad. Důležitým omezením je také absence centralizovaného skladiště dat, které by mohli  využít členové oddělení pro plnění ad hoc úkolů. Pokud by byl aplikován systematičtější postup pro aktualizaci a ukládání dat a poznatků (knowledge / data management), může dojít ke značným časovým úsporám. 
+
+### Analytické postupy a metody 
+
+V oddělení RIS3 jsou rozsáhlé analytické práce zadány externě zejména Technologickému centru AV ČR. Tyto analytické podklady jsou posléze využity v jednotlivých procesních dokumentech, které jsou šířeji sdíleny se zainteresovanými stranami. Monitoring spočívá hlavně v kompilaci datových sad od různých poskytovatelů (Eurostat / ČSÚ, resortní informační systémy, data z krajů) a tato činnost se opakuje každý rok. Pro tuto činnost jsou postupy již ustálené a nevyžadují sofistikované metody a nástroje (kontingenční tabulky, grafy). 
+
+Hlavní rolí týmu oddělení S3 nespočívá tolik v generování poznatků, ale v jejich syntéze z primárních a sekundárních zdrojů. V této souvislosti ale nejsou ustálené pracovní postupy pro jejich kontinuální monitoring a syntézu, navíc tyto aktivity vznikají spíše ad hoc dle potřeby. 
+Při spolupráci s externími aktéry (kraje, NIP) nejsou jednoznačně definovaná zadání a postupy (např. tvorba misí a prioritizace oblastí podpory). Zároveň sesbírané podněty jsou spíše kumulativní, což je ovšem protichůdné k základním principům RIS3 strategie (prioritizace na místo kumulace).
+
+###  Využitelnost výstupů 
+
+Pro potřeby komunikace celkového rámce strategie RIS3 existují stručné informační podklady ve formě powerpointových prezentací. Tento formát je adekvátní vzhledem k cílovým skupinám, které nemají vždy kapacitu přečíst celý psaný dokument. Členové týmu v oddělení S3 si jsou zároveň vědomi, že je nutné přizpůsobovat komunikaci různým zainteresovaným skupinám a uvažují o dalších možných formách komunikace, které by mohly doplnit formální textové dokumenty (např. branding, PR a marketing, vizualizace). 
+
+Některé výstupy (např. Národní RIS3 strategie a její přílohy) jsou velmi obsáhlé (přes 300 stran) a chybí stručná syntéza klíčových informací, která by byla využita při komunikaci s externími partnery.
+
+Prezentace dat a indikátorů pro monitoring RIS3 neodpovídá standardům open data (complete, primary, timely, accessible, machine processable, non-discriminatory, non-proprietary, license-free). Indikátory jsou dostupné pouze z tabulky ve formátu PDF, což zásadně limituje možnosti jejich dalšího využití. Nedávno spuštěný RIS3 portál situaci o něco zlepšil (publikace datových tabulek), zároveň s sebou nese potřebu vhodně využít nové technické možnosti pro efektivní komunikace dat vzhledem k různým adresátům sdělení.
+
+## Intervence
+
+Na základě výše uvedených poznatcích o současném stavu analytické práce na oddělení S3 jsme týmu S3 navrhli několik oblastí pro rozvoj intervencí. První tři se týkají věcné / obsahové práce v souvislosti s designem a implementací RIS3. A to zejména design nových prvků do strategie (např. mise), zajištění široké participace v EDP procesu (“quadruple helix”) a nastavení mechanismů pro aktualizaci oblastí specializace.
+
+Dále byly navrhnuty další podpůrné intervence, které cílí na zkvalitnění analytických aktivit v oddělení. S3. Tyto intervence mají obecnější charakter, ale ze své podstaty povedou zároveň k naplnění výše uvedených cílů. Tyto podpůrné intervence se zaměří na následující oblasti: tvorbu plánu analytických činností, knowledge management týkající se pracovních postupů, prezentace a zpřístupňování dat, externí komunikace a marketing strategie RIS3.
+
+Vzhledem k časové vytíženosti členů oddělení S3 jsme se rozhodli prioritizovat intervence podle současných potřeb. 
+
+První intervence navazovala na spuštění webového EDP portálu (podzim 2023) a na mid-term evaluaci, která mimo jiné zkoumala funkčnost tohoto webového portálu. Proto jsme společně s administrátorem webového portálu navrhli postup pro jeho uživatelské testování s vybraními uživateli. Další dílčí intervencí související s webovým portálem měla za cíl poskytnout technickou podporu pro datově vizualizační modul. 
+
+Druhá intervence měla za cíl navrhnout postup pro realizaci syntetické analytické zprávy pro podporu designu nových koncepčních prvků v RIS3. Konkrétně se jedná o zapojení problematiku zapojení veřejnosti do EDP procesu, kde bylo zapotřebí zmapovat překážky pro jejich zapojení a navrhnout způsoby jejich řešení
+
+### Uživatelské testování webového produktu
+
+V současné době se řada analytických výstupů prezentuje na webových kanálech. V zájmu posílení jejich využitelnosti a přehlédnosti jsme navrhli postup, jak testovat webový produkt přímo s uživateli pomocí metod uživatelského designu (UX design)
+
+Proklik Testování
+
+### Realizace syntetických analytických zpráv
+
+Analytické výstupy, které generují členové týmu S3 jsou využívány interně i externě, a proto je vhodné v přípravných fázích pochopit potřeby těchto uživatelů a přizpůsobit jim obsah i formu analytického výstupu. Paralelně jsme se pokusili o aplikaci inovativních nástrojů pro sběr dat, zejména pomocí umělé inteligence.
+
+Proklik Analytické zprávy
+
+# Dobré praxe v týmu
+
+Tým zaujímá proklientský přístup při komunikaci se zainteresovanými stranami, zejména skrz osobní kontakt. Pro potřeby komunikace celkového rámce strategie RIS3 existují stručné informační podklad, které jsou adekvátní vzhledem k cílovým skupinám, které nemají vždy kapacitu přečíst celý psaný dokument. 
+
+I přes vysoké nároky na organizaci a koordinaci se daří EDP platformy pravidelně zapojovat do procesů tvorby a implementace strategie. 
+
+# Zobecnitelnější vhledy
