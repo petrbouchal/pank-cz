@@ -7,7 +7,7 @@ sidebar: true
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
 :::{.btn .btn-primary}
-[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
+[Co by si měly o práci s poznatky uvětomit týmy a jejich členové ⟶](/teze-tymy)
 :::
 
 <br />
