@@ -1,7 +1,6 @@
 ---
 title: "Přehled analytických úkolů"
 subtitle: "Jak mít přehled v tom, co všechno děláte"
-categories: ["Organizace práce", "Analýza jako služba"]
 blok: ["rizeni"]
 poradi: 8
 editor: source
