@@ -11,17 +11,18 @@ listing:
 
 :::{.column-page-inset}
 
+<br />
+
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 
 Tady obrázek
 
 :::
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 
-<br />
 
 ### Pracovat s poznatky* potřebuje i Váš tým.<br />
 
@@ -51,7 +52,7 @@ Tady obrázek
 
 :::{.grid}
 
-:::{.g-col-6}
+:::{.g-col-12 .g-col-md-6}
 
 <br />
 
@@ -63,13 +64,10 @@ Tady obrázek
 - vyvinuté spolu s týmy v české státní správě.
 - řeší **reálné problémy a situace**
 - vychází ze současné mezinárodní **praxe a odborné literatury**.
-
 :::
 
 :::
-:::{.g-col-6}
-
-<br />
+:::{.g-col-12 .g-col-md-6}
 
 ### Chcete se rovnou začíst?
 
@@ -82,15 +80,26 @@ Tady obrázek
 - [Jak s poznatky pracovat](/pruvodce/jak-zacit)   
 - [Jak svou práci dostat do světa](/pruvodce/jak-zacit) 
 
+:::
+
 <br />
 
 :::
-
-
-:::
 :::
 
 :::
+
+:::{.grid}
+
+:::{.g-col-12 .g-col-md-6}
+
+<br />
+
+Obrázek
+:::
+
+
+:::{.g-col-12 .g-col-md-6}
 
 
 # Návody a doporučení vychází z praxe týmů ve státní správě
@@ -101,9 +110,21 @@ Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v n�
 [Číst případové studie ⟶](/pripadove-studie)
 :::
 
+<br />
+
 :::
 
-## Teze o práci s poznatky ve státní správě
+:::
+
+:::
+
+:::{.page-full .strip .page-inset}
+
+:::{.aside}
+<br />
+:::
+
+## Naše doporučení
 
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
@@ -111,7 +132,7 @@ Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste
 [Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze)
 :::
 
-## Doporučení pro systémovou změnu
+<br />
 
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
@@ -136,11 +157,14 @@ Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvo
 
 <br />
 
+
+:::{.d-none .d-sm-block}
 :::{#tym}
 :::
+:::
+
 
 V odborném poradním týmu nám pomáhala řada expertů z řad praktiků a akademiků a těžili jsme také z rad mnoha mezinárodních odborníků.
-
 
 Kromě rozvoje analytické práce se České priority soustředí na systémové změny v oblasti informovaného rozhodování. Pomáháme také rozvíjet foresight, forecasting a aplikace metod analýzy přínosů a nákladů.
 
