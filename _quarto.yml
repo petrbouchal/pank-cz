@@ -13,14 +13,16 @@ website:
     right:
       - text: "Průvodce prací s poznatky"
         menu:
+        - text: "Celý průvodce"
+          file: pruvodce/index.qmd
         - text: "Jak spolupracovat v týmu"
-          file: pruvodce/list-rizeni.html
+          file: pruvodce/list-rizeni.qmd
         - text: "Jak získávat poznatky"
-          file: pruvodce/list-ziskavani.html
+          file: pruvodce/list-ziskavani.qmd
         - text: "Jak s poznatky pracovat"
-          file: pruvodce/list-metody.html
+          file: pruvodce/list-metody.qmd
         - text: "Jak dostat svou práci do světa"
-          file: pruvodce/list-vyuziti.html
+          file: pruvodce/list-vyuziti.qmd
       - text: "Doporučení"
         file: doporuceni.qmd
       - pripadove-studie/index.qmd
