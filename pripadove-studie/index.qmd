@@ -8,6 +8,8 @@ listing:
     type: default
     contents: case*.qmd
     fields: [title, description]
+format: 
+  html: default
 ---
 
 Návody a postupy jsme vyvíjeli a testovali ve spolupráce se **šesti týmy** v několika organizacích. Pro některé byla **práce s poznatky** jejich hlavní rolí, pro některé ne.

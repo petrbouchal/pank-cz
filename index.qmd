@@ -2,8 +2,8 @@
 # title: "Osvoboďte potenciál svého (ne)analytického týmu"
 title: "Pracovat s poznatky* potřebuje i Váš tým.<br />"
 subtitle: "<br />* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*"
-pagetitle: "PANK foolkit"
-title-block-banner: true
+pagetitle: "PANK"
+title-block-banner: false
 toc: false
 listing: 
   - id: bloky
@@ -20,13 +20,6 @@ listing:
 ---
 
 # Průvodce prací s poznatky: know-how <br/> nejen pro analytické týmy
-
-:::{.aside}
-
-<br />
-
-:::
-
 
 V [průvodci](pruvodce) najdete **návody, postupy a zlepšováky**, které jsme pro vás dva roky vyvíjeli a testovali spolu s několika analytickými a neanalytickými týmy v české státní správě. 
 
