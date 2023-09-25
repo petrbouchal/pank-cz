@@ -37,7 +37,6 @@ Tady obrázek
 \* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*
 
 <br />
-<br />
 
 :::
 :::
@@ -52,9 +51,9 @@ Tady obrázek
 
 :::{.grid}
 
+
 :::{.g-col-12 .g-col-md-6}
 
-<br />
 
 ### Co v průvodci najdete?
 
