@@ -10,7 +10,11 @@ listing:
     fields: [title, description]
 format: 
   html: default
+description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
+
 ---
+
+
 
 Návody a postupy jsme vyvíjeli a testovali ve spolupráce se **šesti týmy** v několika organizacích. Pro některé byla **práce s poznatky** jejich hlavní rolí, pro některé ne.
 

@@ -1,9 +1,5 @@
-title-block-banner: true
+title-block-banner: false
 title-block-categories: false
 uplevel: Případové studie
-format:
-  # html: default
-  html:
-    include-before-body: "breadcrumb.html"
-  docx: default
-description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;<a href='../index.html'>{{< meta uplevel >}}</a>&nbsp;>&nbsp;{{< meta title >}}"
+uplevel-url: /pripadove-studie
+description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;<a href='{{< meta uplevel-url >}}'>{{< meta uplevel >}}</a>&nbsp;>&nbsp;{{< meta title >}}"
