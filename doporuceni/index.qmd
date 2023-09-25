@@ -1,0 +1,38 @@
+---
+title: "Doporučení pro týmy i pro stát"
+editor: source
+---
+
+Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
+
+:::{.btn .btn-primary}
+[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
+:::
+
+<br />
+
+Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+
+:::{.btn .btn-primary}
+[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni-system)
+:::
+
+<br />
+
+Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+
+:::{.btn .btn-primary}
+[Teze o práci s poznatky pro stát ⟶](/teze-stat)
+:::
+
+<br />
+
+A co by měl vědět stát, než se do toho pustí?
+
+Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
+
+:::{.btn .btn-primary}
+[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
+:::
+
+<br />

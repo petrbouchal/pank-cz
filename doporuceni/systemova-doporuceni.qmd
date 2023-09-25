@@ -4,7 +4,7 @@ editor: source
 title-block-banner: true
 toc-depth: 1
 aliases: 
-  - /doporuceni
+  - /doporuceni-system
 ---
 
 # Bariéry

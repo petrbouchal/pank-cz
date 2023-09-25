@@ -24,9 +24,9 @@ $font-family-sans-serif: "Inter", Helvetica, Arial, Calibri, sans-serif;
 $navbar-bg:             $cp-secondary-lightblue;
 $navbar-fg:             $cp-primary-blue;
 $navbar-hl:             $cp-secondary-lightblue;
-$body-bg:             white;
-$body-color:             $cp-primary-blue;
-$heading-color:          $cp-primary-blue;
+$body-bg:               white;
+$body-color:            $cp-primary-blue;
+$heading-color:         $cp-primary-blue;
 
 $nav-tabs-border-color: $cp-primary-blue;
 $nav-link-border-color: $cp-primary-blue;
@@ -111,8 +111,11 @@ $bs-btn-active-border-color: white;
   src: url('fonts/Inter-Italic.woff2') format('woff2');
 }
 
-
 /*-- scss:rules --*/
+
+.navbar {
+  border-bottom: 7px solid $cp-primary-blue;
+}
 
 .nav-link.active {
   background: $cp-primary-blue !important;

@@ -129,7 +129,7 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
 :::{.btn .btn-primary}
-[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze)
+[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
 :::
 
 <br />
@@ -137,7 +137,7 @@ Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
 :::{.btn .btn-primary}
-[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/teze)
+[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni)
 :::
 
 <br />

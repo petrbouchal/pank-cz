@@ -5,7 +5,7 @@ editor: source
 title-block-banner: false
 toc-location: left
 aliases: 
-  - /teze
+  - /teze-stat
 format: 
   html: default
   # pdf: default

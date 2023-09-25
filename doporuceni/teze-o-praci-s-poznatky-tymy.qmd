@@ -1,12 +1,9 @@
 ---
 title: "Co by si měly uvědomit týmy a jejich členové"
-subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
-title-block-banner: false
-toc-depth: 1
-toc-location: left
+title-block-banner: true
 aliases: 
-  - /teze
+  - /teze-tymy
 format: 
   html: default
   # pdf: default

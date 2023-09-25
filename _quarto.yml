@@ -24,7 +24,7 @@ website:
         - text: "Jak dostat svou práci do světa"
           file: pruvodce/list-vyuziti.qmd
       - text: "Doporučení"
-        file: doporuceni.qmd
+        file: doporuceni/index.qmd
       - pripadove-studie/index.qmd
       - text: "Slovníček"
         file: slovnicek.qmd
@@ -53,15 +53,15 @@ website:
     border: false
     contents:
     - text: "Doporučení"
-      file: doporuceni.qmd
+      file: doporuceni/index.qmd
     - text: "O práci s poznatky pro týmy"
-      file: teze-o-praci-s-poznatky-tymy.qmd
+      file: doporuceni/teze-o-praci-s-poznatky-tymy.qmd
     - text: "O práci s poznatky pro vedení státu"
-      file: teze-o-praci-s-poznatky-stat.qmd
+      file: doporuceni/teze-o-praci-s-poznatky-stat.qmd
     - text: "Pro stát: doporučení pro systémovou změnu"
-      file: systemova-doporuceni.qmd
+      file: doporuceni/systemova-doporuceni.qmd
     - text: "Co číst a využívat"
-      file: inspirace.qmd
+      file: doporuceni/inspirace.qmd
   open-graph:
     locale: cs_CZ
   favicon: favicon.png
