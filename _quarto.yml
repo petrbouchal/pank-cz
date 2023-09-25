@@ -72,7 +72,7 @@ format:
       # dark: [darkly, styles-dark.scss]
     toc: true
     toc-expand: true
-    anchor-sections: true
+    anchor-sections: false
     link-external-icon: true
     link-external-newwindow: true
 

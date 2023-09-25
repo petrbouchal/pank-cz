@@ -1,7 +1,4 @@
 ---
-# title: "Osvoboďte potenciál svého (ne)analytického týmu"
-title: "Pracovat s poznatky* potřebuje i Váš tým.<br />"
-subtitle: "<br />* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*"
 pagetitle: "PANK"
 title-block-banner: false
 toc: false
@@ -19,22 +16,70 @@ listing:
     contents: tym.yaml
 ---
 
-# Průvodce prací s poznatky: know-how <br/> nejen pro analytické týmy
+:::{.column-page-inset}
 
-V [průvodci](pruvodce) najdete **návody, postupy a zlepšováky**, které jsme pro vás dva roky vyvíjeli a testovali spolu s několika analytickými a neanalytickými týmy v české státní správě. 
+::: {.grid}
 
-Reagují na **reálné problémy a situace** a vychází ze současné mezinárodní **praxe a odborné literatury**.
+::: {.g-col-6}
 
-Projděte si návody podle kategorií, nahlédněte do [**celého průvodce**](/pruvodce), nebo si nechte poradit [**jak začít**](/pruvodce/jak-zacit).
+Tady obrázek
 
-<br />
+:::
 
-:::{#bloky}
+::: {.g-col-6}
+
+## Pracovat s poznatky* potřebuje i Váš tým.<br />
+
+
+:::{.btn .btn-primary}
+[Průvodce prací s poznatky](/pruvodce)
 :::
 
 <br />
 
-:::{.strip .page-columns .page-full}
+\* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*
+
+:::
+:::
+
+:::{.grid}
+
+:::{.g-col-6}
+
+### Co v průvodci najdete?
+
+- **návody, postupy a zlepšováky**
+- vyvinuté a otestované spolu s několika analytickými a neanalytickými týmy v české státní správě.
+- řeší **reálné problémy a situace**
+- vychází ze současné mezinárodní **praxe a odborné literatury**.
+
+<br />
+
+:::
+:::{.g-col-6}
+
+### Chcete se rovnou začíst?
+
+-> Jak začít  
+-> Jak spolupracovat v týmu  
+-> Jak získávat poznatky  
+-> Jak s poznatky pracovat  
+-> Jak svou práci dostat do světa
+
+
+
+:::
+:::
+
+:::
+
+:::{.page-full .strip .page-inset}
+
+:::{.aside}
+
+<br />
+
+:::
 
 # Návody a doporučení vychází z praxe týmů ve státní správě
 
@@ -44,6 +89,7 @@ Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v n�
 [Číst případové studie ⟶](/pripadove-studie)
 :::
 
+:::
 
 ## Teze o práci s poznatky ve státní správě
 
