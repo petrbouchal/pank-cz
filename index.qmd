@@ -144,6 +144,8 @@ Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé p
 
 :::
 
+<br />
+
 ## Náš tým podporuje informované rozhodování ve veřejné správě
 
 Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskepriority.cz).
