@@ -7,7 +7,7 @@ sidebar: true
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
 :::{.btn .btn-primary}
-[Co by si měly o práci s poznatky uvětomit týmy a jejich členové ⟶](/teze-tymy)
+[Co by měly o práci s poznatky vědět týmy a jejich členové ⟶](/teze-tymy)
 :::
 
 <br />
@@ -23,7 +23,7 @@ Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé p
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
 :::{.btn .btn-primary}
-[Teze o práci s poznatky pro stát ⟶](/teze-stat)
+[Co by o práci s poznatky měli vědět klíčoví aktéři ⟶](/teze-stat)
 :::
 
 <br />
