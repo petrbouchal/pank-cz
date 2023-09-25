@@ -101,7 +101,7 @@ Obrázek
 :::{.g-col-12 .g-col-md-6}
 
 
-# Vycházíme z praxe týmů ve státní správě
+## Vycházíme z praxe týmů ve státní správě
 
 Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích.   Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích.  
 Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
@@ -144,7 +144,7 @@ Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé p
 
 :::
 
-# Náš tým podporuje informované rozhodování ve veřejné správě
+## Náš tým podporuje informované rozhodování ve veřejné správě
 
 Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskepriority.cz).
 
