@@ -74,10 +74,10 @@ Tady obrázek
 
 
 - [Jak začít](/pruvodce/jak-zacit)  
-- [Jak spolupracovat v týmu](/pruvodce/jak-zacit) 
-- [Jak získávat poznatky](/pruvodce/jak-zacit)   
-- [Jak s poznatky pracovat](/pruvodce/jak-zacit)   
-- [Jak svou práci dostat do světa](/pruvodce/jak-zacit) 
+- [Jak spolupracovat v týmu](/pruvodce/list-rizeni.html) 
+- [Jak získávat poznatky](/pruvodce/list-ziskavani.html)   
+- [Jak s poznatky pracovat](/pruvodce/list-metody.html)   
+- [Jak svou práci dostat do světa](/pruvodce/list-vyuziti.html) 
 
 :::
 
@@ -101,9 +101,10 @@ Obrázek
 :::{.g-col-12 .g-col-md-6}
 
 
-# Návody a doporučení vychází z praxe týmů ve státní správě
+# Vycházíme z praxe týmů ve státní správě
 
-Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích. Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích. Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
+Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích.   Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích.  
+Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
 
 :::{.btn .btn-primary}
 [Číst případové studie ⟶](/pripadove-studie)
@@ -165,7 +166,7 @@ Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvo
 
 V odborném poradním týmu nám pomáhala řada expertů z řad praktiků a akademiků a těžili jsme také z rad mnoha mezinárodních odborníků.
 
-Kromě rozvoje analytické práce se České priority soustředí na systémové změny v oblasti informovaného rozhodování. Pomáháme také rozvíjet foresight, forecasting a aplikace metod analýzy přínosů a nákladů.
+Kromě rozvoje analytické práce se České priority zaměřují na systémové změny v oblasti informovaného rozhodování. Pomáháme také rozvíjet foresight, forecasting a aplikace metod analýzy přínosů a nákladů.
 
 :::{.btn .btn-primary}
 [Více o Českých prioritách ⟶](https://ceskepriority.cz)
