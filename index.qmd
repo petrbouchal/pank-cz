@@ -3,13 +3,6 @@ pagetitle: "PANK"
 title-block-banner: false
 toc: false
 listing: 
-  - id: bloky
-    type: grid
-    template: bloky.ejs
-    contents: bloky.yaml
-    fields: 
-      - title
-      - subtitle
   - id: tym
     type: grid
     template: ejs/tym.ejs
@@ -28,8 +21,11 @@ Tady obrázek
 
 ::: {.g-col-6}
 
-## Pracovat s poznatky* potřebuje i Váš tým.<br />
+<br />
 
+### Pracovat s poznatky* potřebuje i Váš tým.<br />
+
+<br />
 
 :::{.btn .btn-primary}
 [Průvodce prací s poznatky](/pruvodce)
@@ -39,19 +35,32 @@ Tady obrázek
 
 \* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*
 
+<br />
+<br />
+
 :::
+:::
+
+:::{.page-full .strip .page-inset}
+
+:::{.aside}
+
+<br />
+
 :::
 
 :::{.grid}
 
 :::{.g-col-6}
 
+<br />
+
 ### Co v průvodci najdete?
 
 :::{.front-listing-left}
 
 - **návody, postupy a zlepšováky**
-- vyvinuté a otestované spolu s několika analytickými a neanalytickými týmy v české státní správě.
+- vyvinuté spolu s týmy v české státní správě.
 - řeší **reálné problémy a situace**
 - vychází ze současné mezinárodní **praxe a odborné literatury**.
 
@@ -59,6 +68,8 @@ Tady obrázek
 
 :::
 :::{.g-col-6}
+
+<br />
 
 ### Chcete se rovnou začíst?
 
@@ -71,21 +82,16 @@ Tady obrázek
 - [Jak s poznatky pracovat](/pruvodce/jak-zacit)   
 - [Jak svou práci dostat do světa](/pruvodce/jak-zacit) 
 
-:::
-
-
-:::
-:::
-
-:::
-
-:::{.page-full .strip .page-inset}
-
-:::{.aside}
-
 <br />
 
 :::
+
+
+:::
+:::
+
+:::
+
 
 # Návody a doporučení vychází z praxe týmů ve státní správě
 
