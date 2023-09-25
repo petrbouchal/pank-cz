@@ -9,7 +9,7 @@ editor: source
 
 # O co jde a k čemu to je
 
-Níže popsané má za cíl určit zda by útvar veřejné správy měl přemýšlet nad vytvořením databáze úkolů a jak případně v tomto vytváření postupovat tak, aby byla databáze smysluplná a udržitelná. 
+Níže popsané má za cíl určit zda by útvar veřejné správy měl přemýšlet nad vytvořením přehledu úkolů a jak případně v tomto vytváření postupovat tak, aby byl přehled smysluplný a udržitelný. 
 
 :::{.aside}
 
@@ -27,22 +27,22 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělen
 
 # ⚠ Sebediagnostika: je to pro mě?
 
-Má smysl v naší situaci vytvářet databázi analýz?
+Má smysl v naší situaci vytvářet přehled analýz?
 
 - Dostáváme příliš ad hoc opakujících se dotazů jejichž odpovědi lze najít v našich - předchozích výstupech?
-- Děláme dostatečně velký počet analýz, aby databáze měla smysl?
-- Umožní nám databáze lépe plánovat a prioritizovat činnosti?
-- Umožní nám databáze identifikovat procesy pro zjednodušení/automatizaci zaběhlých - analýz?
+- Děláme dostatečně velký počet analýz, aby přehled měl smysl?
+- Umožní nám přehled lépe plánovat a prioritizovat činnosti?
+- Umožní nám přehled identifikovat procesy pro zjednodušení/automatizaci zaběhlých - analýz?
 
 :::{.strip .page-columns .page-full}
 
 # ↪ Jak na to
 
-## 1. Identifikujte smysluplné kategorie v databázi
+## 1. Identifikujte smysluplné kategorie pro vytvoření přehledu
 
 Kolegové z analytického oddělení doporučují nepřesáhnout více jak tři kategorie podle kterých analýzy řadit
 
-b. V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku databáze
+V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku databáze
 
 ## 2. Navrhněte strukturu přehledu
 
@@ -50,11 +50,11 @@ Cílem je mít přehled udělaný tak, aby byla pochopitelný i pro zbytek organ
 
 a. To nejen pro členy analytického oddělení, ale také pro jeho zákazníky, kteří by databázi měli využívat.
 
-b. Zde doporučujeme přizvání několika archetypů těchto zákazníků do procesu vytváření, aby jejich zpětná vazba mohla být součástí finálního produktu. Při designu je také zapotřebí mít na paměti potenciální růst celé databáze, která v čase může významně překonat současnou velikost. 
+b. Zde doporučujeme přizvání několika archetypů těchto zákazníků do procesu vytváření, aby jejich zpětná vazba mohla být součástí finálního produktu. Při designu je také zapotřebí mít na paměti potenciální růst celého přehledu, který v čase může významně překonat současnou velikost. 
 
 ## 3. Zaneste jednotlivé činnosti do přehledu
 
-a. Pokud historicky existuje velké množství analýz, doporučujeme doplnit databázi např. za poslední rok a pak postupně doplňovat nově vzniklé analýzy (tzv. from now on). Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
+a. Pokud historicky existuje velké množství analýz, doporučujeme doplnit přehled např. za poslední rok a pak postupně doplňovat nově vzniklé analýzy (tzv. from now on). Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
 
 ## 4. Reflexe
 
