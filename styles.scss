@@ -21,8 +21,8 @@ $footer-fg: $cp-secondary-lightblue;
 
 $link-color:            $cp-primary-blue;
 $font-family-sans-serif: "Inter", Helvetica, Arial, Calibri, sans-serif;
-$navbar-bg:             $cp-primary-blue;
-$navbar-fg:             white;
+$navbar-bg:             $cp-secondary-lightblue;
+$navbar-fg:             $cp-primary-blue;
 $navbar-hl:             $cp-secondary-lightblue;
 $body-bg:             white;
 $body-color:             $cp-primary-blue;
@@ -31,6 +31,8 @@ $heading-color:          $cp-primary-blue;
 $nav-tabs-border-color: $cp-primary-blue;
 $nav-link-border-color: $cp-primary-blue;
 $nav-link-color: $cp-primary-blue;
+$nav-link-hover-color: $cp-primary-blue;
+$navbar-hover-color: $cp-primary-blue;
 
 $nav-tabs-border-width: 0px;
 $nav-tabs-link-active-color: $cp-primary-blue;
@@ -115,6 +117,10 @@ $bs-btn-active-border-color: white;
 .nav-link.active {
   background: $cp-primary-blue !important;
   color: $cp-secondary-lightblue !important;
+}
+
+.nav-link.hover {
+  color: $cp-primary-blue !important;
 }
 
 .btn-primary {
@@ -289,10 +295,6 @@ $bs-btn-active-border-color: white;
   padding-bottom: 0px;
 }
 
-.navbar {
-  border-bottom: 7px solid $cp-primary-red;
-}
-
 .lead {
   font-weight: 500;
 }
@@ -401,4 +403,37 @@ h2 {
   background-color: white;
   padding-left: 20px;
   padding-bottom: 20px;
+}
+
+.breadcrumb {
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: $cp-primary-grey;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.breadcrumb > a {
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: $cp-primary-grey;
+}
+
+.quarto-banner-title-block {
+  padding-top: 0px !important;
+  margin-top: 12pt !important;
+}
+
+.description {
+  color: $cp-primary-grey;
+  font-size: 10pt;
+}
+
+.description > a {
+  color: $cp-primary-grey;
+  text-decoration: underline !important;
+}
+
+.navbar-logo {
+  max-height: 40px;
 }
