@@ -437,3 +437,17 @@ h2 {
 .navbar-logo {
   max-height: 40px;
 }
+
+.front-listing-left > ul {
+  list-style-position: outside;
+  padding-left: 20pt;
+  list-style-type: "✓ ";
+  padding-top: 12pt;
+}
+
+.front-listing-right > ul {
+  list-style-position: outside;
+  padding-left: 20pt;
+  list-style-type: "→ ";
+  padding-top: 12pt;
+}

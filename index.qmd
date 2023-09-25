@@ -48,24 +48,30 @@ Tady obrázek
 
 ### Co v průvodci najdete?
 
+:::{.front-listing-left}
+
 - **návody, postupy a zlepšováky**
 - vyvinuté a otestované spolu s několika analytickými a neanalytickými týmy v české státní správě.
 - řeší **reálné problémy a situace**
 - vychází ze současné mezinárodní **praxe a odborné literatury**.
 
-<br />
+:::
 
 :::
 :::{.g-col-6}
 
 ### Chcete se rovnou začíst?
 
--> Jak začít  
--> Jak spolupracovat v týmu  
--> Jak získávat poznatky  
--> Jak s poznatky pracovat  
--> Jak svou práci dostat do světa
+:::{.front-listing-right}
 
+
+- [Jak začít](/pruvodce/jak-zacit)  
+- [Jak spolupracovat v týmu](/pruvodce/jak-zacit) 
+- [Jak získávat poznatky](/pruvodce/jak-zacit)   
+- [Jak s poznatky pracovat](/pruvodce/jak-zacit)   
+- [Jak svou práci dostat do světa](/pruvodce/jak-zacit) 
+
+:::
 
 
 :::
