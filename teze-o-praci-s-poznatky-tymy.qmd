@@ -1,5 +1,5 @@
 ---
-title: "O práci s poznatky"
+title: "Co by si měly uvědomit týmy a jejich členové"
 subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: false
@@ -13,74 +13,89 @@ format:
   docx: default
 ---
 
-# Co by si měly uvědomit týmy a jejich členové
+## Jak uvažovat o práci s poznatky
 
-## Široké chápání analytické práce
+### Analytickou práci je třeba chápat široce
 
 Setkáváme se často s tím, že pod pojmem analytická práce lidé vidí především, nebo dokonce pouze, kvantitativní analýzy a jím přidružené aktivity. Tento narativ se snažíme upravit a snažíme se analytickou práci chápat mnohem šířeji. Pracovně proto mluvíme především o práci s poznatky, která zahrnuje také kvalitativní data (desk research, rozhovory, rady a tipy od kolegů atd.).  
 
-Změna je snazší než se zdá (začni u sebe)
-Častou reakcí na podněty ke změnám fungování týmu, či postupů práce, je odmítavá reakce se slovy, že takto to začít dělat nemůžeme, protože nám to nedovoluje naše prostředí a v něm zaběhlé postupy. Dle našich zkušeností se tato bariéra často zdá mnohem větší než ve skutečnosti je, příklady dobré praxe se pracovišti naopak šíří je jen zapotřebí tyto příklady vytvářet.
+### Komunikace je slepou skvrnou - často právě pro analytiky
 
-## Komunikace je blindspot
+V analytické práci je komunikace zásadním aspektem celého procesu, který bývá často upozaděn. Pokud vyrábíme analytický produkt pro někoho, nebo po nás takový produkt někdo požaduje, je zásadní komunikovat během celého procesu –, již od samotného zadání, jaký problém řešíme, jak a kým bude produkt využíván. Jinými slovy, je zapotřebí pravidelně komunikovat se zadavatelem/příjemcem analýz tak, aby konečná analýza byla využitelná. V prostředí veřejné správy je důležité mít na paměti, že připomínkové řízení není dostatečnou substitucí za kvalitní komunikaci a zpětné vazby k následnému využití analýz a podobných výstupů. 
 
-V analytické práci je komunikace zásadním aspektem celého procesu, který bývá často upozaděn. Pokud vyrábíme analytický produkt pro někoho, nebo po nás takový produkt někdo požaduje, je zásadní komunikovat během celého procesu, již od samotného zadání, jaký problém řešíme, jak a kým bude produkt využíván. Jinými slovy, je zapotřebí pravidelně komunikovat se zadavatelem/příjemce analýz tak, aby konečná analýza byla využitelná. V prostředí veřejné správy je důležité mít na paměti, že připomínkové řízení není dostatečnou substitucí za kvalitní komunikaci a k následnému využití analýz a podobných výstupů. 
+### Neplňte zadání na první dobrou
 
-## Úroveň výkonu/služby: individuální, tým, systém (org / cross-org)
+Analytická práce je ze své podstaty komplexní činností. Často se tedy stáváJedním z důsledků je, že analytici často obdrží nejasná zadání, málo konkretizovaná a bez informací, co má splňovat. Úkolem analytika v takovém případě je především pochopit zadání a to nejlépe tak, že nechá zadavatele zakázky jasně popsat problém, který chce “zákazník” pomocí analýzy řešit. V tomto procesu může zákazník zjistit, že sám nemá tuto otázku jasně definovanou a s pomocí analytika mohou přijít, jak na definici problému, tak identifikaci podkladů pro jeho řešení. 
 
-V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Tím prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na “systém”. Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systematizován, jak efektivně a dobře nastavit jednotlivé sekce apd. V projektu jsem se snažili pracovat především s úrovní, která se nachází “mezi” těmito dvěma variantami. Tou je práce s týmem jako entitou, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání je dle naší zkušenosti smysluplné dívat se na to jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme.    
+Link na [budoucí] návod: zadání (analytického) úkolu
 
-## Externí pohled/vlastní pohled z odstupu
+### Specializace nemusí stát za to
 
-Jako velkou přidanou hodnotu projektu vnímáme fakt, že jsem mohli fungovat jako externí pohled na práci zapojených útvarů. Ačkoliv podmínky pro takovou spolupráci nejsou vždy možné, chceme zdůraznit, že externí pohled, který nabízí určitý odstup, či “jen” přináší svěží vítr, může výrazně pomoci ve zlepšení fungování týmu.  
-COM-B jako nástroj analýzy bariér/cílení intervencí na změny
+Nejen v analytických týmech je pochopitelná tendence navyšování specializace jednotlivých zaměstnanců. Jinými slovy, každý člen týmu se specializuje na konkrétní nástroje, datasety či věcnou tématiku. V tomto ohledu ovšem vzniká dilema, kdy navyšování specializací snižuje možnosti funkčního knowledge managementu. To především pokud dochází k situaci,z toho důvodu, kdy že určitá témata či agenday jsoue v určitý bod natolik v rukou jedné osoby, že jeho případný odchod znamená zásadní zásah do fungování týmu a jeho nabytých zkušeností či znalostí.  
+Velká část znalostí je tacitní
+TO DO
 
-Pro řízení změn v týmu je doporučené nejdříve identifikovat hlavní bariéry, kterým čelí. K tomu může napomoci jednoduchý konceptuální rámec, který vychází z behaviorálních věd (viz Mackie et al., 2011). Předpoklady pro změnu chování na individuální i týmové úrovni se nachází ve třech oblastech: kompetence a dovednosti pro aplikaci změn, příležitosti pro jejich aplikaci a motivace pro jejich plnění. 
+## Jak uvažovat o dopadu a využití poznatků
 
-Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry, kterým tým čelí. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají. Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
-
-## Vzdělávání dospělých/konstruktivistický přístup k učení 
+### Cesty od poznatků ke změně jsou někdy křivolaké
 
 TO DO
 
-## Někdo už to někde řeší
-
-Ať čelíte jakémukoliv problému je velká šance, že ho někdy někde také řeší, nebo lépe už ho někde někdo vyřešil. Tento triviální poznatek je bohužel často upozaděn, což vede ke zbytečné alokaci času a energie do úkolů, které není potřeba vymýšlet od začátku.
-
-## Bacha na tech fixes 
-
-Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Některá z těchto řešení jsou často finančně i časově náročné a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice problému, lepší zadání výzkumu atd.).
-
-## Investice času
+### Tvorba politik je často nelineární proces, musíte s tím počítat 
 
 TO DO
 
-## Velká část znalostí je tacitní
+### Uvažuje o poznatcích a datech ve smyslu stavů (stocks) i toků (flows)
 
 TO DO
 
+### Produkty, nejen projekty
 
-## Stocks (data (asset/produkt)/knowledge/skoro každý je správce dat) vs flows
+## Jak uvažovat o změně a zlepšování
+
+### Změna je snazší než se zdá (začni u sebe)
+
+Častou reakcí na podněty ke změnám fungování týmu, či postupů práce, je odmítavá reakce se slovy, že takto to začít dělat nemůžeme, protože nám to nedovoluje naše prostředí a v něm zaběhlé postupy. Dle našich zkušeností se tato bariéra často zdá mnohem větší než ve skutečnosti je, příklady dobré praxe se pracovišti naopak šíří a je jen zapotřebí tyto příklady zvědomovat a vytvářet.
+
+### Uvažujte o úrovních: individuální, týmová, organizační, systémová
+
+V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Tím prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na “systém”. Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systemizován, jak efektivně a dobře v něm nastavit jednotlivé sekce apd. V projektu jsme se snažili pracovat především s úrovní, která se nachází "mezi" těmito dvěma variantami. Tou je práce s týmem jako entitou, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme.    
+Vyhledávejte a zapojte externí pohled, hlas a pomoc
+
+Z naší externí role a pohledu zpětně vnímáme, že významnou přidanou hodnotu projektu ve spolupráci se zapojenými útvary, byl právě pohled z odstupu. Takový pohled, neovlivněný zaběhlými postupy či přístupy, přináší nadhled a svěží vítr, se kterým je možné vidět určité výzvy a příležitosti jasněji a může výrazně pomoci ke zlepšení práce a fungování týmu. Podobně užitečný může být vlastní pohled z odstupu či společná reflexe daného týmu po určité době. 
+Když chcete něco změnit, může pomoct model chování COM-B
+Pro řízení změn v týmu je doporučené nejdříve identifikovat hlavní bariéry, kterým čelí. K tomu může napomoci jednoduchý konceptuální rámec, který vychází z behaviorálních věd (viz Michie et al., 2011). Předpoklady pro změnu chování na individuální i týmové úrovni se nachází ve třech oblastech: kompetence a dovednosti pro aplikaci změn, příležitosti pro jejich aplikaci a motivace pro jejich plnění. 
+
+Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry pro takovou změnu.. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají, a tím i provázejí Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
+
+### Někdo už to někde řeší
+
+Ať čelíte jakémukoliv problému, je velká šance, že ho někdy někde také řeší, nebo lépe už ho někde někdo vyřešil. Tento triviální poznatek je bohužel často upozaděn, což vede ke zbytečné alokaci času a energie do úkolů, jejichž řešení není potřeba vymýšlet od začátku.
+
+Links:
+- Podívejte se do dobrých prací v našich případových studích, případně v odpovídajících návodech
+- Poptejte se mezi členy Pracovní skupiny pro spolupráci analytických útvarů
+- Zeptejte se na Slacku Česko.digital
+- Podívejte se do mapy státní správy, kde jsou další podobné týmy
+- Prohledejte repozitáře studií
+- Knihovna ESF
+- Starfos
+- Proběhlé projekty Beta podle resortů
+- Pokud se snažíte zadat zakázku a nevíte, jak něco vyřešit, možná najdete inspiraci v registru smluv (via Hlídač státu)
+- KvalitaVS.cz
+- Rozhlédněte se mimo státní a veřejnou správu - v něčem jsou dobrá města, ledaskdy podobné problémy například v práci s daty řeší akademici a think tanky, experty na některé technologie najdete ve firmách a možná se s vámi o svou expertizu podělí
+- Pro technické a datové problémy využijte veřejná fóra - od Twitteru po Stackoverflow a Reddit
+- Některé technologické nástroje a metody mají kolem sebe komunity s komunikačními platformami - porozhlédněte se
+- Rozhlédněte se mimo Česko - docela bohatě o své práci veřejně komunikuje britská státní správa a mají spoustu návodů, průvodců a příruček
+
+Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní správě, kteří pracují na podobných věcech, více a systémově podporovala státní služba, třeba systémem profesí a odborných sítí nebo posílením role tzv. všeobecně uznávaných odborníků. Více najdete v naší sadě doporučení na systémovou změnu [LINK].
+
+### Technické řešení není vždy řešení
+
+Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak nNěkterá z těchto řešení jsou často finančně i časově náročnáé a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
+
+### Uvažujte o čase stráveném na zlepšování své práce jako o investici
 
 TO DO
 
-## Dilema specializace x knowledge management risk
-
-V analytických týmech je pochopitelná tendence navyšování specializace jednotlivých zaměstnanců. Jinými slovy, každý člen týmu se specializuje na konkrétní nástroje, datasety či věcnou tématiku. V tomto ohledu ovšem vzniká dilema, kdy navyšování specializací snižuje možnosti knowledge managementu. To především z toho důvodu, že určitá témata či agendy je v určitý bod natolik v rukou jedné osoby, že jeho případný odchod znamená zásadní zásah do fungování týmu.  
-
-## Neplnit zadání na první dobrou
-
-Analytická práce je ze své podstaty komplexní činností. Jedním z důsledků je, že analytici často obdrží nejasná zadání. Úkolem analytika v takovém případě je především pochopit zadání a to nejlépe tak, že nechá zadavatele zakázky jasně popsat problém, který chce “zákazník” pomocí analýzy řešit. V tomto procesu může zákazník zjistit, že sám nemá tuto otázku jasně definovanou a s pomocí analytika mohou přijít, jak na definici problému, tak identifikaci podkladů pro jeho řešení. 
-
-## Různé módy využití poznatků - “není to jen o tom, že v moment X někdo udělá rozhodnutí podle vašeho podkladu”
-
-TO DO
-
-## Tvorba politik je často nelineární proces, musíte s tím počítat 
-
-TO DO
-
-## Produkty, nejen projekty
-
-TO DO
 
