@@ -12,17 +12,20 @@ website:
   navbar:
     right:
       - text: "Průvodce prací s poznatky"
-        file: pruvodce/index.qmd
+        menu:
+        - text: "Jak spolupracovat v týmu"
+          file: pruvodce/list-rizeni.html
+        - text: "Jak získávat poznatky"
+          file: pruvodce/list-ziskavani.html
+        - text: "Jak s poznatky pracovat"
+          file: pruvodce/list-metody.html
+        - text: "Jak dostat svou práci do světa"
+          file: pruvodce/list-vyuziti.html
+      - text: "Doporučení"
+        file: doporuceni.qmd
       - pripadove-studie/index.qmd
       - text: "Slovníček"
         file: slovnicek.qmd
-      - text: "Doporučení"
-        menu:
-        - text: "Jak přemýšlet o práci s poznatky"
-          file: teze-o-praci-s-poznatky.qmd
-        - systemova-doporuceni.qmd
-        - text: "Co číst a využívat"
-          file: inspirace.qmd
       - pribeh-projektu.qmd
     logo: logotype_black.png
   site-url: pank-foolkit.netlify.app
@@ -30,8 +33,6 @@ website:
   - title: Průvodce
     id: pruvodce
     style: docked
-    alignment: right
-    background: "warning"
     border: false
     contents:
     - text: "Celý průvodce"
@@ -44,7 +45,21 @@ website:
       file: "pruvodce/list-metody.qmd"
     - text: "Jak dostat svou práci do světa"
       file: "pruvodce/list-vyuziti.qmd"
-  - title: "Placeholder thing"
+  - title: "Doporučení"
+    id: doporuceni
+    style: docked
+    border: false
+    contents:
+    - text: "Doporučení"
+      file: doporuceni.qmd
+    - text: "O práci s poznatky pro týmy"
+      file: teze-o-praci-s-poznatky-tymy.qmd
+    - text: "O práci s poznatky pro vedení státu"
+      file: teze-o-praci-s-poznatky-stat.qmd
+    - text: "Pro stát: doporučení pro systémovou změnu"
+      file: systemova-doporuceni.qmd
+    - text: "Co číst a využívat"
+      file: inspirace.qmd
   open-graph:
     locale: cs_CZ
   favicon: favicon.png
@@ -65,8 +80,6 @@ format:
     toc-location: left
     title-block-banner: false
     title-block-categories: false
-    grid:
-      sidebar-width: 370px
     theme:
       light: [cosmo.scss, styles.scss]
       # dark: [darkly, styles-dark.scss]

@@ -1,7 +1,6 @@
 ---
 title: "Založení analytického útvaru"
 subtitle: "Podtitulek, co vysvětlí a naláká"
-description: "O něco delší popis, co taky vysvětlí a naláká, jen klidně na celý řádek"
 categories: ["Tým", "Vztahy", "Organizace"]
 blok: ["rizeni"]
 title-block-categories: false

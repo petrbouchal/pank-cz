@@ -1,7 +1,6 @@
 ---
 title: "Vizualizace dat"
 subtitle: "Jak zobrazit data tak, aby se na to dalo dívat"
-# description: "Dobré praxe, tipy a hlavně návod, jak vylepšit své datové vizualizace"
 categories: ["Komunikace", "Kvanti"]
 blok: ["vyuziti"]
 title-block-categories: false

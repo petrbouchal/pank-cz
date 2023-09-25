@@ -8,7 +8,7 @@ language:
   listing-page-field-categories: "Témata"
   listing-page-category-all: "Všechna"
   toc-title-website: Kapitoly průvodce
-title-block-banner: true
+title-block-banner: false
 sidebar: true
 listing:
   - id: rizeni

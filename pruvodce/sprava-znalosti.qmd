@@ -1,7 +1,6 @@
 ---
 title: "Správa znalostí"
-subtitle: "Neboli knowledge management pro smrtelníky"
-description: "Praktické postupy: jak nepoztrácet informace a využívat toho, co víme"
+subtitle: "Knowledge management pro smrtelníky"
 categories: ["Znalosti"]
 blok: ["rizeni", "vyuziti"]
 poradi: 1
