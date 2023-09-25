@@ -1,5 +1,7 @@
 ---
 title: "Slova a pojmy"
-subtitle: "Slovníček pro práci s poznatky"
 editor: source
+description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
 ---
+
+TO DO
