@@ -371,7 +371,7 @@ h2 {
   width: 150px;
   margin-bottom: 15pt;
   background-color: $cp-primary-blue;
-  border-radius: 20px;
+  border-radius: 10px;
   margin-left: 10pt;
   padding: 5pt;
 }
@@ -456,10 +456,87 @@ h2 {
   padding-top: 12pt;
 }
 
+.vocab-key > ul {
+  list-style-position: outside;
+  padding-left: 1em;
+  list-style-type: "* ";
+  padding-top: 12pt;
+  list-style-position: inside !important;
+}
+
 .front-listing-left > ul > li {
   padding-top: 10pt;
 }
 
 .front-listing-right > ul > li {
   padding-top: 10pt;
+}
+
+div.quarto-post {
+  background: $cp-secondary-lightblue;
+  border-top: 1px solid white;
+  display: block;
+  margin: 6px;
+  padding: 12pt 12pt 4pt 12pt;
+  border-bottom: none;
+}
+
+div.quarto-post:only-child {
+ border-top: none;
+}
+
+div.quarto-post > div.metadata {
+  display: none !important;
+  margin: 0px;
+}
+
+.pruvodce-box {
+  background: $cp-secondary-lightblue !important;
+  max-width: 600px;
+  margin-top: 35pt;
+  border-radius: 8px;
+}
+
+.pruvodce-box > h2 {
+  padding-left: 20pt;
+  padding-top: 12pt;
+  padding-bottom: 1px;
+}
+
+.pruvodce-box > p {
+  padding-left: 12pt;
+  margin-bottom: 30px;
+}
+
+h3.listing-title::after {
+ content: "→";
+}
+
+#metody::before, #ziskavani::before, #rizeni::before, #vyuziti::before {
+  display: none;
+}
+
+#listing-zacit {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+section.pruvodce-box > h2:before {
+  content: "";
+  background-image:url(images/icon.png);
+  background-size: 100% 100%;
+  display: inline-block;
+
+  /*size of your image*/
+  height: 30px;
+  width: 30px;
+
+  /*if you want to change the position you can use margins or:*/
+  position:relative;
+  top: 10px;
+  left: -10px;
+}
+
+.image-front {
+  border-radius: 10px;
 }
