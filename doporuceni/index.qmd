@@ -1,10 +1,14 @@
 ---
 title: "Doporučení pro týmy i pro stát"
 editor: source
+toc: false
+title-block-banner: true
 sidebar: true
 ---
 
-Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
+### Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
+
+Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
 :::{.btn .btn-primary}
 [Co by měly o práci s poznatky vědět týmy a jejich členové ⟶](/teze-tymy)
@@ -12,7 +16,9 @@ Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste
 
 <br />
 
-Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+### Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
+
+Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
 :::{.btn .btn-primary}
 [Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni-system)
@@ -20,20 +26,16 @@ Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé p
 
 <br />
 
-Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+A co by měl vědět stát, než se do těch větších změn pustí?
 
 :::{.btn .btn-primary}
-[Co by o práci s poznatky měli vědět klíčoví aktéři ⟶](/teze-stat)
+[Co by si měl stát uvědomit o práci s poznatky ⟶](/teze-stat)
 :::
 
 <br />
 
-A co by měl vědět stát, než se do toho pustí?
-
-Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
+### Kde ještě brát inspiraci?
 
 :::{.btn .btn-primary}
-[Co by si měl stát uvědomit o práci s poznatky ⟶](/teze-tymy)
+[Podívejte se na zdroje a nástroje, které doporučujeme ⟶](/teze-stat)
 :::
-
-<br />
