@@ -1,5 +1,6 @@
 /*-- scss:defaults --*/
 $h2-font-size:          1.6rem !default;
+$h3-font-size:          1.2rem !default;
 $headings-font-weight:  700 !default;
 $headings-font-family: Vollkorn, serif;
 
@@ -127,7 +128,7 @@ $bs-btn-active-border-color: white;
 }
 
 .btn-primary {
-  border-radius: 20px;
+  border-radius: 10px;
   padding-bottom: 5pt;
   width: fit-content;
   background-color: $cp-primary-blue;
@@ -186,8 +187,7 @@ $bs-btn-active-border-color: white;
 }
 
 .listing-title {
-  font-size: 17pt !important;
-  line-height: 23pt;
+  line-height: 1.15;
   text-decoration: none !important;
 }
 
@@ -222,7 +222,7 @@ $bs-btn-active-border-color: white;
 }
 
 .card {
-  border-radius: 30px;
+  border-radius: 10px;
   border-width: 2px;
   border-color: $cp-primary-blue;
   padding: 5px;
