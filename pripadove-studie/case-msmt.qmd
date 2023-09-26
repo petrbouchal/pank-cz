@@ -101,7 +101,7 @@ Veškeré společné úsilí, ve kterých jsme společně došli k vytvoření a
 ## Další dílčí dobré praxe
 
 - MŠMT alokuje kapacity na zajištění využití programu zakázek aplikovaného výzkumu TA ČR Beta
-- Ministerstvo na webu [Edu.cz](https://edu.cz) ukazuje přehled dostupných dat z oblasti vzdělávání
+- Ministerstvo na webu [Edu.cz](https://edu.cz) ukazuje přehled dostupných dat z oblasti vzdělávání a podobný přehled udržuje interně pro účely onboardingu nových analytiků a orientace stávajících
 - u některých analytických projektů ministerstvo aktivně vyvíjí evaluačních a podpůrných analytických nástrojů; příkladem je projekt Dějepis+, kde dokonce došlo k [preregistraci evaluační studie]
 - v oblasti analýzy dat některé týmy ministerstva používají standardní open-source nástroje, jako např. R, včetně tvorby interních nástrojů pro automatizaci a usnadnění opakovaných a institucionálně specifických úkolů
 - Školský zákon je podle našich informací ve vzdělávání jako jediném z velkých systémů veřejných služeb [umožňuje pilotní (tzv. pokusné) ověřování](https://www.zakonyprolidi.cz/cs/2004-561#p171) změn na části vzdělávacího systému.
