@@ -1,84 +1,121 @@
 ---
-title: "Celý průvodce"
+title: "Průvodce prací s poznatky"
+description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
 listable: not
-execute:
-  echo: false
 language: 
-  toc-title-website: Kapitoly průvodce
-toc: false
+  toc-title-website: Rychlá navigace
+toc: true
+format:
+  html: 
+    grid:
+      sidebar-width: 300px
+sidebar: false
 title-block-banner: false
 listing:
   - id: rizeni
-    template: ../ejs/navod-listing.ejs
     categories: false
     sort: poradi
+    type: default
     include: 
       blok: "rizeni"
     template-params:
       bg: "blue"
+    fields: 
+      - title
   - id: ziskavani
     categories: false
+    type: default
     sort: poradi
-    template: ../ejs/navod-listing.ejs
     include: 
       blok: "ziskavani"
-    template-params:
-      bg: "grey"
+    fields: 
+      - title
   - id: metody
     categories: false
     sort: poradi
-    template: ../ejs/navod-listing.ejs
+    type: default
     include: 
       blok: "metody"
-    template-params:
-      bg: "red"
+    fields: 
+      - title
   - id: vyuziti
     categories: false
+    type: default
     sort: poradi
-    template: ../ejs/navod-listing.ejs
     include: 
       blok: "vyuziti"
-    template-params:
-      bg: "darkblue"
+    fields: 
+      - title
+  - id: zacit
+    categories: false
+    type: default
+    sort: poradi
+    include: 
+      blok: "zacit"
+    fields: 
+      - title
 ---
 
+<br />
 
+:::{.pruvodce-box}
 
 ::: {#zacit}
 :::
 
-Zlepšete, jak váš tým funguje při práci s poznatky
+:::
 
-<br />
+
+:::{.pruvodce-box}
+
+## Jak spolupracovat v týmu {#rizeni}
+
+Zlepšete, jak váš tým funguje při práci s poznatky
 
 ::: {#rizeni}
 :::
 
+:::
+
+::: {.pruvodce-box}
+
+## Jak se dostat k datům a poznatkům {#ziskavani}
 
 Naučte se hledat a sbírat podklady a vstupy pro svou práci
-
-<br />
 
 ::: {#ziskavani}
 :::
 
+:::
+  
+::: {.pruvodce-box}
 
-Využitje vhodné postupy a metody pro práci s poznatky a daty
 ## Jak s poznatky pracovat {#metody}
 
-<br />
+Využijte vhodné postupy a metody pro práci s poznatky a daty
 
 ::: {#metody}
 :::
 
+:::
+
+
+::: {.pruvodce-box}
+
+## Jak svou práci dostat do světa {#vyuziti}
 
 Nenechte vaši práci ležet v šuplíku
-
-<br />
-## Jak svou práci dostat do světa {#vyuziti}
 
 ::: {#vyuziti}
 :::
 
+:::
 
+## Máte nápad?
+
+Dejte nám vědět a my Vaši dobrou praxi doplníme.
+
+::: {.btn .btn-primary}
+[Kontaktujte nás ⟶](/pribeh-projektu)
+:::
 

@@ -11,6 +11,7 @@ website:
   title: ""
   navbar:
     right:
+      - text: "   "
       - text: "Průvodce prací s poznatky"
         file: pruvodce/index.qmd
         menu:
@@ -48,26 +49,12 @@ website:
       file: "pruvodce/list-metody.qmd"
     - text: "Jak dostat svou práci do světa"
       file: "pruvodce/list-vyuziti.qmd"
-  - title: "Doporučení"
-    id: doporuceni
-    style: docked
-    border: false
-    contents:
-    - text: "Doporučení"
-      file: doporuceni/index.qmd
-    - text: "O práci s poznatky pro týmy"
-      file: doporuceni/teze-o-praci-s-poznatky-tymy.qmd
-    - text: "O práci s poznatky pro vedení státu"
-      file: doporuceni/teze-o-praci-s-poznatky-stat.qmd
-    - text: "Pro stát: doporučení pro systémovou změnu"
-      file: doporuceni/systemova-doporuceni.qmd
-    - text: "Co číst a využívat"
-      file: doporuceni/inspirace.qmd
+  - title: blah
   open-graph:
     locale: cs_CZ
   favicon: favicon.png
   page-footer:
-    left: "[České priority](https://ceskepriority.cz) 2023<br />[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)"
+    left: "[České priority](https://ceskepriority.cz) 2023<div class='img-license'>[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)</div>"
     center: "[![](/images/logolink_eta.png)](https://starfos.tacr.cz/cs/project/TL05000330)"
     right: "Built with [Quarto](https://quarto.org), kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   repo-url: https://github.com/petrbouchal/pank-foolkit
