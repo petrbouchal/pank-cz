@@ -1,9 +1,8 @@
 ---
 title: "MPSV, oddělení rovných příležitostí ESF"
-subtitle: "Případová studie"
+subtitle: "Práce s poznatky mezi administrací"
 tagline: "Hlavně neanalytické oddělení, které připravuje a administruje výzvy na podporu rovných příležitostí na trhu práce"
 zkratka: MPSV
-description: "Práce s poznatky mezi administrací"
 aliases: 
   - mpsv
 listable: "listable"

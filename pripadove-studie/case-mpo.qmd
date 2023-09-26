@@ -1,9 +1,7 @@
 ---
 title: "MPO, tým S3"
-subtitle: "Případová studie"
-tagline: "**Oddělení S3** kombinuje analytickou, strategickou a koordinační práci v oblasti inovační politiky"
+subtitle: "Oddělení S3 kombinuje analytickou, strategickou a koordinační práci v oblasti inovační politiky"
 zkratka: MPO
-description: "Tým, který řídí strategii S3"
 listable: ["listable"]
 format: 
   docx: default

@@ -1,9 +1,7 @@
 ---
 title: "Evaluační jednotka NOK"
-subtitle: "Případová studie"
-tagline: "Evaluační jednotka NOK na MMR se stará o evaluace evropských fondů."
+subtitle: "Evaluační jednotka NOK na MMR se stará o evaluace evropských fondů."
 zkratka: ASZ
-description: "Evaluační jednotka NOK na MMR se stará o evaluace evropských fondů."
 listable: "listable"
 format: 
   docx: default

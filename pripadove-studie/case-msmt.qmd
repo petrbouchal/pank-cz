@@ -1,9 +1,7 @@
 ---
 title: "Ministerstvo školství"
-subtitle: "Případová studie"
-tagline: "<strong>Odbory řízení a koordinace regionálního školství</strong> jsou jádrem vzdělávací politiky a analýz."
+subtitle: "Odbory řízení a koordinace regionálního školství jsou jádrem vzdělávací politiky a analýz."
 zkratka: MŠMT
-description: "<strong>Odbory řízení a koordinace regionálního školství</strong> jsou jádrem vzdělávací politiky a analýz."
 aliases: 
   - msmt
 listable: "listable"
