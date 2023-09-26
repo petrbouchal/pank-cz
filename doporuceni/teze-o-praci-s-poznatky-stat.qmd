@@ -1,30 +1,30 @@
 ---
-title: "O práci s poznatky"
+title: "O práci s poznatky: vzkaz pro představitele státu"
 subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: false
-toc-location: left
 aliases: 
   - /teze-stat
-format: 
-  html: default
-  # pdf: default
+format:
+  html:
+    toc-depth: 2
+    toc-title: "Téma"
   docx: default
 ---
 
-| Co je třeba vědět, abychom zvládli systémová zlepšení
-| <br>
+TO DO úvod
 
-## Dilema: servisní nebo samostatná práce
+## Pojmy
 
-## Široké chápání analytické práce
+### Analytickou práci a roli analytika je třeba chápat široce
 
 Ačkoliv je "analytická práce" obvykle chápána výlučně jako práce s daty, její podoba a role ve veřejné správě je mnohem širší.
 
-Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako "analytik/čka" vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, "nevýzkumné" úlohy jako například rešerše, příprava zpráv pro partnery, vizualizace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat. 
+Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako "analytik/čka" vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, více či méně "nevýzkumné" úlohy jako například rešerše, příprava zpráv pro partnery, vizualizace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat a např. ve vzdělávání cílit na toto širší spektrum potřebných dovedností.
 
 
-## Různé role analytika/čky
+
+### Různé role analytika/čky
 
 Role analytika/čky ve veřejné správě se neomezuje na práci s daty a tvorbu analýz, ale zahrnuje mnohem širší spektrum činností. 
 
