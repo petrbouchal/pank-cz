@@ -12,6 +12,8 @@ format:
   docx: default
 ---
 
+TO DO úvod
+
 ## Jak uvažovat o práci s poznatky
 
 ### Analytickou práci je třeba chápat široce

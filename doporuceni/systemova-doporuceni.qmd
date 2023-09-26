@@ -2,10 +2,14 @@
 title: "Doporučení pro stát"
 editor: source
 title-block-banner: true
-toc-depth: 1
+format:
+  html:
+    toc-depth: 1
 aliases: 
   - /doporuceni-system
 ---
+
+TO DO úvod
 
 # Bariéry
 
