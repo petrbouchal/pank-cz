@@ -1,0 +1,6 @@
+---
+title: "Další metody práce s poznatky"
+blok: ['metody']
+poradi: 30
+editor: source
+---

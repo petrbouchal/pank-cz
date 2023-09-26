@@ -2,8 +2,8 @@
 title: "Správa dat"
 subtitle: "Podtitulek, co vysvětlí a naláká"
 categories: ["Vzor", "Zásobník"]
-blok: ["ziskavani"]
-poradi: 1
+blok: ["metody"]
+poradi: 15
 title-block-categories: false
 editor: source
 ---

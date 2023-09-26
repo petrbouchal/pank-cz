@@ -1,0 +1,10 @@
+---
+title: "Průvodce: kde začít"
+blok: ['zacit']
+poradi: 1
+zacit: true
+editor: source
+aliases: 
+  - /pruvodce/kde-zacit
+---
+
