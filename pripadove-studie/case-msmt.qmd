@@ -4,7 +4,7 @@ subtitle: "Odbory řízení a koordinace regionálního školství jsou jádrem 
 zkratka: MŠMT
 aliases: 
   - /msmt
-  - pripadove-studie/msmt
+  - /pripadove-studie/msmt
 listable: "listable"
 format: 
   docx: default
@@ -35,7 +35,7 @@ Již během diagnostické fáze ovšem docházelo ke spolupráci s analyticko-st
 Ačkoliv jsme identifikovali prostory pro zlepšení:
 Nevyjasněnost rolí, kompetencí a agend vede k rozkolům a duplikacím či dokonce k vytváření návrhů politik, které jsou ve vzájemných rozporech.
 
-Vzájemná informovanost mezi odbory a odděleními je na nízké úrovni. To se týče, jak jednotlivých průběžných agend, tak datových zdrojů či dostupného výzkumu.
+Vzájemná informovanost mezi odbory a odděleními je na nízké úrovni. To se týče jak jednotlivých průběžných agend, tak datových zdrojů či dostupného výzkumu.
 
 Evidence-informed přístup je přítomen jen v některých členech týmů. Personální změny tak silně ohrožují pokračování ve stejném duchu.
 
@@ -76,7 +76,7 @@ V kontextu analytického útvaru jsme nakonec našli řešení ve vymezení kapa
 
 Šíře našeho zapojení do vzniku analytického útvaru je poměrně špatně uchopitelná, snažili jsme se naši spolupráci cílit na všechna smysluplná místa v procesu vzniku. Vše již začalo snahou o podporu při psaní charty projektu a o zapojení ostatních relevantních stakeholderů do procesu psaní charty. Jak uvádíme výše mezi problémy v odborech, s kterými jsme spolupracovali, je limitovaná schopnost komunikace a vyjasnění kompetencí. 
 
-Tento fakt byl příznačný i u vzniku analytického útvaru. Mnoho relevantních stakeholderů nebylo do procesu psaní charty projektu zapojeno, nebo dokonce nevědělo, že analytický útvar vzniká, v lepším případě se to dozvěděli skrze osobní kontakty. Naší snahou bylo podporovat triviální princip, který zní asi následovně: "Pokud vytváříme nějakou službu pro někoho, musíme se bavit s tím pro koho tu službu vytváříme, abychom naplnili jejich potřeby". Z toho důvodu jsme se snažili co nejvíce incentivizovat setkávání stakeholderů, aby konečné nastavení analytického útvaru co nejvíce naplnilo požadavky všech, ale také aby došlo k mitigaci očekávání. 
+Tento fakt byl příznačný i u vzniku analytického útvaru. Mnoho relevantních stakeholderů nebylo do procesu psaní charty [projektu](https://www.edu.cz/projekt-ips-datova-politika-rozsiruje-svuj-tym-a-hleda-dalsi-motivovane-analytiky/) zapojeno, nebo dokonce nevědělo, že analytický útvar vzniká, v lepším případě se to dozvěděli skrze osobní kontakty. Naší snahou bylo podporovat triviální princip, který zní asi následovně: "Pokud vytváříme nějakou službu pro někoho, musíme se bavit s tím pro koho tu službu vytváříme, abychom naplnili jejich potřeby". Z toho důvodu jsme se snažili co nejvíce incentivizovat setkávání stakeholderů, aby konečné nastavení analytického útvaru co nejvíce naplnilo požadavky všech, ale také aby došlo k mitigaci očekávání. 
 
 Je zřejmé, že není možné v podobném projektu naplnit přání a tužby všech, už jen z toho důvodu, že celý analytický útvar je financován z OP JAK a jako takový si musí stanovit konkrétní projektové cíle. Snahou tedy nebylo pouze získat vstupy od potencionálních zákazníků útvaru, ale také představit primární náplně práce útvaru. Bylo zapotřebí vyjasnit, že analytický útvar není vytvářen pouze pro plnění ad hoc potřeb věcných odborů, ale že primárním zaměřením bude dlouhodobá a koncepční analytika.
 
@@ -92,8 +92,21 @@ Hlavním postřehem, který je z naší zkušenosti, symptomatický pro další 
 
 # Dobré praxe
 
-Samotný vznik analytického útvaru vnímáme jako příklad dobré praxe. Snaha takto významně podpořit práci s poznatky na ministerstvu je velmi pozitivní. Strategicko-analytické oddělení také z podstat svých agend vnímá důležitost práce s poznatky a snaží se o její rozvoj a posílení. Veškeré společné úsilí, ve kterých jsme společně došli k vytvoření artefaktů, jako je plachta agend či šablona pro zadávání výzkumu, nezůstalo jen u hypotéz, ale oddělení tyto artefakty aktivně využívalo, upravovalo podle zkušeností z terénu a využívá ve své praxi dodnes.  
-Systémové bariéry
+Samotný vznik analytického útvaru vnímáme jako příklad dobré praxe. Snaha takto významně podpořit práci s poznatky na ministerstvu je velmi pozitivní.
+
+Strategicko-analytické oddělení také z podstaty svých agend vnímá důležitost práce s poznatky a snaží se o její rozvoj a posílení. 
+
+Veškeré společné úsilí, ve kterých jsme společně došli k vytvoření artefaktů, jako je plachta agend či šablona pro zadávání výzkumu, nezůstalo jen u hypotéz, ale oddělení tyto artefakty aktivně využívalo, upravovalo podle zkušeností z terénu a využívá ve své praxi dodnes.
+
+## Další dílčí dobré praxe
+
+- MŠMT alokuje kapacity na zajištění využití programu zakázek aplikovaného výzkumu TA ČR Beta
+- Ministerstvo na webu [Edu.cz](https://edu.cz) ukazuje přehled dostupných dat z oblasti vzdělávání
+- u některých analytických projektů ministerstvo aktivně vyvíjí evaluačních a podpůrných analytických nástrojů; příkladem je projekt Dějepis+, kde dokonce došlo k [preregistraci evaluační studie]
+- v oblasti analýzy dat některé týmy ministerstva používají standardní open-source nástroje, jako např. R, včetně tvorby interních nástrojů pro automatizaci a usnadnění opakovaných a institucionálně specifických úkolů
+- Školský zákon je podle našich informací ve vzdělávání jako jediném z velkých systémů veřejných služeb [umožňuje pilotní (tzv. pokusné) ověřování](https://www.zakonyprolidi.cz/cs/2004-561#p171) změn na části vzdělávacího systému.
+
+# Systémové bariéry
 
 # Reflexe
 
