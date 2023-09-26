@@ -6,7 +6,8 @@ toc-title: "Teze pro týmy"
 aliases: 
   - /teze-tymy
 format: 
-  html: default
+  html: 
+    toc-depth: 2
   # pdf: default
   docx: default
 ---
@@ -25,12 +26,14 @@ V analytické práci je komunikace zásadním aspektem celého procesu, který b
 
 Analytická práce je ze své podstaty komplexní činností. Často se tedy stáváJedním z důsledků je, že analytici často obdrží nejasná zadání, málo konkretizovaná a bez informací, co má splňovat. Úkolem analytika v takovém případě je především pochopit zadání a to nejlépe tak, že nechá zadavatele zakázky jasně popsat problém, který chce "zákazník" pomocí analýzy řešit. V tomto procesu může zákazník zjistit, že sám nemá tuto otázku jasně definovanou a s pomocí analytika mohou přijít, jak na definici problému, tak identifikaci podkladů pro jeho řešení. 
 
-Link na [budoucí] návod: zadání (analytického) úkolu
+LINK na [budoucí] návod: zadání (analytického) úkolu
 
 ### Specializace nemusí stát za to
 
 Nejen v analytických týmech je pochopitelná tendence navyšování specializace jednotlivých zaměstnanců. Jinými slovy, každý člen týmu se specializuje na konkrétní nástroje, datasety či věcnou tématiku. V tomto ohledu ovšem vzniká dilema, kdy navyšování specializací snižuje možnosti funkčního knowledge managementu. To především pokud dochází k situaci,z toho důvodu, kdy že určitá témata či agenday jsoue v určitý bod natolik v rukou jedné osoby, že jeho případný odchod znamená zásadní zásah do fungování týmu a jeho nabytých zkušeností či znalostí.  
-Velká část znalostí je tacitní
+
+### Velká část znalostí je tacitní
+
 TO DO
 
 ## Jak uvažovat o dopadu a využití poznatků
@@ -49,17 +52,19 @@ TO DO
 
 ### Produkty, nejen projekty
 
+TO DO
+
 ## Jak uvažovat o změně a zlepšování
 
 ### Změna je snazší než se zdá (začni u sebe)
 
-Častou reakcí na podněty ke změnám fungování týmu, či postupů práce, je odmítavá reakce se slovy, že takto to začít dělat nemůžeme, protože nám to nedovoluje naše prostředí a v něm zaběhlé postupy. Dle našich zkušeností se tato bariéra často zdá mnohem větší než ve skutečnosti je, příklady dobré praxe se pracovišti naopak šíří a je jen zapotřebí tyto příklady zvědomovat a vytvářet.
+Častou reakcí na podněty ke změnám fungování týmu či postupů práce je odmítavá reakce se slovy, že takto to začít dělat nemůžeme, protože nám to nedovoluje naše prostředí a v něm zaběhlé postupy. Dle našich zkušeností se tato bariéra často zdá mnohem větší než ve skutečnosti je, příklady dobré praxe se pracovišti naopak šíří a je jen zapotřebí tyto příklady zvědomovat a vytvářet. Bariérou jsou i časové kapacity -- často ale platí, že [práce na zlepšení je investicí](#investice).
 
 ### Uvažujte o úrovních: individuální, týmová, organizační, systémová
 
 V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na "systém". Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systemizován, jak efektivně a dobře v něm nastavit jednotlivé sekce apd. 
 
-V projektu jsme se snažili pracovat především s úrovní, která se nachází "mezi" těmito dvěma variantami. Tou je práce s týmem jako entitou, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme.    
+V projektu jsme se snažili pracovat především s úrovní, která se nachází “mezi” těmito dvěma variantami. Tou je tým jako entita, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme. Tento pohled nás taky vede k uvědomění, že technická a metodická zlepšení často [nejsou řešením](#techfixes) daného problému -- alespoň ne úplným. 
 
 ### Vyhledávejte a zapojte externí pohled, hlas a pomoc
 
@@ -77,32 +82,34 @@ Ať čelíte jakémukoliv problému, je velká šance, že ho někdy někde tak�
 
 :::{.callout-tip collapse=true}
 
-#### Kam se obrátit:
+#### Kam se obrátit (rozbal kliknutím):
 
 - Podívejte se do dobrých praxí v [našich případových studích](/pripadove-studie), případně v odpovídajících návodech
-- Poptejte se mezi členy Pracovní skupiny pro spolupráci analytických útvarů
-- Zeptejte se na Slacku Česko.digital
-- Podívejte se do mapy státní správy, kde jsou další podobné týmy
+- Poptejte se mezi členy [Pracovní skupiny pro spolupráci analytických útvarů](https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/)
+- Zeptejte se na [Slacku Česko.digital](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/87457796/Slack), [prohledejte webináře](https://www.youtube.com/@CeskoDigital/videos)
+- Podívejte se do [mapy státní správy](/nastroje/mapa)), kde jsou další podobné týmy
 - Prohledejte repozitáře studií
-- Knihovna produktů ESF
-- Starfos
-- Proběhlé projekty Beta podle resortů
-- Pokud se snažíte zadat zakázku a nevíte, jak něco vyřešit, možná najdete inspiraci v registru smluv (via Hlídač státu)
-- KvalitaVS.cz
-- Rozhlédněte se mimo státní a veřejnou správu - v něčem jsou dobrá města, ledaskdy podobné problémy například v práci s daty řeší akademici a think tanky, experty na některé technologie najdete ve firmách a možná se s vámi o svou expertizu podělí
-- Pro technické a datové problémy využijte veřejná fóra - od Twitteru po Stackoverflow a Reddit
-- Některé technologické nástroje a metody mají kolem sebe komunity s komunikačními platformami - porozhlédněte se
-- Rozhlédněte se mimo Česko - docela bohatě o své práci veřejně komunikuje britská státní správa a mají spoustu návodů, průvodců a příruček
+  - [Knihovna evaluací ESIF](https://www.dotaceeu.cz/cs/evropske-fondy-v-cr/narodni-organ-pro-koordinaci/evaluace/knihovna-evaluaci)
+  - [Knihovna produktů ESF](https://www.esfcr.cz/produkty-opz)
+  - [STARFOS od TA ČR](https://starfos.tacr.cz/)
+  - [Proběhlé projekty BETA podle resortů](/nastroje/beta)
+- Zeptejte se v odborných společnostech -- například [České evaluační společnosti](https://czecheval.cz/)
+- Pokud se snažíte zadat zakázku a nevíte, jak něco vyřešit, možná najdete inspiraci v registru smluv (přehledně poskytuje [Hlídač státu](https://www.hlidacstatu.cz/))
+- na [KvalitaVS.cz](https://kvalitaVS.cz) najdete přehled dostupných vzdělávacích kurzů a sérii webinářů k různým metodám a nástrojům
+- Rozhlédněte se mimo státní a veřejnou správu -- v něčem jsou dobrá města, ledaskdy podobné problémy například v práci s daty řeší akademici a think tanky, experty na některé technologie najdete ve firmách a možná se s vámi o svou expertizu podělí
+- Pro technické a datové problémy využijte veřejná fóra -- od Twitteru po Stackoverflow a Reddit
+- Některé technologické nástroje a metody mají kolem sebe komunity s komunikačními platformami -- porozhlédněte se
+- Rozhlédněte se mimo Česko -- docela bohatě o své práci veřejně [komunikuje](https://www.blog.gov.uk/) britská státní správa a její analytické komunita poskytuje spoustu [návodů, průvodců a příruček](https://analysisfunction.civilservice.gov.uk/)
 
 :::
 
 Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní správě, kteří pracují na podobných věcech, více a systémově podporovala státní služba, třeba systémem profesí a odborných sítí nebo posílením role tzv. všeobecně uznávaných odborníků. Více najdete v naší sadě [doporučení na systémovou změnu](/doporuceni/systemova-doporuceni.qmd).
 
-### Technické řešení není vždy řešení
+### Technické řešení není vždy řešení {#techfix}
 
-Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak nNěkterá z těchto řešení jsou často finančně i časově náročnáé a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
+Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak některá z těchto řešení jsou často finančně i časově náročnáé a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
 
-### Čas strávený zlepšováním vlastní práce je investice
+### Čas strávený zlepšováním vlastní práce je investice {#investice}
 
 TO DO
 
