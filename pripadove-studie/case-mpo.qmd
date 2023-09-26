@@ -22,7 +22,7 @@ Analytické aktivity představují pouze zlomek práce v oddělení (cca 20% ča
 
 Informované vládnutí (evidence-informed policymaking) je jedním z hlavních stavebních kamenů pro koncepci a implementaci RIS3 strategií napříč EU. [Metodické pokyny](https://s3platform.jrc.ec.europa.eu/guidance), které vydává Evropská komise, doporučují opřít design a implementaci strategie o analytické podklady ohledně současného stavu a potenciálu výzkumného prostředí na národní i regionální úrovni. 
 
-Posílení anaytických kapacit oddělení S3 tak má přispět ke zkvalitnění těchto podkladů. Vedle toho vykonává oddělení S3 řadu dalších činností, které jsou spíše administrativního a komunikačního rázu, v rámci kterých lze vycházet z vědeckých poznatků pro jejich úspěšný průběh. To se týká například způsobů, jak lépe facilitovat průběh konzultačních platforem (tzv. Entrepreneurial Discovery Process - EDP) a zajistit účast širokého spektra relevantních aktérů (tzv. Quadruple helix). V neposlední řadě se jeví členům týmu klíčový i širší aspekt komunikace s těmito aktéry.
+Posílení anaytických kapacit oddělení S3 tak má přispět ke zkvalitnění těchto podkladů. Vedle toho vykonává oddělení S3 řadu dalších činností, které jsou spíše administrativního a komunikačního rázu, v rámci kterých lze vycházet z vědeckých poznatků pro jejich úspěšný průběh. To se týká například způsobů, jak lépe facilitovat průběh konzultačních platforem (tzv. Entrepreneurial Discovery Process -- EDP) a zajistit účast širokého spektra relevantních aktérů (tzv. Quadruple helix). V neposlední řadě se jeví členům týmu klíčový i širší aspekt komunikace s těmito aktéry.
 
 # Průběh spolupráce v PANK
 
@@ -70,7 +70,7 @@ Prezentace dat a indikátorů pro monitoring RIS3 neodpovídá standardům open 
 
 ## Intervence
 
-Na základě výše uvedených poznatcích o současném stavu analytické práce na oddělení S3 jsme týmu S3 navrhli několik oblastí pro rozvoj intervencí. První tři se týkají věcné / obsahové práce v souvislosti s designem a implementací RIS3. A to zejména design nových prvků do strategie (např. mise), zajištění široké participace v EDP procesu (“quadruple helix”) a nastavení mechanismů pro aktualizaci oblastí specializace.
+Na základě výše uvedených poznatcích o současném stavu analytické práce na oddělení S3 jsme týmu S3 navrhli několik oblastí pro rozvoj intervencí. První tři se týkají věcné / obsahové práce v souvislosti s designem a implementací RIS3. A to zejména design nových prvků do strategie (např. mise), zajištění široké participace v EDP procesu ("quadruple helix") a nastavení mechanismů pro aktualizaci oblastí specializace.
 
 Dále byly navrhnuty další podpůrné intervence, které cílí na zkvalitnění analytických aktivit v oddělení. S3. Tyto intervence mají obecnější charakter, ale ze své podstaty povedou zároveň k naplnění výše uvedených cílů. Tyto podpůrné intervence se zaměří na následující oblasti: tvorbu plánu analytických činností, knowledge management týkající se pracovních postupů, prezentace a zpřístupňování dat, externí komunikace a marketing strategie RIS3.
 

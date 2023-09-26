@@ -19,16 +19,16 @@ format:
 
 ## Široké chápání analytické práce
 
-Ačkoliv je “analytická práce” obvykle chápána výlučně jako práce s daty, její podoba a role ve veřejné správě je mnohem širší.
+Ačkoliv je "analytická práce" obvykle chápána výlučně jako práce s daty, její podoba a role ve veřejné správě je mnohem širší.
 
-Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako “analytik/čka” vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, “nevýzkumné” úlohy jako například rešerše, příprava zpráv pro partnery, vizualizace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat. 
+Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako "analytik/čka" vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, "nevýzkumné" úlohy jako například rešerše, příprava zpráv pro partnery, vizualizace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat. 
 
 
 ## Různé role analytika/čky
 
 Role analytika/čky ve veřejné správě se neomezuje na práci s daty a tvorbu analýz, ale zahrnuje mnohem širší spektrum činností. 
 
-Z širokého chápání analytické práce vyplývá, že analytik/čka se nevěnuje pouze statistické práci s daty. Naopak pokrývá celou řadu činností, které jdou za využití statistických nástrojů, a “tradiční” výzkumné úkony obecně. Analytik/čka tak v různých kontextech může být autorkou zpráv pro management či veřejnost, zadavatelkou externího výzkumu, či knowledge brokerkou. Lepší práce s poznatky ve veřejné správě by toto měla brát v potaz. 
+Z širokého chápání analytické práce vyplývá, že analytik/čka se nevěnuje pouze statistické práci s daty. Naopak pokrývá celou řadu činností, které jdou za využití statistických nástrojů, a "tradiční" výzkumné úkony obecně. Analytik/čka tak v různých kontextech může být autorkou zpráv pro management či veřejnost, zadavatelkou externího výzkumu, či knowledge brokerkou. Lepší práce s poznatky ve veřejné správě by toto měla brát v potaz. 
 
 Součástí analytické práce je i syntéza poznatků, jejich předávání a knowledge brokering
 
@@ -38,9 +38,9 @@ Analytická práce nespočívá výlučně v produkci nových textů a zpráv, a
 
 ## Analytické útvary jsou široká kategorie
 
-Práce s poznatky probíhá i na řadě útvarů, které formálně “analytické” nejsou. 
+Práce s poznatky probíhá i na řadě útvarů, které formálně "analytické" nejsou. 
 
-Dalším závěrem, který vychází ze širokého chápání práce s poznatky, je skutečnost, že kategorie analytických útvarů zahrnuje celou řadu oddělení - od “tvrdě” analytických, které se věnují datové analýze, po ty, kde k analytické práci dochází v rámci specifických a dílčích činností. I tyto útvary nicméně potřebují přístup k zásadám a postupům práce s poznatky, s čímž by měla veřejná správa počítat.
+Dalším závěrem, který vychází ze širokého chápání práce s poznatky, je skutečnost, že kategorie analytických útvarů zahrnuje celou řadu oddělení -- od "tvrdě" analytických, které se věnují datové analýze, po ty, kde k analytické práci dochází v rámci specifických a dílčích činností. I tyto útvary nicméně potřebují přístup k zásadám a postupům práce s poznatky, s čímž by měla veřejná správa počítat.
 
 ## Knowledge Delivery funkce
 
@@ -48,7 +48,7 @@ Dalším závěrem, který vychází ze širokého chápání práce s poznatky,
 
 Technologie mají v analytické práci (a ve veřejné správě obecně) své místo, ale nejsou všespásné. 
 
-Technologické nástroje mohou usnadnit řadu činností, nicméně nemohou být použity jako univerzální řešení. Je potřeba kriticky zvážit, nakolik je použití čistě technických řešení (např. zavedení umělé inteligence) skutečně vhodné a efektivní pro daný problém, kdy je potřeba pozornost věnovat širšímu kontextu. Spojeným poblémem je to, že technická řešení dávají falešnou iluzi toho, že se jedná o řešení “nepolitická” a neutrální, a z těch, kdo je zavádějí, tak zdánlivě snímají nutnost politického rozhodování. 
+Technologické nástroje mohou usnadnit řadu činností, nicméně nemohou být použity jako univerzální řešení. Je potřeba kriticky zvážit, nakolik je použití čistě technických řešení (např. zavedení umělé inteligence) skutečně vhodné a efektivní pro daný problém, kdy je potřeba pozornost věnovat širšímu kontextu. Spojeným poblémem je to, že technická řešení dávají falešnou iluzi toho, že se jedná o řešení "nepolitická" a neutrální, a z těch, kdo je zavádějí, tak zdánlivě snímají nutnost politického rozhodování. 
 
 ## Podpora analytické práce by se neměla omezovat na rozvoj individuálních a technických dovedností
 
@@ -58,7 +58,7 @@ Dovednosti a technická znalost jednotlivých zaměstnanců a zaměstnankyň jso
 
 ## Rozvoj analytické práce není jen o budování resortních analytických útvarů
 
-TO DO - reverz bodu výše
+TO DO -- reverz bodu výše
 
 ## Školení nejsou jedinou možností vzdělávání analytiků a analytiček
 
@@ -70,7 +70,7 @@ Profesního a odborného rozvoje jedinců lze dosáhnout i jinými cestami než 
 
 Zefektivnění práce s poznatky ve veřejné správě by pomohlo, pokud by čistě analytická pozice byla takto pojmenována a definována, co se týče popisu práce a nároků.
 
-I v rámci široce chápané analytické práce mají místo pracovní pozice, jejichž náplň spočívá čistě v práci s poznatky. V současném nastavení takové pozice existují, nejsou nicméně formálně ani prakticky takto definované (jedná se o např. pozice “referent”). Pro lepší práci s poznatky by bylo vhodné, aby čistě analytické práce byly takto i formálně zachycené. To by se mělo projevit ve specifikování pracovní činnosti a nároků kladených na dotyčné, které by umožnily najímat, udržet a profesně rozvíjet vhodné lidské zdroje.  
+I v rámci široce chápané analytické práce mají místo pracovní pozice, jejichž náplň spočívá čistě v práci s poznatky. V současném nastavení takové pozice existují, nejsou nicméně formálně ani prakticky takto definované (jedná se o např. pozice "referent"). Pro lepší práci s poznatky by bylo vhodné, aby čistě analytické práce byly takto i formálně zachycené. To by se mělo projevit ve specifikování pracovní činnosti a nároků kladených na dotyčné, které by umožnily najímat, udržet a profesně rozvíjet vhodné lidské zdroje.  
 
 ## Analytická práce zahrnuje vyjasňování zadaných úkolů
 
@@ -97,7 +97,7 @@ Naše zkušenosti poukazují na to, že na řadě oddělení nejsou nijak kodifi
 Práce s poznatky často stojí na jedincích a individuálních vazbách 
 V současných podmínkách je řada analytických činností závislých na jedincích na daných pracovištích, kteří mají potřebné znalosti a dovednosti, což má dopad na fungování daných oddělení. 
 
-Výzkum a spolupráce s různými částmi veřejné správy v rámci projektu PANK ukázaly, že práce s poznatky, a zejména s kvantitativními daty, často stojí na daných pracovištích na jedincích, kteří mají potřebné know-how a znalosti. Propojeným jevem je pak skutečnost, že spolupráce v oblasti specializovanější analytické práce napříč státní správou je postavena právě na vazbách těchto klíčových osob. Jakkoliv není tento stav ideální, je nutné s touto realitou počítat a v rozvoji analytické práce napříč odděleními zapojit v první řadě právě tyto aktéry, kteří představují “uzly” v dané oblasti.  
+Výzkum a spolupráce s různými částmi veřejné správy v rámci projektu PANK ukázaly, že práce s poznatky, a zejména s kvantitativními daty, často stojí na daných pracovištích na jedincích, kteří mají potřebné know-how a znalosti. Propojeným jevem je pak skutečnost, že spolupráce v oblasti specializovanější analytické práce napříč státní správou je postavena právě na vazbách těchto klíčových osob. Jakkoliv není tento stav ideální, je nutné s touto realitou počítat a v rozvoji analytické práce napříč odděleními zapojit v první řadě právě tyto aktéry, kteří představují "uzly" v dané oblasti.  
 
 ## Dobrý analytik nerovná se dobrý manager
 

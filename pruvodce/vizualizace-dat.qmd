@@ -50,7 +50,7 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 
 - Kdo to je, jaký*á je, co dělá? (jméno, věk, role, vzdělání, postoje, …)
 - Čeho potřebuje dosáhnout? (sepsat analýzu / přesvědčit paní X / vysvětlit téma T, …)
-- Co ho*ji trápí, čemu čelí, s čím se potýká (“Jsem busy” / “Nerad čtu data” / “Špatně vidím”)
+- Co ho*ji trápí, čemu čelí, s čím se potýká ("Jsem busy" / "Nerad čtu data" / "Špatně vidím")
 - Co chce od vizualizace dat
   - Forma: přehled vs. detail, standard vs. inovace, …
   - Účel: Zaujmout, přesvědčit, prozkoumat, hledat vzorce…
@@ -100,8 +100,8 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 - Osy, škály, legendy  
 - Nedatové prvky (vodítka, pozadí)
 - Titulek a podtitulek
-  - Titulek = hlavní sdělení grafu: “Nárůst počtu uchazečů o zaměstnání”
-  - Podtitulek: = popis datové sady, území a časového úseku: “Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022”
+  - Titulek = hlavní sdělení grafu: "Nárůst počtu uchazečů o zaměstnání"
+  - Podtitulek: = popis datové sady, území a časového úseku: "Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022"
 - Zdroj  
 
 ## 4. Držte se dobrých praxí

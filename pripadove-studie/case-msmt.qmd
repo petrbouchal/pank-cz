@@ -3,7 +3,8 @@ title: "Ministerstvo školství"
 subtitle: "Odbory řízení a koordinace regionálního školství jsou jádrem vzdělávací politiky a analýz."
 zkratka: MŠMT
 aliases: 
-  - msmt
+  - /msmt
+  - pripadove-studie/msmt
 listable: "listable"
 format: 
   docx: default
@@ -14,7 +15,7 @@ Popis této případové studie se oproti ostatním liší tím, jakou šíři o
 
 # Představení týmu
 
-Nejvíce jsme v projektu pracovali s týmem, který se stará o analyticko-strategickou podporu zbytku sekce ministerstva, jednalo se především o tři členy analyticko-strategického oddělení. Jejich agenda je velmi široká z povahy toho, že mají analyticky podporovat zbytek své sekce a řídit plnění strategických cílů ministerstva. Dále se také starají o běh externích výzkumů např. skrze veřejné zakázky.  ​ 
+Nejvíce jsme v projektu pracovali s týmem, který se stará o analyticko-strategickou podporu zbytku sekce ministerstva, jednalo se především o tři členy analyticko-strategického oddělení. Jejich agenda je velmi široká z povahy toho, že mají analyticky podporovat zbytek své sekce a řídit plnění strategických cílů ministerstva. Dále se také starají o běh externích výzkumů např. skrze veřejné zakázky.  
 
 # Diagnostika
 
@@ -73,16 +74,16 @@ V kontextu analytického útvaru jsme nakonec našli řešení ve vymezení kapa
 
 ## Vznik analytického útvaru
 
-Šíře našeho zapojení do vzniku analytického útvaru je poměrně špatně uchopitelná, snažili jsme se naší spolupráci cílit na všechna smysluplná místa v procesu vzniku. Vše již začalo snahou o podporu při psaní charty projektu a o zapojení ostatních relevantních stakeholderů do procesu psaní charty. Jak uvádíme výše mezi problémy v odborech, s kterými jsme spolupracovali, je limitovaná schopnost komunikace a vyjasnění kompetencí. 
+Šíře našeho zapojení do vzniku analytického útvaru je poměrně špatně uchopitelná, snažili jsme se naši spolupráci cílit na všechna smysluplná místa v procesu vzniku. Vše již začalo snahou o podporu při psaní charty projektu a o zapojení ostatních relevantních stakeholderů do procesu psaní charty. Jak uvádíme výše mezi problémy v odborech, s kterými jsme spolupracovali, je limitovaná schopnost komunikace a vyjasnění kompetencí. 
 
-Tento fakt byl příznačný i u vzniku analytického útvaru. Mnoho relevantních stakeholderů nebylo do procesu psaní charty projektu zapojeno, nebo dokonce nevědělo, že analytický útvar vzniká, v lepším případě se to dozvěděli skrze osobní kontakty. Naší snahou bylo podporovat triviální princip, který zní asi následovně: “Pokud vytváříme nějakou službu pro někoho, musíme se bavit s tím pro koho tu službu vytváříme, abychom naplnili jejich potřeby”. Z toho důvodu jsme se snažili co nejvíce incentivizovat setkávání stakeholderů, aby konečné nastavení analytického útvaru co nejvíce naplnilo požadavky všech, ale také aby došlo k mitigaci očekávání. 
+Tento fakt byl příznačný i u vzniku analytického útvaru. Mnoho relevantních stakeholderů nebylo do procesu psaní charty projektu zapojeno, nebo dokonce nevědělo, že analytický útvar vzniká, v lepším případě se to dozvěděli skrze osobní kontakty. Naší snahou bylo podporovat triviální princip, který zní asi následovně: "Pokud vytváříme nějakou službu pro někoho, musíme se bavit s tím pro koho tu službu vytváříme, abychom naplnili jejich potřeby". Z toho důvodu jsme se snažili co nejvíce incentivizovat setkávání stakeholderů, aby konečné nastavení analytického útvaru co nejvíce naplnilo požadavky všech, ale také aby došlo k mitigaci očekávání. 
 
 Je zřejmé, že není možné v podobném projektu naplnit přání a tužby všech, už jen z toho důvodu, že celý analytický útvar je financován z OP JAK a jako takový si musí stanovit konkrétní projektové cíle. Snahou tedy nebylo pouze získat vstupy od potencionálních zákazníků útvaru, ale také představit primární náplně práce útvaru. Bylo zapotřebí vyjasnit, že analytický útvar není vytvářen pouze pro plnění ad hoc potřeb věcných odborů, ale že primárním zaměřením bude dlouhodobá a koncepční analytika.
 
-Jak již bylo zmíněno v popisu intervence pro zadávání výzkumu zamýšleným řešením naplnění potřeb věcných útvarů bylo vytvoření pozic, které mají fungovat jako přemostění mezi analytickým útvarem a věcnými útvary. Tyto “tykadla” mají v popisu práce nejen obstarávat výzkumné procesy na ministerstvu, ale také komunikovat s věcnými útvary ohledně jejich potřeb a hledání možných řešení (ať již pomocí zadávání nových výzkumů, nebo pomocí odkazování na již proběhlé výzkumy​). Jejich role je především náročná v tom, že jako spojovatelé dvou světů mají mít schopnost vhledu do obou. Měli mít základní přehled o věcné agendě odboru/oddělení, které mají na starost, ale také znát schopnosti a možnosti analytické práce. 
+Jak již bylo zmíněno v popisu intervence pro zadávání výzkumu zamýšleným řešením naplnění potřeb věcných útvarů bylo vytvoření pozic, které mají fungovat jako přemostění mezi analytickým útvarem a věcnými útvary. Tyto "tykadla" mají v popisu práce nejen obstarávat výzkumné procesy na ministerstvu, ale také komunikovat s věcnými útvary ohledně jejich potřeb a hledání možných řešení (ať již pomocí zadávání nových výzkumů, nebo pomocí odkazování na již proběhlé výzkumy​). Jejich role je především náročná v tom, že jako spojovatelé dvou světů mají mít schopnost vhledu do obou. Měli mít základní přehled o věcné agendě odboru/oddělení, které mají na starost, ale také znát schopnosti a možnosti analytické práce. 
 
-Pro zjednodušení jejich práce, která v mnohém spočívá v systematickém uchopování agend a na ně návazných analytických potřeb, jsme společně s kolegy vypracovali tzv. plachtu agend (ODKAZ na pdfko). Ta má sloužit jako základní podklad pro spolupráci s věcnými útvary. Snahou bylo nastavit “formálnější” proces, který je lehce předatelný, na který si aktéři mohou lehce zvyknout a který umožní  kvalitnější organizační učení a správy znalostí by tento postup měl napomoci ke dvěma posunům
-Staráme se o “stavy  poznatků” (tj. co už víme, co jsme zjistili dřív), nejen o jejich toky (co se teď potřebujeme dovědět).
+Pro zjednodušení jejich práce, která v mnohém spočívá v systematickém uchopování agend a na ně návazných analytických potřeb, jsme společně s kolegy vypracovali tzv. plachtu agend (ODKAZ na pdfko). Ta má sloužit jako základní podklad pro spolupráci s věcnými útvary. Snahou bylo nastavit "formálnější" proces, který je lehce předatelný, na který si aktéři mohou lehce zvyknout a který umožní  kvalitnější organizační učení a správy znalostí by tento postup měl napomoci ke dvěma posunům
+Staráme se o "stavy  poznatků" (tj. co už víme, co jsme zjistili dřív), nejen o jejich toky (co se teď potřebujeme dovědět).
 Staráme se o zlepšení poznání k jednotlivým tématům/úkolům ministerstva, ne jen o jednotlivé projekty a výstupy. 
 
 # Zobecnitelější vhledy

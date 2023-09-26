@@ -81,7 +81,7 @@ format:
 - [ ] barvy jsou využity cíleně, např.
   - [ ] zvýraznění klíčové kategorie
   - [ ] červená = problém/nízká hodnota
-  - [ ] šedá pro “Ostatní”
+  - [ ] šedá pro "Ostatní"
 - [ ] datumová osa:
   - [ ] různě dlouhé intervaly jsou zobrazeny odpovídajícími rozestupy
 
@@ -109,7 +109,7 @@ format:
 - [ ] řazení kategorií na koláčovém grafu usnadňuje srovnání a koláč začíná na 12:00
 - [ ] jsou použity smysluplně, tj. tak, pomáhaly čtení grafu a nerozptylovaly
   - [ ] přiměřené množství, tloušťka a barva vodicích linek
-  - [ ] přiměřené využití “ticks” na osách
+  - [ ] přiměřené využití "ticks" na osách
   - [ ] přiměřené množství popisků hodnot na osách
   - [ ] nechybí/nejsou přeskočený žádné popisky na kategorické ose
 

@@ -56,7 +56,7 @@ listing:
 
 ## Přístup k poznatkům a datům
 
-Zlepšete, jak sbíráte a získáváte poznatky - data, podklady aj. - pro svou práci.
+Zlepšete, jak sbíráte a získáváte poznatky -- data, podklady aj. - pro svou práci.
 
 ::: {#pristup}
 :::

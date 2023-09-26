@@ -21,7 +21,7 @@ Dále existuje riziko vznikání nerovností v analytických možnostech uvnitř
 
 ## Přístup k datům
 
-Orgány státní správy čelí velmi složitému přístupu k relevantním datovým zdrojům. Mezirezortní výměně brání nezprovozněná datová infrastruktura (mezery v RPP - bohužel nerozumím) a chybějící prvky umožňující efektivní využití dat jako jsou metadata a datové modely. Přístup k externím zdrojům je pak problematický z legálních důvodů, kdy současné legislativní nastavení tento přístup znemožňuje. To se týká i statistických mikrodat, jejichž využití omezuje (zabraňuje?) zákon o státní službě. Celý problém je ještě umocněn nízkou uživatelskou přístupností výstupů a zdrojů ČSÚ.  
+Orgány státní správy čelí velmi složitému přístupu k relevantním datovým zdrojům. Mezirezortní výměně brání nezprovozněná datová infrastruktura (mezery v RPP -- bohužel nerozumím) a chybějící prvky umožňující efektivní využití dat jako jsou metadata a datové modely. Přístup k externím zdrojům je pak problematický z legálních důvodů, kdy současné legislativní nastavení tento přístup znemožňuje. To se týká i statistických mikrodat, jejichž využití omezuje (zabraňuje?) zákon o státní službě. Celý problém je ještě umocněn nízkou uživatelskou přístupností výstupů a zdrojů ČSÚ.  
 
 ## Rozdíly v technických řešeních ve veřejném a soukromém sektoru
 
@@ -45,7 +45,7 @@ TO DO / FIX
 
 ## Chybí postupy, jak dosáhnout základních datových schopností u širokého spektra úředníků 
 
-V současném fungování veřejné správy neexistují mechanismy, které by pomohly zajistit základní schopnosti práce s daty u širšího spektra úředníků a úřednic, například ve formě úvodního “evidence bootcampu”. Toto se netýká pouze “tvrdé” datové práce, ale i obecnější schopnosti výzkumné činnosti včetně zadávání výzkumu analytickým oddělením. Tato absence podpory a incentiv rozvoje datových schopností je přítomná i v náboru, kontinuálním vzdělávání a hodnocení. 
+V současném fungování veřejné správy neexistují mechanismy, které by pomohly zajistit základní schopnosti práce s daty u širšího spektra úředníků a úřednic, například ve formě úvodního "evidence bootcampu". Toto se netýká pouze "tvrdé" datové práce, ale i obecnější schopnosti výzkumné činnosti včetně zadávání výzkumu analytickým oddělením. Tato absence podpory a incentiv rozvoje datových schopností je přítomná i v náboru, kontinuálním vzdělávání a hodnocení. 
 
 ## Neuvědomění si, že řada oddělení dělá policy work/analysis
 

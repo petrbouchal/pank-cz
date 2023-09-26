@@ -28,10 +28,10 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělen
 
 Má smysl v naší situaci vytvářet přehled analýz?
 
-- Dostáváme příliš ad hoc opakujících se dotazů jejichž odpovědi lze najít v našich - předchozích výstupech?
+- Dostáváme příliš ad hoc opakujících se dotazů jejichž odpovědi lze najít v našich -- předchozích výstupech?
 - Děláme dostatečně velký počet analýz, aby přehled měl smysl?
 - Umožní nám přehled lépe plánovat a prioritizovat činnosti?
-- Umožní nám přehled identifikovat procesy pro zjednodušení/automatizaci zaběhlých - analýz?
+- Umožní nám přehled identifikovat procesy pro zjednodušení/automatizaci zaběhlých -- analýz?
 
 :::{.strip .page-columns .page-full}
 
