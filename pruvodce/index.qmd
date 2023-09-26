@@ -111,9 +111,9 @@ Nenechte vaši práci ležet v šuplíku
 
 :::
 
-## Máte nápad?
+## Chcete sdílet svou zkušenost?
 
-Dejte nám vědět a my Vaši dobrou praxi doplníme.
+Dejte nám vědět a my Vaši dobrou praxi doplníme. Ať už vaše vlastní návody, praxe a zlepšováky, nebo zkušenost s využitím některého z návodů v průvodci.
 
 ::: {.btn .btn-primary}
 [Kontaktujte nás ⟶](/pribeh-projektu)
