@@ -29,13 +29,9 @@ listing:
 
 ## Pracovat s poznatky*<br>potřebuje i Váš tým.<br />
 
-<br />
-
 :::{.btn .btn-primary}
 [Průvodce prací s poznatky](/pruvodce)
 :::
-
-<br />
 
 :::{.vocab-key}
 - *poznatky*: analýzy, data, podklady, nebo taky angl.&nbsp;*evidence*
@@ -109,7 +105,9 @@ listing:
 
 ## Vycházíme z praxe týmů ve státní správě
 
-Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích.   Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích.  
+Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v několika organizacích.   
+
+Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích.  
 Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
 
 :::{.btn .btn-primary}
@@ -132,37 +130,48 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 
 ## Naše doporučení
 
-:::{.grid}
+:::{.container}
 
-:::{.g-col-12 .g-col-md-6}
+:::{.row}
+
+:::{.col .col-12 .col-md-6}
 
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
 
 Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
-:::{.btn .btn-primary}
-[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
 :::
 
+:::{.col .col-12 .col-md-6}
 
-<br />
-
-:::
-
-:::{.g-col-12 .g-col-md-6}
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
 
 Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
+:::
+:::
+
+:::{.row}
+
+:::{.col .col-12 .col-md-6}
+
 :::{.btn .btn-primary}
 [Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni)
 :::
-
 <br />
+:::
 
+:::{.col .col-12 .col-md-6}
+
+:::{.btn .btn-primary}
+[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
+:::
+<br />
 :::
 :::
 
+:::
+:::
 :::
 
 <br />
@@ -180,7 +189,6 @@ Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvo
 <br />
 
 
-:::{.column-body}
 
 :::{.d-none .d-sm-block}
 
@@ -209,5 +217,3 @@ Tento průvodce a všechny související výstupy vznikly díky Technologické a
 :::
 
 
-:::
-:::
