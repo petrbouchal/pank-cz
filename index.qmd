@@ -9,7 +9,7 @@ listing:
     contents: tym.yaml
 ---
 
-:::{.column-page-inset}
+:::{.column-page}
 
 <br />
 
@@ -17,14 +17,17 @@ listing:
 
 ::: {.g-col-12 .g-col-md-6}
 
-Tady obrázek
+![](images/mj_3.png){.image-front}
+
+<br />
 
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 
+<center>
 
-### Pracovat s poznatky* potřebuje i Váš tým.<br />
+## Pracovat s poznatky*<br>potřebuje i Váš tým.<br />
 
 <br />
 
@@ -34,14 +37,17 @@ Tady obrázek
 
 <br />
 
-\* *poznatky*: analýzy, data, podklady, nebo taky angl. *evidence*
-
-<br />
-
-:::
+:::{.vocab-key}
+- *poznatky*: analýzy, data, podklady, nebo taky angl.&nbsp;*evidence*
 :::
 
-:::{.page-full .strip .page-inset}
+</center>
+
+:::
+
+:::
+
+:::{.strip .column-page}
 
 :::{.aside}
 
@@ -51,21 +57,20 @@ Tady obrázek
 
 :::{.grid}
 
-
-:::{.g-col-12 .g-col-md-6}
-
+::::{.g-col-12 .g-col-md-6}
 
 ### Co v průvodci najdete?
 
 :::{.front-listing-left}
 
 - **návody, postupy a zlepšováky**
-- vyvinuté spolu s týmy v české státní správě.
+- vyvinuté **spolu s týmy** v české státní správě.
 - řeší **reálné problémy a situace**
 - vychází ze současné mezinárodní **praxe a odborné literatury**.
 :::
 
-:::
+::::
+
 :::{.g-col-12 .g-col-md-6}
 
 ### Chcete se rovnou začíst?
@@ -73,17 +78,18 @@ Tady obrázek
 :::{.front-listing-right}
 
 
-- [Jak začít](/pruvodce/jak-zacit)  
+- [Kde začít](/pruvodce/kde-zacit)  
 - [Jak spolupracovat v týmu](/pruvodce/list-rizeni.html) 
 - [Jak získávat poznatky](/pruvodce/list-ziskavani.html)   
 - [Jak s poznatky pracovat](/pruvodce/list-metody.html)   
 - [Jak svou práci dostat do světa](/pruvodce/list-vyuziti.html) 
 
 :::
+:::
 
 <br />
 
-:::
+
 :::
 
 :::
@@ -94,7 +100,7 @@ Tady obrázek
 
 <br />
 
-Obrázek
+![](images/mj_1.png){.image-front}
 :::
 
 
@@ -111,14 +117,14 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 :::
 
 <br />
+<br />
 
 :::
-
 :::
 
-:::
+<br />
 
-:::{.page-full .strip .page-inset}
+:::{.strip .column-page}
 
 :::{.aside}
 <br />
@@ -126,21 +132,36 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 
 ## Naše doporučení
 
-Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
+:::{.grid}
+
+:::{.g-col-6}
+
+Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
+
+Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
 :::{.btn .btn-primary}
 [Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
 :::
 
+
 <br />
 
-Ne všechno změníte sami tím, že budete pracovat na svém týmu. Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+:::
+
+:::{.g-col-6}
+Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
+
+Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 
 :::{.btn .btn-primary}
 [Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni)
 :::
 
 <br />
+
+:::
+:::
 
 :::
 
@@ -156,14 +177,19 @@ Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvo
 [Ozvěte se nám ⟶](mailto:email@ceskepriority.cz)
 :::
 
-
 <br />
 
 
+:::{.column-body}
+
 :::{.d-none .d-sm-block}
+
+
 :::{#tym}
 :::
+
 :::
+
 
 
 V odborném poradním týmu nám pomáhala řada expertů z řad praktiků a akademiků a těžili jsme také z rad mnoha mezinárodních odborníků.
@@ -183,4 +209,5 @@ Tento průvodce a všechny související výstupy vznikly díky Technologické a
 :::
 
 
-
+:::
+:::
