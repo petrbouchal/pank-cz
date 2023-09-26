@@ -31,7 +31,7 @@ website:
       - text: "Slovníček"
         file: slovnicek.qmd
       - pribeh-projektu.qmd
-    logo: logotype_black.png
+    logo: logotype_blue.png
   site-url: pank-foolkit.netlify.app
   sidebar:
   - title: Průvodce
