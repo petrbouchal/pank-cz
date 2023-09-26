@@ -30,7 +30,7 @@ listing:
 ## Pracovat s poznatky*<br>potřebuje i Váš tým.<br />
 
 :::{.btn .btn-primary}
-[Průvodce prací s poznatky](/pruvodce)
+[Průvodce prací s poznatky ⟶](/pruvodce)
 :::
 
 :::{.vocab-key}
