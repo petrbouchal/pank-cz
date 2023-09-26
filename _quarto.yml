@@ -12,17 +12,18 @@ website:
   navbar:
     right:
       - text: "Průvodce prací s poznatky"
+        file: pruvodce/index.qmd
         menu:
         - text: "Celý průvodce"
           file: pruvodce/index.qmd
         - text: "Jak spolupracovat v týmu"
-          file: pruvodce/list-rizeni.qmd
+          file: pruvodce/index.qmd#rizeni
         - text: "Jak získávat poznatky"
-          file: pruvodce/list-ziskavani.qmd
+          file: pruvodce/index.qmd#ziskavani
         - text: "Jak s poznatky pracovat"
-          file: pruvodce/list-metody.qmd
+          file: pruvodce/index.qmd#metody
         - text: "Jak dostat svou práci do světa"
-          file: pruvodce/list-vyuziti.qmd
+          file: pruvodce/index.qmd#vyuziti
       - text: "Doporučení"
         file: doporuceni/index.qmd
       - pripadove-studie/index.qmd

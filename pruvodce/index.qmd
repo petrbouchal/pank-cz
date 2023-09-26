@@ -44,7 +44,8 @@ listing:
 
 
 
-## Jak spolupracovat v týmu
+::: {#zacit}
+:::
 
 Zlepšete, jak váš tým funguje při práci s poznatky
 
@@ -53,7 +54,6 @@ Zlepšete, jak váš tým funguje při práci s poznatky
 ::: {#rizeni}
 :::
 
-## Jak se dostat k datům a poznatkům
 
 Naučte se hledat a sbírat podklady a vstupy pro svou práci
 
@@ -62,20 +62,20 @@ Naučte se hledat a sbírat podklady a vstupy pro svou práci
 ::: {#ziskavani}
 :::
 
-## Jak s poznatky pracovat
 
 Využitje vhodné postupy a metody pro práci s poznatky a daty
+## Jak s poznatky pracovat {#metody}
 
 <br />
 
 ::: {#metody}
 :::
 
-## Jak svou práci dostat do světa
 
 Nenechte vaši práci ležet v šuplíku
 
 <br />
+## Jak svou práci dostat do světa {#vyuziti}
 
 ::: {#vyuziti}
 :::
