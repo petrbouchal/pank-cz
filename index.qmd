@@ -134,7 +134,7 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 
 :::{.grid}
 
-:::{.g-col-6}
+:::{.g-col-12 .g-col-md-6}
 
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
 
@@ -149,7 +149,7 @@ Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zle
 
 :::
 
-:::{.g-col-6}
+:::{.g-col-12 .g-col-md-6}
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
 
 Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
