@@ -2,6 +2,7 @@
 title: "Co by si měly uvědomit týmy a jejich členové"
 editor: source
 title-block-banner: true
+toc-title: "Teze pro týmy"
 aliases: 
   - /teze-tymy
 format: 
@@ -56,26 +57,34 @@ TO DO
 
 ### Uvažujte o úrovních: individuální, týmová, organizační, systémová
 
-V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Tím prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na “systém”. Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systemizován, jak efektivně a dobře v něm nastavit jednotlivé sekce apd. V projektu jsme se snažili pracovat především s úrovní, která se nachází "mezi" těmito dvěma variantami. Tou je práce s týmem jako entitou, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme.    
-Vyhledávejte a zapojte externí pohled, hlas a pomoc
+V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na “systém”. Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systemizován, jak efektivně a dobře v něm nastavit jednotlivé sekce apd. 
+
+V projektu jsme se snažili pracovat především s úrovní, která se nachází "mezi" těmito dvěma variantami. Tou je práce s týmem jako entitou, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme.    
+
+### Vyhledávejte a zapojte externí pohled, hlas a pomoc
 
 Z naší externí role a pohledu zpětně vnímáme, že významnou přidanou hodnotu projektu ve spolupráci se zapojenými útvary, byl právě pohled z odstupu. Takový pohled, neovlivněný zaběhlými postupy či přístupy, přináší nadhled a svěží vítr, se kterým je možné vidět určité výzvy a příležitosti jasněji a může výrazně pomoci ke zlepšení práce a fungování týmu. Podobně užitečný může být vlastní pohled z odstupu či společná reflexe daného týmu po určité době. 
-Když chcete něco změnit, může pomoct model chování COM-B
+
+### Když chcete něco změnit, může pomoct model chování COM-B
+
 Pro řízení změn v týmu je doporučené nejdříve identifikovat hlavní bariéry, kterým čelí. K tomu může napomoci jednoduchý konceptuální rámec, který vychází z behaviorálních věd (viz Michie et al., 2011). Předpoklady pro změnu chování na individuální i týmové úrovni se nachází ve třech oblastech: kompetence a dovednosti pro aplikaci změn, příležitosti pro jejich aplikaci a motivace pro jejich plnění. 
 
-Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry pro takovou změnu.. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají, a tím i provázejí Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
+Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry pro takovou změnu. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají, a tím i provázejí Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
 
 ### Někdo už to někde řeší
 
 Ať čelíte jakémukoliv problému, je velká šance, že ho někdy někde také řeší, nebo lépe už ho někde někdo vyřešil. Tento triviální poznatek je bohužel často upozaděn, což vede ke zbytečné alokaci času a energie do úkolů, jejichž řešení není potřeba vymýšlet od začátku.
 
-Links:
-- Podívejte se do dobrých prací v našich případových studích, případně v odpovídajících návodech
+:::{.callout-tip collapse=true}
+
+#### Kam se obrátit:
+
+- Podívejte se do dobrých praxí v [našich případových studích](/pripadove-studie), případně v odpovídajících návodech
 - Poptejte se mezi členy Pracovní skupiny pro spolupráci analytických útvarů
 - Zeptejte se na Slacku Česko.digital
 - Podívejte se do mapy státní správy, kde jsou další podobné týmy
 - Prohledejte repozitáře studií
-- Knihovna ESF
+- Knihovna produktů ESF
 - Starfos
 - Proběhlé projekty Beta podle resortů
 - Pokud se snažíte zadat zakázku a nevíte, jak něco vyřešit, možná najdete inspiraci v registru smluv (via Hlídač státu)
@@ -85,13 +94,15 @@ Links:
 - Některé technologické nástroje a metody mají kolem sebe komunity s komunikačními platformami - porozhlédněte se
 - Rozhlédněte se mimo Česko - docela bohatě o své práci veřejně komunikuje britská státní správa a mají spoustu návodů, průvodců a příruček
 
-Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní správě, kteří pracují na podobných věcech, více a systémově podporovala státní služba, třeba systémem profesí a odborných sítí nebo posílením role tzv. všeobecně uznávaných odborníků. Více najdete v naší sadě doporučení na systémovou změnu [LINK].
+:::
+
+Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní správě, kteří pracují na podobných věcech, více a systémově podporovala státní služba, třeba systémem profesí a odborných sítí nebo posílením role tzv. všeobecně uznávaných odborníků. Více najdete v naší sadě [doporučení na systémovou změnu](/doporuceni/systemova-doporuceni.qmd).
 
 ### Technické řešení není vždy řešení
 
 Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak nNěkterá z těchto řešení jsou často finančně i časově náročnáé a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
 
-### Uvažujte o čase stráveném na zlepšování své práce jako o investici
+### Čas strávený zlepšováním vlastní práce je investice
 
 TO DO
 
