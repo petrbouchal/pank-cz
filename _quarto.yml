@@ -70,6 +70,7 @@ format:
     toc-location: left
     title-block-banner: false
     title-block-categories: false
+    reference-location: margin
     theme:
       light: [cosmo.scss, styles.scss]
       # dark: [darkly, styles-dark.scss]
