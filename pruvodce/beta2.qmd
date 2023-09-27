@@ -13,7 +13,7 @@ aliases:
 
 # O co jde a k čemu to je
 
-Jestliže zadáváte výzkumné projekty skrze program BETA2 (v budoucnu BETA3), měl by Vám tento průvodce ukázat možné způsoby zlepšení tohoto procesu, který může být časově a organizačně náročný a nemusí nést kýžené výsledky. 
+Jestliže se staráte (především role zástupce odborného garanta) o výzkumné projekty skrze program BETA2 (v budoucnu BETA3), měl by Vám tento průvodce ukázat možné způsoby zlepšení tohoto procesu, který může být časově a organizačně náročný a nemusí nést kýžené výsledky. 
 
 Proces zadávání a vedení průběhu výzkumu skrze program BETA je rozsáhlý a je na každém ministerstvu řešen jinak. Zde popisujeme obecné kroky navazující na časté problémy na které jsme v projektu narazily, ale nemusí přesně odpovídat procesům na vašem ministerstvu. Tyto kroky se týkají především zadávání nového výzkumu.   
 
