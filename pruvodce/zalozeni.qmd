@@ -1,9 +1,0 @@
----
-title: "Založení analytického útvaru"
-subtitle: "Podtitulek, co vysvětlí a naláká"
-categories: ["Tým", "Vztahy", "Organizace"]
-blok: ["rizeni"]
-title-block-categories: false
-poradi: 13
-editor: source
----
