@@ -91,7 +91,7 @@ To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tu
 -  Vyplatí se investovat do komunikace vlastní práce, a to v několika rovinách:
 - U větších projektů myslete na uživatele, znát jejich potřeby, a následně na ně cílit vhodnou formou výstupu
 - U dílčích analýz je vhodné udržovat jejich přehled např. na intranetu -- tím omezíte duplicitní poptávky a zvýšíte šanci, že vaši práci objeví a využijí další lidé
--  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.           
+-  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.    
 
 # Systémové bariéry
 
@@ -111,3 +111,8 @@ To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tu
 -  Na úrovni TA ČR: schopnost a ochota jednotlivých specialistů využívat data pro zlepšování procesů
 -  Na úrovni TA ČR: evaluační funkce (dělají i nepovinné ex post evaluace, metodologicky solidní)
 
+# Kontakt poděkování
+
+Pokud Vás příběh týmu zajímá, kontaktujte [Michala Petkova](petkov@tacr.cz) z TA ČR nebo Tomáše Čecha v Českých prioritách. 
+
+*Děkujeme také dalším kolegům z TA ČR: Davidovi Šulcovi, Petru Mašíčkovi, Evě Brožové, Martinu Bunčekovi, Zbyňku Růžičkovi a dalším, kteří nám věnovali svůj čas a energii.*

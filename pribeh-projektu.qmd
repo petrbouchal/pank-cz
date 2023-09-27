@@ -1,7 +1,35 @@
 ---
-title: "Příběh projektu"
+title: "O nás"
 editor: source
 description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
 aliases: 
-  - /pribeh-projektu
+  - /kontakt
+  - /o-nas
+  - /pribeh-alias
 ---
+
+## Kontakt
+
+## Série ČP.edu
+
+## Poděkování
+
+Aplikační garant: Mušuta, Volčík
+
+Testeři: anonymně mnoho
+
+TA ČR: zpravodaj & TA ČR
+
+Účastníci FKB a organizátor Chytil
+
+Zahraničním expertům
+
+PSSAÚ
+
+Nekola, Witz, 
+
+Jirman
+
+Kolegyně a kolegové ČP
+
+Kampus

@@ -28,8 +28,6 @@ website:
       - text: "Doporučení"
         file: doporuceni/index.qmd
       - pripadove-studie/index.qmd
-      - text: "Slovníček"
-        file: slovnicek.qmd
       - pribeh-projektu.qmd
     logo: logotype_blue.png
   site-url: pank-foolkit.netlify.app
