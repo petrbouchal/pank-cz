@@ -156,7 +156,7 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 :::{.col .col-12 .col-md-6}
 
 :::{.btn .btn-primary}
-[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni)
+[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
 :::
 <br />
 :::
@@ -164,7 +164,7 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 :::{.col .col-12 .col-md-6}
 
 :::{.btn .btn-primary}
-[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
+[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni)
 :::
 <br />
 :::
