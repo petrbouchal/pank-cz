@@ -118,11 +118,16 @@ UMUX
 
 Více na [webu Measuringu](https://measuringu.com/umux-lite/)
 
-## Literatura
+## Další zdroje
 
 [Dittrich, J. A Beg­inner’s Guide to Finding User Needs](https://jdittrich.github.io/userNeedResearchBook/)  
+
 [UK GOV. User research -- Service Manual -- GOV.UK](https://www.gov.uk/service-manual/user-research)  
+
 [Winters, S. (2017). Content Design](https://contentdesign.london/store/the-content-design-book/)  
+
 [Downe, L. (2020). Good Services](https://good.services/)  
+
 [Design systém gov.cz](https://designsystem.gov.cz/#/)  
+
 [MUNI-KISK (2015). 100 metod](https://100metod.cz/)  
