@@ -2,7 +2,7 @@
 title: "Zadávání analytického úkolu"
 subtitle: "Jak komunikovat se zadavatelem analytického úkolu"
 blok: ["rizeni"]
-poradi: 8
+poradi: 16
 editor: source
 ---
 
