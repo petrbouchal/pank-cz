@@ -85,12 +85,6 @@ Vytvoření organizačního návrhu be měla předcházet detailní procesní an
 
 :::
 
-# Na co si dát pozor aneb tipy & triky
-
-Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby databáze byla nadesignovaná tak, aby se s ní dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy databáze novému člověku.
-
-Dále navrhujeme vytvořit kromě samotné databáze také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
-
 # Další zdroje
 - [Internal ministerial advisory bodies](https://sciendo.com/article/10.2478/cejpp-2018-0004)
 - [Leading Data Science Teams](https://saturncloud.io/resources/Leading%20Data%20Science%20Teams.pdf)
