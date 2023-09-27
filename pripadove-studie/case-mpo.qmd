@@ -1,5 +1,5 @@
 ---
-title: "MPO: tým Smart Specialisation Strategy"
+title: "MPO: oddělení Smart Specialisation Strategy"
 subtitle: "Oddělení S3 kombinuje analytickou, strategickou a koordinační práci v oblasti inovační politiky"
 listable: ["listable"]
 format: 

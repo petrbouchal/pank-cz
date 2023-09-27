@@ -1,7 +1,6 @@
 ---
-title: "MŠMT: sekce vzdělávání"
+title: "MŠMT: sekce vzdělávání a mládeže"
 subtitle: "Odbory řízení a koordinace regionálního školství jsou jádrem vzdělávací politiky a analýz."
-zkratka: MŠMT
 aliases: 
   - /msmt
   - /pripadove-studie/msmt
