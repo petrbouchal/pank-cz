@@ -1,1 +1,97 @@
+---
+title: "Přehled analytických úkolů"
+subtitle: "Budujte analytické útvary pro potřeby organizace "
+blok: ["rizeni"]
+poradi: 8
+editor: source
+---
 
+# O co jde a k čemu to je
+
+Jestliže plánujete zakládat nový analytický útvar (dále jen AÚ), nebo reformovat stávající, zde najdete některé důležité principy. Je důležité zmínit, že naše zkušenosti vychází z projektu financovaného OP JAK, který ze své podstaty může mít svá specifika. 
+
+Zakládání AÚ je velmi specifická činnost, která se nedělá každý den. Přesto, v závislosti na současném trendu zakládání těchto útvarů, je pravděpodobné, že se v nich bude dále pokračovat. Některé z principů lze také aplikovat na již existující AÚ.
+
+:::{.aside}
+
+**Případové studie**
+
+Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením strategií a analýz na MŠMT.
+
+<br />
+
+:::{.btn .btn-resource}
+[přečíst případovou studii](../pripadove-studie/msmt)
+:::
+
+:::
+
+# ⚠ Sebediagnostika: je to pro mě?
+
+- Chcete postavit nový AÚ?
+- Chcete zavést nové principy do fungování Vašeho AÚ? 
+
+:::{.strip .page-columns .page-full}
+
+# ↪ Základní principy vzniku analytického útvaru 
+
+- Komunikací a spoluprací okolo vzniku AÚ se nastavuje kultura a klima, které bude pak provázat jeho samotné fungování. Proto je nezbytná včasná a otevřená komunikace směrem ke všem dotčeným aktérům
+  - Vznik AÚ je významný centralizační krok a je proto zapotřebí ujistit se, že všichni relevantní aktéři - především ředitelé a vedoucí věcných útvarů - budou do procesu včas zapojeni a jejich názory a připomínky vyslechnuty a v rámci možností adaptovány
+  - Obecněji se jedná o zásadní změnový proces a jako takový by měl být řízen. Především je potřeba zajistit, aby se členové AÚ nestali příliš izolovanými vůči zbytku ministerstva a aby za dobu existence útvar prokázal svou hodnotu ostatním aktérům na ministerstvu a v širším evidence rozhraní ministerstva
+  - Proto je zapotřebí nejen dobře nastavit komunikační kanály, ale už ve fázi formování útvaru také ustavit pravidelná setkání s věcnými útvary, během kterých bude možné sdílet představy o společných potřebách, ale také sdílet informace o plánovaných aktivitách
+
+## 1. Personální otázky
+
+
+Adekvátní personální obsazení a osobní vazby na ‘zbytek ministerstva’ budou klíčové pro úspěšné fungování AÚ
+
+- Je potřeba vyjasnit pozice “analytiků” v jednotlivých věcných útvarech. Vyjasnit jejich role, jak v rámci věcného útvaru, tak ve vazbě na AÚ
+- Je vhodné se zamyslet nad tím, jak někteří zaměstnanci mohou reagovat na změnu náplně jejich práce, kdy jejich analytickou práci převezme AÚ. Pro některé by to mohlo znamenat sníženou motivaci zůstat na ministerstvu
+- Také z hlediska personálního složení by bylo dobré zajistit, že se nebudou vybírat lidé jen podle jejich kompetencí, ale také tak aby zapadli do kolektivu. O to jde především v těch případech, kdy se budou míchat současní zaměstnanci z ministerstva a nově příchozí z trhu práce
+- Jednotlivé prvky řízení projektu by měly podporovat nejen projektové řízení, ale i úspěšné zavedení této systémové změny na ministerstvu
+- Např. interní evaluátor by měl fungovat především jako průvodce organizační změnou a učením, nikoli pro ex-post skládání účtů za realizaci projektu (to může být role externí evaluace). Tomu by mělo odpovídat i organizační zařazení, např. evaluátor by mohl být součástí týmu řízení projektu. Role interního evaluátora, která může výrazně přispět ke kvalitě celého projektu, může také výrazně pomoct s tím, aby po ukončení projektu zůstala fungující ministerská sekce
+- Podpořit spolupráci a předejít vzniku sil lze i cílenou prací s prostorem - “kdo s kým sedí”. Tam, kde část lidí bude fyzicky jinde je naopak třeba cíleně zajišťovat a ověřovat propojování s ostatními částmi sekce/odboru
+- Také by bylo vhodné zajistit genderovou rovnováhu, potažmo rozmanitost zkušeností a pohledů na téma, aby se z AÚ nestala kultura 30+ mužů s velmi podobným zázemím
+
+## 2. Organizační principy
+
+Vytvoření organizačního návrhu be měla předcházet detailní procesní analýza, která určí konkrétní analytické potřeby jednotlivých věcných útvarů a nejlepší způsob jejich centralizované obsluhy
+
+- Doporučujeme členění celého útvaru podle aktivit a funkcí směrem ke zbytku organizace, spíše než podle typu dat, se kterými daný analytik pracuje. Jedno možné uspořádání odrážející tento princip je např. následující:
+  - Oddělení statistik a správy dat - správa celého datového fondu po obsahové governance stránce (metadata, dokumentace, správa číselníků, datová kvalita, propojený datový fond), generování základních datových výstupů, tvorba analytických nástrojů
+  - Oddělení přenosu poznatků - zadávání a aplikace TAČR projektů, provazba na věcné útvary, datový žurnalista
+  - Oddělení analýz - časové řady, pilotní evaluační studie
+  - Oddělení strategií a výsledků vzdělávací soustavy - koordinace strategie + podpůrná analytická/evaluační kapacita na vyhodnocování výsledků  
+  - Ačkoliv by oddělení měla být rozdělená podle funkcí, je zapotřebí stavět průřezové mikrotýmy - to je zapotřebí podpořit osobou ředitele odboru
+- Začlenění již existujících útvarů by mělo proběhnout tak, aby se z nich nestaly oddělené jednotky, které poběží ve svém původním režimu - optimálně nová oddělení postavit tak, aby se v nich potkali stávající zaměstnanci s novými. Tím se také podpoří přenos a využití existujícího know-how
+- Názvosloví používané v návrhu systemizace by mělo odkazovat na skutečný účel jednotlivých útvarů pro ministerstvo, spíše než na jednotlivé činnosti - např. bude vhodné vyhnout se názvům jako “oddělení výzkumu”
+
+## 3. Věcné cíle útvaru/projektu
+
+- Stanovení agend útvaru by mělo vycházet jak z potřeb stakeholderů, tak z dobrých praxí podobných útvarů
+- V návaznosti na jednotlivé pilotní analýzy by bylo dobré nadefinovat, kdo na ministerstvu může tyto analýzy využít a konzultovat s nimi jejich konkrétní přání a potřeby
+- Vyhodnocení pilotáže by se mělo týkat nejen proveditelnosti, ale i využitelnosti výsledků
+- Organizace práce a věcné zadání pro jednotlivé zaměstnance by mělo vyvážit potřebu splnit předem v projektu definované výstupy (především pilotní analýzy) s potřebou dodávat věcným útvarům výstupy podle jejich poptávky - jen tak bude možné přesvědčit zbytek úřadu o přidané hodnotě nového útvaru
+- Je otázkou do jaké míry by měl AÚ vykonávat aktivity jako jsou foresight, nebo participace, jež vnímáme jako důležité vstupy do ministerských analýz a strategií.
+- Bylo by dobré, aby měl někdo z analytiků v popisu práci také kontrolu datového zkreslení a případně pracoval na definování datové pozitivní diskriminace.
+
+:::
+
+# Na co si dát pozor aneb tipy & triky
+
+Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby databáze byla nadesignovaná tak, aby se s ní dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy databáze novému člověku.
+
+Dále navrhujeme vytvořit kromě samotné databáze také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
+
+# Další zdroje
+[Internal ministerial advisory bodies](https://sciendo.com/article/10.2478/cejpp-2018-0004)
+[Leading Data Science Teams](https://saturncloud.io/resources/Leading%20Data%20Science%20Teams.pdf)
+[Teaching Public Service](https://www.teachingpublicservice.digital/en/syllabus-index)
+[Managing a Data Science Team](https://hbr.org/2018/10/managing-a-data-science-team)
+[The Data Life Cycle](https://hdsr.mitpress.mit.edu/pub/577rq08d/release/4)
+[The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework)
+[Qualitz assurance of administrative data](https://www.ons.gov.uk/economy/economicoutputandproductivity/output/methodologies/qualityassuranceofadministrativedatausedineducationstatistics)
+[Good Practice Principles for Data Ethics in the Public Sector](https://www.oecd.org/gov/digital-government/good-practice-principles-for-data-ethics-in-the-public-sector.pdf)
+[Big Data and Discrimination](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0177-4)
+[Do Not Harm Guide](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
+[Data Ethics Canvas](https://theodi.org/article/the-data-ethics-canvas-2021/#1563365825519-a247d445-ab2d)
