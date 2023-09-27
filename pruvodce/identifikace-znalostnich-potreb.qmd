@@ -1,14 +1,16 @@
 ---
-title: "Identifikace znalostních potřeb "
-subtitle: "Pracujte na zachytávání toho, co Vaše organizace potřebuje vědět, abyste mohli interně či externě tyto potřeby naplňovat"
+title: "Identifikace znalostních potřeb"
+subtitle: "Sledujte, co Vaše organizace potřebuje vědět"
 blok: ["rizeni"]
 poradi: 8
 editor: source
+aliases: 
+  - identifikace-potreb 
 ---
 
 # O co jde a k čemu to je
 
-Dva hlavní podněty jak začít pracovat na nové analýze jsou​​ dostání úkolu od poptavetele, nebo identifikování znalostní potřeby organizace a analýzu provést na základě této potřeby. Tento popis se zabývá tím, jak tyto znalostní potřeby identifikovat a pracovat s nimi.  
+Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkolu od poptavetele, nebo identifikování znalostní potřeby organizace a analýzu provést na základě této potřeby. Tento popis se zabývá tím, jak tyto znalostní potřeby identifikovat a pracovat s nimi.  
 
 # ⚠ Sebediagnostika: je to pro mě?
 
@@ -18,6 +20,10 @@ Dva hlavní podněty jak začít pracovat na nové analýze jsou​​ dostání
 
 
 :::{.strip .page-columns .page-full}
+
+:::{.aside}
+<br>
+:::
 
 # ↪ Jak na to
 
