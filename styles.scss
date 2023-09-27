@@ -116,6 +116,8 @@ $bs-btn-active-border-color: white;
 
 .navbar {
   border-bottom: 7px solid $cp-primary-blue;
+body {
+  font-variant-numeric: lining-nums;
 }
 
 .nav-link.active {
