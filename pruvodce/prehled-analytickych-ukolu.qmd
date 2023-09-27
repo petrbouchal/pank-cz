@@ -27,7 +27,7 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělen
 
 :::
 
-# ⚠ Sebediagnostika: je to pro mě?
+# Sebediagnostika: je to pro mě?
 
 Má smysl v naší situaci vytvářet přehled analýz?
 
@@ -38,7 +38,7 @@ Má smysl v naší situaci vytvářet přehled analýz?
 
 :::{.strip .page-columns .page-full}
 
-# ↪ Jak na to
+# Jak na to
 
 ## 1. Identifikujte smysluplné kategorie pro vytvoření přehledu
 

@@ -6,61 +6,105 @@ poradi: 8
 editor: source
 aliases: 
   - knowledge-management
+nocite: "@lambePrinciplesKnowledgeAuditing2023"
 ---
 
 # O co jde a k čemu to je
 
-O popis toho, jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost. Analytici často přemýšlí hlavně nad kvalitou analýz, ale upozaďují jejich propagaci či dohledatelnost analýz po delší době od jejich publikace.
+Tipy, jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost. Analytici často přemýšlí hlavně nad kvalitou analýz, ale upozaďují jejich propagaci či dohledatelnost analýz po delší době od jejich publikace.
 
-Bez přehledného uchování plýtváme prostředky. Bez podpory využití ztrácíme hodnotu toho, co někdo odpracoval. 
+Bez přehledného uchování a zpřístupnění existujícího poznání organizace plýtváme prostředky. Bez podpory využití ztrácíme hodnotu toho, co někdo odpracoval. 
 
-:::{.callout .callout-tip}
-Nápady v tomto návodu jsme během projektu neměli možnost vyzkoušet. Dostali jsme se pouze k popisu problému a na základě toho vypracovali podklady. 
+:::{.callout-note}
+Nápady v tomto návodu jsme během projektu neměli možnost vyzkoušet. 
 
-Pokud něco vyzkoušíte, [dejte nám o tom vědět!](/pribeh-projektu)
+Tipy níže ale vznikly v reakci na skutečný popis problémů jednoho ze zapojených týmů a reflektují dobré praxe z dalšího z nich. 
+
+Pokud něco vyzkoušíte, [dejte nám o tom vědět!](/pribeh-projektu#kontakt)
 :::
 
 :::{.aside}
 <br>
 :::
 
-# ⚠ Sebediagnostika: je to pro mě?
+# Sebediagnostika: je to pro mě?
 
 - Jste zpracovatelem analýz, které mají využít lidé mimo Vaše oddělení?
-- Ptají se vás lidi, co přesně děláte a mají o Vaší práci zájem? 
+- Ptají se vás lidi, co přesně děláte a mají o Vaši práci zájem? 
 - Máte odpovědnost za to, aby se analýzy využívaly?
 - Stává se Vám, že se lidé ptají na otázky, které jsou již zodpovězené v předchozích analýzách?
 
 :::{.strip .page-columns .page-full}
 
-# ↪ Jak na to
+# Jak na to
 
-K tomu, aby se analýzy více využívali jsou potřeba tři základní kroky.
+K tomu, aby se analýzy více využívali jsou potřeba tři základní prvky: **zachycení a katalogizace, zpřístupnění a propagace**.
 
-## Zachycení a katalogizace analýz
-- Vytvoření tabulky/seznamu všech analýz
-- Lze také propojit s “plachtou agend” viz [tento průvodce](../pruvodce/identifikace-znalostnich-potreb), která může sloužit k určení analytických potřeb organizace
--  Podobné [přehledu analytických úkolů](../pruvodce/prehled-analytickych-ukolu), ale jeho účelem je plánovat práci 
+> Slovem analýza tady myslíme jakýkoli uchovatelný výstup práce s poznatky -- podklad, studie, dokument, tabulka, dataset, dashboard...
 
-## Zpřístupnění analýz
+Jaké postupy zvolíte v jednotlivých krocích by mělo vycházet z **vašeho porozumění potřeb uživatelů analýz**. 
+
+- Komu potřebujeme přístup k analýzám usnadnit? 
+- Co potřebují? Co je nejvíc trápí? 
+- Co zvládnou? 
+
+Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je svého druhu interní produkt a na jeho vývoj tedy můžete použít postupy uživatelského výzkumu a testování viz -> [návod](LINK TO DO)).
+
+
+## 1. Zachycení a katalogizace analýz
+
+- Vytvořte si klidně i jednoduchou tabulku/seznam všech analýz
+- Lze také propojit s "plachtou agend" viz [tento průvodce](../pruvodce/identifikace-znalostnich-potreb), která může sloužit k určení analytických potřeb organizace
+- V sofistikované variantě můžete výstupy zanášet do tzv. knowledge (gap) map, neboli mapy znalostí a znalostních mezer. To ale vyžaduje hlubší práci na tom, jaké rozměry věci chcete v mapě zachycovat.
+- Souvisí s [přehledem analytických úkolů](../pruvodce/prehled-analytickych-ukolu), ale jeho účelem je plánovat práci 
+
+
+## 2. Zpřístupnění analýz
+
 - Sharing sessions/workshopy - setkání, kde můžete diskutovat o dostupných analýzách a jejich využití 
-- V [programu BETA](../pruvodce/beta2) role zástupce odborného garanta - jeho role je starat se o naplňování vědomostních potřeb ministerstva​
-- Vytváření různých typů výstupů pro různé cílovky - někteří stakeholdeři potřebují výstupy v různých formách, zkuste poznatky předávat podle jejich potřeb
+- V [programu BETA](../pruvodce/beta2) role zástupce odborného garanta -- jeho role je starat se o naplňování vědomostních potřeb ministerstva
+- Vytváření různých typů výstupů pro různé cílovky -- někteří stakeholdeři potřebují výstupy v různých formách, zkuste poznatky předávat podle jejich potřeb
 - Syntéza poznatků z různých výzkumů - policy stewardship 
 
-## Propagace analýz
-- Newsletter - udělejte vlastní, nebo napište příspěvek do již existujícího
-- Videa - zajímavé animované video, ale také jen nahrávky důležitých schůzek (např. kontrolní dny v programu BETA)
-- Intranet - sdílejte zajímavosti, které mohou lidi vést k otevření analýzy
-- Komunikujte s PR oddělením, jak danou analýzu lépe propagovat
+Moment zachycení, zdokumentování a zpřístupnění výstupů lze zapracovat do interního postupu k uzavření projektu.
+
+## 3. Propagace analýz
+
+Můžete použít třeba následující kanály a formáty:
+
+- Newsletter: udělejte vlastní, nebo napište příspěvek do již existujícího
+- Videa: zajímavé animované video, ale také jen nahrávky důležitých schůzek (např. kontrolní dny v programu BETA)
+- Intranet: sdílejte zajímavosti, které mohou lidi vést k otevření analýzy
+- Poraďte se s vaším PR/komunikačním oddělením, jak danou analýzu lépe propagovat (i interně)
+- Pravidelné okénko na poradě
+- Obědové semináře
+
+:::{.callout-tip}
+
+#### FAIR principy
+
+Pro správu výstupů se může hodit myslet na stejné principy, které se uplatňují při správě dat, tzv [FAIR principy](https://www.go-fair.org/fair-principles/):
+
+- Findable: daná věc musí jít najít
+- Accesible: musí se dát k ní dostat
+- Interoperable: u dat zásadní, ale i u výstupů musí být jasné, jak souvisí s jinými
+- Reusable: ideálně je možné výstup nebo jeho část dále použít, navázat na něj, rozvinout
+
+:::
 
 :::
 
 # Na co si dát pozor aneb tipy & triky
 
-Jako hlavní vnímáme potřebu uvědomit si, že kvalitní knowledge management není jen o různých technických opravách, ale především o komunikaci. Databáze nebo nový informační systém knowledge management sám o sobě nezachrání, ale může Vás stát hodně času a energie. 
+Kvalitní knowledge management **není jen o různých technických a procesních opatřeních, ale především o komunikaci**. Databáze nebo nový informační systém sám o sobě knowledge management nezachrání, ale může Vás stát hodně času a energie. 
 
-V kontextu propagace je dobré si uvědomit, že některé věci se dají naplánovat, ale spousta je spíše kontextuální skrze tzv. Windows of opportunity. 
+Pokud se pustíte do katalogizace, mějte na paměti, že důležitější je mít **něco základního** -- klidně jednoduchý excel nebo seznam na intranetu -- než mít sofistikovanou databázi, kterou nikdo nebude udržovat.
+
+V kontextu propagace je dobré si uvědomit, že **ne vše jde naplánovat**, využití poznatků se často děje v tzv. windows of opportunity. V [tezích pro týmy](/teze-tymy) vysvětlujeme, že poznatky nejsou vždy využity hned a když to čekáte, často mají nepřímý dopad. Součástí této práce tedy je také monitoring příležitostí, kde může nějaký poznatek nebo výstup, který už máme, vstoupit do živého tématu nebo řešení nějakého aktuálního problému v tématu nebo organizaci.
+
+Sebelepší propagace ale věc nezachrání, pokud analýzy nevychází ze **skutečných potřeb** (-> návod [Identifikace znalostních potřeb](identifikace-potreb)) nebo trpí špatným **procesem zadání** mezi zákazníkem a tvůrcem (-> návod [Zadání analytického úkolu](zadani-ukolu) & návod [Zadání externího výzkumu](zadani-externiho-vyzkumu)).
+
+A pamatujte, že i přes sebelepší knowledge management bude stále platit, že **část znalostí je pouze v hlavách lidí** a je potřeba zajistit jejich zachování i když někdo tým opouští (-> návod [Offboarding člena týmu](offboarding)).
 
 # Další zdroje
 
@@ -82,3 +126,7 @@ V kontextu propagace je dobré si uvědomit, že některé věci se dají naplá
 [World Bank - Knowledge for Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/309981617140869469/realizing-the-world-bank-group-s-knowledge-potential-for-effective-development-solutions-a-strategic-framework)
 
 [Tools for Knowledge and Learning](https://odi.org/en/publications/tools-for-knowledge-and-learning-a-guide-for-development-and-humanitarian-organisations/)
+
+:::{#refs}
+
+:::

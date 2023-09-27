@@ -14,7 +14,7 @@ Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkol
 
 > Při vývoji tohot návodu jsme se inspirovali vyzkoušenou praxí tzv. Learning Agendas - viz [zdroje](#další-zdroje) na konci návodu.
 
-# ⚠ Sebediagnostika: je to pro mě?
+# Sebediagnostika: je to pro mě?
 
 - Jste vedoucím či členem analytického oddělení?
 - Jste zastupce odborného garanta v programu BETA?
@@ -26,7 +26,7 @@ Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkol
 <br>
 :::
 
-# ↪ Jak na to
+# Jak na to
 
 ## 1. Ptejte se poptavatelů analýz
 
