@@ -4,6 +4,8 @@ subtitle: "Podpořte využití svých analytických výstupů; pozn.: co propaga
 blok: ["rizeni"]
 poradi: 8
 editor: source
+alias: 
+- knowledge-management
 ---
 
 # O co jde a k čemu to je
