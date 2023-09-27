@@ -13,35 +13,29 @@ format:
 
 ---
 
-[Odbor (Agentura) pro sociální začleňování](https://www.mmr.cz/cs/ministerstvo/agentura-pro-socialni-zaclenovani) na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. V oddělení výzkumů a evaluace zkoumají výskyt, rozsah a mechanismy sociálního vyloučení v obcích, které s ASZ spolupracují. 
+[Odbor pro sociální začleňování (Agentura)](https://www.mmr.cz/cs/ministerstvo/agentura-pro-socialni-zaclenovani) na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. V oddělení výzkumů a evaluace zkoumají výskyt, rozsah a mechanismy sociálního vyloučení v obcích, které s Agenturou spolupracují. 
 
 # Představení týmu
 
-Odbor (Agentura) pro sociální začleňování (dále jen ASZ) na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. Oddělení výzkumů a evaluace je hlavní realizátorem analytických aktivit monitorování sociálního vyloučení na celostátní úrovni [(Index sociálního vyloučení)](https://www.socialni-zaclenovani.cz/index_socialniho_vylouceni/), realizace tematicko-průřezových studií v dílčích oblastech sociálního vyloučení), tvorba analytických vstupů pro strategické materiály ASZ, definování a sledování potřeb obyvatel sociálně vyloučených lokalit (vstupní analýzy v obcích a návrhy doporučení v oblasti sociálního začleňování) a evaluace činností ASZ. Celkem je v oddělení přibližně 40 výzkumníků. 
+Odbor pro sociální začleňování (Agentura) - dále jen ASZ - na MMR je hlavním expertním nástrojem Vlády ČR pro podporu sociálního začleňování. Oddělení výzkumů a evaluace (dále jen OVE) je hlavním realizátorem analytických aktivit monitorování sociálního vyloučení na celostátní úrovni ((Index sociálního vyloučení)[https://www.socialni-zaclenovani.cz/index_socialniho_vylouceni/]), tematicko-průřezových studií v dílčích oblastech sociálního vyloučení, analytických vstupů pro strategické materiály, definování a sledování potřeb obyvatel sociálně vyloučených lokalit (vstupní analýzy v obcích a návrhy doporučení v oblasti sociálního začleňování) a evaluace činností ASZ. Celkem je v oddělení přibližně 12 výzkumníků a evaluátorů.
 
-Tento analytický útvar se především charakterizuje tím, že generuje vlastní poznatky pomocí sociálněvědných metod, zejména rozhovory, fokusní skupiny, pozorování a datové analýzy. Jedná se tak o poměrně ojedinělý případ analytického útvaru ve státní správě, který realizuje vlastní výzkum.
+Tento analytický útvar se především charakterizuje tím, že generuje vlastní poznatky pomocí sociálněvědných metod, zejména rozhovory, fokusními skupinani, pozorováními a datovými analýzami. Jedná se tak o poměrně ojedinělý případ analytického útvaru ve státní správě, který realizuje vlastní výzkum.
 
 # Proč se tým zapojil do projektu 
 
-Vedení a členové týmu se plně ztotožňují s myšlenkou evidence-based přístupů při tvorbě veřejných politik. Kvalitativní i kvantitativní poznatky z terénu mají hrát stěžejnější roli při vyjednávání s lokálními zastupiteli. Zvýšení jejich kvality, ale i srozumitelnosti a využitelnosti dalšími aktéry tudíž bylo hlavní motivací, proč se zapojit do projektu PANK. 
+Vedení a členové týmu se plně ztotožňují s myšlenkou evidence-based přístupů při tvorbě veřejných politik. Kvalitativní i kvantitativní poznatky z terénu mají hrát stěžejnější roli při vyjednávání s lokálními zastupiteli. Zvýšení jejich kvality, ale i srozumitelnosti a využitelnosti dalšími aktéry tudíž bylo hlavní motivací, proč se zapojit do projektu PANK.
 
 # Průběh spolupráce v PANK
 
 ## Diagnostická fáze
 
-Cílem diagnostické fáze bylo nejprve pochopit obsah a způsob fungování práce s poznatky v OVE. Vedlejším cílem bylo sbírat podněty a doporučení od členů týmu ohledně způsobů, jak zlepšit práci s poznatky. 
-
-Během diagnostické fáze byly využity čtyři výzkumné metody: workshopy, polostrukturované rozhovory, pozorování a analýza dokumentů (desk research). Během úvodního workshopu (prosinec 2021), popsali členové týmu hlavní činnosti v jejich agendách a navrhli oblasti, v nichž vnímají největší potenciál pro rozvoj analytických kapacit. Následně proběhlo 7 polostrukturovaných rozhovorů s členy týmu a s vedoucí oddělení. Dotazy se soustředily na způsoby práce, vnímání překážek pro rozvoj analytických kapacit a úvahy o dílčích intervencích, které by mohly přispět pozitivním změnám ve fungování týmu. Posléze byli osloveni vybraní uživatelé těchto výstupů (3 rozhovory s lokálními koordinátory a metodičkou na regionálním centru).
-
-Členové týmu OVE vnímají s cílem shodně, že jeho účelem je poskytovat empiricky podložené analýzy a data pro informované rozhodování v oblasti sociálního začleňování. Sdílí motivaci směrem k poskytnutí kvalitních analýz, které podporují procesy tvorby veřejných politik v této oblasti. S cílem zvýšit svůj přínos se také tým OVE snaží více se podílet na formulaci veřejných politik, a to prostřednictvím syntézy poznání a znalostí akumulovaných v posledních letech.
-
-Diagnostická fáze nám umožnila identifikovat několik překážek při práci s poznatky, ty nejdůležitější shrnujeme níže. 
-
-Analytické aktivity OVE čelí několika výzvám v důsledku nejasného rozdělení rolí. Zatímco některé činnosti se zaměřují na sběr místních empirických dat, jiné se věnují kompilaci širších informací o sociálním vyloučení. Toto nejasné rozdělení může komplikovat koordinaci a řízení týmu. Dalším významným problémem je financování z ESF fondů. Tyto fondy zavádějí rigidní postupy a tlaky na dodržení projektových lhůt, což může negativně ovlivnit hloubku a kvalitu analytické práce. Navíc tento model financování může vést k fluktuaci zaměstnanců a ztrátě kontinuity v týmu.
-
-Pokud jde o přístup k poznatkům a práci s nimi, OVE dlouhodobě sbírá a kompiluje administrativní data, na jejichž základě vytváří časové řady ve formě Indexu sociálního vyloučení. Tato databáze poskytuje nejucelenější soubor poznatků k tématu sociálního vyloučení, kterým státní správa disponuje. Přístup k těmto datům je nicméně zesložiťován fragmentací dodavatelů datových sad a nevyjasněnými pravidly sdílení datových sad mezi veřejnými institucemi. Dalším stěžejním aspektem je sdílení dat a poznatků uvnitř ASZ, kde chybí systematické postupy pro jejich ukládání a opětovné využití (knowledge a data management). 
-
-Využitelnost výstupů týmu OVE je důležitým aspektem, který má vliv na přínos a efektivitu analytických prací. Členové týmu si jsou vědomi potřeby adaptovat a cílit komunikaci výstupů na různé skupiny uživatelů. Výstupy oddělení OVE mají potenciál být využity mnoha aktéry na lokální i národní úrovni, ale zatím chybí cílenější formy komunikace pro další relevantní aktéry, jako jsou policy makers na resortní úrovni, odborná veřejnost a akademici. 
+Cílem diagnostické fáze bylo nejprve pochopit obsah a způsob fungování práce s poznatky v OVE. Vedlejším cílem bylo sbírat podněty a doporučení od členů týmu ohledně způsobů, jak zlepšit práci s poznatky.
+Během diagnostické fáze byly využity čtyři výzkumné metody: workshopy, polostrukturované rozhovory, pozorování a analýza dokumentů (desk research). Během úvodního workshopu (prosinec 2021), popsali členové týmu hlavní činnosti v jejich agendách a navrhli oblasti, v nichž vnímají největší potenciál pro rozvoj analytických kapacit. Následně proběhlo 7 polostrukturovaných rozhovorů s členy týmu a s vedoucí oddělení. Dotazy se soustředily na způsoby práce, vnímání překážek pro rozvoj analytických kapacit a úvahy o dílčích intervencích, které by mohly přispět pozitivním změnám ve fungování týmu. Posléze byli osloveni vybraní uživatelé těchto výstupů (3 rozhovory s lokálními konzultanty a metodičkou na regionálním centru).
+Členové týmu OVE vnímají shodně, že účelem OVE je poskytovat empiricky podložené analýzy a data pro informované rozhodování v oblasti sociálního začleňování. Sdílí motivaci směrem k poskytnutí kvalitních analýz, které podporují procesy tvorby veřejných politik v této oblasti. S cílem zvýšit svůj přínos se také tým OVE snaží více se podílet na formulaci veřejných politik, a to prostřednictvím syntézy poznání a znalostí akumulovaných v posledních letech.
+Diagnostická fáze nám umožnila identifikovat několik překážek při práci s poznatky, ty nejdůležitější shrnujeme níže.
+Analytické aktivity OVE čelí několika výzvám v důsledku projektového financování z ESF fondů. Tyto fondy zavádějí rigidní postupy a tlaky na dodržení projektových lhůt, což může negativně ovlivnit hloubku a kvalitu analytické práce. Navíc tento model financování může vést k fluktuaci zaměstnanců a ztrátě kontinuity v týmu.
+Pokud jde o přístup k poznatkům a práci s nimi, OVE dlouhodobě sbírá a kompiluje administrativní data, na jejichž základě mimo jiné vytváří časové řady ve formě Indexu sociálního vyloučení. Tato databáze poskytuje nejucelenější soubor kvantitativních poznatků k tématu sociálního vyloučení, kterým státní správa disponuje. Přístup k těmto datům je nicméně zesložiťován fragmentací dodavatelů datových sad a ne vždy vyjasněnými postupy sdílení datových sad mezi veřejnými institucemi. Dalším stěžejním aspektem je sdílení dat a poznatků uvnitř ASZ, kde chybí systematické postupy pro jejich ukládání a opětovné využití (knowledge a data management).
+Členové týmu si jsou vědomi potřeby adaptovat a cílit komunikaci výstupů na různé skupiny uživatelů. Výstupy oddělení OVE mají potenciál být využity mnoha aktéry na lokální i národní úrovni, ale zatím chybí cílenější formy komunikace pro další relevantní aktéry, jako jsou policy makers na resortní úrovni, odborná veřejnost a akademici.
 
 ## Intervence
 
@@ -61,29 +55,26 @@ Proklik data management
 
 ### Vizualizace dat
 
-Velkou část analytických výstupů OVE tvoří datové vizualizace. Tato intervence měla za cíl zavést postupy pro testování srozumitelnosti datových vizualizací a ucelit soubor dobrých praxí při tvorbě vizualizací (tzv. checklisty)
+Velkou část analytických výstupů OVE tvoří datové vizualizace. Tato intervence měla za cíl zavést postupy pro testování srozumitelnosti datových vizualizací a ucelit soubor dobrých praxí při tvorbě vizualizací (tzv. checklisty).
 
 Proklik datavizualizace
 
 # Dobré praxe v týmu OVE
 
-Tým disponuje dlouhodobě budovanými kapacitami pro realizaci kvalitativních výzkumů ve specifickém kontextu sociálně vyloučených lokalit a postupuje podle osvědčených metodických standardů ve společenských vědách. I přes vělký časový tlak je snaha o vytváření kvalitních a rigorózních analýz. 
-
-Ve fázi designu výzkumu jsou v rámci mikrotýmů mobilizováni všichni aktéři, kteří se podíli na jeho realizaci (lokální aktéři, výzkumníci OVE, datový analytik). 
-
-V oddělení jsou částečně implementovány tzv. buddy systém a stínování, která mají za cíl lépe připravovat nově příchozí zaměstnance. 
-
+Tým disponuje dlouhodobě budovanými kapacitami pro realizaci kvalitativních výzkumů ve specifickém kontextu sociálně vyloučených lokalit a postupuje podle osvědčených metodických standardů ve společenských vědách. V důsledku toho se i přes velký časový tlak daří vytvářet kvalitní a rigorózní analýzy.
+Ve fázi designu výzkumu jsou v rámci mikrotýmů mobilizováni všichni aktéři, kteří se podíli na jeho realizaci (lokální aktéři, výzkumníci OVE, datový analytik).
+V oddělení jsou částečně implementovány tzv. buddy systém a stínování, která mají za cíl lépe připravovat nově příchozí zaměstnance.
 Členové OVE se pravidelně setkávají v rámci tematických seminářů a na konferencích umožňující síťování s dalšími aktéry.
 
 # Zobecnitelnější vhledy
 
-Projektové řízení týmu přináší některé výzvy spojené s určitou rigiditou ohledně požadovaných (či možných) výstupů. 
+Projektové řízení týmu přináší některé výzvy spojené s určitou rigiditou ohledně požadovaných (či možných) výstupů.
 
-Analytické aktivity OVE pokrývají oblasti působnosti několika resortů (zejm. MPSV, MMR, MŠMT) 
+Analytické aktivity OVE pokrývají oblasti působnosti několika resortů (zejm. MPSV, MMR, MŠMT)
 
 # Systémová doporučení
 
-Přístup k datům
+!!! DOPLNIT !!!- Přístup k datům 
 
 
 
