@@ -288,6 +288,17 @@ $bs-btn-active-border-color: white;
   border-left-color: $cp-primary-red !important;
 }
 
+.callout-body {
+  padding-left: 1em !important;
+  padding-top: 0px !important;
+  margin-left: 0px !important;
+  background-color: white;
+}
+
+.callout-body-container {
+  background-color: white;
+}
+
 .listing-category {
   color: $cp-primary-blue !important;
   font-size: 6pt !important;
