@@ -36,7 +36,7 @@ K tomu, aby se analýzy více využívali jsou potřeba tři základní kroky.
 
 ## Zpřístupnění analýz
 - Sharing sessions/workshopy - setkání, kde můžete diskutovat o dostupných analýzách a jejich využití 
-- V programu BETA role zástupce odborného garanta (ODKAZ NA INTERVENCI) - jeho role je naplňovat vědomostní potřeby ministerstva​
+- V [programu BETA](../pruvodce/beta2) role zástupce odborného garanta - jeho role je starat se o naplňování vědomostních potřeb ministerstva​
 - Vytváření různých typů výstupů pro různé cílovky - někteří stakeholdeři potřebují výstupy v různých formách, zkuste poznatky předávat podle jejich potřeb
 - Syntéza poznatků z různých výzkumů - policy stewardship 
 
