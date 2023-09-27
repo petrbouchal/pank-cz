@@ -28,11 +28,16 @@ Vedení a členové týmu se plně ztotožňují s myšlenkou evidence-based př
 ## Diagnostická fáze
 
 Cílem diagnostické fáze bylo nejprve pochopit obsah a způsob fungování práce s poznatky v OVE. Vedlejším cílem bylo sbírat podněty a doporučení od členů týmu ohledně způsobů, jak zlepšit práci s poznatky.
+
 Během diagnostické fáze byly využity čtyři výzkumné metody: workshopy, polostrukturované rozhovory, pozorování a analýza dokumentů (desk research). Během úvodního workshopu (prosinec 2021), popsali členové týmu hlavní činnosti v jejich agendách a navrhli oblasti, v nichž vnímají největší potenciál pro rozvoj analytických kapacit. Následně proběhlo 7 polostrukturovaných rozhovorů s členy týmu a s vedoucí oddělení. Dotazy se soustředily na způsoby práce, vnímání překážek pro rozvoj analytických kapacit a úvahy o dílčích intervencích, které by mohly přispět pozitivním změnám ve fungování týmu. Posléze byli osloveni vybraní uživatelé těchto výstupů (3 rozhovory s lokálními konzultanty a metodičkou na regionálním centru).
+
 Členové týmu OVE vnímají shodně, že účelem OVE je poskytovat empiricky podložené analýzy a data pro informované rozhodování v oblasti sociálního začleňování. Sdílí motivaci směrem k poskytnutí kvalitních analýz, které podporují procesy tvorby veřejných politik v této oblasti. S cílem zvýšit svůj přínos se také tým OVE snaží více se podílet na formulaci veřejných politik, a to prostřednictvím syntézy poznání a znalostí akumulovaných v posledních letech.
+
 Diagnostická fáze nám umožnila identifikovat několik překážek při práci s poznatky, ty nejdůležitější shrnujeme níže.
 Analytické aktivity OVE čelí několika výzvám v důsledku projektového financování z ESF fondů. Tyto fondy zavádějí rigidní postupy a tlaky na dodržení projektových lhůt, což může negativně ovlivnit hloubku a kvalitu analytické práce. Navíc tento model financování může vést k fluktuaci zaměstnanců a ztrátě kontinuity v týmu.
+
 Pokud jde o přístup k poznatkům a práci s nimi, OVE dlouhodobě sbírá a kompiluje administrativní data, na jejichž základě mimo jiné vytváří časové řady ve formě Indexu sociálního vyloučení. Tato databáze poskytuje nejucelenější soubor kvantitativních poznatků k tématu sociálního vyloučení, kterým státní správa disponuje. Přístup k těmto datům je nicméně zesložiťován fragmentací dodavatelů datových sad a ne vždy vyjasněnými postupy sdílení datových sad mezi veřejnými institucemi. Dalším stěžejním aspektem je sdílení dat a poznatků uvnitř ASZ, kde chybí systematické postupy pro jejich ukládání a opětovné využití (knowledge a data management).
+
 Členové týmu si jsou vědomi potřeby adaptovat a cílit komunikaci výstupů na různé skupiny uživatelů. Výstupy oddělení OVE mají potenciál být využity mnoha aktéry na lokální i národní úrovni, ale zatím chybí cílenější formy komunikace pro další relevantní aktéry, jako jsou policy makers na resortní úrovni, odborná veřejnost a akademici.
 
 ## Intervence
