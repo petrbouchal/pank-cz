@@ -14,7 +14,7 @@ format:
 
 ## Jak tyto vzkazy vznikly
 
-> Strávili jsme spoustu času s šesti analytickými tými, o něco méně času čtením literatury a zkoumáním zahraniční praxe práce s poznatky. 
+> Strávili jsme spoustu času s šesti analytickými týmy, o něco méně času čtením literatury a zkoumáním zahraniční praxe práce s poznatky. 
 >
 > Z konfrontace těchto pohledů a zkušeností vykrystalizovala sada tezí, o kterých si myslíme, že mohou mnoha lidem ve veřejné správě posloužit při promýšlení vlastní role, role poznatků ve veřejných institucích, i při uvažování o zlepšování vlastní práce.
 >
@@ -80,7 +80,7 @@ Z naší externí role a pohledu zpětně vnímáme, že významnou přidanou ho
 
 ### Když chcete něco změnit, může pomoct model chování COM-B
 
-Pro řízení změn v týmu je doporučené nejdříve identifikovat hlavní bariéry, kterým čelí. K tomu může napomoci jednoduchý konceptuální rámec, který vychází z behaviorálních věd (viz Michie et al., 2011). Předpoklady pro změnu chování na individuální i týmové úrovni se nachází ve třech oblastech: kompetence a dovednosti pro aplikaci změn, příležitosti pro jejich aplikaci a motivace pro jejich plnění. 
+Pro řízení změn v týmu je doporučené nejdříve identifikovat hlavní bariéry, kterým čelí. K tomu může napomoci jednoduchý konceptuální rámec, který vychází z behaviorálních věd [viz @michieBehaviourChangeWheel2011]. Předpoklady pro změnu chování na individuální i týmové úrovni se nachází ve třech oblastech: kompetence a dovednosti pro aplikaci změn, příležitosti pro jejich aplikaci a motivace pro jejich plnění. 
 
 Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry pro takovou změnu. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají, a tím i provázejí Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
 
@@ -105,7 +105,7 @@ Ať čelíte jakémukoliv problému, je velká šance, že ho někdy někde tak�
 - Pokud se snažíte zadat zakázku a nevíte, jak něco vyřešit, možná najdete inspiraci v registru smluv (přehledně poskytuje [Hlídač státu](https://www.hlidacstatu.cz/))
 - na [KvalitaVS.cz](https://kvalitaVS.cz) najdete přehled dostupných vzdělávacích kurzů a sérii webinářů k různým metodám a nástrojům
 - Rozhlédněte se mimo státní a veřejnou správu -- v něčem jsou dobrá města, ledaskdy podobné problémy například v práci s daty řeší akademici a think tanky, experty na některé technologie najdete ve firmách a možná se s vámi o svou expertizu podělí
-- Pro technické a datové problémy využijte veřejná fóra -- od Twitteru po Stackoverflow a Reddit
+- Pro technické a datové problémy využijte veřejná fóra -- od Twitteru po [Stackoverflow](https://stackoverflow.com/) a [Reddit](https://www.reddit.com/) (u posledních dvou vyyžijte tagy pro specifické nástroje nebo problémy)
 - Některé technologické nástroje a metody mají kolem sebe komunity s komunikačními platformami -- porozhlédněte se
 - Rozhlédněte se mimo Česko -- docela bohatě o své práci veřejně [komunikuje](https://www.blog.gov.uk/) britská státní správa a její analytické komunita poskytuje spoustu [návodů, průvodců a příruček](https://analysisfunction.civilservice.gov.uk/)
 
