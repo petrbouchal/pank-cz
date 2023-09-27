@@ -6,6 +6,7 @@ poradi: 1
 editor: source
 aliases: 
   - zadani-ukolu
+  - zadani-analytickeho-ukolu
 ---
 
 # O co jde a k čemu to je
@@ -15,7 +16,12 @@ Proces zadávání analytických úkolů je často zatížený tím, že zadavat
 
 # ⚠ Sebediagnostika: je to pro mě?
 
+Tento návod je hlavně pro analytiky a analytické týmy, především pak pro ty, kteří pracují v "transakčním" módu, tj. často reagují na ad hoc poptávky nějakého uživatele jejich výstupů, např. vedení organizace nebo věcného útvaru.
+
+Návod by se vám mohl hodit především tehdy, když platí některé z následujících tvrzení:
+
 - Často dostávám analytické úkoly
+- Adresáti analytických výstupů mají pocit, že nedostávají to, co poptali
 - Analýzy nemají dopad na rozhodování, které od nich očekáváte 
 - Je poptáváno už definované řešení/výstup místo toho, aby se definoval problém nebo otázka, který je potřeba vyřešit 
 - Zadávání analýz zabírá zbytečně moc času 
