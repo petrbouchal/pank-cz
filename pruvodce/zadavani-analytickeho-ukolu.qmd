@@ -18,9 +18,13 @@ Proces zadávání analytických úkolů je často zatížený tím, že zadavat
 - Je poptáváno už definované řešení/výstup místo toho, aby se definoval problém nebo otázka, který je potřeba vyřešit 
 - Zadávání analýz zabírá zbytečně moc času 
 
+:::{.aside}
+<br>
+:::
+
 :::{.strip .page-columns .page-full}
 
-# ↪ Jak na to
+# Jak na to
 
 - V komunikaci s věcným oddělením nebo jakýmkoliv jiným klientem poptávajícím analytickou práci je třeba vyjasnit následující body
   - Jakou otázku má úkol odpovědět, nebo jaký problém má adresovat? 
@@ -48,6 +52,9 @@ V těchto dlouhodobých spoluprácích může být nápomocné připravit šablo
 # Další zdroje
 
 [Evidence Transparency Framework](https://www.instituteforgovernment.org.uk/publications/evidence-transparency-framework)
+
 [Aqua Book](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
+
 [Using Evidence: A Practice Guide](https://media.nesta.org.uk/documents/Using_Research_Evidence_for_Success_-_A_Practice_Guide.pdf)
+
 [Manager's guide to evaluation](https://www.betterevaluation.org/frameworks-guides/managers-guide-evaluation) 
