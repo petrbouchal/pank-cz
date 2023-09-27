@@ -44,13 +44,13 @@ Má smysl v naší situaci vytvářet přehled analýz?
 
 Kolegové z analytického oddělení doporučují nepřesáhnout více jak tři kategorie podle kterých analýzy řadit
 
-V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku databáze
+V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku přehledu
 
 ## 2. Navrhněte strukturu přehledu
 
 Cílem je mít přehled udělaný tak, aby byla pochopitelný i pro zbytek organizace a dalo se v něm lehce vyhledávat. 
 
-a. To nejen pro členy analytického oddělení, ale také pro jeho zákazníky, kteří by databázi měli využívat.
+a. To nejen pro členy analytického oddělení, ale také pro jeho zákazníky, kteří by přehled měli využívat.
 
 b. Zde doporučujeme přizvání několika archetypů těchto zákazníků do procesu vytváření, aby jejich zpětná vazba mohla být součástí finálního produktu. Při designu je také zapotřebí mít na paměti potenciální růst celého přehledu, který v čase může významně překonat současnou velikost. 
 
@@ -66,7 +66,7 @@ Zamyslete se, jak s přehledem pracovat dále, kdo se o něj bude starat apod.
 
 ## 5. Vyjasněte si komunikační plán přehledu 
 
-a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je důležité, aby se o její existenci dozvěděli. Lze možné konzultace např. i s PR oddělením organizace.
+a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je důležité, aby se o jeho existenci dozvěděli. Lze možné konzultace např. i s PR oddělením organizace.
 
 b. Doporučujeme vytvoření zjednodušeného přehledu, který se zveřejní k využití pro běžného uživatele.
 
@@ -74,7 +74,7 @@ b. Doporučujeme vytvoření zjednodušeného přehledu, který se zveřejní k 
 
 # Na co si dát pozor aneb tipy & triky
 
-Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby databáze byla nadesignovaná tak, aby se s ní dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy databáze novému člověku.
+Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby přehled byl nadesignován tak, aby se s ním dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy přehledu novému člověku.
 
-Dále navrhujeme vytvořit kromě samotné databáze také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
+Dále navrhujeme vytvořit kromě samotného přehledu také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
 
