@@ -10,12 +10,14 @@ aliases:
 
 # O co jde a k čemu to je
 
-O popis toho, jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost. Analytic často přemýšlí hlavně nad kvalitou analýz, ale upozaďují jejich propagaci či dohledatelnost analýz po delší době od jejich publikace.
+O popis toho, jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost. Analytici často přemýšlí hlavně nad kvalitou analýz, ale upozaďují jejich propagaci či dohledatelnost analýz po delší době od jejich publikace.
 
 Bez přehledného uchování plýtváme prostředky. Bez podpory využití ztrácíme hodnotu toho, co někdo odpracoval. 
 
 :::{.callout .callout-tip}
-Nápady v tomto návodu jsme během projektu neměli možnost vyzkoušet. Dostali jsme se pouze k popisu problému a na základě toho vypracovali podklady. Pokud něco vyzkoušíte, [dejte nám o tom vědět!](/pribeh-projektu)
+Nápady v tomto návodu jsme během projektu neměli možnost vyzkoušet. Dostali jsme se pouze k popisu problému a na základě toho vypracovali podklady. 
+
+Pokud něco vyzkoušíte, [dejte nám o tom vědět!](/pribeh-projektu)
 :::
 
 :::{.aside}
@@ -62,13 +64,21 @@ V kontextu propagace je dobré si uvědomit, že některé věci se dají naplá
 
 # Další zdroje
 
-- [Using Research Evidence](https://www.nesta.org.uk/toolkit/using-research-evidence-practice-guide/)
+[Using Research Evidence](https://www.nesta.org.uk/toolkit/using-research-evidence-practice-guide/)
 - [What is Knowledge Management](https://www.starmind.ai/resources/what-is-knowledge-management-and-why-is-it-so-important)
-- [Knowledge Management in the Public Sector](https://www.semanticscholar.org/paper/Knowledge-Management-in-the-Public-Sector-Malik-Al-Toubi/59b93fd7ecf3e8f8f2027d7b68cfa12a5f05fbd9)
-- [Governing through Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0738059316303923?casa_token=uJZNo13W5YQAAAAA:1M0xtbQcWC60RAjd97pYM7V2EHlUAC6kXeJCYj6Kw4b6Dak1PzCVleistGn1U4IdILzsPN8tQqw)
-- [Modeling enablers of knowledge management](https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-08-2019-0122/full/html)
-- [Knowledge Solutions](https://link.springer.com/book/10.1007/978-981-10-0983-9)
-- [Knowledge Mapping Techniques](https://www.researchgate.net/publication/303179248_A_comprehensive_review_of_knowledge_mapping_techniques)
-- [Knowledge Mapping for Complex Social Messes](https://faculty.washington.edu/farkas/TC510-Fall2011/Horn-SocialMesses.pdf)
-- [World Bank - Knowledge for Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/309981617140869469/realizing-the-world-bank-group-s-knowledge-potential-for-effective-development-solutions-a-strategic-framework)
-- [Tools for Knowledge and Learning](https://odi.org/en/publications/tools-for-knowledge-and-learning-a-guide-for-development-and-humanitarian-organisations/)
+
+[Knowledge Management in the Public Sector](https://www.semanticscholar.org/paper/Knowledge-Management-in-the-Public-Sector-Malik-Al-Toubi/59b93fd7ecf3e8f8f2027d7b68cfa12a5f05fbd9)
+
+[Governing through Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0738059316303923?casa_token=uJZNo13W5YQAAAAA:1M0xtbQcWC60RAjd97pYM7V2EHlUAC6kXeJCYj6Kw4b6Dak1PzCVleistGn1U4IdILzsPN8tQqw)
+
+[Modeling enablers of knowledge management](https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-08-2019-0122/full/html)
+
+[Knowledge Solutions](https://link.springer.com/book/10.1007/978-981-10-0983-9)
+
+[Knowledge Mapping Techniques](https://www.researchgate.net/publication/303179248_A_comprehensive_review_of_knowledge_mapping_techniques)
+
+[Knowledge Mapping for Complex Social Messes](https://faculty.washington.edu/farkas/TC510-Fall2011/Horn-SocialMesses.pdf)
+
+[World Bank - Knowledge for Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/309981617140869469/realizing-the-world-bank-group-s-knowledge-potential-for-effective-development-solutions-a-strategic-framework)
+
+[Tools for Knowledge and Learning](https://odi.org/en/publications/tools-for-knowledge-and-learning-a-guide-for-development-and-humanitarian-organisations/)

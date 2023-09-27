@@ -1,9 +1,12 @@
 ---
-title: "Přehled analytických úkolů"
+title: "Inventura analytických úkolů"
 subtitle: "Jak mít přehled v tom, co všechno děláte"
 blok: ["rizeni"]
 poradi: 8
 editor: source
+aliases: 
+  - inventura
+  - prehled-ukolu
 ---
 
 # O co jde a k čemu to je
@@ -53,7 +56,9 @@ b. Zde doporučujeme přizvání několika archetypů těchto zákazníků do pr
 
 ## 3. Zaneste jednotlivé činnosti do přehledu
 
-a. Pokud historicky existuje velké množství analýz, doporučujeme doplnit přehled např. za poslední rok a pak postupně doplňovat nově vzniklé analýzy (tzv. from now on). Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
+Pokud historicky existuje velké množství analýz, doporučujeme doplnit přehled např. za poslední rok a pak postupně doplňovat nově vzniklé analýzy (tzv. from now on). 
+
+Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
 
 ## 4. Reflexe
 

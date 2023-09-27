@@ -1,5 +1,5 @@
 ---
-title: "Vyhledání a přehled literatury"
+title: "Rešerše a přehled literatury"
 subtitle: "Podtitulek, co vysvětlí a naláká"
 categories: ["Poznatky", "Literatura"]
 blok: ["ziskavani"]

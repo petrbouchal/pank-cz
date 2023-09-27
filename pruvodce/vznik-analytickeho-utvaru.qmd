@@ -2,7 +2,7 @@
 title: "Rozjezd analytického útvaru"
 subtitle: "Budujte analytické útvary pro potřeby organizace "
 blok: ["rizeni"]
-poradi: 8
+poradi: 12
 editor: source
 aliases: 
   - vznik-analytickeho-utvaru
@@ -34,14 +34,14 @@ Tento návod jsme vyvinuli a testovali ve spolupráci s oddělením strategií a
 
 :::
 
-# ⚠ Sebediagnostika: je to pro mě?
+# Sebediagnostika: je to pro mě?
 
 - Chcete postavit nový AÚ?
 - Chcete zavést nové principy do fungování Vašeho AÚ? 
 
 :::{.strip .page-columns .page-full}
 
-# ↪ Základní principy vzniku analytického útvaru 
+# Základní principy vzniku analytického útvaru 
 
 - Komunikací a spoluprací okolo vzniku AÚ se nastavuje kultura a klima, které bude pak provázat jeho samotné fungování. Proto je nezbytná včasná a otevřená komunikace směrem ke všem dotčeným aktérům
   - Vznik AÚ je významný centralizační krok a je proto zapotřebí ujistit se, že všichni relevantní aktéři - především ředitelé a vedoucí věcných útvarů - budou do procesu včas zapojeni a jejich názory a připomínky vyslechnuty a v rámci možností adaptovány

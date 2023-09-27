@@ -2,7 +2,7 @@
 title: "Identifikace znalostních potřeb"
 subtitle: "Sledujte, co Vaše organizace potřebuje vědět"
 blok: ["rizeni"]
-poradi: 8
+poradi: 2
 editor: source
 aliases: 
   - identifikace-potreb 
@@ -11,6 +11,8 @@ aliases:
 # O co jde a k čemu to je
 
 Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkolu od poptavetele, nebo identifikování znalostní potřeby organizace a analýzu provést na základě této potřeby. Tento popis se zabývá tím, jak tyto znalostní potřeby identifikovat a pracovat s nimi.  
+
+> Při vývoji tohot návodu jsme se inspirovali vyzkoušenou praxí tzv. Learning Agendas - viz [zdroje](#další-zdroje) na konci návodu.
 
 # ⚠ Sebediagnostika: je to pro mě?
 

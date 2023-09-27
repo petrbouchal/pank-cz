@@ -1,6 +1,6 @@
 ---
-title: "Zadávání výzkumu BETA"
-subtitle: "Jak efektivně využít programy BETA"
+title: "Využití programu BETA"
+subtitle: "Jak pořídit výzkum přes zakázky aplikovaného výzkum"
 editor: source
 blok: ["ziskavani"]
 poradi: 6
