@@ -1,9 +1,11 @@
 ---
-title: "Zadávání analytického úkolu"
+title: "Zadání analytického úkolu"
 subtitle: "Jak komunikovat se zadavatelem analytického úkolu"
 blok: ["rizeni"]
 poradi: 16
 editor: source
+aliases: 
+  - zadani-ukolu
 ---
 
 # O co jde a k čemu to je

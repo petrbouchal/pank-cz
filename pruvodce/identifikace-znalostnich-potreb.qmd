@@ -15,9 +15,8 @@ Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkol
 # ⚠ Sebediagnostika: je to pro mě?
 
 - Jste vedoucím či členem analytického oddělení?
-- Jste zastupce odborného garant v programu BETA?
+- Jste zastupce odborného garanta v programu BETA?
 - Máte zájem o to, aby se Vaše ministerstvo více staralo o své znalostní potřeby?
-
 
 :::{.strip .page-columns .page-full}
 
@@ -27,12 +26,40 @@ Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkol
 
 # ↪ Jak na to
 
-- V kontextu dialogu s poptavateli analýz se ptejte na analýzy, které by do budoucna chtěli uskutečnit 
-  - Především propojujte výzkumné potřeby s jednotlivými agendami - oddělení X potřebu vědět Y pro agendu Z.
-- Podobně v kontextu jednotlivých výzkumných projektů mohou vyvstat nové výzkumné potřeby - zaznamenávejte i ty.
-- Pro strukturovaný dialog o výzkumných potřebách jsme vytvořili tzv. platchu agend, která má sloužit k uchování jednotlivých agend a na ně vázaných výzkumných potřeb. 
-  - Plachta má např. umožnit roztřídění výzkumných potřeb na ty, které se naplní interními kapacitami (analytické, evaluační oddělení atd.) či externími kapacitami (programy BETA, SIGMA, veřejné zakázky)
-  - [Ukázka takové plachty agend a její vysvětlení](attachments/Plachta agend - web verze.docx)
+## 1. Ptejte se poptavatelů analýz
+
+V kontextu dialogu s poptavateli analýz se ptejte na analýzy, které by do budoucna chtěli uskutečnit 
+
+Především propojujte výzkumné potřeby s jednotlivými agendami - oddělení X potřebu vědět Y pro agendu Z.
+
+Podobně v kontextu jednotlivých výzkumných projektů mohou vyvstat nové výzkumné potřeby - zaznamenávejte i ty.
+
+## 2. Dialog strukturujte pomocí mapy agend a potřeb
+
+:::{.aside}
+
+**Ukázka takové plachty agend a její vysvětlení**
+
+<br>
+
+:::{.btn .btn-resource}
+[Stáhnout](attachments/Plachta agend - web verze.docx)
+:::
+:::
+
+Pro strukturovaný dialog o výzkumných potřebách jsme vytvořili tzv. plachtu agend, která má sloužit k uchování jednotlivých agend a na ně vázaných výzkumných potřeb. 
+
+Plachta má např. umožnit roztřídění výzkumných potřeb na ty, které se naplní interními kapacitami (analytické, evaluační oddělení atd.) či externími kapacitami (programy BETA, SIGMA, veřejné zakázky)
+
+##  Co s potřebami
+
+Jakmile se s uživateli dohodnete, co a kdy potřebují, mohou vám přijít vhod další návody:
+
+- [Zadání analytického úkolu](zadani-ukolu)
+- [Zadávání výzkumu BETA](beta)
+- [Zadávání externího výzkumu](zadani-vyzkumu)
+
+Někdy se stane, že něčí otázku dokážete zodpovědět pomocí už hotového výzkumu. Na to se ale potřebujete dobře starat o už udělané studie a analýzy [⟶ návod Péče o hotové analýzy](knowledge-management).
 
 :::
 
