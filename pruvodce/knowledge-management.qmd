@@ -1,1 +1,69 @@
+---
+title: "Knowledge management"
+subtitle: "Podpořte využití svých analytických výstupů; pozn.: co propagace?"
+blok: ["rizeni"]
+poradi: 8
+editor: source
+---
 
+# O co jde a k čemu to je
+
+O popis toho, jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost. Analytic často přemýšlí hlavně nad kvalitou analýz, ale upozaďují jejich propagaci či dohledatelnost analýz po delší době od jejich publikace.
+
+Bez přehledného uchování plýtváme prostředky. Bez podpory využití ztrácíme hodnotu toho, co někdo odpracoval. 
+
+!!!!!BOX: Nápady v tomto návodu jsme během projektu neměli možnost vyzkoušet. Dostali jsme se pouze k popisu problému a na základě toho vypracovali podklady. Pokud něco vyzkoušíte, dejte nám o tom vědět!
+
+:::{.aside}
+
+# ⚠ Sebediagnostika: je to pro mě?
+
+- Jste zpracovatelem analýz, které mají využít lidé mimo Vaše oddělení?
+- Ptají se vás lidi, co přesně děláte a mají o Vaší práci zájem? 
+- Máte odpovědnost za to, aby se analýzy využívaly?
+- Stává se Vám, že se lidé ptají na otázky, které jsou již zodpovězené v předchozích analýzách?
+
+:::{.strip .page-columns .page-full}
+
+# ↪ Jak na to
+
+K tomu, aby se analýzy více využívali jsou potřeba tři základní kroky.
+
+## Zachycení a katalogizace analýz
+- Vytvoření tabulky/seznamu všech analýz
+- Lze také propojit s “plachtou agend” (ODKAZ NA IDENTIFIKACI POTŘEB), která může sloužit k určení analytických potřeb organizace
+-  Podobné přehledu analytických úkolů (ODKAZ NA PŘEHLED), ale jeho účelem je plánovat práci 
+
+## Zpřístupnění analýz
+- Sharing sessions/workshopy - setkání, kde můžete diskutovat o dostupných analýzách a jejich využití 
+- V programu BETA role zástupce odborného garanta (ODKAZ NA INTERVENCI) - jeho role je naplňovat vědomostní potřeby ministerstva​
+- Vytváření různých typů výstupů pro různé cílovky - někteří stakeholdeři potřebují výstupy v různých formách, zkuste poznatky předávat podle jejich potřeb
+- Syntéza poznatků z různých výzkumů - policy stewardship 
+
+## Propagace analýz
+- Newsletter - udělejte vlastní, nebo napište příspěvek do již existujícího
+- Videa - zajímavé animované video, ale také jen nahrávky důležitých schůzek (např. kontrolní dny v programu BETA)
+- Intranet - sdílejte zajímavosti, které mohou lidi vést k otevření analýzy
+- Komunikujte s PR oddělením, jak danou analýzu lépe propagovat
+
+
+:::
+
+# Na co si dát pozor aneb tipy & triky
+
+Jako hlavní vnímáme potřebu uvědomit si, že kvalitní knowledge management není jen o různých technických opravách, ale především o komunikaci. Databáze nebo nový informační systém knowledge management sám o sobě nezachrání, ale může Vás stát hodně času a energie. 
+
+V kontextu propagace je dobré si uvědomit, že některé věci se dají naplánovat, ale spousta je spíše kontextuální skrze tzv. Windows of opportunity. 
+
+# Další zdroje
+
+[Using Research Evidence](https://www.nesta.org.uk/toolkit/using-research-evidence-practice-guide/)
+[What is Knowledge Management](https://www.starmind.ai/resources/what-is-knowledge-management-and-why-is-it-so-important)
+[Knowledge Management in the Public Sector](https://www.semanticscholar.org/paper/Knowledge-Management-in-the-Public-Sector-Malik-Al-Toubi/59b93fd7ecf3e8f8f2027d7b68cfa12a5f05fbd9)
+[Governing through Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0738059316303923?casa_token=uJZNo13W5YQAAAAA:1M0xtbQcWC60RAjd97pYM7V2EHlUAC6kXeJCYj6Kw4b6Dak1PzCVleistGn1U4IdILzsPN8tQqw)
+[Modeling enablers of knowledge managemen](https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-08-2019-0122/full/html)
+[Knowledge Solutions](https://link.springer.com/book/10.1007/978-981-10-0983-9)
+[Knowledge Mapping Techniques](https://www.researchgate.net/publication/303179248_A_comprehensive_review_of_knowledge_mapping_techniques)
+[Knowledge Mapping for Complex Social Messes](https://faculty.washington.edu/farkas/TC510-Fall2011/Horn-SocialMesses.pdf)
+[World Bank - Knowledge for Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/309981617140869469/realizing-the-world-bank-group-s-knowledge-potential-for-effective-development-solutions-a-strategic-framework)
+[Tools for Knowledge and Learning](https://odi.org/en/publications/tools-for-knowledge-and-learning-a-guide-for-development-and-humanitarian-organisations/)
