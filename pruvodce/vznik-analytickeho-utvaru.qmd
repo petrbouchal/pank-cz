@@ -1,27 +1,35 @@
 ---
-title: "Vznik analytického útvaru"
+title: "Rozjezd analytického útvaru"
 subtitle: "Budujte analytické útvary pro potřeby organizace "
 blok: ["rizeni"]
 poradi: 8
 editor: source
+aliases: 
+  - vznik-analytickeho-utvaru
 ---
 
 # O co jde a k čemu to je
 
 Jestliže plánujete zakládat nový analytický útvar (dále jen AÚ), nebo reformovat stávající, zde najdete některé důležité principy. Je důležité zmínit, že naše zkušenosti vychází z projektu financovaného OP JAK, který ze své podstaty může mít svá specifika. 
 
-Zakládání AÚ je velmi specifická činnost, která se nedělá každý den. Přesto, v závislosti na současném trendu zakládání těchto útvarů, je pravděpodobné, že se v nich bude dále pokračovat. Některé z principů lze také aplikovat na již existující AÚ.
+Zakládání AÚ je velmi specifická činnost, která se nedělá každý den. Přesto, v závislosti na současném trendu zakládání těchto útvarů, je pravděpodobné, že se v nich bude dále pokračovat. 
+
+:::{.callout .callout-tip}
+
+Některé z principů lze také aplikovat na již existující analytické útvary.
+
+:::
 
 :::{.aside}
 
 **Případové studie**
 
-Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením strategií a analýz na MŠMT.
+Tento návod jsme vyvinuli a testovali ve spolupráci s oddělením strategií a analýz na MŠMT.
 
 <br />
 
 :::{.btn .btn-resource}
-[přečíst případovou studii](../pripadove-studie/msmt)
+[přečíst případovou studii](/pripadove-studie/msmt)
 :::
 
 :::
