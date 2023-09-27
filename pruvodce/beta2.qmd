@@ -1,1 +1,56 @@
+---
+title: "Zadávání výzkumu BETA"
+subtitle: "Jak pracovat s externím výzkumem skrze program BETA"
+editor: source
+poradi: 6
+format: 
+  html: default
+  docx: default
+---
+
+# O co jde a k čemu to je
+
+Jestliže zadáváte výzkumné projekty skrze program BETA2 (v budoucnu BETA3), měl by Vám tento průvodce ukázat možné způsoby zlepšení tohoto procesu, který může být časově a organizačně náročný a nemusí nést kýžené výsledky. 
+
+Proces zadávání a vedení průběhu výzkumu skrze program BETA je rozsáhlý a je na každém ministerstvu řešen jinak. Zde popisujeme obecné kroky navazující na časté problémy na které jsme v projektu narazily, ale nemusí přesně odpovídat procesům na vašem ministerstvu. Tyto kroky se týkají především zadávání nového výzkumu.   
+
+
+# Případová studie
+
+Tento návod jsme vyvíjeli a testovali ve spolupráci s týmem výzkumu a evaluací Agentury pro sociální začleňování.
+
+:::{.btn .btn-primary}
+[Přečíst případovou studii](/pripadove-studie/msmt)
+:::
+
+# Sebediagnostika: je to pro mě?
+
+Nejprve je potřeba zajistit kapacity
+
+- Jste ZOG (Zástupce odborného garanta) na svém ministerstvu
+- Program TAČR BETA  je u Vás využíván málo, Váš resort nevyčerpal přidělený rozpočet pro BETA2.
+- Výsledky, které získáváme z programu BETA se nedaří dostatečně využít.
+- Na resortu není jasné, kdo má v procesu výzkumu BETA jaké role. 
+
+# Jak na to
+
+ZOG by měl:
+
+- Vnímat svojí roli jako spojku mezi výzkumníky a zadavateli výzkumu a zajišťovat kvalitní přenos poznatků pro zadavatele.
+- Před začátkem každého výzkumu věnovat dostatek času definování výzkumných otázek (DOPLNIT link na intervenci k zadávání).   
+- Věnovat čas vysvětlením stakeholderům toho, jak procesu BETA na Vašem resortu funguje
+- Věnujte čas sběru všech relevantních stakeholderů a jejich podnětům, kterým by mohl výzkum být užitečný. Může se týkat i aktérů spjatých s resortem, např. VVI. 
+- Udržujte všechny stakeholdery průběžné informované (např. Můžete nahrávat kontrolní dny apod. pro ty kdo se nemohou zúčastnit)
+- Udržujte přehled o průběhu výzkumu
+- Ujišťujte se jak s výzkumníky, tak zadavateli, že se držíte na dobré cestě, případně diskutujte nutné změny odvozené z kontextu
+- Pro udržitelnost a přehlednost procesu zadání a vedení výzkumu se nabízí otázka vytvořit informační šablonu, která má sloužit k zaznamenání důležitých informací 
+
+
+# Na co si dát pozor
+
+Program BETA sebou nese několik výzev na které je potřeba dávat pozor. Chtěli bychom zdůraznit nutnost zodpovědně pracovat s jednotlivými rolemi, které na ministerstvu a na TA ČR v rámci jednotlivých projektů je potřeba zastávat. Vyjasněnost odpovědností pro jednotlivé role může dlouhodobě ušetřit mnoho času a také zajistit větší využitelnost výstupů projektu.  
+
+Také je dobré mít na paměti, že existují různé módy využití výzkumu - nejde jen o to, že se někdo v jeden moment na základě jedné studie rozhodne jinak. V tomto smyslu je důležité starat se o analýzy a přemýšlet nad tím, pro koho by mohli být relevantní.
+Pokud se někoho ptáme (např. Na jejich potřeby v rámci daného výzkumného projektu), je potřeba aby z toho také něco mělil. Měli bychom alespoň komunikovat, jak informace, které nám poskytl vedly k té či té změně, nebo proč jsme se nakonec rozhodli jeho přání nevyplnit. Bez této zpětné vazby budou vztahy deteriovat a časem již žádné informace nezískáme.  
+
 
