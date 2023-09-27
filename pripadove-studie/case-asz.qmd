@@ -1,8 +1,6 @@
 ---
-title: "Agentura pro sociální začleňování"
+title: "MMR: Agentura pro sociální začleňování"
 subtitle: "Evaluace a výzkum pro podporu sociálního začleňování"
-tagline: "**Oddělení výzkumu a evaluací Agentury pro sociální začleňování**, přináší poznatky do rozhodování o sociálním začleňování na lokální i centrální úrovni."
-zkratka: ASZ
 aliases: 
   - /pripadove-studie/asz
   - /asz

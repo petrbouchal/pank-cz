@@ -1,6 +1,6 @@
 ---
-title: "Evaluační jednotka NOK"
-subtitle: "Evaluační jednotka NOK na MMR se stará o evaluace evropských fondů."
+title: "MMR: Evaluační jednotka NOK"
+subtitle: "Evaluační jednotka NOK se stará o evaluace evropských fondů."
 zkratka: ASZ
 listable: "listable"
 format: 

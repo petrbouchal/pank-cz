@@ -1,8 +1,6 @@
 ---
-title: "MPSV, oddělení rovných příležitostí ESF"
+title: "MPSV: oddělení rovných příležitostí ESF"
 subtitle: "Práce s poznatky mezi administrací"
-tagline: "Hlavně neanalytické oddělení, které připravuje a administruje výzvy na podporu rovných příležitostí na trhu práce"
-zkratka: MPSV
 aliases: 
   - mpsv
 listable: "listable"

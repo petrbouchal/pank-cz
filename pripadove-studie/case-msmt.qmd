@@ -1,5 +1,5 @@
 ---
-title: "Ministerstvo školství"
+title: "MŠMT: sekce vzdělávání"
 subtitle: "Odbory řízení a koordinace regionálního školství jsou jádrem vzdělávací politiky a analýz."
 zkratka: MŠMT
 aliases: 

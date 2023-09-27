@@ -1,7 +1,6 @@
 ---
-title: "Analytické oddělení TA ČR"
+title: "TA ČR: analytické oddělení"
 subtitle: "Analytické oddělení se stará o data a analýzy napříč agenturou."
-zkratka: TAČR
 listable: "listable"
 aliases: 
   - /pripadove-studie/tacr
