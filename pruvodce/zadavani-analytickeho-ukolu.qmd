@@ -1,1 +1,53 @@
+---
+title: "Zadávání analytického úkolu"
+subtitle: "Jak komunikovat se zadavatelem analytického úkolu"
+blok: ["rizeni"]
+poradi: 8
+editor: source
+---
 
+# O co jde a k čemu to je
+
+Proces zadávání analytických úkolů je často zatížený tím, že zadavatelé analýzy už přicházejí s tím jaké chtějí řešení, místo toho aby se zaměřovali na kvalitní definici problému. Zde najdete postup jak díky lepšímu zadávání analytického úkolu můžete zvýšit využitelnost výstupů, zvýšit jejich kvalitu a dlouhodobě zvýšit úsporu času.  
+
+
+# ⚠ Sebediagnostika: je to pro mě?
+
+- Často dostávám analytické úkoly
+- Analýzy nemají dopad na rozhodování, které od nich očekáváte 
+- Je poptáváno už definované řešení/výstup místo toho, aby se definoval problém nebo otázka, který je potřeba vyřešit 
+- Zadávání analýz zabírá zbytečně moc času 
+
+:::{.strip .page-columns .page-full}
+
+# ↪ Jak na to
+
+- V komunikaci s věcným oddělením nebo jakýmkoliv jiným klientem poptávajícím analytickou práci je třeba vyjasnit následující body
+  - Jakou otázku má úkol odpovědět, nebo jaký problém má adresovat? 
+  - Je potřeba vysvětlit, že s analýzou musíme začít právě skrze definici problému
+  - Jakými zdroji a daty vztahujícími se k danému problému zadavatel již disponuje?
+  - Existují již k problematice analýzy, zdroje a literatura?
+  - Kdo další by analýzu kromě zadavatele mohl využít? 
+- Po vydefinování problému jasně stanovit parametry práce a vykomunikovat se zadavatelem následující:  
+  - Forma výstupu
+  - Deadliny
+  - Rozsah
+  - Jestli v průběhu tvorby výstupu bude docházet ke konzultacím a průběžnému feedbacku  
+
+
+:::
+
+# Na co si dát pozor aneb tipy & triky
+
+Zkušenosti z projektu PANK i dalších kolegů a kolegyň z veřejné správy ukazují, že analytický úkol je často s de facto již stanoveným výstupem (např. “Vypracujte analýzu vztahu socio-ekonomického zázemí a výkonu ve vzdělávání”). Přitom účelem analytické práce je často zodpovězení otázky či adresování problému (“co je příčinou nižších výsledků ve vzdělávání v daném kraji”). Analytici a analytičky by měli trvat na takovémto rámování zadávání úkolů. 
+
+V rámci usnadnění práce doporučujeme budovat dobré dlouhodobé vztahy s nejčastějšími zadavateli analytické práce (kterých bývá na ministerstvu omezené množství). Ty pak povedou i ke sladění vzájemných očekávání v kontextu zadávání analytických úkolů, kdy nebude nutné výše zmíněné základní principy opakovat a vyjasňovat.  
+
+V těchto dlouhodobých spoluprácích může být nápomocné připravit šablonu pro zadávání analytických úkolů. Ta by měla sloužit jako základní osnova úkolu a pokrývat otázku/definici problému, deadliny, existující zdroje, případně potencionální uživatele koncového výstupu. 
+
+# Další zdroje
+
+Evidence Transparency Framework
+Aqua Book 
+Using Evidence: A Practice Guide
+Manager's guide to evaluation 
