@@ -31,8 +31,8 @@ K tomu, aby se analýzy více využívali jsou potřeba tři základní kroky.
 
 ## Zachycení a katalogizace analýz
 - Vytvoření tabulky/seznamu všech analýz
-- Lze také propojit s “plachtou agend” (ODKAZ NA IDENTIFIKACI POTŘEB), která může sloužit k určení analytických potřeb organizace
--  Podobné přehledu analytických úkolů (ODKAZ NA PŘEHLED), ale jeho účelem je plánovat práci 
+- Lze také propojit s “plachtou agend” viz [tento průvodce](../pruvodce/identifikace-znalostnich-potreb), která může sloužit k určení analytických potřeb organizace
+-  Podobné [přehledu analytických úkolů]((../pruvodce/prehled-analytickych-ukolu), ale jeho účelem je plánovat práci 
 
 ## Zpřístupnění analýz
 - Sharing sessions/workshopy - setkání, kde můžete diskutovat o dostupných analýzách a jejich využití 
@@ -45,7 +45,6 @@ K tomu, aby se analýzy více využívali jsou potřeba tři základní kroky.
 - Videa - zajímavé animované video, ale také jen nahrávky důležitých schůzek (např. kontrolní dny v programu BETA)
 - Intranet - sdílejte zajímavosti, které mohou lidi vést k otevření analýzy
 - Komunikujte s PR oddělením, jak danou analýzu lépe propagovat
-
 
 :::
 
