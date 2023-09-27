@@ -3,3 +3,6 @@ title-block-categories: false
 uplevel: "Průvodce"
 uplevel-url: "/pruvodce/index.html"
 description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;<a href='{{< meta uplevel-url >}}'>{{< meta uplevel >}}</a>&nbsp;>&nbsp;{{< meta title >}}"
+format:
+  html: default
+  docx: default
