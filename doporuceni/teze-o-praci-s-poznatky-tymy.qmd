@@ -54,7 +54,7 @@ TO DO
 
 TO DO
 
-### Uvažuje o poznatcích a datech ve smyslu stavů (stocks) i toků (flows)
+### Uvažujte o poznatcích a datech ve smyslu stavů (stocks) i toků (flows)
 
 TO DO
 
