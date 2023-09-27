@@ -2,6 +2,7 @@
 title: "Doporučení pro stát"
 editor: source
 title-block-banner: true
+toc-title: "Oblasti doporučení"
 format:
   html:
     toc-depth: 2
@@ -9,27 +10,22 @@ aliases:
   - /doporuceni-system
 ---
 
-> Něco
+> Při práci na rozvoji práce s poznatky se zapojenými týmy jsme opakovaně naráželi na bariéry způsobené nějakým systémovým nedostatkem -- nastavením pravidel, absencí podpory, apod.
 >
-> Něco
+> Níže tyto bariéry zachycujeme jako oblasti, kde jde potřeba nějaká změna na úrovni systému. Někdy to znamená změnu legislativy či jiných pravidel, někdy změnu ve způsobu práce průřezových agend, např. personalistiky.
 >
-> Něco
+> Adresátem těchto doporučení jsou ti, kteří mohou těmto změnám pomoct: vesměs gestoři tématu rozvoje veřejné správy, vedení státní služby, ale také vyšší management a státní tajemníci ministerstev.
+> Doporučení často navazují a odkazují na již zvažované nebo plánované iniciativy a ukazují na jejich potřebnost nebo zpřesňují cíl. Měla by proto být realizovatelná v současném kontextu české veřejné správy. Pokud navrhujeme inovativnější opatření, jsou inspirována funkční praxí z jiných států.
 
 ## Struktury a procesy podporující využívání poznatků
 
 ### Stabilnější analytické kapacity
 
+Blah Blah [see @breckonCommunicatingUsingSystematic2022, chap. 1]
+
 ### Věcné a implementační útvary
 
 ## Uznané a podporované role
-
-## Přístup ke zdrojům dat a informací
-
-### Snadnější přístup k datům veřejného sektoru
-
-### Dostupné akademické zdroje
-
-### Snadněji nalezitelné výstupy veřejného sektoru
 
 ## Schopnosti a dovednosti
 
@@ -38,6 +34,15 @@ aliases:
 ### Vzdělávání v práci s poznatky
 
 ### Nejen pro experty a řadové analytiky
+
+
+## Přístup ke zdrojům dat a informací
+
+### Snadnější přístup k datům veřejného sektoru
+
+### Dostupné akademické zdroje
+
+### Snadněji nalezitelné výstupy veřejného sektoru
 
 ## Podmínky pro zlepšování práce s poznatky
 
