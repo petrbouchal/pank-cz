@@ -4,6 +4,6 @@ subtitle: "Podtitulek, co vysvětlí a naláká"
 categories: ["Poznatky", "Literatura"]
 blok: ["ziskavani"]
 title-block-categories: false
-poradi: 10
+poradi: 2
 editor: source
 ---
