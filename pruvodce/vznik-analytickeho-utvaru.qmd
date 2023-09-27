@@ -1,5 +1,5 @@
 ---
-title: "Přehled analytických úkolů"
+title: "Vznik analytického útvaru"
 subtitle: "Budujte analytické útvary pro potřeby organizace "
 blok: ["rizeni"]
 poradi: 8
