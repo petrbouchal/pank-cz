@@ -1,6 +1,9 @@
 ---
 title: "Inspirace"
 editor: source
+aliases: 
+  - /inspirace
+  - /doporuceni/inspirace
 ---
 
 ## Návody a průvodci 
@@ -30,3 +33,30 @@ editor: source
 ## Širší podklady k tématu
 
 [OECD Public Governance Reviews: Czech Republic (2023)](https://www.oecd.org/governance/oecd-public-governance-reviews-czech-republic-41fd9e5c-en.htm)
+
+## Podcasty
+
+
+### České
+
+Data Boutique
+
+Zákulisí sociologie
+
+2050
+
+Ministerský jednorožec
+
+Úradnící na pánvici
+
+### Anglické
+
+Transforming Evidence
+
+SAPEA
+
+### Datové
+
+Experiencing Data
+
+Data Talk 

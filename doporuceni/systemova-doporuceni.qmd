@@ -8,6 +8,8 @@ format:
     toc-depth: 2
 aliases: 
   - /doporuceni-system
+  - /systemova-doporuceni
+  - /doporuceni/system
 ---
 
 > Při práci na rozvoji práce s poznatky se zapojenými týmy jsme opakovaně naráželi na bariéry způsobené nějakým systémovým nedostatkem -- nastavením pravidel, absencí podpory, apod.
