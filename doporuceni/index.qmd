@@ -6,6 +6,8 @@ title-block-banner: true
 sidebar: true
 ---
 
+## Pro týmy
+
 ### Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
 
 Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
@@ -15,6 +17,15 @@ Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zle
 :::
 
 <br />
+
+### Kde ještě brát inspiraci?
+
+:::{.btn .btn-primary}
+[Podívejte se na zdroje a nástroje, které doporučujeme ⟶](/inspirace)
+:::
+
+
+## Pro stát
 
 ### Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
 
@@ -34,8 +45,3 @@ A co by měli vědět klíčoví aktéři -- **vedení státní služby a minist
 
 <br />
 
-### Kde ještě brát inspiraci?
-
-:::{.btn .btn-primary}
-[Podívejte se na zdroje a nástroje, které doporučujeme ⟶](/inspirace)
-:::
