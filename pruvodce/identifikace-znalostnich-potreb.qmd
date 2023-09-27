@@ -32,7 +32,7 @@ Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkol
 - Podobně v kontextu jednotlivých výzkumných projektů mohou vyvstat nové výzkumné potřeby - zaznamenávejte i ty.
 - Pro strukturovaný dialog o výzkumných potřebách jsme vytvořili tzv. platchu agend, která má sloužit k uchování jednotlivých agend a na ně vázaných výzkumných potřeb. 
   - Plachta má např. umožnit roztřídění výzkumných potřeb na ty, které se naplní interními kapacitami (analytické, evaluační oddělení atd.) či externími kapacitami (programy BETA, SIGMA, veřejné zakázky)
-  - (ODKAZ NA PLACHTU) - https://docs.google.com/document/d/1Sgdi-pM17TqxS6ha0Le-YhAOjjDiqnwyyegdQIgsqD4/edit 
+  - [Ukázka takové plachty agend a její vysvětlení](attachments/Plachta agend - web verze.docx)
 
 :::
 
