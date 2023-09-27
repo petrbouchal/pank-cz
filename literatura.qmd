@@ -1,0 +1,15 @@
+---
+title: "Literatura"
+bibliography: "citace/pank-citace.bib"
+citation-location: document
+reference-location: document
+nocite: |
+  @*
+---
+
+Blah [@breckonCommunicatingUsingSystematic2022]
+
+## Všechny zdroje
+
+::: {#refs}
+:::
