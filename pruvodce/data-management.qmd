@@ -22,13 +22,20 @@ Pracujeme s datovými zdroji od různých poskytovatelů, které následně komp
 
 ## Zmapujte životní cyklus vašich dat
 
-Práce s daty je dynamický proces, v rámci kterého lze rozlišit jednotlivé kroky vedoucí od získání “surových” k finálnímu datovému produktu.
+Nejprve rozlište a popište kroky vedoucí od získání (či generování) dat k finálnímu datovému produktu určený ke sdílení. Těmto krokům se říká (životní cyklus dat)[https://openscience.cuni.cz/OSCI-61.html]. 
 
-K tomu můžete využít schéma životního cyklu vašich dat a znázornit ho do schématu. Níže najdete generické schéma, které můžete následně upravit podle vašich potřeb.
+Vytvořte tabulku, kde řádky představují každý krok v životním cyklu dat. Pro každý krok popište co se děje a kdo to vykonává.
 
-Toto schéma vám pomůže znázornit, jaké činnosti se vážou s každým krokem v procesu. 
+- Získání “surových” dat (či jejich sběr)
+- Ukládání “surových” dat
+- Zpracování dat (čištění, strukturování, výběr, kompilace)
+- Ukládání zpracovaných dat
+- Dokumentace a katalogizace
+- Aktualizace dat 
+- Výdej dat
 
-![](data life cylcle flowchart.png){fig-alt="Životní cyklus dat - schéma"}
+Můžete také využít schéma životního cyklu dat. Níže najdete generické schéma, které můžete následně upravit podle vašich potřeb. 
+![](Data_lifecycle_schema.png){fig-alt="Životní cyklus dat - schéma"}
 
 ## Zeptejte se finálních uživatelů, jak data využívají a pro jaké účely
 
