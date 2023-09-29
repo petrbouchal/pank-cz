@@ -28,6 +28,8 @@ K tomu můžete využít schéma životního cyklu vašich dat a znázornit ho d
 
 Toto schéma vám pomůže znázornit, jaké činnosti se vážou s každým krokem v procesu. 
 
+![](data life cylcle flowchart.png){fig-alt="Životní cyklus dat - schéma"}
+
 ## Zeptejte se finálních uživatelů, jak data využívají a pro jaké účely
 
 Předtím než navrhnete způsob, jak data poskytnout finálním uživatelům, zeptejte se jich, jakým způsobem hodlají datové produkty využít a pro jaký účel. Zároveň identifikujte případné obavy a překážky, které mohou vzniknout.
