@@ -7,3 +7,52 @@ poradi: 15
 title-block-categories: false
 editor: source
 ---
+
+# O co jde a k čemu to je
+
+Práce s kvantitativními daty je nedílnou součástí analytických činností ve veřejné správě. Data management pokrývá soubor činností, které zaručují, že data jsou přehledně uložena, popsána a zpřístupněna dalším uživatelům ve formě datových produktů. 
+
+# ⚠ Sebediagnostika: je to pro mě?
+
+Náš útvar pravidelně zpracovává datové výstupy pro interní i externí využití. 
+Pracujeme s datovými zdroji od různých poskytovatelů, které následně kompilujeme do ucelených data setů
+
+
+# ↪ Jak na to
+
+## Zmapujte životní cyklus vašich dat
+
+Práce s daty je dynamický proces, v rámci kterého lze rozlišit jednotlivé kroky vedoucí od získání “surových” k finálnímu datovému produktu.
+
+K tomu můžete využít schéma životního cyklu vašich dat a znázornit ho do schématu. Níže najdete generické schéma, které můžete následně upravit podle vašich potřeb.
+
+Toto schéma vám pomůže znázornit, jaké činnosti se vážou s každým krokem v procesu. 
+
+## Zeptejte se finálních uživatelů, jak data využívají a pro jaké účely
+
+Předtím než navrhnete způsob, jak data poskytnout finálním uživatelům, zeptejte se jich, jakým způsobem hodlají datové produkty využít a pro jaký účel. Zároveň identifikujte případné obavy a překážky, které mohou vzniknout.
+
+## Strukturujte vaše úložiště dat
+
+Při správě datových úložišť rozlište surová data, back-end a front-end:
+úložišťe surových dat: datové sady, které obdržíte od poskytovatele uložte v jejich surové formě spolu s dokumentací, které vám poskytovatel dodal.
+back-end: datové sady, které jsou strukturované podle vašich potřeb (např. sloučením několika datových sad)
+front-end: datové sady, které jsou určené k využití dalšími uživateli (interní i externí)
+
+## Dokumentujte vaše data
+
+Každá datová sada má být dokumentovaná tak, aby bylo možné dohledat základní popis datasetů a jeho proměnných. 
+
+Lze rozlišit dva typy dokumentace dat:
+metadata: soubor popisů pro jednotlivé sady a datové proměnné
+dokumentace pro uživatelé: soubor informací, které pomohou uživatelům v orientaci v datových sadách a jejich využití.
+
+## Nastavte proces pro výdej dat k dalšímu využití
+
+Na základě informací od finálních uživatelů navrhněte způsob, jakým budete předávat vaše datové produkty. Může jít o excelovou tabulku, ze které budou uživatelé přímo čerpat, nebo o sofistikovanější rozhraní (např. databáze nebo dashboardy).
+
+# Na co si dát pozor aneb tipy & triky
+
+
+
+# Další zdroje
