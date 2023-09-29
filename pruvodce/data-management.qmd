@@ -1,6 +1,6 @@
 ---
 title: "Správa dat"
-subtitle: "Podtitulek, co vysvětlí a naláká"
+subtitle: "Jak vaše data přehledně spravovat"
 categories: ["Vzor", "Zásobník"]
 blok: ["metody"]
 poradi: 15
