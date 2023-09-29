@@ -26,12 +26,12 @@ Nejprve rozlište a popište kroky vedoucí od získání (či generování) dat
 
 Vytvořte tabulku, kde řádky představují každý krok v životním cyklu dat. Pro každý krok popište co se děje a kdo to vykonává.
 
-- Získání “surových” dat (či jejich sběr)
-- Ukládání “surových” dat
-- Zpracování dat (čištění, strukturování, výběr, kompilace)
-- Ukládání zpracovaných dat
+- Získání vstupních dat (či jejich sběr)
+- Ukládání vstupních dat
+- Zpracování výstupních dat (čištění, strukturování, výběr, kompilace)
+- Ukládání výstupních dat
 - Dokumentace a katalogizace
-- Aktualizace dat 
+- Aktualizace výstupních dat 
 - Výdej dat
 
 Můžete také využít schéma životního cyklu dat. Níže najdete generické schéma, které můžete následně upravit podle vašich potřeb. 
