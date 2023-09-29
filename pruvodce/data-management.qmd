@@ -37,9 +37,9 @@ Předtím než navrhnete způsob, jak data poskytnout finálním uživatelům, z
 ## Strukturujte vaše úložiště dat
 
 Při správě datových úložišť rozlište surová data, back-end a front-end:
-úložišťe surových dat: datové sady, které obdržíte od poskytovatele uložte v jejich surové formě spolu s dokumentací, které vám poskytovatel dodal.
-back-end: datové sady, které jsou strukturované podle vašich potřeb (např. sloučením několika datových sad)
-front-end: datové sady, které jsou určené k využití dalšími uživateli (interní i externí)
+- úložišťe surových dat: datové sady, které obdržíte od poskytovatele uložte v jejich surové formě spolu s dokumentací, které vám - -poskytovatel dodal.
+- back-end: datové sady, které jsou strukturované podle vašich potřeb (např. sloučením několika datových sad)
+- front-end: datové sady, které jsou určené k využití dalšími uživateli (interní i externí)
 
 ## Dokumentujte vaše data
 
