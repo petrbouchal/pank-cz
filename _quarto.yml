@@ -8,8 +8,10 @@ project:
   - fonts
 
 website:
-  title: ""
+  title: "PANK"
   navbar:
+    title: false
+    toggle-position: right
     right:
       - text: "   "
       - text: "Průvodce prací s poznatky"
