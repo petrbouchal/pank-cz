@@ -8,9 +8,13 @@ aliases:
   - /pribeh-projektu
 ---
 
-## Kontakt
+## Kdo jsme & kontakt {#kontakt}
 
-## Série ČP.edu
+## Příběh projektu
+
+### Série ČP.edu
+
+### Příběh ve třech článcích na blogu
 
 ## Poděkování
 
@@ -26,10 +30,26 @@ Zahraničním expertům
 
 PSSAÚ
 
-Nekola, Witz, 
+Nekola, Witz, Havrda, Janský, Kváča, Kokeš
+
+GovLab
 
 Jirman
 
-Kolegyně a kolegové ČP
+Kolegyně a kolegové ČP esp. komunikace
 
 Kampus
+
+Grafika (Klára), NPI (Katarína, Adam, Michal)
+
+Jakub Ferjenčík
+
+Panelisté ČP.edu
+
+EJ NOK konf
+
+PSSAÚ
+
+Expertky a experti: Ladislava Zbiejczuk Suchá, Kristína Zákopčanová, Michal Koláček [link]
+
+

@@ -1,0 +1,27 @@
+---
+title: "Analýza dat moderně"
+poradi: 3
+blok: ["metody"]
+---
+
+> Tento návod je ještě ve výrobě.
+
+:::{.callout-tip}
+
+Tato oblast je hodně široká, zlepšovat se v ní můžete v několika směrech a může to být běh na delší trať. Nedokázali jsme ji shrnout do jednoho uceleného návodu kroky 1 až N, ale chtěli jsme někde shromáždit tipy a dobré praxe.
+
+Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout směrem k dobrým praxím, pokročilejším postupům a případně zdatnějším technologiím.
+
+:::
+
+## O co jde a proč to řešit?
+
+## Je to pro mě? 
+
+## Směry rozvoje
+
+### 
+
+## Kde už na tom pracují
+
+## Další zdroje
