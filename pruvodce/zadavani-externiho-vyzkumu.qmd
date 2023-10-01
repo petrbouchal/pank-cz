@@ -1,6 +1,6 @@
 ---
 title: "Zadávání externího výzkumu"
-subtitle: "Jak lépe pořídit výzkum zvenčí"
+subtitle: "Jak uřídit pořizování výzkum zvenčí"
 categories: ["Řízení"]
 blok: ["ziskavani"]
 title-block-categories: false

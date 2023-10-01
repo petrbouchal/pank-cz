@@ -12,7 +12,7 @@ aliases:
 
 Dva hlavní podněty jak začít pracovat na nové analýze jsou dostání úkolu od poptavetele, nebo identifikování znalostní potřeby organizace a analýzu provést na základě této potřeby. Tento popis se zabývá tím, jak tyto znalostní potřeby identifikovat a pracovat s nimi.  
 
-> Při vývoji tohot návodu jsme se inspirovali vyzkoušenou praxí tzv. Learning Agendas - viz [zdroje](#další-zdroje) na konci návodu.
+> Při vývoji tohoto návodu jsme se inspirovali vyzkoušenou praxí tzv. Learning Agendas - viz [zdroje](#další-zdroje) na konci návodu.
 
 # Sebediagnostika: je to pro mě?
 

@@ -1,9 +1,35 @@
 ---
 title: "Rešerše a přehled literatury"
-subtitle: "Podtitulek, co vysvětlí a naláká"
+subtitle: "Jak si udělat obrázek o tématu na základě existujícího výzkumu"
 categories: ["Poznatky", "Literatura"]
 blok: ["ziskavani"]
 title-block-categories: false
 poradi: 2
 editor: source
 ---
+
+:::{.callout-tip}
+
+Pro tuto velkou oblast jsme neměli možnost otestovat kompletní návod. 
+
+V době, kdy jsme na tématu pracovali, se ale rychle vyvíjela řada technologických nástrojů, včetně těch na bázi AI, které mohou při rešerši a sumarizaci literatury. V sekci [Nástroje](#nastroje) níže najdete popis aktuálního stavu, který se ale může rychle měnit.
+
+:::
+
+## Jaký problém řešíte?
+
+## Jakou rešerši potřebujete?
+
+## Jaké poznatky do ní zahrnout?
+
+## Kde hledat?
+
+## Nástroje na hledání a sumarizaci literatury {#nastroje}
+
+:::{.callout-warning}
+
+Zde zachycujeme stav na podzim 2023. Může se rychle měnit.
+
+:::
+
+## Další zdroje

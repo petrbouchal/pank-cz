@@ -1,6 +1,6 @@
 ---
 title: "Vyhledání veřejných dat"
-subtitle: "Podtitulek, co vysvětlí a naláká"
+subtitle: "Kde hledat veřejná data a jak se v nich vyznat?"
 description: "O něco delší popis, co taky vysvětlí a naláká, jen klidně na celý řádek"
 categories: ["Vzor", "Zásobník"]
 blok: ["ziskavani"]

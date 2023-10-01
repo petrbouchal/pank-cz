@@ -1,6 +1,6 @@
 ---
 title: "Dotazníkové šetření"
-subtitle: "Podtitulek, co vysvětlí a naláká"
+subtitle: "Posbírejte data a vytáhnětě s nich to podstatné"
 categories: ["Vzor", "Zásobník"]
 blok: ["ziskavani"]
 title-block-categories: false
