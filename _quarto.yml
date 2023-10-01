@@ -61,6 +61,8 @@ website:
 format:
   html:
     title-prefix: "PANK"
+    callout-icon: false
+    callout-appearance: simple
     bibliography: citace/pank-citace.bib
     filters:
     - pandoc-quotes.lua
