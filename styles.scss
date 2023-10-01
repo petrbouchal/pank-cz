@@ -24,17 +24,16 @@ $link-color:            $cp-primary-blue;
 $font-family-sans-serif: "Inter", Helvetica, Arial, Calibri, sans-serif;
 $navbar-bg:             $cp-secondary-lightblue;
 $navbar-fg:             $cp-primary-blue;
-$navbar-hl:             $cp-secondary-lightblue;
 $body-bg:               white;
 $body-color:            $cp-primary-blue;
 $heading-color:         $cp-primary-blue;
 
-$nav-tabs-border-color: $cp-primary-blue;
 $nav-link-border-color: $cp-primary-blue;
 $nav-link-color: $cp-primary-blue;
-$nav-link-hover-color: $cp-primary-blue;
-$navbar-hover-color: $cp-primary-blue;
+$nav-link-active-color: $cp-primary-blue;
+$navbar-hover-color: $cp-secondary-dark;
 
+$nav-tabs-border-color: $cp-primary-blue;
 $nav-tabs-border-width: 0px;
 $nav-tabs-link-active-color: $cp-primary-blue;
 $nav-tabs-link-active-bg: $cp-primary-blue;
@@ -114,19 +113,29 @@ $bs-btn-active-border-color: white;
 
 /*-- scss:rules --*/
 
-.navbar {
-  border-bottom: 7px solid $cp-primary-blue;
 body {
   font-variant-numeric: lining-nums;
 }
 
-.nav-link.active {
-  background: $cp-primary-blue !important;
-  color: $cp-secondary-lightblue !important;
+
+.navbar {
+  border-bottom: 7px solid $cp-primary-blue;
 }
 
-.nav-link.hover {
-  color: $cp-primary-blue !important;
+.navbar .nav-link {
+  border: solid 1px $cp-secondary-lightblue;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.navbar .nav-link.active {
+  background: $cp-primary-blue !important;
+  color: $cp-secondary-lightblue !important;
+  border: solid 1px $cp-primary-blue;
+}
+
+.navbar .nav-link:hover {
+  border: solid 1px $cp-primary-blue;
 }
 
 .btn-primary {
@@ -150,7 +159,7 @@ body {
   border-color: $cp-primary-blue;
 }
 
-.btn-resource p a {
+.btn-resource a {
   color: $cp-primary-blue !important;
   text-decoration: none !important;
 }
@@ -270,7 +279,7 @@ body {
 }
 
 .callout {
-  border-radius: 0px;
+  border-radius: 10px;
   border-width: 1px !important;
   border-left-width: 10px !important;
   border-color: $cp-primary-grey !important;
@@ -579,9 +588,14 @@ section.pruvodce-box > h2:before {
   padding: 0px;
 }
 
-#TOC > ul > li > a.nav-link {
+.sidebar nav[role=doc-toc]>ul li a {
   line-height: 1.2em;
-  margin-bottom: .4rem;
+  padding-bottom: .4rem;
+  border-left: none;
+}
+
+#TOC > ul {
+  border-left: solid 1px $cp-secondary-lightblue !important;
 }
 
 .csl-entry {
