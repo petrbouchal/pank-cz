@@ -75,6 +75,7 @@ format:
     - pandoc-quotes.lua
     language:
       title-block-author-single: " "
+      related-formats-title: "Ke stažení"
     lang: cs
     toc-location: left
     title-block-banner: false
