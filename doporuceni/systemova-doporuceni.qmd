@@ -12,11 +12,12 @@ aliases:
   - /doporuceni/system
 ---
 
-> Při práci na rozvoji práce s poznatky se zapojenými týmy jsme opakovaně naráželi na bariéry způsobené nějakým systémovým nedostatkem -- nastavením pravidel, absencí podpory, apod.
+> Při práci na rozvoji práce s poznatky se zapojenými týmy jsme opakovaně naráželi na **bariéry způsobené nějakým systémovým nedostatkem** -- nastavením pravidel, absencí podpory, apod.
 >
-> Níže tyto bariéry zachycujeme jako oblasti, kde jde potřeba nějaká změna na úrovni systému. Někdy to znamená změnu legislativy či jiných pravidel, někdy změnu ve způsobu práce průřezových agend, např. personalistiky.
+> Níže tyto bariéry zachycujeme jako **oblasti, kde jde potřeba nějaká změna na úrovni systému**. Někdy to znamená změnu legislativy či jiných pravidel, někdy změnu ve způsobu práce průřezových agend, např. personalistiky.
 >
-> Adresátem těchto doporučení jsou ti, kteří mohou těmto změnám pomoct: vesměs gestoři tématu rozvoje veřejné správy, vedení státní služby, ale také vyšší management a státní tajemníci ministerstev.
+> **Adresátem** těchto doporučení jsou ti, kteří mohou těmto změnám pomoct: vesměs gestoři tématu rozvoje veřejné správy, vedení státní služby, ale také vyšší management a státní tajemníci ministerstev.
+> 
 > Doporučení často navazují a odkazují na již zvažované nebo plánované iniciativy a ukazují na jejich potřebnost nebo zpřesňují cíl. Měla by proto být realizovatelná v současném kontextu české veřejné správy. Pokud navrhujeme inovativnější opatření, jsou inspirována funkční praxí z jiných států.
 
 ## Struktury a procesy podporující využívání poznatků
