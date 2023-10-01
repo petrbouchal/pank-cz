@@ -9,6 +9,7 @@ format:
   html: 
     grid:
       sidebar-width: 300px
+format-links: false
 sidebar: false
 title-block-banner: false
 listing:
