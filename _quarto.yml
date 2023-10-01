@@ -59,6 +59,10 @@ website:
     right: "Built with [Quarto](https://quarto.org), kód <a href=https://github.com/petrbouchal/pank-foolkit>na Githubu</a>"
   repo-url: https://github.com/petrbouchal/pank-foolkit
   # repo-actions: [edit, issue]
+  search:
+    # show-item-context: tree
+    # keyboard-shortcut: none
+    type: overlay
 
 format:
   html:
