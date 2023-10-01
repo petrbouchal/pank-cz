@@ -293,8 +293,12 @@ body {
   border-left-color: $cp-secondary-dark !important;
 }
 
-.callout-warning {
+.callout-danger {
   border-left-color: $cp-primary-red !important;
+}
+
+.callout-warning {
+  border-left-color: $cp-secondary-red !important;
 }
 
 .callout-body {
