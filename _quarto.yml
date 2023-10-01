@@ -60,6 +60,7 @@ website:
 
 format:
   html:
+    title-prefix: "PANK"
     bibliography: citace/pank-citace.bib
     filters:
     - pandoc-quotes.lua
