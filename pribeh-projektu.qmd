@@ -1,11 +1,11 @@
 ---
 title: "O nás"
 editor: source
-description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
+description: "<a href='index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
 aliases: 
   - /kontakt
   - /o-nas
-  - /pribeh-alias
+  - /pribeh-projektu
 ---
 
 ## Kontakt
