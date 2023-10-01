@@ -30,11 +30,13 @@ Setkáváme se často s tím, že pod pojmem analytická práce lidé vidí pře
 
 V analytické práci je komunikace zásadním aspektem celého procesu, který bývá často upozaděn. Pokud vyrábíme analytický produkt pro někoho, nebo po nás takový produkt někdo požaduje, je zásadní komunikovat během celého procesu –, již od samotného zadání, jaký problém řešíme, jak a kým bude produkt využíván. Jinými slovy, je zapotřebí pravidelně komunikovat se zadavatelem/příjemcem analýz tak, aby konečná analýza byla využitelná. V prostředí veřejné správy je důležité mít na paměti, že připomínkové řízení není dostatečnou substitucí za kvalitní komunikaci a zpětné vazby k následnému využití analýz a podobných výstupů. 
 
+I proto se v průvodci celá jedna část věnuje [podpoře využití poznatků](/pruvodce/index.hml#vyuziti).
+
 ### Neplňte zadání na první dobrou
 
 Analytická práce je ze své podstaty komplexní činností. Často se tedy stáváJedním z důsledků je, že analytici často obdrží nejasná zadání, málo konkretizovaná a bez informací, co má splňovat. Úkolem analytika v takovém případě je především pochopit zadání a to nejlépe tak, že nechá zadavatele zakázky jasně popsat problém, který chce "zákazník" pomocí analýzy řešit. V tomto procesu může zákazník zjistit, že sám nemá tuto otázku jasně definovanou a s pomocí analytika mohou přijít, jak na definici problému, tak identifikaci podkladů pro jeho řešení. 
 
-LINK na [budoucí] návod: zadání (analytického) úkolu
+V průvodci najdete návod [[Zadání analytického úkolu ->](/pruvodce/zadani-ukolu)]{.btn .btn-resource}
 
 ### Specializace nemusí stát za to
 
