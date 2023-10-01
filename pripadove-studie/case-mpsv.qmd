@@ -1,6 +1,6 @@
 ---
 title: "MPSV: oddělení rovných příležitostí ESF"
-subtitle: "Práce s poznatky mezi administrací"
+subtitle: "Práce s poznatky mezi administrací výzev a projektů"
 aliases: 
   - mpsv
 listable: "listable"
