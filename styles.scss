@@ -126,6 +126,7 @@ body {
   border: solid 1px $cp-secondary-lightblue;
   margin-left: 2px;
   margin-right: 2px;
+  border-radius: 10px;
 }
 
 .navbar .nav-link.active {
@@ -148,7 +149,8 @@ body {
 
 .btn-resource {
   border-radius: 10px;
-  padding-bottom: 5pt;
+  padding: 0.2rem 0.4rem 0.2rem 0.4rem;
+  font-size: 100%;
   width: fit-content;
   background-color: transparent;
   border-color: $cp-primary-blue;
@@ -303,12 +305,18 @@ body {
 
 .callout-body {
   padding-left: 1em !important;
-  padding-top: 0em !important;
+  padding-top: 1em !important;
   margin-left: 0px !important;
 }
 
 .callout-title-container {
-  padding-bottom: 1em;
+  color: $cp-primary-blue !important;
+  padding-top: .1rem;
+  opacity: 1 !important;
+}
+
+.callout-header {
+  opacity: 1;
   color: $cp-primary-blue;
 }
 
@@ -533,9 +541,14 @@ div.quarto-post > div.metadata {
   margin-bottom: 30px;
 }
 
-h3.listing-title::after {
- content: "→";
+h3.listing-title > a::after {
+  content: "→";
+  margin-left: 0.2rem;
 }
+
+h3.listing-title > a {
+  display: inline
+} 
 
 #metody::before, #ziskavani::before, #rizeni::before, #vyuziti::before {
   display: none;

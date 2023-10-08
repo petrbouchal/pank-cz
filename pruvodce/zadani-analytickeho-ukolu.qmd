@@ -11,7 +11,7 @@ aliases:
 
 # O co jde a k čemu to je
 
-Zde najdete postup, jak díky lepšímu zadávání analytického úkolu zvýšit využitelnost výstupů, zvýšit jejich kvalitu a dlouhodobě úspořit času. 
+Zde najdete postup, jak díky lepšímu zadávání analytického úkolu zvýšit využitelnost výstupů, zvýšit jejich kvalitu a dlouhodobě uspořit čas. 
 
 I pokud samotné zadání a přebrání úkolu zabere trochu času navíc, nejspíš se to vrátí v kvalitě a menším plýtvání času na dělání nesprávných věcí. 
 
@@ -67,7 +67,6 @@ Po vydefinování problému se potřebujete dobrat parametry práce a vykomuniko
   - Termíny
   - Rozsah
   - Bude v průběhu tvorby výstupu možnost konzultací a průběžné zpětné vazby?
-  
   
 ## 3. Ptejte se na zpětnou vazbu
 

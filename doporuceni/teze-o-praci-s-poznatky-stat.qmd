@@ -14,15 +14,11 @@ format:
 
 ## Jak tyto vzkazy vznikly
 
-<blockquote>
-
-Ponořili jsme se do tématu práce s poznatky. Často se naše pozorování shodovalo s tím, jak je práce s poznatky -- či analytická práce -- pojímána v koncepčních dokumentech a systémových snahách o zlepšení. Občas ale z našich pozorování vyvstávaly teze a závěry, které se od "standarního" pojetí analytické práce trochu liší a mohou toto pojetí obohatit.
-
-Níže tedy přinášíme několik "vzkazů pro decision makery"[^1], o kterých si myslíme, že budou užitečné při zacilování dalších snah o rozvoj evidence-informed přístupů k vládnutí.
-
-Jsou to relativně široké teze; konkrétní doporučení k systémovým problémům, které jsme v praxi zaznamenali, [přinášíme odděleně](/systemova-doporuceni). Některých témat se dotýkají jak tyto vzkazy, tak doporučení.
-
-</blockquote>
+> Ponořili jsme se do tématu práce s poznatky. Často se naše pozorování shodovalo s tím, jak je práce s poznatky -- či analytická práce -- pojímána v koncepčních dokumentech a systémových snahách o zlepšení. Občas ale z našich pozorování vyvstávaly teze a závěry, které se od "standarního" pojetí analytické práce trochu liší a mohou toto pojetí obohatit.
+> 
+> Níže tedy přinášíme několik "vzkazů pro decision makery"[^1], o kterých si myslíme, že budou užitečné při zacilování dalších snah o rozvoj evidence-informed přístupů k vládnutí.
+> 
+> Jsou to relativně široké teze; konkrétní doporučení k systémovým problémům, které jsme v praxi zaznamenali, [přinášíme odděleně](/systemova-doporuceni). Některých témat se dotýkají jak tyto vzkazy, tak doporučení.
 
 [^1]: vedení státní služby a všechny, kdo se systémově podílí na rozvoji práce s poznatky
 

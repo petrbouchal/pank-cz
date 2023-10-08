@@ -30,7 +30,7 @@ listing:
 ## Pracovat s poznatky*<br>potřebuje i Váš tým.<br />
 
 :::{.btn .btn-primary}
-[Průvodce prací s poznatky ⟶](/pruvodce)
+[Průvodce prací s poznatky&nbsp;⟶](/pruvodce)
 :::
 
 :::{.vocab-key}
@@ -111,7 +111,7 @@ Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích.
 Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
 
 :::{.btn .btn-primary}
-[Číst případové studie ⟶](/pripadove-studie)
+[Číst případové studie&nbsp;⟶](/pripadove-studie)
 :::
 
 <br />
@@ -156,7 +156,7 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 :::{.col .col-12 .col-md-6}
 
 :::{.btn .btn-primary}
-[Co jsme se za dva roky dověděli o práci s poznatky ⟶](/teze-tymy)
+[Co jsme se za dva roky dověděli o práci s poznatky&nbsp;⟶](/teze-tymy)
 :::
 <br />
 :::
@@ -164,7 +164,7 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 :::{.col .col-12 .col-md-6}
 
 :::{.btn .btn-primary}
-[Co doporučujeme změnit na úrovni státu a zákonů ⟶](/doporuceni)
+[Co doporučujeme změnit na úrovni státu a zákonů&nbsp;⟶](/doporuceni)
 :::
 <br />
 :::
@@ -183,7 +183,7 @@ Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskep
 Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvodce) nebo s Vámi prodiskutujeme naše [doporučení](/doporuceni).
 
 :::{.btn .btn-primary}
-[Ozvěte se nám ⟶](mailto:email@ceskepriority.cz)
+[Ozvěte se nám&nbsp;⟶](mailto:email@ceskepriority.cz)
 :::
 
 <br />
@@ -205,7 +205,7 @@ V odborném poradním týmu nám pomáhala řada expertů z řad praktiků a aka
 Kromě rozvoje analytické práce se České priority zaměřují na systémové změny v oblasti informovaného rozhodování. Pomáháme také rozvíjet foresight, forecasting a aplikace metod analýzy přínosů a nákladů.
 
 :::{.btn .btn-primary}
-[Více o Českých prioritách ⟶](https://ceskepriority.cz)
+[Více o Českých prioritách&nbsp;⟶](https://ceskepriority.cz)
 :::
 
 <br />
@@ -213,7 +213,7 @@ Kromě rozvoje analytické práce se České priority zaměřují na systémové
 Tento průvodce a všechny související výstupy vznikly díky Technologické agentuře ČR, která podpořila náš projekt PANK. 
 
 :::{.btn .btn-primary}
-[Příběh projektu ⟶](/pribeh-projektu)
+[Příběh projektu&nbsp;⟶](/pribeh-projektu)
 :::
 
 

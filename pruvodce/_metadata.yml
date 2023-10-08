@@ -6,3 +6,4 @@ description: "<a href='../../index.html'>Domů</a>&nbsp;>&nbsp;<a href='{{< meta
 format:
   html: default
   docx: default
+citation-location: document

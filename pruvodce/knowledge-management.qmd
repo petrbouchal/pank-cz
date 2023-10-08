@@ -48,7 +48,7 @@ Jaké postupy zvolíte v jednotlivých krocích by mělo vycházet z **vašeho p
 - Co potřebují? Co je nejvíc trápí? 
 - Co zvládnou? 
 
-Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je svého druhu interní produkt a na jeho vývoj tedy můžete použít postupy uživatelského výzkumu a testování viz -> [návod](LINK TO DO)).
+Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je svého druhu interní produkt a na jeho vývoj tedy můžete použít postupy uživatelského výzkumu a testování viz&nbsp;⟶ [návod](LINK TO DO)).
 
 
 ## 1. Zachycení a katalogizace analýz
@@ -102,9 +102,9 @@ Pokud se pustíte do katalogizace, mějte na paměti, že důležitější je m�
 
 V kontextu propagace je dobré si uvědomit, že **ne vše jde naplánovat**, využití poznatků se často děje v tzv. windows of opportunity. V [tezích pro týmy](/teze-tymy) vysvětlujeme, že poznatky nejsou vždy využity hned a když to čekáte, často mají nepřímý dopad. Součástí této práce tedy je také monitoring příležitostí, kde může nějaký poznatek nebo výstup, který už máme, vstoupit do živého tématu nebo řešení nějakého aktuálního problému v tématu nebo organizaci.
 
-Sebelepší propagace ale věc nezachrání, pokud analýzy nevychází ze **skutečných potřeb** (-> návod [Identifikace znalostních potřeb](identifikace-potreb)) nebo trpí špatným **procesem zadání** mezi zákazníkem a tvůrcem (-> návod [Zadání analytického úkolu](zadani-ukolu) & návod [Zadání externího výzkumu](zadani-externiho-vyzkumu)).
+Sebelepší propagace ale věc nezachrání, pokud analýzy nevychází ze **skutečných potřeb** (⟶ návod [Identifikace znalostních potřeb](identifikace-potreb)) nebo trpí špatným **procesem zadání** mezi zákazníkem a tvůrcem (⟶ návod [Zadání analytického úkolu](zadani-ukolu) & návod [Zadání externího výzkumu](zadani-externiho-vyzkumu)).
 
-A pamatujte, že i přes sebelepší knowledge management bude stále platit, že **část znalostí je pouze v hlavách lidí** a je potřeba zajistit jejich zachování i když někdo tým opouští (-> návod [Offboarding člena týmu](offboarding)).
+A pamatujte, že i přes sebelepší knowledge management bude stále platit, že **část znalostí je pouze v hlavách lidí** a je potřeba zajistit jejich zachování i když někdo tým opouští (⟶ návod [Offboarding člena týmu](offboarding)).
 
 # Další zdroje
 

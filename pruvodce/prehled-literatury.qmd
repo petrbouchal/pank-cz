@@ -10,7 +10,7 @@ editor: source
 
 :::{.callout-tip}
 
-Pro tuto velkou oblast jsme neměli možnost otestovat kompletní návod. 
+### Pro tuto velkou oblast jsme neměli možnost otestovat kompletní návod. 
 
 V době, kdy jsme na tématu pracovali, se ale rychle vyvíjela řada technologických nástrojů, včetně těch na bázi AI, které mohou při rešerši a sumarizaci literatury. V sekci [Nástroje](#nastroje) níže najdete popis aktuálního stavu, který se ale může rychle měnit.
 
@@ -28,7 +28,7 @@ V době, kdy jsme na tématu pracovali, se ale rychle vyvíjela řada technologi
 
 :::{.callout-warning}
 
-Zde zachycujeme stav na podzim 2023. Může se rychle měnit.
+### Zde zachycujeme stav na podzim 2023. Může se rychle měnit.
 
 :::
 

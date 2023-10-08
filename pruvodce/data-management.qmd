@@ -8,17 +8,17 @@ title-block-categories: false
 editor: source
 ---
 
-# O co jde a k čemu to je
+## O co jde a k čemu to je
 
-Práce s kvantitativními daty je nedílnou součástí analytických činností ve veřejné správě. Data management pokrývá soubor činností, které zaručují, že data jsou přehledně uložena, popsána a zpřístupněna dalším uživatelům ve formě datových produktů. 
-
-# ⚠ Sebediagnostika: je to pro mě?
-
-Náš útvar pravidelně zpracovává datové výstupy pro interní i externí využití. 
-Pracujeme s datovými zdroji od různých poskytovatelů, které následně kompilujeme do ucelených data setů
+Práce s kvantitativními daty je nedílnou součástí analytických činností ve veřejné správě. **Data management** pokrývá soubor činností, které zaručují, že data jsou přehledně uložena, popsána a zpřístupněna dalším uživatelům ve formě datových produktů. 
 
 
-# ↪ Jak na to
+:::{.aside}
+**Případová studie**
+
+Tento návod jsme vyvinuli na základě práce s oddělením výzkumu a evaluací na Agentuře pro sociální začleňování.
+
+<br>
 
 ## Zmapujte životní cyklus vašich dat
 

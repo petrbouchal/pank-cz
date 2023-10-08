@@ -13,12 +13,18 @@ format:
 
 Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
 
-# Případová studie
 
-Tento návod jsme vyvíjeli a testovali ve spolupráci s týmem výzkumu a evaluací Agentury pro sociální začleňování.
+:::{.aside}
+**Případová studie**
 
-:::{.btn .btn-primary}
-[Přečíst případovou studii](/pripadove-studie/asz)
+Tento návod jsme vyvíjeli a testovali ve spolupráci s týmem výzkumu a evaluací Agentury pro sociální začleňování.  
+
+<br>
+
+:::{.btn .btn-resource}
+[Přečíst případovou studii&nbsp;⟶](/pripadove-studie/asz)
+:::
+
 :::
 
 # Sebediagnostika: je to pro mě?

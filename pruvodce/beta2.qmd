@@ -26,7 +26,7 @@ Tento návod jsme vyvíjeli a testovali ve spolupráci s týmem oddělení strat
 <br>
 
 :::{.btn .btn-resource}
-[Přečíst případovou studii](/pripadove-studie/msmt)
+[Přečíst případovou studii&nbsp;⟶](/pripadove-studie/msmt)
 :::
 :::
 
@@ -62,7 +62,7 @@ ZOG by měl:
 
 # Na co si dát pozor
 
-Program BETA sebou nese několik výzev na které je potřeba dávat pozor. Chtěli bychom zdůraznit nutnost zodpovědně pracovat s jednotlivými rolemi, které na ministerstvu a na TA ČR v rámci jednotlivých projektů je potřeba zastávat. Vyjasněnost odpovědností pro jednotlivé role může dlouhodobě ušetřit mnoho času a také zajistit větší využitelnost výstupů projektu.  
+Program BETA s sebou nese několik výzev na které je potřeba dávat pozor. Chtěli bychom zdůraznit nutnost zodpovědně pracovat s jednotlivými rolemi, které na ministerstvu a na TA ČR v rámci jednotlivých projektů je potřeba zastávat. Vyjasněnost odpovědností pro jednotlivé role může dlouhodobě ušetřit mnoho času a také zajistit větší využitelnost výstupů projektu.  
 
 Také je dobré mít na paměti, že existují různé módy využití výzkumu - nejde jen o to, že se někdo v jeden moment na základě jedné studie rozhodne jinak. V tomto smyslu je důležité starat se o analýzy a přemýšlet nad tím, pro koho by mohli být relevantní.
 

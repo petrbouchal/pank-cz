@@ -30,7 +30,7 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 <br />
 
 :::{.btn .btn-resource}
-[přečíst případovou studii](../pripadove-studie/asz)
+[přečíst případovou studii&nbsp;⟶](../pripadove-studie/asz)
 :::
 
 :::
