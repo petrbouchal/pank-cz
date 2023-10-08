@@ -62,9 +62,15 @@ Tento přímý, tzv. instrumentální, způsob využití poznatků je důležit�
 
 Prapůvod uvažování o různých módech využití poznatků je práce Carol Weiss [@weissManyMeaningsResearch1979; @weissKnowledgeCreepDecision1980], nedávné empirické upřesnění najdete v @haynesGalvanizersGuidesChampions2011.
 
+Je také užitečné zvažovat, pro jaký praktický účel nějaké poznatky vytváříme -- zda je cílem se skládat účty za výkon organizace, nebo podpořit organizační učení, a zda je o strategické, nebo operační záležitosti, jak ukazuje diagram níže.
+
+![Diagram účelů využití poznatků, zdroj: @olejniczakLearningEvaluationKnowledge2017](/images/olejniczak_uses.jpeg)
+
 ### Tvorba politik je často nelineární proces, musíte s tím počítat {#nelinearni}
 
 Dalším častým zdrojem frustrace je neuspořádanost procesů tvorby politik -- zákonů, strategií, opatření, programů. Mnohé příručky pro praktiky i klasické učebnice z oboru *public policy* ukazují lineární, případně úhledně cyklické diagramy, kde se od definice problému přechází k definování řešení, implementaci, evaluaci, a od evaluace zase hezky k redefinici programu. 
+
+![Diagram policy procesů, zdroj: @cairneyPoliticsPolicyAnalysis2021](/images/cairney_cycle.png)
 
 Takový model nám může pomoct rozeznat různé typy aktivit v celém procesu, ale málokdy zachycuje skutečnost. Realita nás pak může překvapit a tento nesoulad může paralyzovat naši schopnost generovat užitečné poznatky a ve správný moment s nimi vstupovat do rozhodovacích procesů. 
 
