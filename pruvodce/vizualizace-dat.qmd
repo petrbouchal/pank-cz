@@ -55,7 +55,7 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
   - Forma: přehled vs. detail, standard vs. inovace, …
   - Účel: Zaujmout, přesvědčit, prozkoumat, hledat vzorce…
 
-![](dataviz-karta-uzivatele.png){fig-alt="Karta uživatele"}
+![](images/dataviz-karta-uzivatele.png){fig-alt="Karta uživatele"}
 
 
 

@@ -44,7 +44,7 @@ Podobně v kontextu jednotlivých výzkumných projektů mohou vyvstat nové vý
 
 <br>
 
-:::{.btn .btn-resource}
+:::{.btn .btn-resource} 
 [Stáhnout](attachments/Plachta agend - web verze.docx)
 :::
 :::
@@ -61,7 +61,7 @@ Jakmile se s uživateli dohodnete, co a kdy potřebují, mohou vám přijít vho
 - [Zadávání výzkumu BETA](beta)
 - [Zadávání externího výzkumu](zadani-vyzkumu)
 
-Někdy se stane, že něčí otázku dokážete zodpovědět pomocí už hotového výzkumu. Na to se ale potřebujete dobře starat o už udělané studie a analýzy [⟶ návod Péče o hotové analýzy](knowledge-management).
+Někdy se stane, že něčí otázku dokážete zodpovědět pomocí už hotového výzkumu. Na to se ale potřebujete dobře starat o už udělané studie a analýzy [[⟶ návod Péče o hotové analýzy](knowledge-management)]{.btn .btn-resource}
 
 :::
 

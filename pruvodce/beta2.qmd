@@ -2,6 +2,7 @@
 title: "Využití programu BETA"
 subtitle: "Jak pořídit výzkum přes zakázky aplikovaného výzkum"
 editor: source
+title-block-banner: true
 blok: ["ziskavani"]
 poradi: 6
 format: 
@@ -73,4 +74,8 @@ Pokud se někoho ptáme (např. na jejich potřeby v rámci daného výzkumného
 [Přehled projektů BETA 2012-2023](/nastroje/beta)
 
 [STARFOS - přehled všech projektů aplikovaného výzkumu](https://starfos.tacr.cz)
+
+Pro program TA ČR BETA 2 existujte Rada programu. Skládá se z tzv. Zástupců odborného gestora jednotlivých resortů a dalších institucí. Pokud jste jeden z nich, zde najdete své protějšky. Pokud chcete s programem BETA začít pracovat ve své organizaci, zde nejspíš najdete svého klíčového člověka. [Seznam členů Rady programy BETA 2](https://www.tacr.cz/wp-content/uploads/documents/2023/08/29/1693300763_BETA2_Seznam%20%C4%8Dlen%C5%AF%20Rady%20programu%20V22.pdf). Dá se předpokládat, že pro program BETA 3 zůstanou mnohé kontakty stejné.
+
+V oficiální [dokumentaci k programu](https://www.tacr.cz/wp-content/uploads/documents/2019/09/26/1569486911_TACR_Program%20BETA2.pdf) najdete mj. seznam výzkumných potřeb, pro které jednotlivé resorty chtěly programy BETA 2 využít. Aktualizované přehledy pak najdete 
 

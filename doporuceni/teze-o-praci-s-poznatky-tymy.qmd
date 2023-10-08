@@ -46,21 +46,45 @@ Nejen v analytických týmech je pochopitelná tendence navyšování specializa
 
 ### Velká část znalostí je tacitní {#tacitni}
 
-TO DO
+Experti na využívání a správu znalostí často mluví o tzv. tacitních znalostech (**tacit knowledge**). Tacitní znalosti jsou nezapsané, nekodofikované, nezachycené (narozdíl od znalostí **explicitních**). Často se jedná o znalosti a dovednosti získané praxí, učením se z vlastní práce, pokusem a omylem. Může jít o oblasti práce, které se více než popsatelným postupům podobají řemeslu. 
 
-## Jak uvažovat o dopadu a využití poznatků
+Většinu tacitních znalostí nemá smysl se snažit **kodifikovat** -- řešením není snažit se sepisovat metodiky a procesní dokumenty. Má ale má smysl snažit se je šířit skrze společnou práci, učení se jeden od druhého, pozorování práce druhých [@lambePrinciplesKnowledgeAuditing2023]. 
 
-### Od poznatků ke změně vede více než jedna cesta
+Některé **nezachycené explicitní** informace a znalosti (např. kontakty, mentální mapy, některé zavedené postupy) ale má smysl se snažit zachytit -- typicky abychom minimalizovali dopady fluktuace lidí. [TO DO LINK OFFBOARDING]
 
-TO DO
+## Jak uvažovat o dopadu a využití poznatků {#vyuziti}
 
-### Tvorba politik je často nelineární proces, musíte s tím počítat 
+### Od poznatků ke změně vede více než jedna cesta {#cestypoznatku}
 
-TO DO
+Tvůrci poznatků (analytici, ale nejen) ve veřejné správě často své výstupy vytváří ve vztahu k nějakému **rozhodnutí nebo přímému využití** -- např. analyzujeme nějaký problém, aby někdo jiný podle naší analýzy změnil nastavení nějakého veřejněpolitického nástroje. A pokud se to nestane -- výstup je ignorován, rozhodnutí se odloží, důležití adresáti informace na jejím základě nic neudělají -- vzniká pocit marnosti a frustrace.
 
-### Uvažujte o poznatcích a datech ve smyslu stavů (stocks) i toků (flows)
+Tento přímý, tzv. instrumentální, způsob využití poznatků je důležitý, ale nikoli jediný. A právě ty ostatní způsoby využití poznatků mohou naší práci dát smysl a přínos i ve chvíli, kdy už to nečekáme. Někdy využití poznatků přijde náhodnou konstelací příležostí, někdy se věci dají do pohybu a kdysi udělaná analýza se dá oprášit a může pomoct k lepšímu rozhodnutí. Někdy postupné vkládání vašeho sdělení do různých proudů komunikace přispěje k postupné změně postojů klíčových lidí. Proto dobře o své výstupy a znalosti pečujte (viz návod [Péče o existující znalosti a výstupy](/pruvodce/knowledge-management.qmd)) a snažte se svou práci komunikovat v různých formách a přehledně (viz návody v oblasti [podpory využití poznatků](/pruvodce/index.qmd#vyuziti)). A hledejte příležitosti, kde občas své poznatky znovu předat -- k tomu je zase dobré znát znalostní potřeby své organizace (viz návod [Identifikace znalostních potřeb](/pruvodce/identifikace-znalostnich-potreb.qmd)); v různých částech průvodce pak upozorňujeme na potřebu věnovat se komunikaci a budování vztahů uvnitř i vně vaší organizace.
 
-TO DO
+Prapůvod uvažování o různých módech využití poznatků je práce Carol Weiss [@weissManyMeaningsResearch1979; @weissKnowledgeCreepDecision1980], nedávné empirické upřesnění najdete v @haynesGalvanizersGuidesChampions2011.
+
+### Tvorba politik je často nelineární proces, musíte s tím počítat {#nelinearni}
+
+Dalším častým zdrojem frustrace je neuspořádanost procesů tvorby politik -- zákonů, strategií, opatření, programů. Mnohé příručky pro praktiky i klasické učebnice z oboru *public policy* ukazují lineární, případně úhledně cyklické diagramy, kde se od definice problému přechází k definování řešení, implementaci, evaluaci, a od evaluace zase hezky k redefinici programu. 
+
+Takový model nám může pomoct rozeznat různé typy aktivit v celém procesu, ale málokdy zachycuje skutečnost. Realita nás pak může překvapit a tento nesoulad může paralyzovat naši schopnost generovat užitečné poznatky a ve správný moment s nimi vstupovat do rozhodovacích procesů. 
+
+Pokud se ale sžijete s tím, že politiky a rozhodnutí někdy vznikají nečekaně a skutečný proces nesleduje kroky ideálního postupu jeden za druhým, atd., může vám to pomoct efektivně se procesu tvorby politik účastnit.
+
+Praktické tipy vyvozené z dlouhé řady výzkumů na toto téma nabízí @cairneyHowCommunicateEffectively2017, popř. @cairneyThreeHabitsSuccessful2018. Obrázky pochází z @cairneyPoliticsPolicyAnalysis2021. Silné teze k realističnosti schémat tvorby politik z britské praxe přináší @hallsworthPolicyMakingReal2011 a v českém prostředí toto zkoumají mj. @kohoutekConceptualizingPolicyWork2013.
+
+### Uvažujte o poznatcích a datech ve smyslu stavů (stocks) i toků (flows) {#stocksandflows}
+
+Pro práci s poznatky pomáhá metafora toků a stavů.
+
+**Poznatky jako *tokový jev***: někde pramení, odněkud někam plynou. Tok se někde může zadrhnout a dá se mu pomoct. 
+
+> S tímto obrazem poznatků (zamíchaným do metafory trhu s nabídkou a poptávkou) pracuje koncept tzv. **knowledge brokeringu**: mezi místy, kde poznatky vznikají, a místy, kde se mají využívat, je třeba někoho, kdo zprostředkovává kontakt obou stran: knowledge brokera. Překládá mezi oběma stranami; pro jednu stranu vybírá z toho, co má druhá, a ve vhodné formě a ve vhodný čas poznatky přenáší. Dobře toto zachycuje [@olejniczakLearningEvaluationKnowledge2017; @olejniczakEvaluationUnitsKnowledge2016]; původně koncept pochází z @wardKnowledgeBrokeringMissing2009.
+
+**Poznatky jako *stavový jev***, popř. jako statek, aktivum: poznatky se někde kumulují. Buď je tam necháme ležet nevyužité, nebo o ně budeme pečovat, starat se o to, aby nezchátraly, neztratily se a přinášely užitek i v budoucnosti. A pak se o ně někdo musí starat -- o to, abychom o nich vůbec věděli, dokázali je ve správný moment najít, aktualizovat, využít. Totéž platí o datech -- ledaskdo se stane správcem dat (v neformálním smyslu) aniž by si to uvědomoval. 
+
+Proto v našem průvodci najdete návody pro [péči o již existující znalosti a výstupy](pruvodce/knowledge-management) a [správu dat](pruvodce/data-management).
+
+Jako všechny (nejen fyzikální) metafory a přirovnání i tato místy kulhají, ale v mnohém jsou přesto užitečné.
 
 ### Produkty, nejen projekty {#produkty}
 
@@ -127,4 +151,5 @@ TO DO
 
 ## Odkazovaná literatura
 
-:::{#refs}:::
+:::{#refs}
+:::
