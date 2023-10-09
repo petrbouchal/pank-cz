@@ -8,3 +8,21 @@ title-block-categories: false
 poradi: 1
 editor: source
 ---
+
+## O co jde a k čemu to je
+
+Tento návod neposkytuje postup krok za krokem, ale je především rozcestníkem a repozitářem základních znalostí nutných pro práci s veřejnými daty.
+
+### 1. Statistiky
+
+### 
+
+
+## Další zdroje
+
+## Zdroje na úklid
+
+https://www.czso.cz/csu/czso/pracoviste_statni_statisticke_sluzby
+
+link na organogramy
+
