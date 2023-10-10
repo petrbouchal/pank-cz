@@ -31,7 +31,15 @@ Nějaký text
 
 ### Záložka
 
+Bod v záložce
+
+a další
+
 ### Záložka
+
+Bod v druhé
+
+další bod v druhé
 
 :::
 
@@ -82,3 +90,15 @@ Nějaký text, minimalistický layout
 
 :::
 
+[](https://cesko.digital/events/jak-usporadat-informace-a-usetrit-cas-a-naklady)
+
+# Další zdroje
+
+Pro správu znalostí v projektech se vám může hodit manuál nebo některé z nástrojů vyvinutých na Masarykově univerzitě v projektu [Řízení znalostí v projektech](https://pkm.econ.muni.cz/).
+
+@ramalingamToolsKnowledgeLearning2006
+
+## Odkazovaná literatura
+
+:::{#refs}
+:::

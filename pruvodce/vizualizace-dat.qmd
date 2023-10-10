@@ -135,5 +135,25 @@ Pokuste se taky ukázat někomu graf na pouhých 5 vteřin a zeptejte se, co je 
 
 # Další zdroje a nástroje
 
+@lysyUXEvaluationData2021
+
+@franconeriThreePerceptualTools2021
+
+@schwabishPracticeVisualData2021
+
+@schwabishEconomistGuideVisualizing2014
+
+@franconeriScienceVisualData2021
+
+@xiongCurseKnowledgeVisual2020
+
+@wilkeFundamentalsDataVisualization2019
+
+@healyDataVisualizationPractical2019
+
+@cairoTruthfulArtData2016
+
+@kirkDataVisualisationHandbook2019
+
 [doplnit]
 

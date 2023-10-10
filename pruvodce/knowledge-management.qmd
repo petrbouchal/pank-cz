@@ -6,25 +6,22 @@ poradi: 8
 editor: source
 aliases: 
   - knowledge-management
-nocite: "@lambePrinciplesKnowledgeAuditing2023"
 ---
 
 # O co jde a k čemu to je
 
-Tipy, jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost. Analytici často přemýšlí hlavně nad kvalitou analýz, ale upozaďují jejich propagaci či dohledatelnost analýz po delší době od jejich publikace.
+Jak se starat o hotové analýzy tak, aby byly využité a měly patřičnou životnost? Analytici často přemýšlí hlavně nad kvalitou analýz, ale důležitá je i jejich využitelnost či dohledatelnost analýz po delší době od jejich publikace.
 
-Bez přehledného uchování a zpřístupnění existujícího poznání organizace plýtváme prostředky. Bez podpory využití ztrácíme hodnotu toho, co někdo odpracoval. 
+Bez přehledného uchování a zpřístupnění existujícího poznání organizace plýtváme prostředky. Bez podpory využití ztrácíme hodnotu toho, co někdo odpracoval.[^1]
+
+[^1]: Pracujeme tedy s pojmem knowledge management spíše v užším slova smyslu. V širším pojetí téma představují některé publikace odkazované v [dalších zdrojích níže](#další-zdroje). A aby to nebylo tak jednoduché, někdy pod pojmem *knowledge management* najdete celé téma práce s poznatky, viz např. @toppKnowledgeManagementPolicy2018.
 
 :::{.callout-note}
 Nápady v tomto návodu jsme během projektu neměli možnost vyzkoušet. 
 
-Tipy níže ale vznikly v reakci na skutečný popis problémů jednoho ze zapojených týmů a reflektují dobré praxe z dalšího z nich. 
+Vznikly ale jako reakce na skutečné potřeby jednoho ze zapojených týmů a reflektují dobré praxe z dalšího z nich. 
 
 Pokud něco vyzkoušíte, [dejte nám o tom vědět!](/pribeh-projektu#kontakt)
-:::
-
-:::{.aside}
-<br>
 :::
 
 # Sebediagnostika: je to pro mě?
@@ -68,6 +65,8 @@ Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je
 
 Moment zachycení, zdokumentování a zpřístupnění výstupů lze zapracovat do interního postupu k uzavření projektu.
 
+Doporučujeme vytvořit kromě samotného přehledu také **standardizovanou strukturu pro ukládání a organizaci analýz**. Je vhodné vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek stejných pro každýb projekt (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). To usnadní přehlednost a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou. (Více viz návod [Péče o již existující poznatky a analýzy](knowledge-management.qmd)).
+
 ## 3. Propagace analýz
 
 Můžete použít třeba následující kanály a formáty:
@@ -100,33 +99,31 @@ Kvalitní knowledge management **není jen o různých technických a procesníc
 
 Pokud se pustíte do katalogizace, mějte na paměti, že důležitější je mít **něco základního** -- klidně jednoduchý excel nebo seznam na intranetu -- než mít sofistikovanou databázi, kterou nikdo nebude udržovat.
 
-V kontextu propagace je dobré si uvědomit, že **ne vše jde naplánovat**, využití poznatků se často děje v tzv. windows of opportunity. V [tezích pro týmy](/teze-tymy) vysvětlujeme, že poznatky nejsou vždy využity hned a když to čekáte, často mají nepřímý dopad. Součástí této práce tedy je také monitoring příležitostí, kde může nějaký poznatek nebo výstup, který už máme, vstoupit do živého tématu nebo řešení nějakého aktuálního problému v tématu nebo organizaci.
+V kontextu propagace je dobré si uvědomit, že **ne vše jde naplánovat**, využití poznatků se často děje v tzv. windows of opportunity. V [tezích pro týmy](/teze-tymy) vysvětlujeme, že [poznatky nejsou vždy využity hned a když to čekáte](/teze-tymy#cestypoznatku), často mají nepřímý dopad. Součástí této práce tedy je také monitoring příležitostí, kde může nějaký poznatek nebo výstup, který už máme, vstoupit do živého tématu nebo řešení nějakého aktuálního problému v tématu nebo organizaci.
 
 Sebelepší propagace ale věc nezachrání, pokud analýzy nevychází ze **skutečných potřeb** (⟶ návod [Identifikace znalostních potřeb](identifikace-potreb)) nebo trpí špatným **procesem zadání** mezi zákazníkem a tvůrcem (⟶ návod [Zadání analytického úkolu](zadani-ukolu) & návod [Zadání externího výzkumu](zadani-externiho-vyzkumu)).
 
-A pamatujte, že i přes sebelepší knowledge management bude stále platit, že **část znalostí je pouze v hlavách lidí** a je potřeba zajistit jejich zachování i když někdo tým opouští (⟶ návod [Offboarding člena týmu](offboarding)).
+A pamatujte, že i po zavedení skvělého knowledge managementu bude stále platit, že [**část znalostí je pouze v hlavách lidí**](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#tacitni) a je potřeba zajistit jejich zachování např. i když někdo tým opouští (⟶ návod [TODO LINK Offboarding člena týmu](offboarding)).
 
 # Další zdroje
 
-[Using Research Evidence](https://www.nesta.org.uk/toolkit/using-research-evidence-practice-guide/)
-- [What is Knowledge Management](https://www.starmind.ai/resources/what-is-knowledge-management-and-why-is-it-so-important)
+[What is Knowledge Management](https://www.starmind.ai/resources/what-is-knowledge-management-and-why-is-it-so-important) [@starmindaiWhatKnowledgeManagement2022]
 
-[Knowledge Management in the Public Sector](https://www.semanticscholar.org/paper/Knowledge-Management-in-the-Public-Sector-Malik-Al-Toubi/59b93fd7ecf3e8f8f2027d7b68cfa12a5f05fbd9)
+[Knowledge Management in the Public Sector](https://www.semanticscholar.org/paper/Knowledge-Management-in-the-Public-Sector-Malik-Al-Toubi/59b93fd7ecf3e8f8f2027d7b68cfa12a5f05fbd9) [@malikKnowledgeManagementPublic2018]
 
-[Governing through Knowledge](https://www.sciencedirect.com/science/article/abs/pii/S0738059316303923?casa_token=uJZNo13W5YQAAAAA:1M0xtbQcWC60RAjd97pYM7V2EHlUAC6kXeJCYj6Kw4b6Dak1PzCVleistGn1U4IdILzsPN8tQqw)
+[@zappWorldBankEducation2017]
 
-[Modeling enablers of knowledge management](https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-08-2019-0122/full/html)
+[@lambePrinciplesKnowledgeAuditing2023]
 
-[Knowledge Solutions](https://link.springer.com/book/10.1007/978-981-10-0983-9)
+[@bankWorldBankKnowledge2019]
 
-[Knowledge Mapping Techniques](https://www.researchgate.net/publication/303179248_A_comprehensive_review_of_knowledge_mapping_techniques)
+[Knowledge Solutions](https://link.springer.com/book/10.1007/978-981-10-0983-9) [@serratKnowledgeSolutions2017]
 
-[Knowledge Mapping for Complex Social Messes](https://faculty.washington.edu/farkas/TC510-Fall2011/Horn-SocialMesses.pdf)
+Pro správu znalostí v projektech se vám může hodit manuál nebo některé z nástrojů vyvinutých na Masarykově univerzitě v projektu [Řízení znalostí v projektech](https://pkm.econ.muni.cz/).
 
-[World Bank - Knowledge for Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/309981617140869469/realizing-the-world-bank-group-s-knowledge-potential-for-effective-development-solutions-a-strategic-framework)
+[](https://cesko.digital/events/jak-usporadat-informace-a-usetrit-cas-a-naklady)
 
-[Tools for Knowledge and Learning](https://odi.org/en/publications/tools-for-knowledge-and-learning-a-guide-for-development-and-humanitarian-organisations/)
+## Odkazovaná literatura
 
 :::{#refs}
-
 :::

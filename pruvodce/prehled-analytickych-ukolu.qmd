@@ -11,13 +11,19 @@ aliases:
 
 # O co jde a k čemu to je
 
-Níže popsané má za cíl určit zda by útvar veřejné správy měl přemýšlet nad vytvořením přehledu úkolů a jak případně v tomto vytváření postupovat tak, aby byl přehled smysluplný a udržitelný. 
+Zvláště analytické týmy, které dělají větší množství dílčích i větších analýz, pravidelně či ad hoc a poptávku, často hledají, jak svou práci zefektivnit: některé analýzy zredukovat, některé zautomatizovat, u některých zapracovat na tom, aby je zvládli i neanalytici v organizaci.
+
+A také pomoct tomu, aby lidé v organizaci dokázali využít již existující výstupy nebo z nich vyjít při definování své potřeby.
+
+K tomu všemu může posloužit inventura analýz.
+
+Ačkoli příklady v tomto návodu budou nejlíp sedět na datově analytickou práci, postupy lze snadno vztáhnout na jakýkoli typ generování poznatků a podkladů na poptávku.
 
 :::{.aside}
 
 **Případové studie**
 
-Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělením TA ČR.
+Tento návod jsme vyvinuli a testovali ve spolupráci s analytickým oddělením TA ČR.
 
 <br />
 
@@ -29,12 +35,11 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s analytickým oddělen
 
 # Sebediagnostika: je to pro mě?
 
-Má smysl v naší situaci vytvářet přehled analýz?
+Kdy se může přehled vzešlý z inventury hodit?
 
-- Dostáváme příliš ad hoc opakujících se dotazů jejichž odpovědi lze najít v našich -- předchozích výstupech?
-- Děláme dostatečně velký počet analýz, aby přehled měl smysl?
-- Umožní nám přehled lépe plánovat a prioritizovat činnosti?
-- Umožní nám přehled identifikovat procesy pro zjednodušení/automatizaci zaběhlých -- analýz?
+- Dostáváme příliš ad hoc opakujících se poptávek, jejichž odpovědi lze najít v našich předchozích výstupech?
+- Máme ambici lépe plánovat a prioritizovat práci -- případně i v diskusi s vedením organizace a poptavateli analytické práce
+- Zvažujeme, jestli některé analýzy dokážeme zautomatizovat nebo jestli je má smysl převádět např. na dashboardy
 
 :::{.strip .page-columns .page-full}
 
@@ -64,17 +69,27 @@ Historické analýzy pak můžete doplňovat, když budou zrovna relevantní.
 
 Zamyslete se, jak s přehledem pracovat dále, kdo se o něj bude starat apod.
 
+Kromě samotného zachycení pro potřeby ostatních vám přehled také může posloužit k:
+
+- úvahám nad potenciálem automatizace některých analýz či jejich převedení do formy **datového produktu**, např. dashboardu -- viz návody [Testování webového produktu ->](user-testing.qmd) a [Práce s daty moderně ->](analyza-dat.qmd)
+- prioritizaci např. i v diskusi s vedením nebo poptavateli analytické práce
+- plánování práce v týmu i napříč organizací
+- identifikace dovedností, které můžete rozšířit do organizace a snížit tím počet poptávek po rutinních analytických úkonech -- viz i návody [Vyhledání veřejných dat ->](vyhledani-dat.qmd), [Práce s daty moderně ->](analyza-dat.qmd) a [Rešerše literatury ->](prehled-literatury.qmd)
+- zefektivnění momentu zadávání/přebírání analytických úkolů -- viz návod [Zadání analytického úkolu ->](zadani-analytickeho-ukolu.qmd)
+
 ## 5. Vyjasněte si komunikační plán přehledu 
 
-a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je důležité, aby se o jeho existenci dozvěděli. Lze možné konzultace např. i s PR oddělením organizace.
+Důležitou funkcní přehledu je podat informaci ostatním částem organizace o tom, jaká práce se již udělala, co tedy lze využít a na co navázat.
 
-b. Doporučujeme vytvoření zjednodušeného přehledu, který se zveřejní k využití pro běžného uživatele.
+a. Pokud chceme, aby přehled využívali všichni relevantní stakeholdeři, je důležité, aby se o jeho existenci dozvěděli. Je rozumné konzultace např. i s PR oddělením organizace nebo kýmkoli, kdo se stará o interní komunikaci.
+
+b. Doporučujeme vytvořit zjednodušenou verzi přehledu, která se zpřístupní k využití pro běžného uživatele.
 
 :::
 
 # Na co si dát pozor aneb tipy & triky
 
-Jako zásadní chápeme především smysluplný design přehledu, který umožní všem stakeholderům přehlednou práci s ní. Obdobně je potřeba dávat pozor, aby přehled byl nadesignován tak, aby se s ním dalo pracovat dlouhodobě, především z hlediska uchopení mnohem většího počtu informací či z hlediska předání správy přehledu novému člověku.
+Zásadní je především **design přehledu**, ten musí umožnit všem stakeholderům přehlednou práci. Přehled by měl být nadesignován tak, aby se s ním dalo pracovat dlouhodobě (tedy aby nezapadl), především při zachycování mnohem většího počtu informací či z při předání správy přehledu novému člověku.
 
-Dále navrhujeme vytvořit kromě samotného přehledu také standardizovanou strukturu pro ukládání a organizaci analýz. Jeden možný způsob je vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). Tímto způsobem se usnadní přehlednost, a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou.
+Doporučujeme vytvořit kromě samotného přehledu také **standardizovanou strukturu pro ukládání a organizaci analýz**. Je vhodné vytvořit pro každou analýzu samostatnou složku, která bude rozdělena do dalších podsložek stejných pro každýb projekt (například 01. Zadání - kontext, 02. Data, 03. Analýza, 04. Výstupy). To usnadní přehlednost a umožní strukturovaně uchovávat veškeré potřebné informace související s každou provedenou analýzou. (Více v návodu [Péče o již existující poznatky a analýzy](knowledge-management.qmd)).
 

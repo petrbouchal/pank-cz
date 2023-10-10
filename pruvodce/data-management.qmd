@@ -1,6 +1,7 @@
 ---
 title: "Správa dat"
 subtitle: "Jak vaše data přehledně spravovat"
+reference-location: block
 categories: ["Vzor", "Zásobník"]
 blok: ["metody"]
 poradi: 15
@@ -8,7 +9,7 @@ title-block-categories: false
 editor: source
 ---
 
-## O co jde a k čemu to je
+# O co jde a k čemu to je
 
 Práce s kvantitativními daty je nedílnou součástí analytických činností ve veřejné správě. **Data management** pokrývá soubor činností, které zaručují, že data jsou přehledně uložena, popsána a zpřístupněna dalším uživatelům ve formě datových produktů. 
 
@@ -43,7 +44,7 @@ Některé z těchto metodik a nástrojů se vám mohou hodit např. ve většíc
 Pojem správa dat pak nenavazujeme na právní pojmy správce dat ve smyslu legislativy ochrany soukromí nebo informačních systémů.
 :::
 
-## Sebediagnostika: je to pro mě?
+# Sebediagnostika: je to pro mě?
 
 Tento návod se vám bude hodit, pokud pro vás platí něco z následujícího:
 
@@ -193,7 +194,7 @@ Optimální je, aby tento metadatový list (codebook) byl co nejblíže datům. 
 
 > **Alternativy**
 > 
-> *Katalog datových položek* blah
+> *Katalog datových položek* (tzv. data dictionary)
 > 
 > Alternativní přístup je vytvořit velký katalog všech datových položek, které v organizace používáte, a k nim zanést jejich původ a metadata. 
 >
@@ -230,6 +231,7 @@ Při správě dat -- především v Excelu -- je dobré se držet několika zás
 - Na jednom listu pouze jedna sada dat
 - Na listu s hrubými daty nejsou žádné vzorce ani výpočty
 - V jedné buňce pouze jeden údaj
+- Tedy: data v tzv. tidy formátu (@wickhamTidyData2014; 6. kapitola @wickhamDataScienceImport2023)
 - Všechna data zanesena v buňce, nikoli formátováním
 - Konzistentní názvy listů
 - Konzistentní názvy proměnných
@@ -276,6 +278,8 @@ Takto zachycené znalosti můžete zpřístupnit třeba na interní wiki nebo v 
 České pojednání o tématu správy dat najdete v knize @krejciCestyDatumZdroje2012, základní principy najdete i na webu [Českého sociálně vedního datového archivu](https://archiv.soc.cas.cz/cz/prace-s-daty/management-dat-v-prubehu-vyzkumneho-projektu); tamtéž i [návod na tvorbu tzv. plánu správy dat](https://archiv.soc.cas.cz/cz/prace-s-daty/data-management-plan-pro-socialni-vedy) pro společenskovědní projekty.
 
 K dokumentaci se mohou hodit [standardy tzv. Dublin core metadat](https://www.dublincore.org/) - sice působí technicky, ale když je dokážete využití, nebudete vynalézat to, co už někdo vymyslel.
+
+Alternativní přístup k dokumentaci dat a související nástroje nabízí [Data Documentation Initiative](https://ddialliance.org/).
 
 ## Odkazované zdroje a literatura
 

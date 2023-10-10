@@ -34,6 +34,22 @@ V době, kdy jsme na tématu pracovali, se ale rychle vyvíjela řada technologi
 
 ## Další zdroje
 
+### Metodiky přehledů literatury
+
+https://rightreview.knowledgetranslation.net/
+
+@nekolaMetodikaSystematickehoPrehledu2017
+
+### Evidence gap maps
+
+@whiteGuidanceProducingCampbell2020
+
+@saranEvidenceGapMaps2018
+
+@snilstveitEvidenceGapMaps2016
+
+###
+
 https://eric.ed.gov/
 
 https://research2policy.org/clearinghouses-and-evidence-based-resources/
@@ -41,3 +57,10 @@ https://research2policy.org/clearinghouses-and-evidence-based-resources/
 https://txicfw.socialwork.utexas.edu/how-to-find-the-right-evidence-based-practice-using-ebp-clearinghouses/
 
 https://www.gov.uk/guidance/what-works-network
+
+@nutleysandraWhatCountsGood2013
+
+### Odkazovaná literatura
+
+:::{#refs}
+:::

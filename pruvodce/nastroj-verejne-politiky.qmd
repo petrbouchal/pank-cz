@@ -112,3 +112,14 @@ h. Vypracování intervenční logiky
   c. Stejně tak evaluaci nástroje je nutné řešit již v průběhu formulace, aby bylo možné do designu nástroje zanést evaluační mechanismy 
   d. Kolektivní brainstorming a připomínkování 
   e. Vhodná je přítomnost někoho externího, pokud existuje ta možnost
+
+# Další zdroje
+
+@olejniczakComparingBehavioralAssumptions2020
+
+@michieBehaviourChangeWheel2011
+
+## Odkazovaná literatura
+
+:::{#refs}
+:::
