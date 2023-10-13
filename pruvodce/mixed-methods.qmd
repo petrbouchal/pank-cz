@@ -70,18 +70,18 @@ Výplňte do flowchartu popis každého kroku realizace výzkumu. Tento flowchar
 
 ## Akademická literatura
 
-(Bamberger, M. (2012). Introduction to mixed methods in impact evaluation.)[https://www.interaction.org/wp-content/uploads/2019/03/Mixed-Methods-in-Impact-Evaluation-English.pdf]
+[Bamberger, M. (2012). Introduction to mixed methods in impact evaluation.](https://www.interaction.org/wp-content/uploads/2019/03/Mixed-Methods-in-Impact-Evaluation-English.pdf)
 
-(Brannen, J., & Moss, G. (2012). Critical Issues in Designing Mixed Methods Policy Research)[https://doi.org/10.1177/0002764211433796]
+[Brannen, J., & Moss, G. (2012). Critical Issues in Designing Mixed Methods Policy Research]([https://doi.org/10.1177/0002764211433796])
 
-(Burch, P., & Heinrich, C. J. (2016). Mixed Methods for Policy Research and Program )[https://doi.org/10.4135/9781483398259 ]
+[Burch, P., & Heinrich, C. J. (2016). Mixed Methods for Policy Research and Program ](https://doi.org/10.4135/9781483398259)
 
-(Creswell, J. W., & Clark, V. L. P. (2017). Designing and Conducting Mixed Methods Research.)[https://us.sagepub.com/en-us/nam/designing-and-conducting-mixed-methods-research/book241842]
+[Creswell, J. W., & Clark, V. L. P. (2017). Designing and Conducting Mixed Methods Research.](https://us.sagepub.com/en-us/nam/designing-and-conducting-mixed-methods-research/book241842)
 
 ## Příklady výzkumů využívající smíšené metody
 
-(O'Connell, R., & Brannen, J. (2016). Food, families and work: Children’s changing food practices in the context of parental employment.)[https://discovery.ucl.ac.uk/id/eprint/1528598/1/O'Connell_Food_families_and_work.pdf]
+[O'Connell, R., & Brannen, J. (2016). Food, families and work: Children’s changing food practices in the context of parental employment.](https://discovery.ucl.ac.uk/id/eprint/1528598/1/O'Connell_Food_families_and_work.pdf)
 
-(Moss, G. et al. (2007). The Interactive Whiteboards, Pedagogy and Pupil Performance Evaluation: An Evaluation of the Schools Whiteboard Expansion (SWE) Project: London Challenge )[https://discovery.ucl.ac.uk/id/eprint/10000905/1/Moss2007whiteboardsRR816.pdf]
+[Moss, G. et al. (2007). The Interactive Whiteboards, Pedagogy and Pupil Performance Evaluation: An Evaluation of the Schools Whiteboard Expansion (SWE) Project: London Challenge]([https://discovery.ucl.ac.uk/id/eprint/10000905/1/Moss2007whiteboardsRR816.pdf)
 
-(Narendorf, S. C. (2017). Intersection of homelessness and mental health: A mixed methods study of young adults who accessed psychiatric emergency services.)[https://doi.org/10.1016/j.childyouth.2017.07.024]
+[Narendorf, S. C. (2017). Intersection of homelessness and mental health: A mixed methods study of young adults who accessed psychiatric emergency services.](https://doi.org/10.1016/j.childyouth.2017.07.024)
