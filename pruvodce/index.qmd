@@ -99,7 +99,7 @@ Využijte vhodné postupy a metody pro práci s poznatky a daty
 :::
 
 
-::: {.pruvodce-box}
+::: {.pruvodce-box .box-vyuziti}
 
 ## Jak svou práci dostat do světa {#vyuziti}
 
