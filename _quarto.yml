@@ -6,6 +6,7 @@ project:
     navigate: false
   resources:
   - fonts
+  - nastroje
 
 website:
   title: "PANK"
@@ -31,7 +32,7 @@ website:
         file: doporuceni/index.qmd
       - pripadove-studie/index.qmd
       - pribeh-projektu.qmd
-    logo: logotype_blue.png
+    logo: images/logotype_blue.png
   site-url: pank-foolkit.netlify.app
   sidebar:
   - title: Průvodce

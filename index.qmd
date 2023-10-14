@@ -17,9 +17,7 @@ listing:
 
 ::: {.g-col-12 .g-col-md-6}
 
-![](images/mj_3.png){.image-front}
-
-<br />
+![](images/ilustrace_1.png){.image-front}
 
 :::
 

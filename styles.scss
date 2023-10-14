@@ -512,7 +512,7 @@ div.quarto-post {
 }
 
 div.quarto-post:only-child {
- border-top: none;
+  border-top: none;
 }
 
 div.quarto-post > div.metadata {
@@ -558,18 +558,33 @@ h3.listing-title > a {
 
 section.pruvodce-box > h2:before {
   content: "";
-  background-image:url(images/icon.png);
   background-size: 100% 100%;
   display: inline-block;
-
+  
   /*size of your image*/
   height: 30px;
   width: 30px;
-
+  
   /*if you want to change the position you can use margins or:*/
   position:relative;
   top: 10px;
   left: -10px;
+}
+
+section#rizeni.pruvodce-box>h2:before {
+  background-image:url(images/icon-rizeni.png);
+}
+
+section#metody.pruvodce-box>h2:before {
+  background-image:url(images/icon-metody.png);
+}
+
+section#vyuziti.pruvodce-box>h2:before {
+  background-image:url(images/icon-vyuziti.png);
+}
+
+section#ziskavani.pruvodce-box>h2:before {
+  background-image:url(images/icon-ziskavani.png);
 }
 
 .image-front {
@@ -619,4 +634,79 @@ section.pruvodce-box > h2:before {
 
 li {
   margin-bottom: 0.3rem;
+}
+
+#o-co-jde-a-k-čemu-to-je > h1::before {
+  content: "";
+  background-image: url(images/section-icon-intro.png);
+  background-size: 100% 100%;
+  display: inline-block;
+  
+  height: 30px;
+  width: 30px;
+  
+  /*if you want to change the position you can use margins or:*/
+  position: relative;
+  top: 5px;
+  margin-right: 0.6rem;
+}
+
+#sebediagnostika-je-to-pro-mě > h1::before {
+  content: "";
+  background-image: url(images/section-icon-diag.png);
+  background-size: 100% 100%;
+  display: inline-block;
+  
+  height: 30px;
+  width: 30px;
+  
+  /*if you want to change the position you can use margins or:*/
+  position: relative;
+  top: 5px;
+  margin-right: 0.6rem;
+}
+
+#jak-na-to > h1::before, #jak-na-to>h2::before {
+  content: "";
+  background-image: url(images/section-icon-steps.png);
+  background-size: 100% 100%;
+  display: inline-block;
+  
+  height: 30px;
+  width: 30px;
+  
+  /*if you want to change the position you can use margins or:*/
+  position: relative;
+  top: 5px;
+  margin-right: 0.6rem;
+}
+
+#na-co-si-dát-pozor-aneb-tipy-triky > h1::before, #na-co-si-dát-pozor-aneb-tipy-triky>h2::before {
+  content: "";
+  background-image: url(images/section-icon-tipy.png);
+  background-size: 100% 100%;
+  display: inline-block;
+  
+  height: 30px;
+  width: 30px;
+  
+  /*if you want to change the position you can use margins or:*/
+  position: relative;
+  top: 5px;
+  margin-right: 0.6rem;
+}
+
+#další-zdroje > h1::before {
+  content: "";
+  background-image: url(images/section-icon-zdroje.png);
+  background-size: 100% 100%;
+  display: inline-block;
+  
+  height: 30px;
+  width: 30px;
+  
+  /*if you want to change the position you can use margins or:*/
+  position: relative;
+  top: 5px;
+  margin-right: 0.6rem;
 }
