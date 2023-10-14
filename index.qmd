@@ -21,21 +21,21 @@ listing:
 
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-6 .cntnr}
 
-<center>
+## [Pracovat s poznatky*<br>potřebuje i Váš tým.]{.hero-red}
 
-## Pracovat s poznatky*<br>potřebuje i Váš tým.<br />
+:::{.vocab-key}
+\* *poznatky*: analýzy, data, podklady, nebo taky angl.&nbsp;*evidence*
+:::
+
+<br />
 
 :::{.btn .btn-primary}
 [Průvodce prací s poznatky&nbsp;⟶](/pruvodce)
 :::
 
-:::{.vocab-key}
-- *poznatky*: analýzy, data, podklady, nebo taky angl.&nbsp;*evidence*
-:::
-
-</center>
+<br />
 
 :::
 
