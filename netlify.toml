@@ -4,6 +4,9 @@ publish = "_site"
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
 
+  [plugins.inputs]
+    version: 1.4.424
+
 [[redirects]]
   from = "/*"
   to = "/404.html"
