@@ -19,9 +19,7 @@ listing:
 
 :::
 
-::: {.g-col-12 .g-col-md-6 .cntnr}
-
-<center>
+::: {.g-col-12 .g-col-md-6 .cntnr .hero-box}
 
 ## [Pracovat s poznatky*<br>potřebuje i Váš tým.]{.hero-red}
 
@@ -36,8 +34,6 @@ listing:
 :::
 
 <br />
-
-</center>
 
 :::
 
@@ -55,7 +51,7 @@ listing:
 
 ::::{.g-col-12 .g-col-md-6 .cntnr}
 
-### Co v průvodci najdete?
+## Co v průvodci najdete?
 
 :::{.front-listing-left}
 
@@ -69,7 +65,7 @@ listing:
 
 :::{.g-col-12 .g-col-md-6}
 
-### Chcete se rovnou začíst?
+## Chcete se rovnou začíst?
 
 :::{.front-listing-right}
 

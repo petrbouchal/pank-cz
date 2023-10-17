@@ -123,7 +123,6 @@ body {
 }
 
 .navbar .nav-link {
-  border: solid 1px $cp-secondary-lightblue;
   margin-left: 2px;
   margin-right: 2px;
 }
@@ -133,7 +132,7 @@ body {
 }
 
 .navbar .nav-link:hover {
-  border: solid 1px $cp-primary-blue;
+  text-decoration: underline;
 }
 
 .btn-primary {
@@ -258,8 +257,8 @@ body {
 }
 
 .card-case {
-  background-color: white;
-  border-color: $cp-secondary-dark;
+  background-color: $cp-secondary-lightblue;
+  border-color: $cp-secondary-lightblue;
   max-width: 500px;
 }
 
@@ -720,6 +719,20 @@ li {
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 0px !important;
+}
+
+.hero-box {
+  padding-left: 3rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .hero-box{
+    padding-left: 0rem;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .abtn {
