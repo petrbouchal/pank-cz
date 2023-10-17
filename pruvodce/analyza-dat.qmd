@@ -1,5 +1,6 @@
 ---
 title: "Analýza dat moderně"
+subtitle: Jak se posunout v postupech práce s kvanti daty
 poradi: 3
 blok: ["metody"]
 ---
@@ -14,17 +15,22 @@ Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout sm
 
 :::
 
-## O co jde a proč to řešit?
+# O co jde a proč to řešit?
 
-## Je to pro mě? 
+# Je to pro mě? 
 
-## Směry rozvoje
+# Směry rozvoje
 
-### 
+## 
 
-## Kde už na tom pracují
+# Kde už na tom pracují
 
-## Další zdroje
+# Další zdroje
 
 @bogerJurassicMarkInattentional2021
+
+### Citované zdroje a literatura
+
+:::{#refs}
+:::
 

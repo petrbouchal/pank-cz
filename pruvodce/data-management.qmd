@@ -52,15 +52,22 @@ Tento návod se vám bude hodit, pokud pro vás platí něco z následujícího:
 - Pracujeme s datovými zdroji od různých poskytovatelů, které následně kompilujeme do ucelených data setů
 - O data se stará jeden člověk nebo několik málo lidí v týmu, ale chtěli bychom, aby zbytek týmu mohl být při využivání dat samostatnější
 
-## Jak na to
+:::{.aside}
+<br>
+:::
 
-### Co je cílem
+:::{.strip .page-columns .page-full}
+
+
+# Jak na to
+
+## Co je cílem
 
 - zpřístupnit a zpřehlednit data širší skupině lidí (typicky uvnitř týmu/organizace)
 - mít jasno v tom, odkud se která data vzala a jak je upravujeme pro další práci
 - zdokumentovat jednotlivé datové sady: co v nich je a co znamenají jednotlivé položky?
 
-### Zmapujte životní cyklus vašich dat
+## Zmapujte životní cyklus vašich dat
 
 Nejprve rozlište a popište kroky vedoucí od získání (či generování) dat k finálnímu datovému produktu určený ke sdílení. Těmto krokům se říká [životní cyklus dat](https://openscience.cuni.cz/OSCI-61.html). 
 
@@ -80,7 +87,7 @@ Můžete také využít schéma životního cyklu dat. Níže najdete generické
 
 ![](images/Data_lifecycle_schema.png){fig-alt="Životní cyklus dat - schéma"}
 
-### Zeptejte se finálních uživatelů, jak data využívají a pro jaké účely
+## Zeptejte se finálních uživatelů, jak data využívají a pro jaké účely
 
 Předtím než navrhnete způsob, jak data poskytnout finálním uživatelům, zeptejte se jich, jakým způsobem hodlají datové produkty využít a pro jaký účel. Zároveň identifikujte případné obavy a překážky, které mohou vzniknout.
 
@@ -92,7 +99,7 @@ Prakticky:
 > 2. s každým z nich - nebo aspoň těmi nejzásadnějšími - si pár minut pohovořte. Zeptejte se na nějaký nedávný příklad, kdy s daty pracovali, a zkuste identifikovat, co jim brání, jakým nejistotám čelí a jaký způsob přistupování k datům by jim vyhovoval.
 > 3. v dalších krocích pak můžete s těmito stejnými lidmi opět v pár minutách otestovat způsob přistupování k datům, případně i širší systém správy dat.
 
-### Strukturujte vaše úložiště dat
+## Strukturujte vaše úložiště dat
 
 Při správě datových úložišť rozlište surová data, back-end a front-end:
 
@@ -212,7 +219,7 @@ Optimální je, aby tento metadatový list (codebook) byl co nejblíže datům. 
 >
 > Pro některé situace a využití může být vhodné data z externích zdrojů pravidelně a co nejvíce automatizovaně integrovat do jednotné databáze. Příkladem je PAQ Research, kde většinu externích dat na základě šablon a automatizovaných skriptů načítají do jedné databáze.
 
-### Nastavte proces pro výdej dat k dalšímu využití
+## Nastavte proces pro výdej dat k dalšímu využití
 
 Na základě informací od finálních uživatelů navrhněte způsob, jakým budete předávat vaše datové produkty. 
 
@@ -224,7 +231,7 @@ Pro přípravu dat k využití v organizaci se vám může hodit návod [[Analý
 
 A pokud vaše řešení bude zahrnovat třeba dashboard nebo webové rozhraní, nahlédněte do návodu [[Uživatelské testování&nbsp;⟶](user-testing.qmd)]{.btn .btn-resource}
 
-### Udržujte pořádek i uvnitř datových souborů
+## Udržujte pořádek i uvnitř datových souborů
 
 Při správě dat -- především v Excelu -- je dobré se držet několika zásad:
 
@@ -243,19 +250,21 @@ Data ukládejte s vypnutými filtry, s kurzorem na listu dokumentace a v datový
 
 Více viz článek pro praktiky @bromanDataOrganizationSpreadsheets2018 a metodiky analytické profese britské státní služby [@analysisfunctioncentralteamonsCreatingSharingSpreadsheets2021; @analysisfunctioncentralteamonsReleasingStatisticsSpreadsheets2021].
 
-## Na co si dát pozor aneb tipy & triky
+:::
 
-### Neutopte se v diskusích a snaze o dokonalost
+# Na co si dát pozor aneb tipy & triky
+
+## Neutopte se v diskusích a snaze o dokonalost
 
 Zásadní je někde začít. Dlouhé diskuse o tom, která data jsou hrubá a která už zpracovaná, nebo jestli evidovat každou novou verzi té stejné datové sady, vám nejspíš nepomůžou. Dokonalý systém neexistuje.
 
 Začnětě něčím jednoduchým -- třeba jen zachyťte, jaká data často využíváte.
 
-### Rutina, nejen velký třesk
+## Rutina, nejen velký třesk
 
 Kromě jednorázového úklidu a zdokumentování péče o data vyžaduje i **změnu běžné rutiny**, např. zvyknout si při přebírání dat odjinud tato data zanést do dokumentace. Ano, chvilku to zabere, ale konzistentní postupy se vyplatí, protože uspoříte čas při potýkání se s nepořádkem později a posílíte schopnost svého týmu data správně využít.
 
-### Obsahová, nejen technická dokumentace
+## Obsahová, nejen technická dokumentace
 
 Do péče o data a jejich dokumentaci zatáhněte ty, kdo s daty pracují nebo dobře znají prostředí, odkud se data generují. V dokumentaci můžete zachytit znalosti o specifikách daných dat, insider znalosti o tom, jak se sbírají, a zkušenost s prací s nimi: na jaké nečekané vlastnosti dat jsme přišli při práci s nimi.
 
