@@ -9,7 +9,7 @@ project:
   - nastroje
 
 website:
-  site-url: pank-foolkit.netlify.app
+  site-url: https://pank-foolkit.netlify.app
   image: /images/opengraph.jpg
   title: "PANK"
   navbar:
@@ -70,7 +70,7 @@ website:
   # repo-actions: [edit, issue]
   search:
     # show-item-context: tree
-    # keyboard-shortcut: none
+    keyboard-shortcut: none
     type: overlay
 
 format:
