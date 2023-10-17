@@ -9,6 +9,8 @@ project:
   - nastroje
 
 website:
+  site-url: pank-foolkit.netlify.app
+  image: /images/opengraph.jpg
   title: "PANK"
   navbar:
     title: false
@@ -32,9 +34,7 @@ website:
         file: doporuceni/index.qmd
       - pripadove-studie/index.qmd
       - pribeh-projektu.qmd
-    logo: images/logotype_blue.png
-  site-url: pank-foolkit.netlify.app
-  image: images/opengraph.jpg
+    logo: /images/logotype_blue.png
   sidebar:
   - title: Průvodce
     id: pruvodce
