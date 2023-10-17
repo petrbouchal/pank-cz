@@ -11,8 +11,6 @@ listing:
 
 :::{.column-page}
 
-<br />
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
@@ -22,6 +20,8 @@ listing:
 :::
 
 ::: {.g-col-12 .g-col-md-6 .cntnr}
+
+<center>
 
 ## [Pracovat s poznatky*<br>potřebuje i Váš tým.]{.hero-red}
 
@@ -37,6 +37,8 @@ listing:
 
 <br />
 
+</center>
+
 :::
 
 :::
@@ -51,7 +53,7 @@ listing:
 
 :::{.grid}
 
-::::{.g-col-12 .g-col-md-6}
+::::{.g-col-12 .g-col-md-6 .cntnr}
 
 ### Co v průvodci najdete?
 
@@ -83,22 +85,13 @@ listing:
 
 <br />
 
-
 :::
 
 :::
 
 :::{.grid}
 
-:::{.g-col-12 .g-col-md-6}
-
-<br />
-
-![](images/mj_1.png){.image-front}
-:::
-
-
-:::{.g-col-12 .g-col-md-6}
+:::{.g-col-12 .g-col-md-6 .cntnr}
 
 
 ## Vycházíme z praxe týmů ve státní správě
@@ -108,17 +101,22 @@ Návody a postupy jsme vyvíjeli a testovali ve spolupráce se šesti týmy v n�
 Zkušenosti z práce s těmito týmy jsme zachytili v případových studiích.  
 Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo měnit, a také **dobré praxe**, na které jsme narazili.
 
-:::{.btn .btn-primary}
+<br>
+
+:::{.btn .btn-primary .abtn}
 [Číst případové studie&nbsp;⟶](/pripadove-studie)
 :::
 
-<br />
-<br />
+<br>
+
+:::
+
+:::{.g-col-12 .g-col-md-6 .cntnr}
+
+![](images/ilustrace_2.png){.image-front}
 
 :::
 :::
-
-<br />
 
 :::{.strip .column-page}
 
@@ -128,47 +126,37 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 
 ## Naše doporučení
 
-:::{.container}
+:::{.grid}
 
-:::{.row}
-
-:::{.col .col-12 .col-md-6}
+:::{.g-col-12 .g-col-sm-6}
+:::{.g-col-12 .g-col-sm-6 .claim}
 
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
 
-Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
-
+Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování? 
+:::
+:::{.g-col-12 .g-col-sm-6 .algnd}
+:::{.btn .btn-primary .abtn}
+[Vzkazy o práci z poznatky&nbsp;⟶](/teze-tymy)
+:::
+:::
 :::
 
-:::{.col .col-12 .col-md-6}
+:::{.g-col-12 .g-col-sm-6}
+:::{.g-col-12 .g-col-sm-6 .claim}
 
 Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
 
 Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
-
+:::
+:::{.g-col-12  .g-col-sm-6 .algnd}
+:::{.btn .btn-primary .abtn}
+[Doporučení pro stát&nbsp;⟶](/doporuceni)
 :::
 :::
-
-:::{.row}
-
-:::{.col .col-12 .col-md-6}
-
-:::{.btn .btn-primary}
-[Co jsme se za dva roky dověděli o práci s poznatky&nbsp;⟶](/teze-tymy)
+:::
 :::
 <br />
-:::
-
-:::{.col .col-12 .col-md-6}
-
-:::{.btn .btn-primary}
-[Co doporučujeme změnit na úrovni státu a zákonů&nbsp;⟶](/doporuceni)
-:::
-<br />
-:::
-:::
-
-:::
 :::
 :::
 

@@ -719,5 +719,14 @@ li {
 .cntnr {
   margin-top: auto;
   margin-bottom: auto;
-  margin-left: 0px;
+  margin-left: 0px !important;
+}
+
+.abtn {
+  margin-top: auto;
+  min-width: 18rem;
+}
+
+.claim {
+  min-height: 10rem;
 }
