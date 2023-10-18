@@ -5,7 +5,7 @@ title-block-banner: true
 toc-title: "Oblasti doporučení"
 format:
   html:
-    toc-depth: 2
+    toc-depth: 1
 aliases: 
   - /doporuceni-system
   - /systemova-doporuceni
@@ -18,34 +18,267 @@ aliases:
 >
 > **Adresátem** těchto doporučení jsou ti, kteří mohou těmto změnám pomoct: vesměs gestoři tématu rozvoje veřejné správy, vedení státní služby, ale také vyšší management a státní tajemníci ministerstev.
 > 
-> Doporučení často navazují a odkazují na již zvažované nebo plánované iniciativy a ukazují na jejich potřebnost nebo zpřesňují cíl. Měla by proto být realizovatelná v současném kontextu české veřejné správy. Pokud navrhujeme inovativnější opatření, jsou inspirována funkční praxí z jiných států.
+> Doporučení často **navazují a odkazují** na již zvažované nebo plánované iniciativy a ukazují na jejich potřebnost nebo zpřesňují cíl. Měla by proto být realizovatelná v současném kontextu české veřejné správy. Pokud navrhujeme inovativnější opatření, jsou inspirována funkční praxí z jiných států.
+> 
+> Doplňkem k doporučením jsou naše vzkazy o práci poznatky [pro stát](/doporuceni/teze-o-praci-s-poznatky-stat.qmd) a pro [samotné týmy ve státní správě a jejich členy](/doporuceni/teze-o-praci-s-poznatky-stat.qmd). Ty je vhodné číst pro lepší porozumění přepokladům a poznatkům, ze kterých při formulaci doporučení vycházíme.
 
-## Struktury a procesy podporující využívání poznatků
+# Struktury a procesy podporující využívání poznatků
 
-### Stabilnější analytické kapacity
+# Stabilnější analytické kapacity
 
-Blah Blah [see @breckonCommunicatingUsingSystematic2022, chap. 1]
+**Co je problém**: analytickým kapacitám chybí finanční a organizační stabilita
 
-### Věcné a implementační útvary
+**Co doporučujeme**
 
-## Uznané a podporované role
+- Vedení státní služby a MV jako gestor tématu analytické práce by mělo udržovat přehled o analytických kapacitách napříč státní správou, včetně způsobu jejich financování
+- identifikovat klíčové kapacity, které by měly z projektového financování přejít do jádrové kapacity státu financované ze státního rozpočtu
 
-## Schopnosti a dovednosti
+**Co by tomu ještě pomohlo**
 
-### Základní schopnosti práce s daty jako standard
+- Definovat pozici analytika, ještě lépe šířeji definovanou profesi navázanou na kariérní postup (tzv. profesní kariérní linka) 
+- Pracovní (versus služební) místa ve státní službě využívat spíše obezřetně
+- Jako opatření pro snížení dopadů personální nestability lze posílit správu znalostí (např. repozitáře výstupů) a kanály sdílení mezi experty; tyto spíše technické nástroje ale nevyřeší podstatu problému
+- Podobně lze podpořit mobilitu jednotlivců mezi resorty, popř. meziinstitucionálních popř. meziresortních týmů; tím by se opět snížil dopad nestability jednotlivců na daných pracovních místech za předpokladu, že daní lidé alespoň zůstanou uvnitř systému
 
-### Vzdělávání v práci s poznatky
+**Proč je to třeba** 
 
-### Nejen pro experty a řadové analytiky
+Uvnitř státní správy je velká část analytiků a analytiček zaměstnaná na projektech financovaných EU fondy, které ale ze své podstaty nepředstavují stálá pracoviště, na nichž by bylo možné budovat analytické kapacity. Logika projektového řízení vede k přetrhávání kontinuity, nedostatku času k vybudování institucionalizovaného know-how, a prioritizaci generování výstupů místo zázemí a infrastruktury.
 
+Dále existuje riziko vzniku nerovností v analytických možnostech uvnitř státní správy, jelikož projekty EU fondů mají vzhledem k finančním prostředkům větší možnosti zaměstnávat zručné analytiky a analytičky (alespoň​ zatím). Delegování analytické práce na pracoviště (dočasně) financované ESIF ale zároveň signalizuje, že budování analytického týmu a know-how není pro stát prioritou. 
 
-## Přístup ke zdrojům dat a informací
+## Lepší propojení věcných a implementačních útvarů
 
-### Snadnější přístup k datům veřejného sektoru
+**Co je problém**: věcné a implementační útvary jsou často příliš oddělené, což brzdí i analytickou práci a využívání poznatků.
 
-### Dostupné akademické zdroje
+**Co doporučujeme**
 
-### Snadněji nalezitelné výstupy veřejného sektoru
+Státní tajemníci a vrchní ředitelé sekcí by měli 
 
-## Podmínky pro zlepšování práce s poznatky
+- při úvahách o organizačních změnách pečlivě zvažovat, jak organizačně nastavit vztahy mezi věcnými, analytickými a implementačními útvary v příbuzných tématech. 
+- pracovat s organizační strukturou -- popřípadě jinými nástroji tak, aby napomáhaly toku informací a efektivní spolupráci mezi věcnými gestory, tvůrci veřejněpolitických nástrojů (např. dotačních titulů) a analytickými kapacitami.
 
+**Proč je to třeba** 
+
+Lepšímu využívání poznatků v tvorbě politik brání to, že na řadě ministerstev jsou věcné útvary oddělené od implementačních -- často se nacházejí v jiných odborech či dokonce sekcích. Věcná oddělení pak nejsou schopna efektivně dodávat svým implementačním protějškům zadání; obecně komunikace mezi nimi vázne.
+
+To pak také vede k fragmentaci a duplikaci analytických kapacit, které se budují ad hoc na implementačních odděleních. Jednou z příčin tohoto problému je budování specifických kapacit ze zdrojů EU fondů, které jsou ale často v systému ministerstev postaveny mimo stálé útvary zabývající se těmi stejnými tématy.
+
+## Snadnější vznik projektových týmů
+
+**Co je problém**: funkční specializace a personalistická pravidla znesnadňují vznik projektových týmů, zož zhoršuje podmínky pro informované rozhodování.
+
+**Co doporučujeme** 
+
+Státní tajemníci a vrchní ředitelé by měli:
+
+- při rozhodování o organizační struktuře zvážit možnost vytvářet multifunkční, multioborové týmy
+- podporovat projektové řízení pro koordinaci projektových týmů napříč útvary
+
+Vedení státní služby, popř. zákonodárce:
+
+- umožnit v legislativě mobilitu zaměstnanců napříč státní správou
+- umožnit větší flexibilita systemizace 
+- podporovat projektové řízení pro koordinaci projektových týmů napříč útvary
+
+**Proč je to třeba** 
+
+Současná struktura státní správy je organizována podle funkcí a profesí a zaměření jednotlivých oddělení, které se specializují na danou agendu, popř. specifickou činnostu v rámci agendy. Toto nastavení zabraňuje flexibilnějšímu vznikání týmů na projektové bázi, které by se po určitou dobu věnovaly konkrétními problému, což může být vhodnější model pro potýkání se se společenskými výzvami a využívání poznatků pro jejich řešení.
+
+# Uznané a podporované role
+
+## Profese analytika
+
+- typové role
+- standard
+- dráha
+- champions
+
+TO DO
+
+TO DO @hmgovernmentGovernmentFunctionalStandard2023
+
+TO DO https://analysisfunction.civilservice.gov.uk/careers/career-framework/
+
+**Co je problém**: 
+
+**Co doporučujeme** 
+
+**Proč je to třeba** 
+
+NB včetně profesní linky rozvoje
+
+## Personalistické procesy jako podpora práce s poznatky
+
+**Co je problém**: 
+
+**Co doporučujeme** 
+
+**Proč je to třeba** 
+
+## Policy analysis jako klíčová aktivita státu
+
+# Lepší schopnosti a dovednosti
+
+## Základní schopnosti práce s daty jako standard
+
+**Co je problém**: Chybí postupy, jak dosáhnout základních schopností práce s poznatky a daty u širokého spektra úředníků 
+
+**Co doporučujeme** 
+
+- zahrnout základní znalosti a dovednosti práce s daty a poznatky do základního rozvojového kurikula větší části úředníků (státních zaměstnanců)
+- zvážit zahrnutí těchto témat (především základního přehledu např. o zdrojích dat a metodách práce s nimi) do základní části úřednické zkoušky
+- tímto směrem upravit i okruhy zvláštní části u relevantních oborů úřednické zkoušky
+
+**Co by také pomohlo**
+
+- upravit systém hodnocení tak, aby motivoval k rozšiřování znalostí a dovedností i v oblasti práce s poznatky
+
+**Proč je to třeba**
+
+V současném fungování veřejné správy neexistují mechanismy, které by pomohly zajistit základní schopnosti práce s poznatky a daty u širšího spektra úředníků a úřednic, například ve formě úvodního “evidence bootcampu”.
+
+Z naší zkušenosti s relativně rozličnými týmy víme, že základní přehled, znalosti a dovednosti potřebují i ti státní zaměstnanci, kteří pro které není analytická práce hlavní součástí jejich činnosti.
+
+Toto se netýká pouze “tvrdé” datové práce, ale i obecnější schopnosti výzkumné činnosti včetně zadávání výzkumu analytickým oddělením. Tato absence podpory a motivací rozvoje datových a souvisejících schopností je přítomná i v náboru, kontinuálním vzdělávání a hodnocení. 
+
+## Vzdělávání v práci s poznatky
+
+**Co je problém**: V současné době neexistují komplexní vzdělávací schémata, která by zaměstnance a zaměstnankyně státní správy připravila na práci s poznatky. 
+
+**Co doporučujeme** 
+
+Zde nenabízíme konkrétní řešení (tj. jaké typy rozvojových intervencí zvolit a jak by měly vypadat), ale naznačujeme několik principů, kterými by se proces vývoje takového kurikula měl řídit:
+
+- sestavit tým lidí, který návrh kurikula vytvoří -- využít etablované experty zevnitř státní správy, např. ty s označením vynikajích všeobecně uznávaných odborníků 
+- do designu kurikula zahrnout externí expertizu (akademici, pracovníci think tanků a dalších organizací, které se státní správou pracují např. jako dodavatelé poznatků)
+- ve vzdělávacích intervencích využíte existující interní expertizu napříč resorty a organizacemi
+- reflektovat zkušenosti a zpětnou vazbu z pilotního programu pro analytiky veřejné správy
+- prioritizovat rychlý vývoj a testování kurikula před dokonalým řešením vytvořeným za dlouhou dobu
+- u problému rozvoje vedoucích analytických týmů pracovat s rozvojem na základě sdílení zkušeností a skupinové reflexe např. vedoucích nově vznikajících analytických útvarů
+
+Jak vysvětlujeme ve [vzkazech pro stát](teze-o-praci-s-poznatky-stat.qmd), rozvoj analytiků by měl z významné části stát na učení se od druhých a využívání a sdílení existující expertizy a dovedností.
+
+Pro definování relevantních znalostí a dovedností, které by program měl budovat, lze využít např. rámec vyvinutí Joint Research Center [@@schwendingerCompetencesPolicymakingCompetence2022] a pro zacílení na různé role a typy analytiků lze využít [@@olejniczakRoleAnalystsPublic2018 resp. @howlettPolicyAnalyticalCapacity2015 viz obr. 1 na s. 175].
+
+Jako inspirace může sloužit i funkční standard [@hmgovernmentGovernmentFunctionalStandard2023] a [kompetenční model](https://analysisfunction.civilservice.gov.uk/careers/role-profiles-and-career-pathways/) britské státní služby pro analytickou profesi.
+
+**Proč je to třeba**
+
+V některých oblastech veřejné správy existují sady vzdělávacích kurzů a programů zaměřených na ucelený rozvoj specialistů na danou oblast - příkladem jsou personalistika, veřejné zakázky či EU fondy. V oblasti práce s poznatky tomu tak není -- zřejmě i proto, že se nejedná o konkrétní agendu, ale sadu průřezově využitelných dovedností. 
+
+Z dílčí zpětné vazby státních zaměstnanců vyplývá, že v některých tématech v této oblasti chybí na trhu vhodné kurzy a některé vzdělávací intervence by bylo vhodné vyvinout specificky pro potřeby veřejné správy, aby prostředky na vzdělávání přinesly skutečně aplikovatelné učení. 
+
+Narozdíl od zmiňovaných oblastí v tématu práce s poznatky (analytické práce) platí, že by takový program měl být modulárnější a umožňovat výběr témat a dílčí specializaci jednotlivců; nelze předpokládat, že by každý měl absolvovat celé stejné kurikulum. (Zde viz [typové role, které identifikuje britská státní služba](https://analysisfunction.civilservice.gov.uk/careers/role-profiles-and-career-pathways/)).
+
+Specifickým problémem pak jsou dovednosti pro vedení analytických týmů. Ani zde neexistuje profesní příprava.
+
+## Nejen pro experty a řadové analytiky
+
+**Co je problém**: Základní povědomí o práci s poznatky někdy chybí i na úrovni vedoucích pracovníků (představených).
+
+**Co doporučujeme** 
+
+V této oblasti nedáváme doporučení, protože to přesahuje naše poznání tohoto problému a jeho možných řešení.
+
+**Proč je to třeba**
+
+Představení nemají být experty na analytickou práci, ale nějaká míra znalostí a dovedností je zásadní pro jakýkoli posun kultury a praxe veřejné správy směrem k informovanému vládnutí (evidence-informed decision making). Z našeho pozorování týmů v oblasti práce s poznatky jsme identifikovali, že zásadní jsou především schopnosti manažerů v následujících oblastech:
+
+- identifikovat znalostní potřeby pro práci útvarů a veřejněpolitická rozhodnutí
+- klást empirické otázky a formulovat zadání analytických úkolů a projektů
+- vyhodnotit relevanci a kvalitu poznatků, které k nim přicházejí
+- přehled o standardech a možnostech současných postupů a metod v oblasti tvorby a vyhodnocování veřejných politik
+
+Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neefektivnímu využívání existujících analytických kapacit, případně k demotivaci analytiků.
+
+## Nábor a platy umožňující přitáhnout talent
+
+# Dostupnější zdroje dat a informací
+
+## Snadnější přístup k datům veřejného sektoru
+
+**Co je problém**: 
+
+**Co doporučujeme** 
+
+**Proč je to třeba**
+
+## Dostupné akademické zdroje
+
+**Co je problém**: 
+
+**Co doporučujeme** 
+
+**Proč je to třeba**
+
+## Snadněji nalezitelné výstupy veřejného sektoru
+
+**Co je problém**: 
+
+**Co doporučujeme** 
+
+**Proč je to třeba**
+
+# Podmínky pro zlepšování práce s poznatky
+
+## Leadership a klíčové role
+
+**Co je problém**: 
+
+**Co doporučujeme zvážit** 
+
+V této oblasti naznačujeme pouze některé směry k úvaze.
+
+**Proč je to třeba**
+
+## Standardy a podmínky pro práci s daty
+
+**Co je problém**: v oblasti analýzy dat se zásadně liší přístupy, technologie a postupy běžně používané ve státní správě od těch běžných v soukromém sektoru.
+
+V posledních letech se velká část soukromého sektoru v oblasti analýzy dat posouvá k využivání open source nástrojů analýzy dat (Python, R, Julia aj.), v datové analytici se využívají nástroje a postupy známé ze softwarového vývoje (git, nástroje kontinuální integrace a vývoje - CI/CD) a větší systémy se staví modulárně z dostupných open source komponent. Tyto přístupy a nástroje nejsou ve veřejné správě běžné, byť se také rozšiřují a část z nich používají mnozí individuální analytici a týmy, často ale systému poněkud navzdory.
+
+**Co doporučujeme**
+
+- stanovit standard softwarových nástrojů, které by měly být dostupné, popř. rovnou nabízené, ve všech organizacích
+- poskytnout centrální stanovisko ohledně využívání open source nástrojů pro analýzu dat
+- identifikovat, které z nástrojů už jsou dostupné např. pro účely in-house vývoje softwarových aplikací a umožnit jejich zpřístupnění datovým analytikům
+- ke zvážení je sdílený cloud prostor pro práci s daty (některé organizace např. už dnes využívají prostředí Azure ML Studio)
+- identifikovat jednotlivce a týmy, kteří už využívají současné technologie a postupy a umožnit jim šířit své know-how
+- podpořit provoz a využití systému [code.gov.cz](https://code.gov.cz)
+
+**Další možnosti ke zvážení**
+
+- podpořit rozvoj komponent (knihoven, šablon) využitelných napříč státní správou v často využívaných nástrojích (Rython, R) - podobně jako pro vývoj webů Design System gov.cz
+- podpořit vznik skupiny analytiků, kteří tyto nástroje již používají, popř. rozšířit na systém ambasadorů na resortech
+- podpořit vývoj standardů práce a souvisejících nástrojů - zde inspirací může být iniciative analytické profese britské státní služby [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/), což je sada opakovaně využitelných nástrojů usnadňujících automatizaci analytických postupů a procesů.
+- podpořit využívání moderních přístupu metodikami (např. v oblasti RIA, popř. v potenciálním peer review mechanismu podle slovenského modelu), kde součástí kontroly kvality (např. u RIA hodnoticí zprávy) bude ověření splnění základních standardů kvality práce s daty. Zde inspirací mohou být metodiky britské státní služby tzv. Duck Book [@ukgovernmentanalyticalcommunityQualityAssuranceCode2022] a Aqua Book [@hmtreasuryAquaBookGuidance2015] a částečně i Magenta Book [@hmtreasuryMagentaBookCentral2020].
+- prověřit možnost využít DIA resp. center kompetence pro tuto oblast
+
+**Proč je to třeba**
+
+Příčinou je zřejmě jak stávající běžná úroveň a zaměření technických dovedností datových analytiků (dominantně Excel), tak dostupnost a podpora relevantního softwarového vybavení. Např. na ministerstvech není běžné mít k dispozici sdílené prostředí pro práci s kódem otevřené pro analytiky, stejně tak může být v některých organizacích problém dosáhnout zpřístupnění open source nástrojů, ke kterým úřad z definice nevlastní licence a může mít obavu z bezpečnostních rizik.
+
+Stávající stav vytváří personální a technologické bariéry mezi soukromým a veřejným sektorem. Brání mobilitě expertů -- ti ze soukromého sektoru se zájmem o přechod do veřejného nemohou počítat s tím, že budou moci využívat pro ně běžné postupy a nástroje; ti uvažující např. o startu kariéry ve veřejném sektoru nemohou počítat s tím, že se naučí nástrojům běžným jinde. 
+
+Především ale stávající stav omezuje škálu nástrojů a metod, které stát běžné využívá a potenciálně vede k nákupu komerčních řešení či přímo řešení na zakázku tam, kde by open source nástroje přinesly stejný užitek s nižšími náklady.
+
+## Audit a kontrola motivující k práci s poznatky
+
+**Co je problém**: auditní a kontrolní aktéři mohou nezamýšleně omezovat motivaci k empirické práci popř. inovacím šířeji
+
+**Doporučení pro auditory a kontrolory**
+
+- Při formulaci závěrů zvažovat, zda nemohou přinést nežádoucí efekt oslabení využívání poznatků
+- Reflektovat nutnou nejistotu a riziko v oblasti analýzy politik, evaluace apod. - často jde o de facto inovační aktivity a přílišný důraz na dosažení předem definovaných výstupů může potřebnou inovaci dusit
+- Při hodnocení práce veřejných institucí brát v potaz i to, zda se daná instituce snaží o využívání poznatků pro design opatření a jejich vyhodnocování; za ex post hodnocení, kde úřad sám identifikuje např. nedokonale fungující intervenci, by měl úřad být pochválen, nikoli kritizován.
+
+**Proč je to třeba**
+
+Logika auditu a indikátorů, které v současnosti slouží ke kontrole a auditu státní správy ve vztahu ke kritériím hospodárnosti resp. 3E, může nezáměrně vést ke snižování motivace k analytické práci a přijímání inovativních postupů obecněji. 
+
+Setkali jsme se s několika situacemi, kdy zaměstnanci státní správy při úvaze o zadání analýzy nebo využití nějaké metody zvažovali, zda mohou na sebe vzít riziko např. že se nepodaří danou metodu zrealizovat (např. kvůli problému s daty), což by mohly auditní a kontrolní postupy zhodnotit jako neúčelné využití prostředků. Podobně jsme se setkali se situacemi, kdy se zaměstnanci obávali některé informace zjišťovat. I když je by zajímaly a dokázali by je využít např. pro zlepšení nějakého opatření, obávali se, že tuto informaci by mohl kontrolní nebo auditní orgán využít jako podklad pro tvrzení o nehospodárnosti či neúčelnosti daného opatření.
+
+## Odkazované zdroje
+
+:::{#refs}
+:::
