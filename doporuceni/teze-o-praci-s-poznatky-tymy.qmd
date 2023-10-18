@@ -26,23 +26,23 @@ format:
 
 ### Analytickou práci je třeba chápat široce {#siroce}
 
-Setkáváme se často s tím, že pod pojmem analytická práce lidé vidí především, nebo dokonce pouze, kvantitativní analýzy a jím přidružené aktivity. Tento narativ se snažíme upravit a snažíme se analytickou práci chápat mnohem šířeji. Pracovně proto mluvíme především o práci s poznatky, která zahrnuje také kvalitativní data (desk research, rozhovory, rady a tipy od kolegů atd.).  
+Setkáváme se často s tím, že pod pojmem analytická práce lidé vidí především, nebo dokonce pouze, kvantitativní analýzy a jim přidružené aktivity. Tento narativ se snažíme upravit a snažíme se analytickou práci chápat mnohem šířeji. Pracovně proto mluvíme především o práci s poznatky, která zahrnuje také kvalitativní data (desk research, rozhovory, rady a tipy od kolegů atd.) Zároveň i výzkum ukazuje, že analytici často jsou "multifunkční": jejich rolí často není jen vytvářet poznatky, ale také je předávat dále a někdy se i zapojovat do tvorby politik [@veselyPolicyAnalysisPolicy2016; @howlettPolicyAnalyticalCapacity2015]. A konečně se práce s poznakty týká mnohem širšího spektra lidí ve veřejné správě než jsou ti, kteří se identifikují jako analytici. Nějakou míru práce s poznatky vyžadují mnohé činnosti a agendy.
 
 ### Komunikace je slepou skvrnou -- často právě pro analytiky {#komunikace}
 
-V analytické práci je komunikace zásadním aspektem celého procesu, který bývá často upozaděn. Pokud vyrábíme analytický produkt pro někoho, nebo po nás takový produkt někdo požaduje, je zásadní komunikovat během celého procesu –, již od samotného zadání, jaký problém řešíme, jak a kým bude produkt využíván. Jinými slovy, je zapotřebí pravidelně komunikovat se zadavatelem/příjemcem analýz tak, aby konečná analýza byla využitelná. V prostředí veřejné správy je důležité mít na paměti, že připomínkové řízení není dostatečnou substitucí za kvalitní komunikaci a zpětné vazby k následnému využití analýz a podobných výstupů. 
+V analytické práci je komunikace zásadním aspektem celého procesu, který bývá často upozaděn. Pokud vyrábíme analytický produkt pro někoho, nebo po nás takový produkt někdo požaduje, je zásadní komunikovat během celého procesu, již od samotného zadání, jaký problém řešíme, jak a kým bude produkt využíván. Jinými slovy, je zapotřebí pravidelně komunikovat se zadavatelem/příjemcem analýz tak, aby konečná analýza byla využitelná. V prostředí veřejné správy je důležité mít na paměti, že připomínkové řízení není dostatečnou substitucí za kvalitní komunikaci a zpětné vazby k následnému využití analýz a podobných výstupů. 
 
-I proto se v průvodci celá jedna část věnuje [podpoře využití poznatků](/pruvodce/index.hml#vyuziti).
+I proto se celá jedna část průvodce věnuje [podpoře využití poznatků](/pruvodce/index.hml#vyuziti).
 
 ### Neplňte zadání na první dobrou {#zadani}
 
-Analytická práce je ze své podstaty komplexní činností. Často se tedy stáváJedním z důsledků je, že analytici často obdrží nejasná zadání, málo konkretizovaná a bez informací, co má splňovat. Úkolem analytika v takovém případě je především pochopit zadání a to nejlépe tak, že nechá zadavatele zakázky jasně popsat problém, který chce "zákazník" pomocí analýzy řešit. V tomto procesu může zákazník zjistit, že sám nemá tuto otázku jasně definovanou a s pomocí analytika mohou přijít, jak na definici problému, tak identifikaci podkladů pro jeho řešení. 
+Analytická práce je ze své podstaty komplexní činností. Jedním z důsledků je, že analytici často obdrží nejasná zadání, málo konkretizovaná a bez informací, co má splňovat. Úkolem analytika v takovém případě je především pochopit zadání a to nejlépe tak, že nechá zadavatele zakázky jasně popsat problém, který chce "zákazník" pomocí analýzy řešit. V tomto procesu může zákazník zjistit, že sám nemá tuto otázku jasně definovanou a s pomocí analytika mohou přijít, jak na definici problému, tak identifikaci podkladů pro jeho řešení. 
 
 V průvodci najdete návod [[Zadání analytického úkolu&nbsp;⟶](/pruvodce/zadani-ukolu)]{.btn .btn-resource}
 
 ### Specializace nemusí stát za to {#specializace}
 
-Nejen v analytických týmech je pochopitelná tendence navyšování specializace jednotlivých zaměstnanců. Jinými slovy, každý člen týmu se specializuje na konkrétní nástroje, datasety či věcnou tématiku. V tomto ohledu ovšem vzniká dilema, kdy navyšování specializací snižuje možnosti funkčního knowledge managementu. To především pokud dochází k situaci,z toho důvodu, kdy že určitá témata či agenday jsoue v určitý bod natolik v rukou jedné osoby, že jeho případný odchod znamená zásadní zásah do fungování týmu a jeho nabytých zkušeností či znalostí.  
+Nejen v analytických týmech je pochopitelná tendence ke specializaci jednotlivých zaměstnanců. Jinými slovy, každý člen týmu se specializuje na konkrétní nástroje, datasety či věcnou tématiku. Pak ovšem vzniká dilema, kdy navyšování specializací snižuje možnosti funkčního knowledge managementu. Může se stát, že určitá témata či agendy jsou v určitý bod natolik v rukou jedné osoby, že jeho případný odchod znamená zásadní zásah do fungování týmu a jeho nabytých zkušeností či znalostí.  
 
 ### Velká část znalostí je tacitní {#tacitni}
 
@@ -56,25 +56,25 @@ Některé **nezachycené explicitní** informace a znalosti (např. kontakty, me
 
 ### Od poznatků ke změně vede více než jedna cesta {#cestypoznatku}
 
-Tvůrci poznatků (analytici, ale nejen) ve veřejné správě často své výstupy vytváří ve vztahu k nějakému **rozhodnutí nebo přímému využití** -- např. analyzujeme nějaký problém, aby někdo jiný podle naší analýzy změnil nastavení nějakého veřejněpolitického nástroje. A pokud se to nestane -- výstup je ignorován, rozhodnutí se odloží, důležití adresáti informace na jejím základě nic neudělají -- vzniká pocit marnosti a frustrace.
+Tvůrci poznatků (analytici, ale nejen) ve veřejné správě často své výstupy vytváří ve vztahu k nějakému **rozhodnutí nebo přímému využití** -- např. analyzujeme nějaký problém, aby někdo jiný podle naší analýzy změnil nastavení nějakého veřejně-politického nástroje. A pokud se to nestane -- výstup je ignorován, rozhodnutí se odloží, důležití adresáti informace na jejím základě nic neudělají -- může vznikat pocit marnosti a frustrace.
 
-Tento přímý, tzv. instrumentální, způsob využití poznatků je důležitý, ale nikoli jediný. A právě ty ostatní způsoby využití poznatků mohou naší práci dát smysl a přínos i ve chvíli, kdy už to nečekáme. Někdy využití poznatků přijde náhodnou konstelací příležostí, někdy se věci dají do pohybu a kdysi udělaná analýza se dá oprášit a může pomoct k lepšímu rozhodnutí. Někdy postupné vkládání vašeho sdělení do různých proudů komunikace přispěje k postupné změně postojů klíčových lidí. Proto dobře o své výstupy a znalosti pečujte (viz návod [Péče o existující znalosti a výstupy](/pruvodce/knowledge-management.qmd)) a snažte se svou práci komunikovat v různých formách a přehledně (viz návody v oblasti [podpory využití poznatků](/pruvodce/index.qmd#vyuziti)). A hledejte příležitosti, kde občas své poznatky znovu předat -- k tomu je zase dobré znát znalostní potřeby své organizace (viz návod [Identifikace znalostních potřeb](/pruvodce/identifikace-znalostnich-potreb.qmd)); v různých částech průvodce pak upozorňujeme na potřebu věnovat se komunikaci a budování vztahů uvnitř i vně vaší organizace.
+Tento přímý, tzv. instrumentální, způsob využití poznatků je důležitý, ale nikoli jediný. A právě ty ostatní způsoby využití poznatků mohou naší práci dát smysl a přínos i ve chvíli, kdy už to nečekáme. Někdy využití poznatků přijde náhodnou konstelací příležitostí, někdy se věci dají do pohybu a kdysi udělaná analýza se dá oprášit a může pomoct k lepšímu rozhodnutí. Někdy postupné vkládání vašeho sdělení do různých proudů komunikace přispěje k postupné změně postojů klíčových lidí. Proto dobře o své výstupy a znalosti pečujte (viz návod [Péče o existující znalosti a výstupy](/pruvodce/knowledge-management.qmd)) a snažte se svou práci komunikovat v různých formách a přehledně (viz návody v oblasti [podpory využití poznatků](/pruvodce/index.qmd#vyuziti)). A hledejte příležitosti, kde občas své poznatky znovu předat -- k tomu je zase dobré znát znalostní potřeby své organizace (viz návod [Identifikace znalostních potřeb](/pruvodce/identifikace-znalostnich-potreb.qmd)); v různých částech průvodce pak upozorňujeme na potřebu věnovat se komunikaci a budování vztahů uvnitř i vně vaší organizace.
 
-Prapůvod uvažování o různých módech využití poznatků je práce Carol Weiss [@weissManyMeaningsResearch1979; @weissKnowledgeCreepDecision1980], nedávné empirické upřesnění najdete v @haynesGalvanizersGuidesChampions2011.
+Prapůvod uvažování o různých módech využití poznatků je práce Carol Weiss [@weissManyMeaningsResearch1979; @weissKnowledgeCreepDecision1980]; empirické upřesnění najdete v @haynesGalvanizersGuidesChampions2011.
 
-Je také užitečné zvažovat, pro jaký praktický účel nějaké poznatky vytváříme -- zda je cílem se skládat účty za výkon organizace, nebo podpořit organizační učení, a zda je o strategické, nebo operační záležitosti, jak ukazuje diagram níže.
+Je také užitečné zvažovat, pro jaký praktický účel nějaké poznatky vytváříme -- zda je cílem skládat účty za výkon organizace, nebo podpořit organizační učení, a zda jde o strategické, nebo operační záležitosti, jak ukazuje diagram níže.
 
 ![Diagram účelů využití poznatků, zdroj: @olejniczakLearningEvaluationKnowledge2017](/images/olejniczak_uses.jpeg)
 
 ### Tvorba politik je často nelineární proces, musíte s tím počítat {#nelinearni}
 
-Dalším častým zdrojem frustrace je neuspořádanost procesů tvorby politik -- zákonů, strategií, opatření, programů. Mnohé příručky pro praktiky i klasické učebnice z oboru *public policy* ukazují lineární, případně úhledně cyklické diagramy, kde se od definice problému přechází k definování řešení, implementaci, evaluaci, a od evaluace zase hezky k redefinici programu. 
+Dalším častým zdrojem frustrace je neuspořádanost procesů tvorby politik -- zákonů, strategií, opatření, programů. Mnohé příručky pro praktiky i klasické učebnice z oboru *public policy* ukazují lineární, případně úhledně cyklické diagramy: od definice problému se přechází k definování řešení, implementaci, evaluaci, a od evaluace zase hezky k redefinici programu. 
 
 ![Diagram policy procesů, zdroj: @cairneyPoliticsPolicyAnalysis2021](/images/cairney_cycle.png)
 
-Takový model nám může pomoct rozeznat různé typy aktivit v celém procesu, ale málokdy zachycuje skutečnost. Realita nás pak může překvapit a tento nesoulad může paralyzovat naši schopnost generovat užitečné poznatky a ve správný moment s nimi vstupovat do rozhodovacích procesů. 
+Takový model nám může pomoct rozeznat různé typy aktivit v celém procesu, ale málokdy zachycuje skutečnost. Reálný průběh tvorby politik a jeho zdánlivá chaotičnost nás pak může překvapit a tento nesoulad může paralyzovat naši schopnost generovat užitečné poznatky a ve správný moment s nimi vstupovat do rozhodovacích procesů. 
 
-Pokud se ale sžijete s tím, že politiky a rozhodnutí někdy vznikají nečekaně a skutečný proces nesleduje kroky ideálního postupu jeden za druhým, atd., může vám to pomoct efektivně se procesu tvorby politik účastnit.
+Pokud se ale sžijete s tím, že politiky a rozhodnutí někdy vznikají nečekaně a skutečný proces nesleduje kroky ideálního postupu (viz diagram výše) jeden za druhým, atd., může vám to pomoct efektivně se procesu tvorby politik účastnit.
 
 Praktické tipy vyvozené z dlouhé řady výzkumů na toto téma nabízí @cairneyHowCommunicateEffectively2017, popř. @cairneyThreeHabitsSuccessful2018. Obrázky pochází z @cairneyPoliticsPolicyAnalysis2021. Silné teze k realističnosti schémat tvorby politik z britské praxe přináší @hallsworthPolicyMakingReal2011 a v českém prostředí toto zkoumají mj. @kohoutekConceptualizingPolicyWork2013.
 
@@ -86,7 +86,7 @@ Pro práci s poznatky pomáhá metafora toků a stavů.
 
 > S tímto obrazem poznatků (zamíchaným do metafory trhu s nabídkou a poptávkou) pracuje koncept tzv. **knowledge brokeringu**: mezi místy, kde poznatky vznikají, a místy, kde se mají využívat, je třeba někoho, kdo zprostředkovává kontakt obou stran: knowledge brokera. Překládá mezi oběma stranami; pro jednu stranu vybírá z toho, co má druhá, a ve vhodné formě a ve vhodný čas poznatky přenáší. Dobře toto zachycuje [@olejniczakLearningEvaluationKnowledge2017; @olejniczakEvaluationUnitsKnowledge2016]; původně koncept pochází z @wardKnowledgeBrokeringMissing2009.
 
-**Poznatky jako *stavový jev***, popř. jako statek, aktivum: poznatky se někde kumulují. Buď je tam necháme ležet nevyužité, nebo o ně budeme pečovat, starat se o to, aby nezchátraly, neztratily se a přinášely užitek i v budoucnosti. A pak se o ně někdo musí starat -- o to, abychom o nich vůbec věděli, dokázali je ve správný moment najít, aktualizovat, využít. Totéž platí o datech -- ledaskdo se stane správcem dat (v neformálním smyslu) aniž by si to uvědomoval. 
+**Poznatky jako *stavový jev***, popř. jako statek, aktivum: poznatky se někde kumulují. Buď je tam necháme ležet nevyužité, nebo o ně budeme pečovat, starat se o to, aby nezchátraly, neztratily se a přinášely užitek i v budoucnosti. A pak o ně někdo musí pečovat -- o to, abychom o nich vůbec věděli, dokázali je ve správný moment najít, aktualizovat, využít. Totéž platí o datech -- ledaskdo se stane správcem dat (v neformálním smyslu) aniž by si to uvědomoval: jakmile vytvoříte datovou sadu -- větší tabulku nebo soubor, počítejte se tím, že ji možná časem budete chtít sdílet nebo sami použít později -- a pak se bude hodit například dokumentace.
 
 Proto v našem průvodci najdete návody pro [péči o již existující znalosti a výstupy](pruvodce/knowledge-management) a [správu dat](pruvodce/data-management).
 
@@ -100,7 +100,7 @@ TO DO
 
 ### Změna je snazší než se zdá (začni u sebe)
 
-Častou reakcí na podněty ke změnám fungování týmu či postupů práce je odmítavá reakce se slovy, že takto to začít dělat nemůžeme, protože nám to nedovoluje naše prostředí a v něm zaběhlé postupy. Dle našich zkušeností se tato bariéra často zdá mnohem větší než ve skutečnosti je, příklady dobré praxe se pracovišti naopak šíří a je jen zapotřebí tyto příklady zvědomovat a vytvářet. Bariérou jsou i časové kapacity -- často ale platí, že [práce na zlepšení je investicí](#investice).
+Častou reakcí na podněty ke změnám fungování týmu či postupů práce je odmítavá reakce se slovy, že takto to začít dělat nemůžeme, protože nám to nedovoluje naše prostředí a v něm zaběhlé postupy. Z naší zkušenosti se tato bariéra často zdá mnohem větší než ve skutečnosti je, příklady dobré praxe se pracovišti naopak šíří a je jen zapotřebí tyto příklady zvědomovat a vytvářet. (To neznamená, že se musíte snažit přetlačit systémové problémy na úkor sebe sama.) Bariérou jsou i časové kapacity -- často ale platí, že [práce na zlepšení je investicí](#investice).
 
 ### Uvažujte o úrovních: individuální, týmová, organizační, systémová
 
@@ -116,7 +116,7 @@ Z naší externí role a pohledu zpětně vnímáme, že významnou přidanou ho
 
 Pro řízení změn v týmu je doporučené nejdříve identifikovat hlavní bariéry, kterým čelí. K tomu může napomoci jednoduchý konceptuální rámec, který vychází z behaviorálních věd [viz @michieBehaviourChangeWheel2011]. Předpoklady pro změnu chování na individuální i týmové úrovni se nachází ve třech oblastech: kompetence a dovednosti pro aplikaci změn, příležitosti pro jejich aplikaci a motivace pro jejich plnění. 
 
-Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry pro takovou změnu. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají, a tím i provázejí Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
+Před návrhem jakýchkoliv změn je tedy vhodné charakterizovat hlavní bariéry pro takovou změnu. Například nedostatek kompetencí a dovedností dělat věci jinak, nedostatek příležitostí dělat věci jinak či nedostatek motivací dělat věci jinak. Po zodpovězení na tyto otázky lze soustředit řízení změn na tyto jednotlivé oblasti, přičemž se mnohé překrývají, a tím i provázejí. Například nestačí pouze získat kompetence a dovednosti, ale také najít prostor a příležitosti pro jejich aplikaci. 
 
 ### Někdo už to někde řeší
 
@@ -149,7 +149,7 @@ Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní sp
 
 ### Technické řešení není vždy řešení {#techfix}
 
-Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak některá z těchto řešení jsou často finančně i časově náročnáé a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
+Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak některá z těchto řešení jsou často finančně i časově náročné a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické řešení, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
 
 ### Čas strávený zlepšováním vlastní práce je investice {#investice}
 
