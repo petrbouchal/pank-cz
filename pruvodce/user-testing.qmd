@@ -6,16 +6,32 @@ blok: ["vyuziti"]
 title-block-categories: false
 poradi: 11
 editor: source
+nocite: |
+  @dittrichBegInnerGuide
+  @richardsContentDesign2017
+  @downeGoodServicesDecoding2020
 ---
 
 # O co jde a k čemu to je
 
-Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to čím dál tím více pomocí webových stránek. Před samotným rozvojem webového produktu je důležité umět sondovat potřeby budoucích uživatelů a přizpůsobit webový produkt jejim očekáváním. Po vytvoření webových stránek je užitečné je otestovat a zjistit, zda web skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k využití produktu. 
+Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to se čím dál více děje pomocí webových stránek.
 
+Před samotným rozvojem webového produktu je důležité umět sondovat potřeby budoucích uživatelů a přizpůsobit webový produkt jejim očekáváním. 
 
-# Případová studie
+Po vytvoření (první verze) webových stránek je užitečné je otestovat a zjistit, zda web skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k využití produktu. 
+
+:::{.aside}
+
+**Případová studie**
 
 V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu [strategie RIS3](https://www.ris3.cz/) spolu s členy oddělení S3 na MPO.
+
+<br>
+
+:::{.btn .btn-resource}
+[Číst případovou studii →](/pripadove-studie/case-mpo.qmd)
+:::
+:::
 
 # Sebediagnostika: je to vůbec pro mě?
 
@@ -23,25 +39,31 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 - Máme dostatečnou kapacitu na to, abychom realizovali uživatelský výzkum ještě než se zadají specifikace developerům? 
 - Bude možnost po spuštění webu provádět změny na základě uživatelského testování? Do jaké míry? Za jaké náklady?
 
+:::{.page-full .strip .page-columns}
+
+:::{.aside}
+<br>
+:::
+
 # Jak na to?
 
 ## Před začátkem rozvoje webu
 
 ### Analyzujte cílové skupiny a jejich potřeby
 
-Zmapujte zamýšlené uživatelské skupiny a popište aktivity, které by měly na webu dělat:
+Zmapujte zamýšlené uživatelské skupiny a popište aktivity, které by měly na webu dělat. Můžou vám pomoct následující postupy:
 
-- vytvořte matici skupin a aktivit (např. najít konkrétní analýzu, exportovat data…)
-- specifikujte jejich motivace, obavy a potřeby pomocí nástroje Value Proposition Canvas (viz níže) 
+- vytvořte matici skupin a aktivit (pro každou skupinu identifikujet potřebu, kterou nejspíš potřebují splnit, např. najít konkrétní analýzu, exportovat data…)
+- specifikujte jejich motivace, obavy a potřeby pomocí nástroje [Value Proposition Canvas - viz níže](#vpc) 
 
 ### Pobavte se s cílovými skupinami
 
-Oslovte 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30min rozhovor.
+Oslovte 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30minutový rozhovor.
 
 Položte jim následující otázky:
 
-- pro jaké účely byste využil*a stránku?
-- jaká máte očekávání od takového produktu?
+- Pro jaké účely byste využil*a stránku?
+- Jaká máte očekávání od takového produktu?
 
 ## Testování webu
 
@@ -50,11 +72,12 @@ Položte jim následující otázky:
 Příprava:
 
 - Vytvořte sadu témat, které chcete od uživatelů zjišťovat.
-- Připravte sadu úloh (1 až 3), které uživatel bude vykonávat během testování. 
+- Připravte sadu úloh (1 až 3), které uživatel bude vykonávat během testování. Nachystejte si přesné instrukce
 - Připravte si sadu hypotéz ohledně toho, jaké překážky mohou vzniknout.
 
 Realizace rozhovoru:
 
+- Na začátku respondentovi vysvětlete, jak jeho vstupy použijte a hlavně ho ujistěte, že testujete web, nikoli jeho schopnosti
 - V první části rozhovoru se zeptejte respondenta, jaké úlohy hodlá dělat a proč.
 - Zadejte 1 až 3 předem připravené úlohy
 - Pozorujte, jak úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
@@ -72,31 +95,33 @@ Příprava:
 
 - Popište skupiny uživatelů, jejich charakteristiky a potřeby.
 - Sepište identifikované překážky a popis jejich příčin.
-- Prioritizujte problémy dle proveditelnosti řešení.
+- Prioritizujte problémy dle palčivosti a proveditelnosti řešení.
+
+:::
 
 # Na co si dát pozor
 
 - Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
 - Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
 
+
 # Další zdroje a literatura
 
-## Value Proposition Canvas
+## Value Proposition Canvas {#vpc}
 
 Pro každou cílovou skupinu popsat v následujícím pořadí:
 
-- Potřeby: Co je motivuje k využití našich služeb?
-- Motivace: Čeho chce náš uživatel dosáhnout? Jakou potřebu mu uspokojujeme?
-- Obavy:Co jim brání ve využití našich služeb?
-- Popis nabízených služeb: Jaké služby nebo produkty jim nabízíme, abychom uspokojili jejich potřeby?
+- Potřeby: co je motivuje k využití našich služeb?
+- Motivace: čeho chce náš uživatel dosáhnout? Jakou potřebu mu uspokojujeme?
+- Obavy: co jim brání ve využití našich služeb?
+- Popis nabízených služeb: jaké služby nebo produkty jim nabízíme, abychom uspokojili jejich potřeby?
 
 Více k Value Proposition Canvas na [webu 100 metod](https://kisk.phil.muni.cz/100metod/value-proposition-canvas)
 
 ## Sada otázek pro dotazníkové šetření
 
-### 
-
 System Usability Scale
+
   1. Věřím, že většina lidí se naučí používat tento systém velmi rychle.
   2. Systém mi připadal zbytečně složitý.
   3. Myslel(a) jsem si, že používání systému bylo snadné.
@@ -108,6 +133,7 @@ System Usability Scale
 Více na [webu 100 metod](https://100metod.cz/post/157274192704/93-system-usability-scale)
 
 UMUX
+
   1. Moje požadavky jsou splněny schopnostmi tohoto systému.
   2. Naučit se používat tento systém je snadné.
   3. Musím se naučit mnoho věcí, než budu moci tento systém používat.
@@ -120,14 +146,15 @@ Více na [webu Measuringu](https://measuringu.com/umux-lite/)
 
 ## Další zdroje
 
-[Dittrich, J. A Beg­inner’s Guide to Finding User Needs](https://jdittrich.github.io/userNeedResearchBook/)  
+:::{#refs}
+:::
+
+<br>
 
 [UK GOV. User research -- Service Manual -- GOV.UK](https://www.gov.uk/service-manual/user-research)  
 
-[Winters, S. (2017). Content Design](https://contentdesign.london/store/the-content-design-book/)  
+[Design systém gov.cz](https://designsystem.gov.cz/#/) & [Pravidla pro tvorbu obsahu](https://designsystem.gov.cz/#/pravidla/pravidla-pro-tvorbu-obsahu)
 
-[Downe, L. (2020). Good Services](https://good.services/)  
+[MUNI-KISK (2015). 100 metod](https://100metod.cz/) 
 
-[Design systém gov.cz](https://designsystem.gov.cz/#/)  
-
-[MUNI-KISK (2015). 100 metod](https://100metod.cz/)  
+[Norman Nielsen: Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)

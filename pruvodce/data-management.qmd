@@ -37,7 +37,9 @@ V tématu správy dat typicky pod pojmem *data management* (DM) potkáte dvě r�
 
 Některé z těchto metodik a nástrojů se vám mohou hodit např. ve větších projektech, kde sbíráte nebo generujete nová data. Obecně užitečnou pomůckou je [**sada principů FAIR**](https://www.go-fair.org/fair-principles/): data by měla být nalezitelná (**F**indable), dostupná (**A**ccessible), propojitelná (**I**nteroperable) a znovu použitelná (**R**eusable) - viz @wilkinsonFAIRGuidingPrinciples2016.
 
-**Data Management** jako role a funkci ve velkých organizacích související se správou dat ve velkých IT systémech. Zde se dominantně využívá tzv. Data Management Book of Knowledge [@damainternationalDAMADMBOKDataManagement2017], kompendium znalostí a principů pro různé oblasti správy dat. I zde se dá inspirovat, ale DM v tomto smyslu je celá profese se svými certifikacemi a aplikací především ve světě velkých systémů.
+**Data Management** jako role a funkci ve velkých organizacích související se správou dat ve velkých IT systémech. Zde se dominantně využívá tzv. Data Management Book of Knowledge [@damainternationalDAMADMBOKDataManagement2017], kompendium znalostí a principů pro různé oblasti správy dat. I zde se dá inspirovat, ale DM v tomto smyslu je celá profese se svými certifikacemi a aplikací především ve světě velkých systémů. 
+
+V obou světech se pak můžete setkat i s příbuzným pojmem *data stewardship* -- pojem klade důraz na dlouhodobou péči o data i jménem jeho budoucích uživatelů.
 
 **V tomto návodu** pracujeme s pojmem data management volněji: péče o data v rámci analytických projektů, která se vám typicky dostanou do rukou: často data přebraná odjinud, pokud sbíraná, tak spíš v menším rozsahu. Zde je typicky třeba dosáhnout základní katalogizace, dokumentace a sdílení dat v týmu nebo organizaci.
 
@@ -111,6 +113,8 @@ Při správě datových úložišť rozlište surová data, back-end a front-end
 >
 > Pokud nevidíte technickou potřebu mít vše zachycené v databázích, začněte prostě tím, že datové soubory dobře uspořádáte na sdíleném disku.
 >
+> Postarejte se také o konzitentní názvy souborů - viz [How to name files](https://speakerdeck.com/jennybc/how-to-name-files-the-sequel): aby je přečetl stroj i člověk a aby se správně řadily 
+>
 > Případně k tomu vytvoříte rozcestník v dokumentu, na intranetu, v Sharepointu aj.
 > Začněte těmi sadami a soubory, které skutečně používáte
 
@@ -127,6 +131,14 @@ Lze rozlišit dva typy dokumentace dat:
 
 - metadata: soubor popisů pro jednotlivé sady a datové proměnné
 - dokumentace pro uživatele: soubor informací, které pomohou uživatelům v orientaci v datových sadách a jejich využití.
+
+:::{.callout title="Pojem: metadata"}
+
+Data o datech -- strukturovaná data, která popisují jiná data. Kromě popisu slouží i k zajištění interoperability. Dobře zanesená metadata umožňují strojům si data předávat a propjovat automatizovaně.
+
+*Metainformace*: širší množina, může zahrnovat číselníky, klasifikace aj. -- viz [databázi metainformací ČSÚ](https://www.czso.cz/csu/czso/databaze_metainformaci).
+
+:::
 
 ### Datové sady a soubory
 
@@ -258,7 +270,7 @@ Více viz článek pro praktiky @bromanDataOrganizationSpreadsheets2018 a metodi
 
 Zásadní je někde začít. Dlouhé diskuse o tom, která data jsou hrubá a která už zpracovaná, nebo jestli evidovat každou novou verzi té stejné datové sady, vám nejspíš nepomůžou. Dokonalý systém neexistuje.
 
-Začnětě něčím jednoduchým -- třeba jen zachyťte, jaká data často využíváte.
+Začněte něčím jednoduchým -- třeba jen zachyťte, jaká data často využíváte.
 
 ## Rutina, nejen velký třesk
 
@@ -269,6 +281,10 @@ Kromě jednorázového úklidu a zdokumentování péče o data vyžaduje i **zm
 Do péče o data a jejich dokumentaci zatáhněte ty, kdo s daty pracují nebo dobře znají prostředí, odkud se data generují. V dokumentaci můžete zachytit znalosti o specifikách daných dat, insider znalosti o tom, jak se sbírají, a zkušenost s prací s nimi: na jaké nečekané vlastnosti dat jsme přišli při práci s nimi.
 
 Tím také posílíte **péči o znalosti** svého týmu: při dokumentaci dat můžete zachytit informace, které by jinak zůstaly ukryty v hlavách vašich kolegyň a kolegů a na které by ostatní možná museli později přicházet znova.
+
+## Ještě větší transparentnost
+
+U projektů, kde je důležité mít veřejně dostupný záznam o provedené analýze, se může hodit projekt archivovat v repozitáři např. na Zenodo nebo OSF -- tím zdokumentujete nejen data, ale i celý projekt; je to forma knowledge managementu [(viz návod)](knowledge-management.qmd).
 
 :::{.callout-note}
 
@@ -284,11 +300,15 @@ Takto zachycené znalosti můžete zpřístupnit třeba na interní wiki nebo v 
 
 # Další zdroje
 
-České pojednání o tématu správy dat najdete v knize @krejciCestyDatumZdroje2012, základní principy najdete i na webu [Českého sociálně vedního datového archivu](https://archiv.soc.cas.cz/cz/prace-s-daty/management-dat-v-prubehu-vyzkumneho-projektu); tamtéž i [návod na tvorbu tzv. plánu správy dat](https://archiv.soc.cas.cz/cz/prace-s-daty/data-management-plan-pro-socialni-vedy) pro společenskovědní projekty.
+České pojednání o tématu správy dat najdete v knize @krejciCestyDatumZdroje2012, základní principy najdete i na webu [Českého sociálně vedního datového archivu](https://archiv.soc.cas.cz/cz/prace-s-daty/management-dat-v-prubehu-vyzkumneho-projektu); tamtéž i [návod na tvorbu tzv. plánu správy dat](https://archiv.soc.cas.cz/cz/prace-s-daty/data-management-plan-pro-socialni-vedy) pro společenskovědní projekty. Užitečné mohou být i [prezentace z nedávného semináře ČSDA k tématu](https://archiv.soc.cas.cz/cz/aktuality/195-open-science-a-sdileni-socialnevednich-dat-v-praxi-data-management-plan-ochrana-respondentu-a-legalni-aspekty-sdileni-dat2).
 
 K dokumentaci se mohou hodit [standardy tzv. Dublin core metadat](https://www.dublincore.org/) - sice působí technicky, ale když je dokážete využití, nebudete vynalézat to, co už někdo vymyslel.
 
 Alternativní přístup k dokumentaci dat a související nástroje nabízí [Data Documentation Initiative](https://ddialliance.org/).
+
+Pragmatický standard dokumentace tabulkových datových sad [používá britská státní správa](https://www.gov.uk/government/publications/recommended-open-standards-for-government/using-metadata-to-describe-tabular-data-for-publishing). 
+
+K dokumentaci datasetů viz @gebruDatasheetsDatasets2021, též kap. 10 v @alexanderTellingStoriesData2023.
 
 ## Odkazované zdroje a literatura
 
