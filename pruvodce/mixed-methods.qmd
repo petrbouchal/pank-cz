@@ -7,11 +7,23 @@ poradi: 6
 format: 
   html: default
   docx: default
+nocite: |
+  @bambergerIntroductionMixedMethods2012
+  @mossInteractiveWhiteboardsPedagogy2007
+  @narendorfIntersectionHomelessnessMental2017
+  @burchMixedMethodsPolicy2016
+  @brannenCriticalIssuesDesigning2012
+  @oconnellFoodFamiliesWork2016
+  @burchMixedMethodsPolicy2016
+  @creswellDesigningConductingMixed2017
 ---
 
 # O co jde a k čemu to je
 
-Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že design výzkumu odpovídá výzkumným otázkám.
+Pokud se rozhodneme kombinovat různé kvalitativní a kvantitativní metody, je nutné aplikovat specifické postupy, které zaručí, že
+
+- design výzkumu odpovídá výzkumným otázkám
+- je možné vystopovat, jak z různých zdrojů dat vzešly prezentované závěry
 
 
 :::{.aside}
@@ -41,7 +53,12 @@ Pokud jste v minulosti realizovali mixed methods výzkumy, analyzujte je zpětn�
 - Jaké zdroje dat jsou využity a za jakým účelem?
 - Jak jsou data uchovávána a popsána pro další využití? 
 - Jak jsou komunikovány výsledky z kvantitativních šetření?
-- Jak funguje Quality Assurance výzkumu v případě kvantitativních analýz?
+
+:::{.strip .page-columns}
+
+:::{.aside}
+
+:::
 
 # Jak na to
 
@@ -60,28 +77,15 @@ Integrace kvantitativních a kvalitativních může proběhnut dvěma způsoby
 
 ## Znázorněte výzkumný design do flowchartu
 
-Výplňte do flowchartu popis každého kroku realizace výzkumu. Tento flowchart může poté sloužit pro popis metodiky výzkumu
+Vyplňte do flowchartu popis každého kroku realizace výzkumu. Tento flowchart může poté sloužit pro popis metodiky výzkumu hihi
 
 ![Flowchart paralelní design](images/mixed-methods-parallel.png)
 
-# Na co si dát pozor
+:::
 
 # Další zdroje
 
-## Akademická literatura
+## Zdroje a příklady výzkumů využívajících smíšené metody
 
-[Bamberger, M. (2012). Introduction to mixed methods in impact evaluation.](https://www.interaction.org/wp-content/uploads/2019/03/Mixed-Methods-in-Impact-Evaluation-English.pdf)
-
-[Brannen, J., & Moss, G. (2012). Critical Issues in Designing Mixed Methods Policy Research]([https://doi.org/10.1177/0002764211433796])
-
-[Burch, P., & Heinrich, C. J. (2016). Mixed Methods for Policy Research and Program ](https://doi.org/10.4135/9781483398259)
-
-[Creswell, J. W., & Clark, V. L. P. (2017). Designing and Conducting Mixed Methods Research.](https://us.sagepub.com/en-us/nam/designing-and-conducting-mixed-methods-research/book241842)
-
-## Příklady výzkumů využívající smíšené metody
-
-[O'Connell, R., & Brannen, J. (2016). Food, families and work: Children’s changing food practices in the context of parental employment.](https://discovery.ucl.ac.uk/id/eprint/1528598/1/O'Connell_Food_families_and_work.pdf)
-
-[Moss, G. et al. (2007). The Interactive Whiteboards, Pedagogy and Pupil Performance Evaluation: An Evaluation of the Schools Whiteboard Expansion (SWE) Project: London Challenge]([https://discovery.ucl.ac.uk/id/eprint/10000905/1/Moss2007whiteboardsRR816.pdf)
-
-[Narendorf, S. C. (2017). Intersection of homelessness and mental health: A mixed methods study of young adults who accessed psychiatric emergency services.](https://doi.org/10.1016/j.childyouth.2017.07.024)
+:::{#refs}
+:::
