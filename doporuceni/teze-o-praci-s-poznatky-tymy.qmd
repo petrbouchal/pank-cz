@@ -14,7 +14,7 @@ format:
   docx: default
 ---
 
-## Jak tyto vzkazy vznikly
+## Proč a jak tyto vzkazy vznikly
 
 > Strávili jsme spoustu času s šesti analytickými týmy, o něco méně času čtením literatury a zkoumáním zahraniční praxe práce s poznatky. 
 >
