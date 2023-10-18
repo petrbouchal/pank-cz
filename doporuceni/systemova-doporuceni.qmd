@@ -6,6 +6,7 @@ toc-title: "Oblasti doporučení"
 format:
   html:
     toc-depth: 1
+  docx: default
 aliases: 
   - /doporuceni-system
   - /systemova-doporuceni
@@ -105,7 +106,7 @@ TO DO https://analysisfunction.civilservice.gov.uk/careers/career-framework/
 
 **Proč je to třeba** 
 
-NB včetně profesní linky rozvoje
+Obecným systémovým problémem práce s poznatky je absence uchopení analytika/čky jako specifické profese. Problematické v tomto ohledu není to, že není zavedena přesná definice, což by naopak vzhledem k šíři práce s poznatky ve veřejném sektoru mohlo být zbytečně omezující. Deficitem současného neuchopení analytické profese je to, že následně neexistuje etablovaná komunita, v níž by mohlo docházet k výměně zkušeností a vzájemnému se učení, odborný rozvoj, profesní identita a související motivace se rozvíjet. Dále pak chybí více institucionalizované mechanismy jako společný onboarding nebo přehled základních datových a informačních zdrojů.  
 
 ## Personalistické procesy jako podpora práce s poznatky
 
@@ -116,6 +117,8 @@ NB včetně profesní linky rozvoje
 **Proč je to třeba** 
 
 ## Policy analysis jako klíčová aktivita státu
+
+TO DO: note že to má překryv s analytiky + policy work, viz Howlett
 
 # Lepší schopnosti a dovednosti
 
@@ -156,7 +159,7 @@ Zde nenabízíme konkrétní řešení (tj. jaké typy rozvojových intervencí 
 - prioritizovat rychlý vývoj a testování kurikula před dokonalým řešením vytvořeným za dlouhou dobu
 - u problému rozvoje vedoucích analytických týmů pracovat s rozvojem na základě sdílení zkušeností a skupinové reflexe např. vedoucích nově vznikajících analytických útvarů
 
-Jak vysvětlujeme ve [vzkazech pro stát](teze-o-praci-s-poznatky-stat.qmd), rozvoj analytiků by měl z významné části stát na učení se od druhých a využívání a sdílení existující expertizy a dovedností.
+Jak vysvětlujeme ve [vzkazech pro stát](teze-o-praci-s-poznatky-stat.qmd), rozvoj analytiků by měl z významné části stát na učení se od druhých a využívání a sdílení existující expertizy a dovedností. Stejně tak by součástí rozvojových intervencí mohly být interní stáže, které využívají mnohé státní služby v zahraničí a jako smysuplné je hodnotili i členové týmu v [jedné z našich případových studií](/pripadove-studie/case-tacr.qmd).
 
 Pro definování relevantních znalostí a dovedností, které by program měl budovat, lze využít např. rámec vyvinutí Joint Research Center [@@schwendingerCompetencesPolicymakingCompetence2022] a pro zacílení na různé role a typy analytiků lze využít [@@olejniczakRoleAnalystsPublic2018 resp. @howlettPolicyAnalyticalCapacity2015 viz obr. 1 na s. 175].
 
