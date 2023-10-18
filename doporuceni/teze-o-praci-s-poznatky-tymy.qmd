@@ -94,7 +94,7 @@ Jako všechny (nejen fyzikální) metafory a přirovnání i tato místy kulhaj�
 
 ### Produkty, nejen projekty {#produkty}
 
-TO DO
+**Projektové řízení** je v mnoha situacích potřeba, abyste zvládli zkoordinovat práci více lidí na více souvisejících kusech práce, které mají fungovat dohromady. Někdy ale musíte uvažovat i o **produktech**. Produkt je něco, co má přinést nějakou hodnotu svému uživateli, co se vyvíjí a je třeba to udržovat. Právě práce s daty a poznatky jde tímto směrem: od zaměření na výstupy k zaměření na produkty, které mají delší životnost a při jejich vývoji se používají metody user-centered designu. Typickým příkladem jsou dashboardy, pravidelné reporty a webová rozhraní. Projektové řízení vám umožní dělat věci správně; produktové řízení pomůže dělat správné věci. A uvažování o své práci jako (z části) péči o produkty vám pomůže nedělat reporty do šuplíku. I proto v průvodci najdete návod na [uživatelské testování webového produktu](/pruvodce/user-testing.qmd). Ve vztahu k analýze a komunikaci dat se dokonce uchytil pojem **data product management**; dočíst se o tom můžete třeba na webu [Locally Optimistic](https://locallyoptimistic.com/post/data-product-manager/) a doslechnout v podcastu [Experiencing Data](https://designingforanalytics.com/experiencing-data-podcast/).
 
 ## Jak uvažovat o změně a zlepšování
 
