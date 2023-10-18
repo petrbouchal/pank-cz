@@ -4,7 +4,6 @@ subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: true
 reference-location: document
-citation-location: document
 aliases: 
   - /teze-stat
 format:

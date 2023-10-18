@@ -2,8 +2,12 @@
 title: "Doporučení pro týmy i pro stát"
 editor: source
 toc: false
+toc-location: right-body
 title-block-banner: true
-sidebar: false
+format:
+  html: 
+    grid:
+      sidebar-width: 300px
 ---
 
 :::{.grid .column-body}

@@ -350,6 +350,10 @@ body {
   background: none !important;
 }
 
+h2#toc-title {
+  padding-bottom: 0.6em;
+}
+
 .title {
   font-size: 30pt;
 }
@@ -742,4 +746,14 @@ li {
 
 .claim {
   min-height: 10rem;
+}
+
+@media only screen and (min-width: 600px) {
+  .rep-box {
+    min-height: 18rem;
+  }
+}
+
+.rep-box {
+  min-height: none;
 }

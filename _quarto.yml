@@ -35,23 +35,6 @@ website:
       - pripadove-studie/index.qmd
       - pribeh-projektu.qmd
     logo: /images/logotype_blue.png
-  sidebar:
-  - title: Průvodce
-    id: pruvodce
-    style: floating
-    border: false
-    contents:
-    - text: "Celý průvodce"
-      file: pruvodce/index.qmd
-    - text: "Spolupráce v týmu"
-      file: "pruvodce/list-rizeni.qmd"
-    - text: "Jak získat data a poznatky"
-      file: "pruvodce/list-ziskavani.qmd"
-    - text: "Jak s poznatky pracovat"
-      file: "pruvodce/list-metody.qmd"
-    - text: "Jak dostat svou práci do světa"
-      file: "pruvodce/list-vyuziti.qmd"
-  - title: blah
   twitter-card:
     image: /images/opengraph.jpg
     title: "PANK: Průvodce prací s poznatky"
@@ -90,7 +73,7 @@ format:
     title-block-banner: false
     title-block-categories: false
     reference-location: margin
-    citation-location: margin
+    citation-location: document
     theme:
       light: [cosmo.scss, styles.scss]
       # dark: [darkly, styles-dark.scss]
