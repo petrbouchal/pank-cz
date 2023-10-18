@@ -3,6 +3,8 @@ title: "O práci s poznatky: vzkaz pro představitele státu"
 subtitle: Několik pozorování z dvou let práce s šesti týmy
 editor: source
 title-block-banner: true
+reference-location: document
+citation-location: document
 aliases: 
   - /teze-stat
 format:
@@ -30,51 +32,56 @@ Ačkoliv je "analytická práce" obvykle chápána výlučně jako práce s daty
 
 Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako "analytik/čka" vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, více či méně "nevýzkumné" úlohy jako například rešerše, příprava zpráv pro partnery, vizualizace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat a např. ve vzdělávání cílit na toto širší spektrum potřebných dovedností.
 
-
-
 ### Různé role analytika/čky
 
 Role analytika/čky ve veřejné správě se neomezuje na práci s daty a tvorbu analýz, ale zahrnuje mnohem širší spektrum činností. 
 
-Z širokého chápání analytické práce vyplývá, že analytik/čka se nevěnuje pouze statistické práci s daty. Naopak pokrývá celou řadu činností, které jdou za využití statistických nástrojů, a "tradiční" výzkumné úkony obecně. Analytik/čka tak v různých kontextech může být autorkou zpráv pro management či veřejnost, zadavatelkou externího výzkumu, či knowledge brokerkou. Lepší práce s poznatky ve veřejné správě by toto měla brát v potaz. 
+Z širokého chápání analytické práce vyplývá, že analytik/čka se nevěnuje pouze statistické práci s daty. Naopak pokrývá celou řadu činností, které přesahují využití statistických nástrojů a "tradiční" výzkumné úkony obecně. Analytik/čka tak v různých kontextech může být autorkou zpráv pro management či veřejnost, zadavatelkou externího výzkumu, či knowledge brokerkou. Lepší práce s poznatky ve veřejné správě by toto měla brát v potaz. 
 
-Součástí analytické práce je i syntéza poznatků, jejich předávání a knowledge brokering
+Analytická práce nespočívá výlučně v produkci nových textů a zpráv, ale i ve shrnutí a komunikaci existujících poznatků a postupů. Součástí analytické práce je i syntéza poznatků, jejich předávání a knowledge brokering. Tyto činnosti jsou obzvláště důležité k zajištění toho, aby nedocházelo k duplikování práce a věnování zdrojů na generaci poznání, které již existuje. 
 
-Analytická práce nespočívá výlučně v produkci nových textů a zpráv, ale i ve shrnutí a komunikaci existujících poznatků a postupů.
+Další důležitou rolí je v tomto ohledu i knowledge brokering, kdy by dotyčná oddělení měla předávat vědomosti a postupy, které jsou relevantní pro další aktéry. Toto chápání analytické práce má pak vliv i na požadavky a očekávání kladené na daná oddělení i jednotlivé zaměstnance. 
 
-Široké chápání práce s poznatky implikuje i to, že syntéza a předávání poznatků jsou její součástí. Jakkoliv je analytická práce obvykle asociována s produkcí originálních zpráv, shrnutí a komunikace existujícících informací k dané problematice mají nezastupitelné místo v činnostech orgánů veřejné zprávy. Tyto činnosti jsou obzvláště důležité k zajištění toho, aby nedocházelo k duplikování práce a věnování zdrojů na generaci poznání, které již existuje. Další důležitou rolí je v tomto ohledu i knowledge brokering, kdy by dotyčná oddělení měla předávat vědomosti a postupy, které jsou relevantní pro další aktéry. Toto chápání analytické práce má pak vliv i na požadavky a očekávání kladené na daná oddělení i jednotlivé zaměstnance. 
+Jak ukazuje výzkum ze zahraničí [@@olejniczakRoleAnalystsPublic2018, @howlettPolicyAnalyticalCapacity2015] i z českého prostředí [@veselyPolicyAnalysisPolicy2016], analytici skutečně v praxi hrají relativně širokou roli; snahy o posílení analytické práce by toto měly brát v potaz a např. podporovat rozvoj dovedností v celé této šíři. V tomto kontextu může být užitečný i koncept tzv. policy work [@colebatchWorkingPolicy2011; v českém kontextu @kohoutekConceptualizingPolicyWork2013; @kohoutekPolicyWorkIts2018].
 
 ### Analytické útvary jsou široká kategorie
 
-Práce s poznatky probíhá i na řadě útvarů, které formálně "analytické" nejsou. 
+Práce s poznatky probíhá i na řadě útvarů, které formálně "analytické" nejsou. Je součástí tvorby veřejně-politických opatření (např. dotačních výzev, ale i strategií) a často i operativní a implementační práce.
 
 Zároveň i kategorie analytických útvarů zahrnuje celou řadu oddělení -- od "tvrdě" analytických, které se věnují datové analýze, po ty, kde k analytické práci dochází v rámci specifických a dílčích činností. I tyto útvary nicméně potřebují přístup k zásadám a postupům práce s poznatky, s čímž by měla veřejná správa počítat.
 
-### Dilema: servisní nebo samostatná práce
+Stejně tak i dedikované analytické útvary hrají různé role. Některé se blíží strategickým, některé se specializují na určitý typ poznatků (např. evaluace), některé plní roli servisního útvaru na ad hoc poptávky.
 
-TO DO
-
-### "Knowledge Delivery"
-
-TO DO
 
 ### Rozvoj analytické práce není jen o budování resortních analytických útvarů
 
-TO DO -- reverz bodu výše
+Je možné, že některý typ útvarů by měl např. na resortech existovat průřezově. Toto nebylo předmětem našeho zkoumání, ale dílčí poznatky naznačují, že na některých resortech chybí analytické kapacity na řešení velkých celoresortních témat. Pak by bylo možné uvažovat o nějaké míře stanovení standardu podobně jako je tomu např. [na Slovensku](@ministerstvofinancisrMetodikaBudovaniaAnalitickych2023). I v takovém případě by ale jakákoli koncepce rozvoje analytické práce neměla zapomenout na další typy útvarů, pro které je práce s poznatky podstatná.
 
+### "Knowledge Delivery" jako jedna ze základních funkcí uvnitř organizací
+
+Při uvažování o veřejných organizacích se často objevují kategorie "strategie" a "implementace/operativa", popř. ještě různé podpůrné funkce. Dobře fungující organizace ale musí umět také vstřebávat informace a sbírat zpětnou vazbu a využívat je ve své práci, ať už strategické nebo operativní. 
+
+Můžete se snažit o aplikaci principů "učicí se organizace", ale jednodušší může být zajímat se o to, kdo a kde vykonává funkci tohoto "dodavatele poznatků" (knowledge delivery) do různých procesů a rozhodnutí. Může a nemusí to být jeden specializovaný útvar -- v některých organizacích je "knowledge delivery" funkce integrovaná, jinde je více centralizovaná, nezávislá nebo externí. Některé útvary v sobě mísí strategickou, operativní a znalostní funkci.
+
+Důležité je vědět, kde tuto funkci moje organizace má a co je potřeba pro to, aby fungovala, od kapacit a dovedností před struktury řízení a podpůrné funkce (např. personalistické), které umožní lidem či útvarům plnícím tuto funkci efektivně fungovat.
+
+[!Schéma organizace s knowledge delivery funkcí na příkladu evropských fondů, kde tuto funkci často plní evaluační a monitoringové jednotky. Zdroj @olejniczakLearningEvaluationKnowledge2017](images/olejniczak_overview.jpeg)
 
 ## O lidech
 
 ### Podpora analytické práce by se neměla omezovat na rozvoj individuálních a technických dovedností
 
-TO DO
+Jak argumentujeme výše, rozvoj jednotlivců a analytické práci by se neměl omezit na technické dovednosti. Důležitý je i rozvoj příbuzných schopností, především v oblasti komunikace poznatků, ale také v oblastech jako je syntéza poznatků.
 
-### Školení nejsou jedinou možností vzdělávání analytiků a analytiček
+Jak také ukázal tento projekt, klíčové je zaměřit se kromě individuálních dovedností na kapacity týmů a s tím související dovednosti. Velká část činností spojených s prací s poznatky má interpersonální, skupinový a týmový charakter: od potřeby předávat a společně rozvíjet znalosti, přes schopnost společně řešit analytické a tvůrčí úkoly. 
+
+### Školení jednotlivců nejsou jedinou možností vzdělávání analytiků a analytiček
 
 Profesního a odborného rozvoje jedinců lze dosáhnout i jinými cestami než školeními.
 
-Školení a semináře jsou standardními vzdělávacími procedurami nejen ve státní správě. Ačkoliv mají v rozvoji práce s poznatky ve veřejné správě své nezastupitelné místo, a v některých konkrétních činnostech jsou ideálními způsoby vzdělávání, neplatí to univerzálně. Ke zlepšování analytického know-how a dovedností vedou i účast na konferencích, neformální výměny zkušeností, mezresortní spolupráce a další praktiky. 
- 
+Školení a semináře jsou standardními vzdělávacími procedurami nejen ve státní správě. Ačkoliv mají v rozvoji práce s poznatky ve veřejné správě své nezastupitelné místo, a v některých konkrétních činnostech jsou ideálními způsoby vzdělávání, neplatí to univerzálně. Ke zlepšování analytického know-how a dovedností vedou i účast na konferencích, neformální výměny zkušeností, mezresortní spolupráce a další praktiky.
+
+Podpora učení se mezi jednotlivci a týmu v neformální komunitě analytiků se nabízí jako potenciálně účinný a zjevně nákladově efektivní způsob, jak rozvíjet dovevnosti v oblasti práce s poznatky. Vhodným výchozím bodem může být existující skupina setkávající se pod hlavičkou Pracovní skupiny pro spolupráci analytických útvarů, případně skupina absolventů pilotního vzdělávacího prohramu pro analytiky.
 
 ### Dobrý analytik nerovná se dobrý manažer
 
@@ -82,14 +89,11 @@ Schopnost odvádět kvalitné analytickou práci nutně neznamená, že dotyčn�
 
 Současné nastavení veřejné správy a kariérního postupu v ní směřuje schopné analytiky/čky k tomu, aby postupem času postoupili do vedoucích pozic. Toto nastavení nicméně nereflektuje, že dovednosti dobré/ho analytika/čky nejsou nutně shodné s vlastnostmi dobré/ho vedoucí/ho týmu. Kariérní řád ve veřejné správě by měl tyto skutečnosti vzít v úvahu a umožnit kvalitním analytikům a analytičkám profesní rozvoj a postup, který by nespočival v dosazení do vedoucí pozice. Obráceně dále platí, že dobrý/á vedoucí analytického týmu musí být nutně špičkový/á analytik/čka.     
 
-
 ### Práce s poznatky často stojí na jedincích a individuálních vazbách 
 
-V současných podmínkách je řada analytických činností závislých na jedincích na daných pracovištích, kteří mají potřebné znalosti a dovednosti, což má dopad na fungování daných oddělení. 
+V současných podmínkách je řada analytických činností závislých na jedincích na daných pracovištích, kteří mají potřebné znalosti a dovednosti, popř. vztahy a kontakty, což má dopad na fungování daných oddělení. 
 
 Výzkum a spolupráce s různými částmi veřejné správy v rámci projektu PANK ukázaly, že práce s poznatky, a zejména s kvantitativními daty, často stojí na daných pracovištích na jedincích, kteří mají potřebné know-how a znalosti. Propojeným jevem je pak skutečnost, že spolupráce v oblasti specializovanější analytické práce napříč státní správou je postavena právě na vazbách těchto klíčových osob. Jakkoliv není tento stav ideální, je nutné s touto realitou počítat a v rozvoji analytické práce napříč odděleními zapojit v první řadě právě tyto aktéry, kteří představují "uzly" v dané oblasti.  
-
-
 
 ## O podpoře
 
@@ -97,15 +101,13 @@ Výzkum a spolupráce s různými částmi veřejné správy v rámci projektu P
 
 Dovednosti a technická znalost jednotlivých zaměstnanců a zaměstnankyň jsou důležité, nicméně pouze jejich rozvoj je nedostačující pro správné směřování veřejné správy. Pro pozitivní posun v oblasti práce s poznatky je nutné uchopit personální rozvoj holističtěji a kultivovat znalost i méně technických procesů jako například komunikace výsledků výzkumu, networking atd. Další důležitou rovinou je cílené zlepšování práce na úrovni celého týmu, jelikož řada analytických činností přesahuje agendu jednotlivých zaměstnanců/kyň. 
 
+Naše zkušenost také ukazuje, že k pozitivní změně způsobů práce může vést i skupinová intervence, např. kombinací učení a společná reflexe (v našem případě za facilitace výzkumníků týmu PANK), popř. kombinace individuální rozvojové intervence (učení aplikované na problém, který řeší jednotlivce) s aktivitou daného jednotlivce zaměřenou na změnu způsobu práce celého týmu.
 
 ### Pro kvalitní práci s poznatky je potřeba učení se a sdílení napříč resorty
 
 Jakkoliv se jednotlivé útvary na různých ministerstvech věnují rozdílným agendám, mohou sdílet zkušenosti a dobré praxe z analytické práce napříč resorty. 
 
-Rozvoj analytické práce by neměl probíhat výlučně na jednotlivých odděleních, ale měla by probíhat výměna zkušeností mezi různými pracovišti. Jakkoliv se jejich agendy liší, řada problémů a typů činností, kterým se daná oddělení věnují, jsou podobná napříč odděleními a rezorty. Měla by být tedy napomáháno k tomu, aby se zaměstnanci a zaměstnankyně různých oddělení střetávali a vyměňovali si zkušenosti a dobré praxe. V tomto ohledu může hrát obzvláště užitečnou roli VAÚ. 
-
-
-
+Rozvoj analytické práce by neměl probíhat výlučně na jednotlivých odděleních, ale měla by probíhat výměna zkušeností mezi různými pracovišti. Jakkoliv se jejich agendy liší, řada problémů a typů činností, kterým se daná oddělení věnují, jsou podobná napříč odděleními a rezorty. Měla by být tedy napomáháno k tomu, aby se zaměstnanci a zaměstnankyně různých oddělení střetávali a vyměňovali si zkušenosti a dobré praxe.
 
 ### Pozice analytika/čky by měla být jasně pojmenovaná a definovaná
 
@@ -113,22 +115,21 @@ Zefektivnění práce s poznatky ve veřejné správě by pomohlo, pokud by čis
 
 I v rámci široce chápané analytické práce mají místo pracovní pozice, jejichž náplň spočívá čistě v práci s poznatky. V současném nastavení takové pozice existují, nejsou nicméně formálně ani prakticky takto definované (jedná se o např. pozice "referent"). Pro lepší práci s poznatky by bylo vhodné, aby čistě analytické práce byly takto i formálně zachycené. To by se mělo projevit ve specifikování pracovní činnosti a nároků kladených na dotyčné, které by umožnily najímat, udržet a profesně rozvíjet vhodné lidské zdroje.  
 
-
-### Technické fixy nejsou všespásné
+### Technická řešení nemusí být dostatečná
 
 Technologie mají v analytické práci (a ve veřejné správě obecně) své místo, ale nejsou všespásné. 
 
 Technologické nástroje mohou usnadnit řadu činností, nicméně nemohou být použity jako univerzální řešení. Je potřeba kriticky zvážit, nakolik je použití čistě technických řešení (např. zavedení umělé inteligence) skutečně vhodné a efektivní pro daný problém, kdy je potřeba pozornost věnovat širšímu kontextu. Spojeným poblémem je to, že technická řešení dávají falešnou iluzi toho, že se jedná o řešení "nepolitická" a neutrální, a z těch, kdo je zavádějí, tak zdánlivě snímají nutnost politického rozhodování. 
 
-
 ### Nejde jen o řadové experty a analytiky
 
 ## O podmínkách
 
-### Zlepšení analytické práce by pomohlo sdružení podobně orientovaných oddělení napříč resorty v klastrech    
+### Expertiza v práci s poznatky se shlukuje v klastrech napříč resorty a sektory
 
-Za účelem sdílení zkušeností a dobré praxe v oblasti práce s poznatky by bylo vhodné podobně orientovaná oddělení sdružit v neformálních skupinách. 
+O analytických kapacitách v jednotlivých oblastech veřejných politik je proto dobré uvažovat přes hranice resortů a sektorů. 
 
+V některých oblastech dochází k rozvoji kapacit napříč resorty a sektory. Příkladem je oblast vzdělávání, kde významná část odborných kapacit vznikla mimo státní správu, nyní z nich ale státní správa těžíb při snaze o rozvoj vlastní analytické kapacity. Podobně se trans-sektorální skupina vytvořila v oblasti životního prostředí díky existenci konzorcií aplikovaného výzkumu iniciovaných MŽP. Výměny zkušeností a společné učení v těcho komunitách expertů pak podporují např. konference (Konference Evaluační jednotky NOK) a odborné společnosti (mj. Česká evaluační společnost.)
 
 ### Význam data managementu a sharingu 
 
@@ -136,20 +137,19 @@ Pro kvalitní analytickou práci je nutné věnovat pozornost a energii manageme
 
 Naše zkušenosti poukazují na to, že na řadě oddělení nejsou nijak kodifikované postupy stran shromažďování, klasifikaci a péči o data, ať již získaná odjinud, či vygenerovaná přímo danými odděleními. Management dat je často ad hoc a stojí na několika málo jedincích, kteří mají přehled o existujících datech a jsou schopni zajistit jejich dodání v případě potřeby. Tento systém je tak těžko udržitelný v případě personálních obměn. Pro efektivnější a kontinuálnější práci s poznatky je vhodné na min. úrovni oddělení zavést stálejší postupy a dobré praxe, se kterými by byli obeznámeni (a dodržovali je) všichni zaměstnanci a zaměstnankyně. 
 
-### Zadávání zakázek vs. dělání analýz/evaluací 
+### Součástí analytických kapacit je schopnost pořizovat poznatky zvenčí 
 
-Řada výzkumů a evaluací pro státní správu je řešena zadáním externímu dodavateli. V případě některých odděleních zodpovědných za externí zakázky je ale jejich objem tak velký, že přesahuje kapacity dané jednotky, a pro její zaměstnance a zaměstnankyně tvoří správa zakázek disproporčně velkou pracovní agendu. Zároveň toto nastavení vede k omezeným možnostem kontrolovat kvalitu výstupů, jejich průběžné vytváření a komunikovat vůči různým stakeholderům. V min. některých případech se nabízí otázka, jestli by nebylo vhodné spíše posílit kapacity evaluačních jednotek a dalších relevantních oddělení, které by dané výstupy a výzkumy produkovaly interně. 
+Řada výzkumů a evaluací pro státní správu je řešena zadáním externímu dodavateli. Pro schopnost státu získávat a využívat poznatky pak jsou zásadní tyto faktory:
 
-## ??
+- dovednosti a kapacity jednotlivců pro zadání a řízení zakázek v této oblasti
+- pravidla a postupy na tomto rozhraní, včetně legislativy a praxe zadávání veřejných zakázek a veřejných zakázek v aplikovaném výzkumu (programy TA ČR BETA a podobné)
+- kvalita aktérů na trhu s těmito zakázkami a fungování trhu jako celku; kultivace trhu je a má být součástí role veřejných institucí, případně ve spolupráci např. se stavovskými, odbornými a sektorovými asociacemi.
 
+Přinejmenším v některých případech -- kde zadávání a řízení externích zakázek tvoří velkou část práce útvaru -- se nabízí otázka, jestli by nebylo vhodné spíše posílit kapacity evaluačních jednotek a dalších relevantních oddělení, které by dané výstupy a výzkumy produkovaly interně. 
 
-### Analytická práce zahrnuje vyjasňování zadaných úkolů
+Souvisejícím, ale do jisté míry odděleným problémem, pak je funkčnost tzv. science-policy interface, tj. rozhraní mezi veřejnou správou a vědou. Tato problematika je předmětem samostatného projektu TSI [Building capacity for evidence-informed policymaking in governance and public administration in a post-pandemic Europe](https://knowledge4policy.ec.europa.eu/news/seven-eu-member-states-will-receive-support-reforms-promote-evidence-informed-policymaking_en), který začal v roce 2023 a poběží do roku 2024.
+## Literatura
 
-Kvalitní analytická práce nespočívá pouze v produkci textů a dalších typů výstupů, ale i v kritickém doptávání se po parametrech a cílech daných aktivit. 
-
-Obvyklé chápání analytické práce staví analytika/čku do pozice, v níž přijímají zakázky od jiných aktérů, které následně naplní. Pro kvalitně odvedenou analytickou práci je ale zásadní vyjasnění širšího kontextu úkolu a k čemu přesně má vypracovaný produkt sloužit, jelikož konkrétní provedení práce se bude lišit podle zamýšlené cílové skupiny, typu výstupu, atd. Pracovníci a pracovnice, kteří/ré se věnují analytické práci, by tak měli být podporování v tom, aby proaktivně specifikovali analytické úkoly s poptávajícími. 
-
-
-To do
-
+:::{#refs}
+:::
 
