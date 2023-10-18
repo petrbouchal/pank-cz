@@ -61,11 +61,13 @@ Z těchto priorit jsme si dále vybírali ty, které odpovídali časovým a obs
 
 ## Zvýšení využití analytického výstupu
 
-První prioritou bylo zvýšení využití analytického výstupu. Analytické oddělení dlouhodobě vydává časově náročnou a komplexní analýzu. Jak ovšem sami identifikovali, tato analýza není využívaná tak často, jak přímo v organizaci, tak mimo ní, jak by si čas vložený do ní a její relevantnost zasloužili. Hlavním předmětem této aktivity proto bylo zjistit důvody tohoto nízkého využití a především najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci využívat. Samotný postup k těmto zjištěním probíhal takto: 
+První prioritou bylo zvýšení využití analytického výstupu. Analytické oddělení již několik let vydává pravidelnou, časově náročnou komplexní analýzu. Jak ovšem sami tvůrci identifikovali, tato analýza není ani v organizaci ani mimo ni využívaná tak často, jak by si čas vložený do ní a její relevantnost zasloužily. Cílem této aktivity proto bylo zjistit důvody tohoto nízkého využití a především najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci využívat. Samotný postup k těmto zjištěním probíhal takto: 
 
-Nejdříve analytické oddělení sepsalo seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad "okrajovými" stakeholdery, jež spíše mohou svým zájem o výstup překvapit. Zatímco v rámci organizace udělali několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. 
+Nejdříve analytické oddělení vytvořilo seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad "okrajovými" stakeholdery, jež spíše mohou svým zájem o výstup překvapit. Zatímco v rámci organizace udělali několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. 
 
-Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterých vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikování jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. Celkově vnímáme proces jako povedený. Poučení pro nás určitě bylo, že v době, kdy analytické oddělení pracovalo na podobě výstupu se nám již nepodařilo nad tématem sednout a pracovat společně i v průběhu tvorby. Především z důvodu kapacit analytického oddělení, ale také možná jejich vidiny smysluplnosti tohoto setkání.
+Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterých vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikaci jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. 
+
+Na základě této zkušenosti vznikl návod TO DO LINK.
 
 ## Úspora času díky lepší komunikaci a lepšímu plánování práce
 
@@ -75,16 +77,29 @@ Proto základním identifikovaným řešením bylo vytvoření přehledu všech 
 
 Přehled analytických aktivit přinesl kýžené dopady a je analytickým oddělením nadále využíván a rozvíjen. Jeden z limitů je počet kategorií, které jsme při vytvoření do přehledu zavedli. Člen analytického oddělení za sebe doporučuje držet se max. tří hlavních kategorií, které mají být kvalitně popsány, aby kdokoliv nový měl jasnou představu co si pod danou kategorií představit. Pro nás z toho určitě plyne poučení, jelikož jsme dostatečně neotestovali jaké kategorie dávají opravdu smysl a jaký je smysluplný počet.
 
+Na základě této zkušenosti vznikl návod [Inventura analytických úkolů →](/pruvodce/prehled-analytickych-ukolu.qmd)
+
 ## Rozpracované intervence
 
-Jak téma ministáži, tak téma přijímání zakázek jsme s analytickým týmem diskutovali, ale v rámci kapacit jsme již systematicky nepracovali. Nemáme proto dostatek poznatků, které bychom zde mohli sdílet. Základem myšlenky ministáží bylo umožnit to, aby zaměstnanci analytického týmu mohli na krátkou dobu (v řadě několika dnů) vidět pod ruku relevantním partnerům -- sami členové analytického oddělení zmiňovali, že i krátké pozorování práci kolegů v jiných útvarech organizace jim pomohlo identifikovat procesy, kde může efektivnější práce s daty pomoci. Cílem by bylo to, aby lépe rozuměli jejich práci, potřebám a lépe určili co za analýzy dává smysl těmto partnerům nabízet. Často se totiž setkáváme s tím, že problém se zadáváním analýz je na straně jejich poptavatelů. 
+Jak téma ministáži, tak téma přijímání zakázek jsme s analytickým týmem diskutovali, ale v rámci kapacit jsme na nich již systematicky nepracovali. Nemáme proto dostatek poznatků, které bychom zde mohli sdílet. 
 
-To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tudíž zadat správnou analýzu 2. V návaznosti na to, nemá často představy čeho jsou analytická oddělení schopna a co si můžu zadat. Podobně u tématu přijímání zakázek měl tým záměr minimalizovat nejasnosti a nedorozumění v momentu, kdy interní zákazníci u analytického oddělení poptávají analytickou práci nebo datový výstup. Zde tým měl hypotézu, že by mohl pomoci ticketovací systém podobný tomu, jaký typicky využívají podpůrné IT týmy, popř. sada vstupních otázek. Tato řešení jsme ale neměli prostor otestovat. V praktické rovině se týmu osvědčil princip "zákazník se má soustředit na popis problému, který potřebuje vyřešit, ne na popis řešení, o kterém předpokládá, že povede k řešení"; rolí analytika je pak společně se zákazníkem definovat otázku a výsledkem je zadání, které obsahuje právě specifikaci otázky, kterou má analýza zodpovědět, porozumění účelu analýzy (k čemu ji zákazník použije) a specifikace formy výstupu. Jinými slovy, pomožte zákazníkovi, aby vám dobře popsal problém/otázku, raději než řešení, která ho napadají - to už je vaše práce.         
+Základem myšlenky **ministáží** bylo umožnit, aby zaměstnanci analytického týmu mohli na krátkou dobu (v řádu několika dnů) vidět "pod ruce" relevantním partnerům -- sami členové analytického oddělení zmiňovali, že i krátké pozorování práci kolegů v jiných útvarech organizace jim pomohlo identifikovat procesy, kde může efektivnější práce s daty pomoci. Cílem by bylo, aby lépe rozuměli jejich práci, potřebám a lépe určili co za analýzy dává smysl těmto partnerům nabízet. Často se totiž setkáváme s tím, že problém se zadáváním analýz je na straně jejich poptavatelů. 
 
-# Zobecnitelnější vhledy
+To má dvě příčiny: 
 
--  Spolupráce s oddělením X a práce na výše zmíněných oblastech poukázala na několik aspektů práce s poznatky, které jsou relevantní i pro další oddělení státní správy, především pro interní datové týmy, případně i jednotlivce v roli datového analytika.     
--  Interní datově analytické týmy často musí vyvažovat naplňování ad hoc potřeb interních a externích zákazníků a ambici pracovat na koncepčnějších, dlouhodobějších nebo metodologicky sofistikovanějších projektech. Pomůže udělat si dobrý přehled o tom, jaké ad hoc úkoly plníte a podle toho	
+1. Zadavatel neví, jak správně nadefinovat problém a tudíž zadat správnou analýzu
+2. Zadavatel často nemá dobrou představu o tom, čeho jsou analytická oddělení schopna a co tedy může poptat 
+
+Podobně u tématu **přijímání zakázek** měl tým záměr minimalizovat nejasnosti a nedorozumění v momentu, kdy interní zákazníci u analytického oddělení poptávají analytickou práci nebo datový výstup. Zde tým měl hypotézu, že by mohl pomoci ticketovací systém podobný tomu, jaký typicky využívají podpůrné IT týmy, popř. sada vstupních otázek. Tato řešení jsme ale neměli prostor otestovat. V praktické rovině se týmu osvědčil princip "zákazník se má soustředit na popis problému, který potřebuje vyřešit, ne na popis řešení, o kterém předpokládá, že povede k řešení"; rolí analytika je pak společně se zákazníkem definovat otázku a výsledkem je zadání, které obsahuje právě specifikaci otázky, kterou má analýza zodpovědět, porozumění účelu analýzy (k čemu ji zákazník použije) a specifikace formy výstupu. Jinými slovy: *pomožte zákazníkovi, aby vám dobře popsal problém/otázku,* raději než řešení, která ho napadají -- to už je vaše práce.         
+
+# Obecně aplikovatelné poznatky
+
+Spolupráce s analytickým oddělením a práce na výše zmíněných oblastech poukázala na několik aspektů práce s poznatky, které jsou relevantní i pro další oddělení státní správy, především pro interní datové týmy, případně i jednotlivce v roli datového analytika.     
+
+Interní datově analytické týmy často musí vyvažovat naplňování ad hoc potřeb interních a externích zákazníků a ambici pracovat na koncepčnějších, dlouhodobějších nebo metodologicky sofistikovanějších projektech. 
+
+Pomůže udělat si dobrý přehled o tom, jaké ad hoc úkoly plníte a podle toho	
+
 -  Lépe zorganizovat práci -- co kdy a pro koho vytváříte
 -  Ujasnit si, co je a není třeba
 -  Investovat do automatizace
@@ -95,23 +110,25 @@ To ze dvou důvodů: 1. Zadavatel neví, jak správně nadefinovat problém a tu
 
 # Systémové bariéry
 
--  Dostupnost dat ve veřejné správě
--  Dostupnost dat pro evaluace
+Tým v relativně malé organizaci nanaráží na zásadní systémové bariéry; pro lepší fungování práce s poznatky přesevším v oblasti fungování politik výzkumu a vývoje by ale pomohla lepší **dostupnost (především firemních) dat napříč úřady** pro účely vyhodnocování dopadů intervencí.
 
 # Dobré praxe
 
--  Interní dashboardy
--  Interní rozvoj technických dovedností
--  Datoví ambasadoři / demokratizace dat
--  Interní rozcestník analýz
--  INKAviz -- řízený přístup k datům
--  Data governance -- gestoři datových položek
--  Datový tým zapojený do tvorby nového IT systému, přitom zapojuje věcné gestory
--  Na úrovni TA ČR: systém řízení změn
--  Na úrovni TA ČR: schopnost a ochota jednotlivých specialistů využívat data pro zlepšování procesů
--  Na úrovni TA ČR: evaluační funkce (dělají i nepovinné ex post evaluace, metodologicky solidní)
+-  Interní dashboardy: namísto ad hoc reportů tým produkuje a udržuje sadu dashboardů (viz [vzkaz o produktech](/doporuceni/teze-o-praci-s-poznatky-stat.qmd#produkty))
+-  Interní rozvoj technických dovedností: tým interními kapacitami rozvíjí své dovednosti v Pythonu a dalších technologiích (viz [doporučení k nástrojům analýzy dat](/doporuceni/systemova-doporuceni.qmd#standardy-a-podmínky-pro-práci-s-daty)) a naopak průběžně proškoluje věcné experty napříč agentury v základnějších nástrojích a práci s konkrétními daty organizace
+-  Datoví ambasadoři / demokratizace dat: tým má za cíl "zplnomocnit" jednotlivé věcné útvary agentury v práci s daty
+-  Interní rozcestník analýz: nalezitenost existujících analýz se zajišťuje interním rozcestníkem na intranetu
+-  [INKAviz](https://inkaviz.tacr.cz/) -- jde o [datový produkt](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#produkty) a příklad řízeného přístupu k datům
+-  Data governance: organizace jako celek rozvíjí governance dat organizace mj. s cílem zajistit vlastnictví a jasnou definici klíčových datových položek, se kterými informační systém a agentura jako taková pracují
+-  Datový tým je zapojený do tvorby nového IT systému, přitom zapojuje věcné gestory
 
-# Kontakt poděkování
+Na úrovni TA ČR
+
+-  organizce má systém řízení změn, kde lze diskutovat náměty na změny v procesech, které zasáhnou širší spektrum aktérů
+-  je patrná schopnost a ochota jednotlivých specialistů využívat data pro zlepšování procesů
+-  agentura má interní evaluační jednotku (ta dělá i nepovinné ex post a ex ante evaluace), která se průběžně snaží zlepšovat jak metody vyhodnocování programů a soutěží, tak propisování výsledků evaluací do rozhodování
+
+# Kontakt a poděkování
 
 Pokud Vás příběh týmu zajímá, kontaktujte [Michala Petkova](petkov@tacr.cz) z TA ČR nebo Tomáše Čecha v Českých prioritách. 
 
