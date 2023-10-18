@@ -3,8 +3,14 @@ title: "Doporučení pro týmy i pro stát"
 editor: source
 toc: false
 title-block-banner: true
-sidebar: true
+sidebar: false
 ---
+
+:::{.grid .column-body}
+
+:::{.g-col-12 .g-col-md-6}
+
+:::{.rep-box}
 
 ## Pro týmy
 
@@ -13,37 +19,61 @@ sidebar: true
 Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování?
 
 :::{.btn .btn-primary}
-[Co by měly o práci s poznatky vědět týmy a jejich členové&nbsp;⟶](/teze-tymy)
+[Číst vzkazy&nbsp;⟶](/teze-tymy)
 :::
+
+:::
+
 
 <br />
 
+:::{.rep-box}
+
 ### Kde ještě brát inspiraci?
 
-Další zdroje, nástroje a návody které by se vám mohly hodit. O koncepčnějších po velmi praktické, české i ze světa.
+Další zdroje, nástroje a návody které by se vám mohly hodit. Od koncepčnějších po velmi praktické, české i ze světa.
 
 :::{.btn .btn-primary}
-[Podívejte se, co doporučujeme&nbsp;⟶](/inspirace)
+[Procházet inspirace a zdroje&nbsp;⟶](/inspirace)
 :::
 
+:::
+
+:::
+
+:::{.g-col-12 .g-col-md-6}
+
+:::{.rep-box}
 
 ## Pro stát
 
 ### Ne všechno změníte sami tím, že budete pracovat na svém týmu. 
 
-Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
+Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů. Co by se mělo změnit?
 
 :::{.btn .btn-primary}
-[Co doporučujeme změnit na úrovni státu a zákonů&nbsp;⟶](/doporuceni-system)
+[Číst doporučení &nbsp;⟶](/doporuceni-system)
+:::
+
 :::
 
 <br />
+
+:::{.rep-box}
+
+### Vzkazy pro stát
 
 A co by měli vědět klíčoví aktéři -- **vedení státní služby a ministerstev** -- než se do těch větších změn pustí?
 
 :::{.btn .btn-primary}
-[Co by si měl stát uvědomit o práci s poznatky&nbsp;⟶](/teze-stat)
+[Číst vzkazy&nbsp;⟶](/teze-stat)
 :::
 
 <br />
+
+:::
+
+:::
+
+:::
 
