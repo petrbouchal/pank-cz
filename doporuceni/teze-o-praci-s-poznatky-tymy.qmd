@@ -64,6 +64,16 @@ Prapůvod uvažování o různých módech využití poznatků je práce Carol W
 
 Je také užitečné zvažovat, pro jaký praktický účel nějaké poznatky vytváříme -- zda je cílem skládat účty za výkon organizace, nebo podpořit organizační učení, a zda jde o strategické, nebo operační záležitosti, jak ukazuje diagram níže.
 
+:::{.callout .callout-note title="Pro koho to děláme?"}
+
+Velká část literatury a praktických pomůcek ze světa předpokládá, že pro tvůrce poznatků -- ať už akademika nebo interního analytika -- je zásadní vztah s někým, kdo je v pozici dělat rozhodnutí: *decision maker*.
+
+TODO vysvětlivka o složitější konfiguraci: věcňáci, manažeři věcňáků, manažeři analytiků - plus někdy metodici, legislativci, externí dodavatelé.
+
+TODO část vaší práce je vymyslet, jak tyto různé skupiny zahrnout do procesu vzniku poznatků, jak s nimi pracovat, jak k nim komunikovat. Pokrýváme to v průvodci např. v návodu k [řízení externího výzkumu], [využití Beta], [zadání analytického úkolu] či [tvorbě zpráv], [rozjezdu analytického útvaru] či [podpoře využití výstupů práce s poznatky].
+
+:::
+
 ![Diagram účelů využití poznatků, zdroj: @olejniczakLearningEvaluationKnowledge2017](/images/olejniczak_uses.jpeg)
 
 ### Tvorba politik je často nelineární proces, musíte s tím počítat {#nelinearni}
@@ -153,7 +163,7 @@ Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní sp
 
 ### Čas strávený zlepšováním vlastní práce je investice {#investice}
 
-TODO
+Některé z návodů v našem [průvodci](/pruvodce) vyžadují vklad času na aktivity, na které v běžné provozu není prostor. To se může zdát jako
 
 ## Odkazovaná literatura
 
