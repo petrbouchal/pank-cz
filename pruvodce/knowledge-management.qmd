@@ -51,15 +51,15 @@ Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je
 ## 1. Zachycení a katalogizace analýz
 
 - Vytvořte si klidně i jednoduchou tabulku/seznam všech analýz
-- Lze také propojit s "plachtou agend" viz [tento průvodce](../pruvodce/identifikace-znalostnich-potreb), která může sloužit k určení analytických potřeb organizace
+- Lze také propojit s "plachtou agend" viz [tento průvodce](/pruvodce/identifikace-znalostnich-potreb), která může sloužit k určení analytických potřeb organizace
 - V sofistikované variantě můžete výstupy zanášet do tzv. knowledge (gap) map, neboli mapy znalostí a znalostních mezer. To ale vyžaduje hlubší práci na tom, jaké rozměry věci chcete v mapě zachycovat.
-- Souvisí s [přehledem analytických úkolů](../pruvodce/prehled-analytickych-ukolu), ale jeho účelem je plánovat práci 
+- Souvisí s [přehledem analytických úkolů](/pruvodce/prehled-analytickych-ukolu), ale jeho účelem je plánovat práci 
 
 
 ## 2. Zpřístupnění analýz
 
 - Sharing sessions/workshopy - setkání, kde můžete diskutovat o dostupných analýzách a jejich využití 
-- V [programu BETA](../pruvodce/beta2) role zástupce odborného garanta -- jeho role je starat se o naplňování vědomostních potřeb ministerstva
+- V [programu BETA](/pruvodce/beta2) role zástupce odborného garanta -- jeho role je starat se o naplňování vědomostních potřeb ministerstva
 - Vytváření různých typů výstupů pro různé cílovky -- někteří stakeholdeři potřebují výstupy v různých formách, zkuste poznatky předávat podle jejich potřeb
 - Syntéza poznatků z různých výzkumů - policy stewardship 
 
@@ -106,6 +106,8 @@ Sebelepší propagace ale věc nezachrání, pokud analýzy nevychází ze **sku
 A pamatujte, že i po zavedení skvělého knowledge managementu bude stále platit, že [**část znalostí je pouze v hlavách lidí**](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#tacitni) a je potřeba zajistit jejich zachování např. i když někdo tým opouští (⟶ návod [TODO LINK Offboarding člena týmu](offboarding)).
 
 # Další zdroje
+
+TO DO
 
 [What is Knowledge Management](https://www.starmind.ai/resources/what-is-knowledge-management-and-why-is-it-so-important) [@starmindaiWhatKnowledgeManagement2022]
 
