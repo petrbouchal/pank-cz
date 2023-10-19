@@ -107,7 +107,7 @@ Veškeré společné úsilí, ve kterých jsme společně došli k vytvoření a
 
 # Systémové bariéry
 
-TO DO
+TODO
 
 # Reflexe
 

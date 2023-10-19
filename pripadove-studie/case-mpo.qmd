@@ -88,7 +88,7 @@ Výsledkem je návod [Uživatelský výzkum a testování webového produktu →
 
 Analytické výstupy, které generují členové týmu S3 jsou využívány interně i externě, a proto je vhodné v přípravných fázích pochopit potřeby těchto uživatelů a přizpůsobit jim obsah i formu analytického výstupu. Paralelně jsme se pokusili o aplikaci inovativních nástrojů pro sběr dat, zejména pomocí umělé inteligence.
 
-Zkušenosti z této části spolupráce jsme promítli do návodu [Kvalitní a efektivní zprávy →](TO DO LINK)
+Zkušenosti z této části spolupráce jsme promítli do návodu [Kvalitní a efektivní zprávy →](TODO LINK)
 
 # Dobré praxe v týmu
 
@@ -96,11 +96,11 @@ Tým zaujímá proklientský přístup při komunikaci se zainteresovanými stra
 
 I přes vysoké nároky na organizaci a koordinaci se daří EDP platformy pravidelně zapojovat do procesů tvorby a implementace strategie.
 
-TO DO doplnit
+TODO doplnit
 
 - využívání evropských sítí a expertizy (JRC) - viz paper k misím v RIS3
 - využívání a budování specializované expertizy (TC)
-- spolupráce v tématu inovací napříč organizacemi (CzechInvest, TA ČR, TC - datový tým), vč. datových -  (TO DO prolink na systémovou tezi o klastrech)
+- spolupráce v tématu inovací napříč organizacemi (CzechInvest, TA ČR, TC - datový tým), vč. datových -  (TODO prolink na systémovou tezi o klastrech)
 
 # Systémové bariéry TODO rozepsat nástřel a doplnit
 

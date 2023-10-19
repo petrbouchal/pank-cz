@@ -45,7 +45,7 @@ Jaké postupy zvolíte v jednotlivých krocích by mělo vycházet z **vašeho p
 - Co potřebují? Co je nejvíc trápí? 
 - Co zvládnou? 
 
-Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je svého druhu interní produkt a na jeho vývoj tedy můžete použít postupy uživatelského výzkumu a testování viz&nbsp;⟶ [návod](LINK TO DO)).
+Pokud nevíte, ptejte se. (Systém katalogizace a zpřístupňování analýz je svého druhu interní produkt a na jeho vývoj tedy můžete použít postupy uživatelského výzkumu a testování viz&nbsp;⟶ [návod](LINK TODO)).
 
 
 ## 1. Zachycení a katalogizace analýz
@@ -107,7 +107,7 @@ A pamatujte, že i po zavedení skvělého knowledge managementu bude stále pla
 
 # Další zdroje
 
-TO DO
+TODO
 
 [What is Knowledge Management](https://www.starmind.ai/resources/what-is-knowledge-management-and-why-is-it-so-important) [@starmindaiWhatKnowledgeManagement2022]
 

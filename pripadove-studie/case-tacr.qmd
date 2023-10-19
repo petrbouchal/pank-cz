@@ -67,7 +67,7 @@ Nejdříve analytické oddělení vytvořilo seznam všech relevantních stakeho
 
 Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterých vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikaci jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. 
 
-Na základě této zkušenosti vznikl návod TO DO LINK.
+Na základě této zkušenosti vznikl návod TODO LINK.
 
 ## Úspora času díky lepší komunikaci a lepšímu plánování práce
 

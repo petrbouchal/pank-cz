@@ -50,7 +50,7 @@ Experti na využívání a správu znalostí často mluví o tzv. tacitních zna
 
 Většinu tacitních znalostí nemá smysl se snažit **kodifikovat** -- řešením není snažit se sepisovat metodiky a procesní dokumenty. Má ale má smysl snažit se je šířit skrze společnou práci, učení se jeden od druhého, pozorování práce druhých [@lambePrinciplesKnowledgeAuditing2023]. 
 
-Některé **nezachycené explicitní** informace a znalosti (např. kontakty, mentální mapy, některé zavedené postupy) ale má smysl se snažit zachytit -- typicky abychom minimalizovali dopady fluktuace lidí. [TO DO LINK OFFBOARDING]
+Některé **nezachycené explicitní** informace a znalosti (např. kontakty, mentální mapy, některé zavedené postupy) ale má smysl se snažit zachytit -- typicky abychom minimalizovali dopady fluktuace lidí. [TODO LINK OFFBOARDING]
 
 ## Jak uvažovat o dopadu a využití poznatků {#vyuziti}
 
@@ -153,7 +153,7 @@ Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní sp
 
 ### Čas strávený zlepšováním vlastní práce je investice {#investice}
 
-TO DO
+TODO
 
 ## Odkazovaná literatura
 

@@ -94,11 +94,11 @@ Současná struktura státní správy je organizována podle funkcí a profesí 
 - dráha
 - champions
 
-TO DO
+TODO
 
-TO DO @hmgovernmentGovernmentFunctionalStandard2023
+TODO @hmgovernmentGovernmentFunctionalStandard2023
 
-TO DO https://analysisfunction.civilservice.gov.uk/careers/career-framework/
+TODO https://analysisfunction.civilservice.gov.uk/careers/career-framework/
 
 **Co je problém**: 
 
@@ -118,7 +118,7 @@ Obecným systémovým problémem práce s poznatky je absence uchopení analytik
 
 ## Policy analysis jako klíčová aktivita státu
 
-TO DO: note že to má překryv s analytiky + policy work, viz Howlett
+TODO: note že to má překryv s analytiky + policy work, viz Howlett
 
 # Lepší schopnosti a dovednosti
 
