@@ -196,9 +196,7 @@ Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neef
 
 ## Nábor a platy umožňující přitáhnout talent
 
-# Dostupnější zdroje dat a informací
-
-## Snadnější přístup k datům veřejného sektoru
+TODO
 
 **Co je problém**: 
 
@@ -206,7 +204,27 @@ Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neef
 
 **Proč je to třeba**
 
+# Dostupnější zdroje dat a informací
+
+## Snadnější přístup k datům veřejného sektoru
+
+TODO
+
+**Co je problém**: 
+
+**Co doporučujeme** 
+
+**Proč je to třeba**
+
+- rozdělit na
+  - statistiky a agregovaná a neosobní data (částečně problém předávání, objevitelnosti a dostupnosti)
+  - mikrodata
+  - mikrodata osobní
+  - totéž pro výzkum - pokud k tomu nemá přístup vědecká sféra, negeneruje užitečný výzkum
+
 ## Dostupné akademické zdroje
+
+TODO
 
 **Co je problém**: 
 
@@ -215,6 +233,8 @@ Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neef
 **Proč je to třeba**
 
 ## Snadněji nalezitelné výstupy veřejného sektoru
+
+TODO
 
 **Co je problém**: 
 
@@ -225,6 +245,8 @@ Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neef
 # Podmínky pro zlepšování práce s poznatky
 
 ## Leadership a klíčové role
+
+TODO
 
 **Co je problém**: 
 
