@@ -260,7 +260,7 @@ V této oblasti naznačujeme pouze některé směry k úvaze.
 
 **Co je problém**: v oblasti analýzy dat se zásadně liší přístupy, technologie a postupy běžně používané ve státní správě od těch běžných v soukromém sektoru.
 
-V posledních letech se velká část soukromého sektoru v oblasti analýzy dat posouvá k využivání open source nástrojů analýzy dat (Python, R, Julia aj.), v datové analytici se využívají nástroje a postupy známé ze softwarového vývoje (git, nástroje kontinuální integrace a vývoje - CI/CD) a větší systémy se staví modulárně z dostupných open source komponent. Tyto přístupy a nástroje nejsou ve veřejné správě běžné, byť se také rozšiřují a část z nich používají mnozí individuální analytici a týmy, často ale systému poněkud navzdory.
+V posledních letech se velká část soukromého sektoru v oblasti analýzy dat posouvá k využivání open source nástrojů analýzy dat (Python, R, Julia aj.), v datové analytici se využívají nástroje a postupy známé ze softwarového vývoje (git, nástroje kontinuální integrace a vývoje - CI/CD) a větší systémy se staví modulárně z volně dostupných open source komponent (tzv. Modern Data Stack). Tyto přístupy a nástroje nejsou ve veřejné správě běžné, byť se také rozšiřují a část z nich používají mnozí individuální analytici a týmy, často ale systému poněkud navzdory.
 
 **Co doporučujeme**
 
