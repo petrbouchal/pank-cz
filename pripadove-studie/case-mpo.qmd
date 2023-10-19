@@ -67,7 +67,6 @@ Některé výstupy (např. Národní RIS3 strategie a její přílohy) jsou velm
 
 Prezentace dat a indikátorů pro monitoring RIS3 původně neodpovídala standardům open data (complete, primary, timely, accessible, machine processable, non-discriminatory, non-proprietary, license-free). Indikátory byly dostupné pouze z tabulky ve formátu PDF, což zásadně limitovalo možnosti jejich dalšího využití. Nedávno spuštěný RIS3 portál situaci o něco zlepšil (publikace datových tabulek /dashboardů), zároveň s sebou nese potřebu vhodně využít nové technické možnosti pro efektivní komunikace dat vzhledem k různým adresátům sdělení.
 
-
 ## Intervence
 
 Na základě výše uvedených poznatků o současném stavu analytické práce na oddělení S3 jsme týmu S3 navrhli několik oblastí pro rozvoj intervencí. První tři se týkají věcné / obsahové práce v souvislosti s designem a implementací RIS3. A to zejména design nových prvků do strategie (např. mise) a zajištění široké participace v EDP procesu (“quadruple helix”).
@@ -89,8 +88,6 @@ Výsledkem je návod [Uživatelský výzkum a testování webového produktu →
 
 Analytické výstupy, které generují členové týmu S3 jsou využívány interně i externě, a proto je vhodné v přípravných fázích pochopit potřeby těchto uživatelů a přizpůsobit jim obsah i formu analytického výstupu. Paralelně jsme se pokusili o aplikaci inovativních nástrojů pro sběr dat, zejména pomocí umělé inteligence.
 
-Proklik Analytické zprávy
-
 Zkušenosti z této části spolupráce jsme promítli do návodu [Kvalitní a efektivní zprávy →](TO DO LINK)
 
 # Dobré praxe v týmu
@@ -98,3 +95,15 @@ Zkušenosti z této části spolupráce jsme promítli do návodu [Kvalitní a e
 Tým zaujímá proklientský přístup při komunikaci se zainteresovanými stranami, zejména skrz osobní kontakt. Pro potřeby komunikace celkového rámce strategie RIS3 existují stručné informační podklady, které jsou adekvátní vzhledem k cílovým skupinám, které nemají vždy kapacitu přečíst celý psaný dokument.
 
 I přes vysoké nároky na organizaci a koordinaci se daří EDP platformy pravidelně zapojovat do procesů tvorby a implementace strategie.
+
+TO DO doplnit
+
+- využívání evropských sítí a expertizy (JRC) - viz paper k misím v RIS3
+- využívání a budování specializované expertizy (TC)
+- spolupráce v tématu inovací napříč organizacemi (CzechInvest, TA ČR, TC - datový tým), vč. datových -  (TO DO prolink na systémovou tezi o klastrech)
+
+# Systémové bariéry TODO rozepsat nástřel a doplnit
+
+- fragmentace policy a delivery na MPO - jedna sekce drží peníze, druhá dělá policy
+- najímání lidí / platy
+- nestabilita fondových projektů - klíčová strategie státu a lidem v týmu, který ji řídí, dáváme 2-3 letou perspektivu

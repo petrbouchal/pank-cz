@@ -69,15 +69,17 @@ Ve fázi designu výzkumu jsou v rámci mikrotýmů mobilizováni všichni akté
 V oddělení jsou částečně implementovány tzv. buddy systém a stínování, která mají za cíl lépe připravovat nově příchozí zaměstnance.
 Členové OVE se pravidelně setkávají v rámci tematických seminářů a na konferencích umožňující síťování s dalšími aktéry.
 
-# Zobecnitelnější vhledy
+# Zobecnitelnější vhledy [TODO název sladit]
 
-Projektové řízení týmu přináší některé výzvy spojené s určitou rigiditou ohledně požadovaných (či možných) výstupů.
+Projektové řízení týmu přináší některé výzvy spojené s určitou rigiditou ohledně požadovaných (či možných) výstupů. [TODO - patří do bariér]
 
-Analytické aktivity OVE pokrývají oblasti působnosti několika resortů (zejm. MPSV, MMR, MŠMT)
+Analytické aktivity OVE pokrývají oblasti působnosti několika resortů (zejm. MPSV, MMR, MŠMT) [TODO toto nic moc neříká, leda prolinkovat na systémovou tezi o klastrech]
 
-# Systémová doporučení
+[TODO tady budou ještě další věci asi?]
 
-!!! DOPLNIT !!!- Přístup k datům 
+# Systémové bariéry
+
+TODO !!! DOPLNIT !!!- Přístup k datům 
 
 # Kontakt a poděkování
 
