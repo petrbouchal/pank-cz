@@ -80,7 +80,7 @@ Druhá intervence měla za cíl navrhnout postup pro realizaci syntetické analy
 
 ### Uživatelské testování webového produktu
 
-V současné době se řada analytických výstupů prezentuje na webových kanálech. V zájmu posílení jejich využitelnosti a přehlednosti jsme navrhli postup, jak testovat webový produkt přímo s uživateli pomocí metod uživatelského designu (UX design).
+Řada analytických výstupů se prezentuje na webových kanálech. V zájmu posílení jejich využitelnosti a přehlednosti jsme navrhli postup, jak testovat webový produkt přímo s uživateli pomocí metod uživatelského designu (UX design).
 
 Výsledkem je návod [Uživatelský výzkum a testování webového produktu →](/pruvodce/user-testing.qmd)
 
@@ -99,8 +99,16 @@ I přes vysoké nároky na organizaci a koordinaci se daří EDP platformy pravi
 TODO doplnit
 
 - využívání evropských sítí a expertizy (JRC) - viz paper k misím v RIS3
-- využívání a budování specializované expertizy (TC)
+- využívání a budování specializované expertizy (TC) - zkrz rámcovku pěstujou to TC (lepší než banda kozultaček)
 - spolupráce v tématu inovací napříč organizacemi (CzechInvest, TA ČR, TC - datový tým), vč. datových -  (TODO prolink na systémovou tezi o klastrech)
+
+# Zobecnitelnější vhledy
+
+Teze: 
+- v 1 týmu celá strategická práce (tvorba a koordinace, poskytování dat do toho prostředí, síťování aktérů v prostředí)
+- přestože se nejedná o čistě analytický útvar, dělají datové produkty pro to prostředí a budujou expertizu v tématech
+- datová práce hodně koncentrovaná v jednom člověku -> riziko že bez datamanagement pouze v jeho hlavě, závislost na jednom člověku
+- je dobré vyhledat expertízu i mimo veřejnou správu, zejména v aplikaci technických postupů (často to už někde řeší byznys třeba...)
 
 # Systémové bariéry TODO rozepsat nástřel a doplnit
 
