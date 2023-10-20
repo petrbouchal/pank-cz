@@ -96,6 +96,10 @@ Tým zaujímá proklientský přístup při komunikaci se zainteresovanými stra
 
 I přes vysoké nároky na organizaci a koordinaci se daří EDP platformy pravidelně zapojovat do procesů tvorby a implementace strategie.
 
+Tým S3 využívá evropských sítí a expertizy (zejm. Společné výzkumné středisko Evropské komise - JRC) pro odbornou podporu svých agend. Nedávno tato spolupráce vyústila v [doporučení](https://www.ris3.cz/aktuality/novy-pohled-na-inovacni-politiku-prinasi-studie-mpo-a-jrc) pro design a implementaci nového nástroje podpory výzkumu a vývoje - Inovační mise.
+
+Oddělení S3 zároveň buduje tuzemskou síť specializované expertizy pomocí projektu [„Strategická inteligence pro výzkum a inovace“ (STRATIN+)](https://stratin.tc.cas.cz/), na kterém se podílí Technologické centrum Praha, Sociologický ústav AV ČR, EURAXESS a Národní vzdělávací fond. MPO také navázal spolupráce v tématu inovací napříč veřejnými organizacemi (zejm. Czechinvest a TA ČR). 
+
 TODO doplnit
 
 - využívání evropských sítí a expertizy (JRC) - viz paper k misím v RIS3
@@ -104,13 +108,17 @@ TODO doplnit
 
 # Zobecnitelnější vhledy
 
-Teze: 
-- v 1 týmu celá strategická práce (tvorba a koordinace, poskytování dat do toho prostředí, síťování aktérů v prostředí)
-- přestože se nejedná o čistě analytický útvar, dělají datové produkty pro to prostředí a budujou expertizu v tématech
-- datová práce hodně koncentrovaná v jednom člověku -> riziko že bez datamanagement pouze v jeho hlavě, závislost na jednom člověku
-- je dobré vyhledat expertízu i mimo veřejnou správu, zejména v aplikaci technických postupů (často to už někde řeší byznys třeba...)
+V oddělení S3 se koncentrují všechny činnosti spojené se strategickou prací, od koncepce po koordinaci, ale také poskytování dat a podkladů do celého prostředí a síťování všech aktérů.
 
-# Systémové bariéry TODO rozepsat nástřel a doplnit
+Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovanou odbornou kapacitu v tématu podpory vědy a výzkumu a vytváří datové produkty pro celé prostředí. 
 
-- fragmentace policy a delivery na MPO - jedna sekce drží peníze, druhá dělá policy
-- nestabilita fondových projektů - klíčová strategie státu a lidem v týmu, který ji řídí, dáváme 2-3 letou perspektivu + nezajištění kontinuity + někdy rozdílné platové podmínky mezi lidma 
+Know-how pro práci s daty je koncentrovaná v jednom až dvou členech týmu, což je relativně běžné i v jiných analytických útvarech (např. na ASZ). To přináší výhodu z hlediska budování know-how a zajištění kontinuity, nicméně se tím zvyšuje i závislost na těchto členech týmu. Specificky v oblasti dat vzniká také riziko, že postupy pro správu dat (data management) nejsou zexplicitněny a aplikovány napříč týmem.  
+
+Během projektu se ukázalo, že v některých případech může být užitečné vyhledat expertizu i mimo veřejnou správu, zejména pro aplikaci technických postupů.
+
+
+# Systémové bariéry
+
+Oblast veřejné podpory výzkumu a vývoje se v Česku vyznačuje velkým počtem aktérů a roztříštěností zodpovědností. V kontextu strategie RIS3 je tato fragmentace ještě posílená tím, že tvorba a řízení strategie je organizačně oddělená od rozhodování ohledně finanční podpory v rámci evropských i národních dotačních titulů. 
+
+Aktivity na podporu implementace strategie (vč. analytické práce) jsou téměř výhradně hrazené skrz evropské fondy a projektoké financování. V důsledku jsou tyto aktivity rozvíjeny v krátkých časových rámcích typické pro projektové financování (2-3 roky), což ohrozuje jejich kontinuitu a zvyšuje nejistotu členů týmu ohledně jejich budoucího působení.  
