@@ -64,7 +64,7 @@ Můžete se snažit o aplikaci principů "učicí se organizace", ale jednoduš�
 
 Důležité je vědět, kde tuto funkci moje organizace má a co je potřeba pro to, aby fungovala, od kapacit a dovedností před struktury řízení a podpůrné funkce (např. personalistické), které umožní lidem či útvarům plnícím tuto funkci efektivně fungovat.
 
-[!Schéma organizace s knowledge delivery funkcí na příkladu evropských fondů, kde tuto funkci často plní evaluační a monitoringové jednotky. Zdroj @olejniczakLearningEvaluationKnowledge2017](images/olejniczak_overview.jpeg)
+[!Schéma organizace s knowledge delivery funkcí na příkladu evropských fondů, kde tuto funkci často plní evaluační a monitoringové jednotky. Zdroj @olejniczakLearningEvaluationKnowledge2017](/images/olejniczak_overview.jpeg)
 
 ## O lidech
 
@@ -132,7 +132,7 @@ O analytických kapacitách v jednotlivých oblastech veřejných politik je pro
 
 V některých oblastech dochází k rozvoji kapacit napříč resorty a sektory. Příkladem je oblast vzdělávání, kde významná část odborných kapacit vznikla mimo státní správu, nyní z nich ale státní správa těžíb při snaze o rozvoj vlastní analytické kapacity. Podobně se trans-sektorální skupina vytvořila v oblasti životního prostředí díky existenci konzorcií aplikovaného výzkumu iniciovaných MŽP. Výměny zkušeností a společné učení v těcho komunitách expertů pak podporují např. konference (Konference Evaluační jednotky NOK) a odborné společnosti (mj. Česká evaluační společnost.)
 
-### Význam data managementu a sharingu 
+### Správa a sdílení dat jsou pro práci s poznatky zásadní 
 
 Pro kvalitní analytickou práci je nutné věnovat pozornost a energii managementu a sdílení dat.
 
@@ -149,6 +149,7 @@ Naše zkušenosti poukazují na to, že na řadě oddělení nejsou nijak kodifi
 Přinejmenším v některých případech -- kde zadávání a řízení externích zakázek tvoří velkou část práce útvaru -- se nabízí otázka, jestli by nebylo vhodné spíše posílit kapacity evaluačních jednotek a dalších relevantních oddělení, které by dané výstupy a výzkumy produkovaly interně. 
 
 Souvisejícím, ale do jisté míry odděleným problémem, pak je funkčnost tzv. science-policy interface, tj. rozhraní mezi veřejnou správou a vědou. Tato problematika je předmětem samostatného projektu TSI [Building capacity for evidence-informed policymaking in governance and public administration in a post-pandemic Europe](https://knowledge4policy.ec.europa.eu/news/seven-eu-member-states-will-receive-support-reforms-promote-evidence-informed-policymaking_en), který začal v roce 2023 a poběží do roku 2024.
+
 ## Literatura
 
 :::{#refs}
