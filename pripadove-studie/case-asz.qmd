@@ -77,39 +77,23 @@ V oddělení jsou částečně implementovány tzv. buddy systém a stínování
 
 # Zobecnitelnější vhledy [TODO název sladit]
 
-Jsou dobrý v kvali, jsou dedikovaný, dělaj to i pro jiné aktéry (samosprávy a NNO)
+OVE je příkladem analytického útvaru, který se vyznačuje vysokou mírou odbornosti a dedikace v aplikaci vědeckých metod pro potřeby různých aktérů mimo i uvnitř veřejnou správu. 
 
-Nemají resortní téma, průřezová témata
+Oblasti, které pokrývá ASZ ve svých analytických činnostech, jsou široké a průřezové. Přestože je ASZ formálně na MMR, zaměřuje se na oblasti působnosti dalších resortů (mj. MPSV, MSp, MŠMT, MV). Z toho vyplývá, že funkční specializace resortů dle kompetenčního zákona není vždy relevantní pro definování okruhů činností analytických útvarů jako je EV.
 
-Existence čistě analytického a eveluačního týmu uvnitř státní správy je poměrně ojedinělým fenoménem. V podobném nastavení by ale mohly fungovat analytické týmy i na jiných resortech, což by pomohlo zajistit koncentraci know-how v rukou útvaru, který plní servisní roli pro ostatní věcné či strategické složky. 
-  -> můžou být příkladem dobré praxe pro další organizace, které by mohly mít podobnou kapacitu
+Existence čistě analytického a eveluačního týmu uvnitř státní správy je poměrně ojedinělým fenoménem. V podobném nastavení by ale mohly fungovat analytické týmy i na jiných resortech, což by pomohlo zajistit koncentraci know-how v rukou útvaru, který plní servisní roli pro ostatní věcné či strategické složky. V tomto ohledu je OVE (potažmo ASZ) příkladem dobré praxe pro další organizace, které by mohly mít podobnou kapacitu.
 
-Čistě analytické / výzkumnické útvary mohou dodatečně plnit funknci zprostředkovatele poznání (knowledge broker) mezi akademií a veřejnou správou. Na ASZ se tomuto věnuje odd. inovací, kde proběhl projekt XY, kde se to snažili propojovat. 
+Čistě analytické / výzkumnické útvary mohou dodatečně plnit funknci zprostředkovatele poznání (knowledge broker) mezi akademií a veřejnou správou. Na ASZ se tato ambice začala naplňovat v rámci projektu [ASZ jako inovační aktér](https://www.socialni-zaclenovani.cz/projekt-agentura-pro-socialni-zaclenovani-jako-inovacni-akter-politiky-socialniho-zaclenovani/), při nimž byla organizována setkání mezi analytiky ASZ a odbornou veřejností. 
 
-Vedle tvůrčí analytické roli je nezbytné brát v potaz i roli komunikátora a popularizátora výsledků bádání. K tomu může napomoci jednak těsnější spolupráce s odděleními komunikace a PR již při designu výzkumů, jednak zvýšení kapacit uvnitř týmu v komunikačních dovednostech:
-
-- datová vizualizace;
-
-- psaní policy briefs a tiskových zpráv;
-
-- prezentování a předávání výsledků
-
-
-
-[TODO budou ještě další věci asi?]
+Vedle tvůrčí analytické roli je nezbytné brát v potaz i roli komunikátora a popularizátora výsledků bádání. K tomu vedla na ASZ těsnější spolupráce s odděleními komunikace a PR, ale také vzdělávací aktivity pro posílení komunikačních dovedností.
 
 # Systémové bariéry
-
-TODO !!! DOPLNIT !!!- Přístup k datům
 
 Zjevná bariera pro správu a udržbu aktualizovaných dat o sociálním vyloučení tkví v roztříštěnosti poskytovatelů datových sad napříč několika veřejnými i soukromými subjekty. Podmínky a postupy pro získání dat se tak mohou zásadně lišit. Existence centrálně udržovaného katalogu dat (například na ČZSO), s jasnými podmínky pro jejich využití a standardizovanými formáty by tak výrazně zrychlilo celý proces získání datových sad. To by umožnilo věnovat kapacity analytiků do samotné analytické práce. 
 
 Omezený přístup k mikrodatům z informačních systémů a statistických šetření (např. data ÚP, SILC, sčítání lidu) představuje bariéru pro aplikaci sofistikovanějších metod pro prokázání kauzálních vztahů a hodnocení dopadů (např. regresní analýzy a modelování, statistické párování). Tato limitace vychází primárně z legislativních ustanovení ohledně možnosti sdílení a využití dat veřejnou správou.
 
-Logika projektového řízení vede k přetrhávání kontinuity, nedostatku času k vybudování institucionalizovaného know-how, a prioritizaci generování výstupů místo zázemí a infrastruktury. Projektové financování týmu přináší některé výzvy spojené s určitou rigiditou ohledně požadovaných (či možných) výstupů. Dalším je nejistota pro zaměstnance (DOPLNIT)
-
-
-
+Logika projektového řízení vede k přetrhávání kontinuity, nedostatku času k vybudování institucionalizovaného know-how, a prioritizaci generování výstupů místo zázemí a infrastruktury. Projektové financování týmu přináší některé výzvy spojené s určitou rigiditou ohledně požadovaných (či možných) výstupů, ale také zvýšenou nejistotou pro zaměstnance ohledně jejich dalšího působení v týmu po skončení projektu. 
 
 # Kontakt a poděkování
 
