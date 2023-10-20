@@ -113,5 +113,4 @@ Teze:
 # Systémové bariéry TODO rozepsat nástřel a doplnit
 
 - fragmentace policy a delivery na MPO - jedna sekce drží peníze, druhá dělá policy
-- najímání lidí / platy
-- nestabilita fondových projektů - klíčová strategie státu a lidem v týmu, který ji řídí, dáváme 2-3 letou perspektivu
+- nestabilita fondových projektů - klíčová strategie státu a lidem v týmu, který ji řídí, dáváme 2-3 letou perspektivu + nezajištění kontinuity + někdy rozdílné platové podmínky mezi lidma 
