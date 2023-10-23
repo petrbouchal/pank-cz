@@ -14,7 +14,7 @@ Jestliže plánujete zakládat nový analytický útvar (dále jen AÚ), nebo re
 
 Zakládání AÚ je velmi specifická činnost, která se nedělá každý den. Přesto, v závislosti na současném trendu zakládání těchto útvarů, je pravděpodobné, že se v nich bude dále pokračovat. 
 
-:::{.callout .callout-tip}
+:::{.callout .callout-tip title="Nejen pro nové útvary"}
 
 Některé z principů lze také aplikovat na již existující analytické útvary.
 
@@ -38,6 +38,8 @@ Tento návod jsme vyvinuli a testovali ve spolupráci s oddělením strategií a
 
 - Chcete postavit nový AÚ?
 - Chcete zavést nové principy do fungování Vašeho AÚ? 
+
+<br>
 
 :::{.strip .page-columns .page-full}
 
@@ -86,6 +88,9 @@ Vytvoření organizačního návrhu be měla předcházet detailní procesní an
 :::
 
 # Další zdroje
+
+TODO fix & annotate links
+
 [Internal ministerial advisory bodies](https://sciendo.com/article/10.2478/cejpp-2018-0004)
 
 [Leading Data Science Teams](https://saturncloud.io/resources/Leading%20Data%20Science%20Teams.pdf)
@@ -107,3 +112,8 @@ Vytvoření organizačního návrhu be měla předcházet detailní procesní an
 [Do Not Harm Guide](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
 
 [Data Ethics Canvas](https://theodi.org/article/the-data-ethics-canvas-2021/#1563365825519-a247d445-ab2d)
+
+## Odkazovaná literatura
+
+:::{#refs}
+:::
