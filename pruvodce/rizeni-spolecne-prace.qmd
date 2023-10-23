@@ -1,14 +1,9 @@
 ---
 title: "Řízení společné práce v týmu"
 subtitle: "Jak zvládnout společnou tvůrčí práci na složitých problémech"
-categories: ["Řízení"]
 blok: ["rizeni"]
-title-block-categories: false
-author: "[Otestováno]"
 poradi: 9
 editor: source
-margin-footer: "[<< Zpět na obsah průvodce](../pruvodce)"
-reference-location: margin
 ---
 
 

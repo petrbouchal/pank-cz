@@ -1,11 +1,8 @@
 ---
 title: "Správa dat"
-subtitle: "Jak vaše data přehledně spravovat"
-reference-location: block
-categories: ["Vzor", "Zásobník"]
+subtitle: "Péče o data, aby se neztrácela a dala použít"
 blok: ["metody"]
 poradi: 15
-title-block-categories: false
 editor: source
 ---
 

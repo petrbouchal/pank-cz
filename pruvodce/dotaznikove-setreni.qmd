@@ -1,9 +1,7 @@
 ---
 title: "Dotazníkové šetření"
 subtitle: "Posbírejte data a vytáhnětě s nich to podstatné"
-categories: ["Vzor", "Zásobník"]
 blok: ["ziskavani"]
-title-block-categories: false
 poradi: 4
 editor: source
 ---
