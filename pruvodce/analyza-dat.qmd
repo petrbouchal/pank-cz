@@ -25,9 +25,21 @@ Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout sm
 
 # Kde už na tom pracují
 
+- TA ČR
+- ASZ
+- MŠMT - analytici, NPI, nerovnosti
+- VAÚ
+- MPSV Evaluace
+
 # Další zdroje
 
+## TODO co citovat
+
 @bogerJurassicMarkInattentional2021
+
+https://ukdataservice.ac.uk/learning-hub/computational-social-science/
+
+@kadukPowerQueryExcel2018
 
 ### Citované zdroje a literatura
 
