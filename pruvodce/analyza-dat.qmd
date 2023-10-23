@@ -21,6 +21,8 @@ Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout sm
 
 # Směry rozvoje
 
+# Kde a jak hledat pomoc
+
 ## 
 
 # Kde už na tom pracují
