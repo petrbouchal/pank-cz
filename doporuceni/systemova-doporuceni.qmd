@@ -15,13 +15,13 @@ aliases:
 
 > Při práci na rozvoji práce s poznatky se zapojenými týmy jsme opakovaně naráželi na **bariéry způsobené nějakým systémovým nedostatkem** -- nastavením pravidel, absencí podpory, apod.
 >
-> Níže tyto bariéry zachycujeme jako **oblasti, kde jde potřeba nějaká změna na úrovni systému**. Někdy to znamená změnu legislativy či jiných pravidel, někdy změnu ve způsobu práce průřezových agend, např. personalistiky.
+> Níže tyto bariéry zachycujeme jako **oblasti, kde je potřeba nějaká změna na úrovni systému**. Někdy to znamená změnu legislativy či jiných pravidel, někdy změnu ve způsobu práce průřezových agend, např. personalistiky.
 >
-> **Adresátem** těchto doporučení jsou ti, kteří mohou těmto změnám pomoct: vesměs gestoři tématu rozvoje veřejné správy, vedení státní služby, ale také vyšší management a státní tajemníci ministerstev.
+> **Adresátem** těchto doporučení jsou především ti, kteří mohou těmto změnám pomoct: vesměs gestoři tématu rozvoje veřejné správy, vedení státní služby, ale také vyšší management a státní tajemníci ministerstev.
 > 
 > Doporučení často **navazují a odkazují** na již zvažované nebo plánované iniciativy a ukazují na jejich potřebnost nebo zpřesňují cíl. Měla by proto být realizovatelná v současném kontextu české veřejné správy. Pokud navrhujeme inovativnější opatření, jsou inspirována funkční praxí z jiných států.
 > 
-> Doplňkem k doporučením jsou naše vzkazy o práci poznatky [pro stát](/doporuceni/teze-o-praci-s-poznatky-stat.qmd) a pro [samotné týmy ve státní správě a jejich členy](/doporuceni/teze-o-praci-s-poznatky-stat.qmd). Ty je vhodné číst pro lepší porozumění přepokladům a poznatkům, ze kterých při formulaci doporučení vycházíme.
+> Doplňkem k doporučením jsou naše vzkazy o práci poznatky [pro stát](/doporuceni/teze-o-praci-s-poznatky-stat.qmd) a pro [samotné týmy ve státní správě a jejich členy](/doporuceni/teze-o-praci-s-poznatky-stat.qmd). Ty je vhodné číst pro lepší porozumění předpokladům a poznatkům, ze kterých při formulaci doporučení vycházíme.
 
 # Struktury a procesy podporující využívání poznatků {#struktury}
 
@@ -66,7 +66,7 @@ To pak také vede k fragmentaci a duplikaci analytických kapacit, které se bud
 
 ## Snadnější vznik projektových týmů {#projektove-tymy}
 
-**Co je problém**: funkční specializace a personalistická pravidla znesnadňují vznik projektových týmů, zož zhoršuje podmínky pro informované rozhodování.
+**Co je problém**: funkční specializace a personalistická pravidla znesnadňují vznik projektových týmů, což zhoršuje podmínky pro informované rozhodování.
 
 **Co doporučujeme** 
 
@@ -128,7 +128,7 @@ TODO: note že to má překryv s analytiky + policy work, viz Howlett
 
 **Co doporučujeme** 
 
-- zahrnout základní znalosti a dovednosti práce s daty a poznatky do základního rozvojového kurikula větší části úředníků (státních zaměstnanců)
+- začlenit základní znalosti a dovednosti práce s daty a poznatky do standardního rozvojového kurikula větší části úředníků (státních zaměstnanců)
 - zvážit zahrnutí těchto témat (především základního přehledu např. o zdrojích dat a metodách práce s nimi) do základní části úřednické zkoušky
 - tímto směrem upravit i okruhy zvláštní části u relevantních oborů úřednické zkoušky
 
@@ -140,7 +140,7 @@ TODO: note že to má překryv s analytiky + policy work, viz Howlett
 
 V současném fungování veřejné správy neexistují mechanismy, které by pomohly zajistit základní schopnosti práce s poznatky a daty u širšího spektra úředníků a úřednic, například ve formě úvodního “evidence bootcampu”.
 
-Z naší zkušenosti s relativně rozličnými týmy víme, že základní přehled, znalosti a dovednosti potřebují i ti státní zaměstnanci, kteří pro které není analytická práce hlavní součástí jejich činnosti.
+Z naší zkušenosti s relativně rozličnými týmy víme, že základní přehled, znalosti a dovednosti potřebují i ti státní zaměstnanci, pro které není analytická práce hlavní součástí jejich činnosti.
 
 Toto se netýká pouze “tvrdé” datové práce, ale i obecnější schopnosti výzkumné činnosti včetně zadávání výzkumu analytickým oddělením. Tato absence podpory a motivací rozvoje datových a souvisejících schopností je přítomná i v náboru, kontinuálním vzdělávání a hodnocení. 
 
@@ -152,16 +152,16 @@ Toto se netýká pouze “tvrdé” datové práce, ale i obecnější schopnost
 
 Zde nenabízíme konkrétní řešení (tj. jaké typy rozvojových intervencí zvolit a jak by měly vypadat), ale naznačujeme několik principů, kterými by se proces vývoje takového kurikula měl řídit:
 
-- sestavit tým lidí, který návrh kurikula vytvoří -- využít etablované experty zevnitř státní správy, např. ty s označením vynikajích všeobecně uznávaných odborníků 
+- sestavit tým lidí, který návrh kurikula vytvoří -- využít etablované experty zevnitř státní správy, např. ty s označením vynikajících všeobecně uznávaných odborníků 
 - do designu kurikula zahrnout externí expertizu (akademici, pracovníci think tanků a dalších organizací, které se státní správou pracují např. jako dodavatelé poznatků)
-- ve vzdělávacích intervencích využíte existující interní expertizu napříč resorty a organizacemi
+- ve vzdělávacích intervencích využít existující interní expertizu napříč resorty a organizacemi
 - reflektovat zkušenosti a zpětnou vazbu z pilotního programu pro analytiky veřejné správy
 - prioritizovat rychlý vývoj a testování kurikula před dokonalým řešením vytvořeným za dlouhou dobu
 - u problému rozvoje vedoucích analytických týmů pracovat s rozvojem na základě sdílení zkušeností a skupinové reflexe např. vedoucích nově vznikajících analytických útvarů
 
-Jak vysvětlujeme ve [vzkazech pro stát](teze-o-praci-s-poznatky-stat.qmd), rozvoj analytiků by měl z významné části stát na učení se od druhých a využívání a sdílení existující expertizy a dovedností. Stejně tak by součástí rozvojových intervencí mohly být interní stáže, které využívají mnohé státní služby v zahraničí a jako smysuplné je hodnotili i členové týmu v [jedné z našich případových studií](/pripadove-studie/case-tacr.qmd).
+Jak vysvětlujeme ve [vzkazech pro stát](teze-o-praci-s-poznatky-stat.qmd), rozvoj analytiků by měl z významné části stát na učení se od druhých a využívání a sdílení existující expertizy a dovedností. Stejně tak by součástí rozvojových intervencí mohly být interní stáže, které využívají mnohé státní služby v zahraničí a jako smysluplné je hodnotili i členové týmu v [jedné z našich případových studií](/pripadove-studie/case-tacr.qmd).
 
-Pro definování relevantních znalostí a dovedností, které by program měl budovat, lze využít např. rámec vyvinutí Joint Research Center [@@schwendingerCompetencesPolicymakingCompetence2022] a pro zacílení na různé role a typy analytiků lze využít [@@olejniczakRoleAnalystsPublic2018 resp. @howlettPolicyAnalyticalCapacity2015 viz obr. 1 na s. 175].
+Pro definování relevantních znalostí a dovedností, které by program měl budovat, lze využít např. rámec vyvinutý Joint Research Center [@@schwendingerCompetencesPolicymakingCompetence2022] a pro zacílení na různé role a typy analytiků lze využít [@@olejniczakRoleAnalystsPublic2018 resp. @howlettPolicyAnalyticalCapacity2015 viz obr. 1 na s. 175].
 
 Jako inspirace může sloužit i funkční standard [@hmgovernmentGovernmentFunctionalStandard2023] a [kompetenční model](https://analysisfunction.civilservice.gov.uk/careers/role-profiles-and-career-pathways/) britské státní služby pro analytickou profesi.
 
@@ -275,19 +275,20 @@ V posledních letech se velká část soukromého sektoru v oblasti analýzy dat
 
 **Další možnosti ke zvážení**
 
-- podpořit rozvoj komponent (knihoven, šablon) využitelných napříč státní správou v často využívaných nástrojích (Rython, R) - podobně jako pro vývoj webů Design System gov.cz
+- podpořit rozvoj komponent (knihoven, šablon) využitelných napříč státní správou v často využívaných nástrojích (Python, R) - podobně jako pro vývoj webů Design System gov.cz
 - podpořit vznik skupiny analytiků, kteří tyto nástroje již používají, popř. rozšířit na systém ambasadorů na resortech
-- podpořit vývoj standardů práce a souvisejících nástrojů - zde inspirací může být iniciative analytické profese britské státní služby [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/), což je sada opakovaně využitelných nástrojů usnadňujících automatizaci analytických postupů a procesů.
-- podpořit využívání moderních přístupu metodikami (např. v oblasti RIA, popř. v potenciálním peer review mechanismu podle slovenského modelu), kde součástí kontroly kvality (např. u RIA hodnoticí zprávy) bude ověření splnění základních standardů kvality práce s daty. Zde inspirací mohou být metodiky britské státní služby tzv. Duck Book [@ukgovernmentanalyticalcommunityQualityAssuranceCode2022] a Aqua Book [@hmtreasuryAquaBookGuidance2015] a částečně i Magenta Book [@hmtreasuryMagentaBookCentral2020].
+- podpořit vývoj standardů práce a souvisejících nástrojů - zde inspirací může být iniciativa analytické profese britské státní služby [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/), což je sada opakovaně využitelných nástrojů usnadňujících automatizaci analytických postupů a procesů.
+- podpořit využívání moderních přístupů metodikami (např. v oblasti RIA, popř. v potenciálním peer review mechanismu podle slovenského modelu), kde součástí kontroly kvality (např. u RIA hodnotící zprávy) bude ověření splnění základních standardů kvality práce s daty. Zde mohou být inspirací metodiky britské státní služby tzv. Duck Book [@ukgovernmentanalyticalcommunityQualityAssuranceCode2022] a Aqua Book [@hmtreasuryAquaBookGuidance2015] a částečně i Magenta Book [@hmtreasuryMagentaBookCentral2020].
 - prověřit možnost využít DIA resp. center kompetence pro tuto oblast
+- ucelenou sadu doporučení pro organizace v podobné situace nabízí britské tzv. Goldacre Review: studie, která navrhuje výrazné posílení datově analytických kapacit a zakotvení moderních postupů v této oblasti v zdravotnickém systému [goldacreBetterBroaderSafer2022].
 
 **Proč je to třeba**
 
-Příčinou je zřejmě jak stávající běžná úroveň a zaměření technických dovedností datových analytiků (dominantně Excel), tak dostupnost a podpora relevantního softwarového vybavení. Např. na ministerstvech není běžné mít k dispozici sdílené prostředí pro práci s kódem otevřené pro analytiky, stejně tak může být v některých organizacích problém dosáhnout zpřístupnění open source nástrojů, ke kterým úřad z definice nevlastní licence a může mít obavu z bezpečnostních rizik.
+Příčinou je zřejmě jak běžná úroveň a zaměření technických dovedností datových analytiků (dominantně Excel), tak dostupnost a podpora relevantního softwarového vybavení. Např. na ministerstvech není běžné mít k dispozici sdílené prostředí pro práci s kódem otevřené pro analytiky, stejně tak může být v některých organizacích problém dosáhnout zpřístupnění open source nástrojů, ke kterým úřad z definice nevlastní licence a může mít obavu z bezpečnostních rizik.
 
-Stávající stav vytváří personální a technologické bariéry mezi soukromým a veřejným sektorem. Brání mobilitě expertů -- ti ze soukromého sektoru se zájmem o přechod do veřejného nemohou počítat s tím, že budou moci využívat pro ně běžné postupy a nástroje; ti uvažující např. o startu kariéry ve veřejném sektoru nemohou počítat s tím, že se naučí nástrojům běžným jinde. 
+Současný stav vytváří personální a technologické bariéry mezi soukromým a veřejným sektorem. Brání mobilitě expertů -- ti ze soukromého sektoru se zájmem o přechod do veřejného nemohou počítat s tím, že budou moci využívat pro ně běžné postupy a nástroje; ti uvažující např. o startu kariéry ve veřejném sektoru nemohou počítat s tím, že se naučí nástrojům běžným jinde. 
 
-Především ale stávající stav omezuje škálu nástrojů a metod, které stát běžné využívá a potenciálně vede k nákupu komerčních řešení či přímo řešení na zakázku tam, kde by open source nástroje přinesly stejný užitek s nižšími náklady.
+Především ale existující stav omezuje škálu nástrojů a metod, které stát běžné využívá a potenciálně vede k nákupu komerčních řešení či přímo řešení na zakázku tam, kde by open source nástroje přinesly stejný užitek s nižšími náklady.
 
 ## Audit a kontrola motivující k práci s poznatky {#podminky-audit}
 
@@ -295,9 +296,9 @@ Především ale stávající stav omezuje škálu nástrojů a metod, které st
 
 **Doporučení pro auditory a kontrolory**
 
-- Při formulaci závěrů zvažovat, zda nemohou přinést nežádoucí efekt oslabení využívání poznatků
-- Reflektovat nutnou nejistotu a riziko v oblasti analýzy politik, evaluace apod. - často jde o de facto inovační aktivity a přílišný důraz na dosažení předem definovaných výstupů může potřebnou inovaci dusit
-- Při hodnocení práce veřejných institucí brát v potaz i to, zda se daná instituce snaží o využívání poznatků pro design opatření a jejich vyhodnocování; za ex post hodnocení, kde úřad sám identifikuje např. nedokonale fungující intervenci, by měl úřad být pochválen, nikoli kritizován.
+- při formulaci závěrů zvažovat, zda nemohou přinést nežádoucí efekt oslabení využívání poznatků
+- reflektovat nutnou nejistotu a riziko v oblasti analýzy politik, evaluace apod. - často jde o de facto inovační aktivity a přílišný důraz na dosažení předem definovaných výstupů může potřebnou inovaci dusit
+- při hodnocení práce veřejných institucí brát v potaz i to, zda se daná instituce snaží o využívání poznatků pro design opatření a jejich vyhodnocování; za ex post hodnocení, kde úřad sám identifikuje např. nedokonale fungující intervenci, by měl úřad být pochválen, nikoli kritizován.
 
 **Proč je to třeba**
 
