@@ -13,9 +13,17 @@ editor: source
 
 Tento návod neposkytuje postup krok za krokem, ale je především rozcestníkem a repozitářem základních znalostí nutných pro práci s veřejnými daty.
 
-### 1. Statistiky
+## Datové zdroje
 
-### 
+### 0. Metadata, číselníky
+
+### 1. Statistická data
+
+### 2. Administrativní data
+
+### 3. Výzkumná data
+
+### 4. Výzkumná data
 
 
 ## Další zdroje
@@ -28,5 +36,11 @@ https://archiv.soc.cas.cz/cz/pristup-k-datum/jine-zdroje-dat
 
 https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
 
+[Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
+
 link na organogramy
+
+https://www.czso.cz/csu/vykazy/setreni_u_domacnosti => vyhláška o Programu statistických zjišťování - [na rok 2023](https://www.zakonyprolidi.cz/cs/2022-324), [na rok 2024](https://www.zakonyprolidi.cz/monitor/7724336.htm)
+
+
 
