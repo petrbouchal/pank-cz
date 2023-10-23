@@ -302,6 +302,8 @@ Takto zachycené znalosti můžete zpřístupnit třeba na interní wiki nebo v 
 
 České pojednání o tématu správy dat najdete v knize @krejciCestyDatumZdroje2012, základní principy najdete i na webu [Českého sociálně vedního datového archivu](https://archiv.soc.cas.cz/cz/prace-s-daty/management-dat-v-prubehu-vyzkumneho-projektu); tamtéž i [návod na tvorbu tzv. plánu správy dat](https://archiv.soc.cas.cz/cz/prace-s-daty/data-management-plan-pro-socialni-vedy) pro společenskovědní projekty. Užitečné mohou být i [prezentace z nedávného semináře ČSDA k tématu](https://archiv.soc.cas.cz/cz/aktuality/195-open-science-a-sdileni-socialnevednich-dat-v-praxi-data-management-plan-ochrana-respondentu-a-legalni-aspekty-sdileni-dat2).
 
+Příklad dlouhodobé zprávy dat pro další využití je [Český sociálně vední datový archiv (ČSDA)](https://archiv.soc.cas.cz/cz/), kde v [prohlížeči datových sad](http://nesstar.soc.cas.cz/webview/) najdete i způsob zaznamenání metadat, ze kterého se lze inpirovat.
+
 K dokumentaci se mohou hodit [standardy tzv. Dublin core metadat](https://www.dublincore.org/) - sice působí technicky, ale když je dokážete využití, nebudete vynalézat to, co už někdo vymyslel.
 
 Alternativní přístup k dokumentaci dat a související nástroje nabízí [Data Documentation Initiative](https://ddialliance.org/).
