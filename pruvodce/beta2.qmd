@@ -1,6 +1,6 @@
 ---
 title: "Využití programu BETA"
-subtitle: "Jak pořídit výzkum přes zakázky aplikovaného výzkum"
+subtitle: "Jak pořídit výzkum přes zakázky aplikovaného výzkumu"
 editor: source
 title-block-banner: true
 blok: ["ziskavani"]
