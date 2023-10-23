@@ -99,6 +99,8 @@ Oddělení S3 zároveň buduje tuzemskou síť specializované expertizy pomocí
 
 # Zobecnitelnější vhledy
 
+TODO prolinky na teze a systémová doporučení
+
 V oddělení S3 se koncentrují všechny činnosti spojené se strategickou prací, od koncepce po koordinaci, ale také poskytování dat a podkladů do celého prostředí a síťování všech aktérů. Ukazuje to na realitu práce s poznatky: často **je součástí širší agendy** (např. řízení strategy) zahrnují jak operativu či implementaci, tak strategickou práci. Kvalita práce s poznakty má podstatný vliv na celkový výsledk, ale útvar -- a často ani jednotlivci -- kteří tuto práci vykonávají by se sami za analytiky neoznačili.
 
 Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovanou odbornou kapacitu v tématu podpory výzkumu a vývoje a **vytváří datové produkty** (především RIS3 portál) pro celé prostředí. 
@@ -108,6 +110,8 @@ Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovan
 Během projektu se ukázalo, jak užitečné může být vyhledat expertizu i mimo veřejnou správu, zejména pro aplikaci technických postupů. V našem případě se přes odborné komunity (Datavis Meetup Brno) podařilo najít člověka z technologické firmy, který pracoval s vizualizačním nástrojem, který je v Česku relativně méně využívaný, je ale integrován do systému RIS3 portálu. Díky tomu členové týmu získali rady a pomoc při řešení problémů od experta z jiného sektoru.
 
 # Systémové bariéry
+
+TODO prolinky na systémová doporučení
 
 Oblast veřejné podpory výzkumu a vývoje se v Česku vyznačuje velkým počtem aktérů a roztříštěností zodpovědností. V kontextu strategie RIS3 je tato fragmentace ještě posílená tím, že tvorba a řízení strategie je organizačně oddělená od rozhodování ohledně finanční podpory v rámci evropských i národních dotačních titulů, a to i v rámci ministerstva.
 
