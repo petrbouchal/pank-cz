@@ -23,9 +23,9 @@ aliases:
 > 
 > Doplňkem k doporučením jsou naše vzkazy o práci poznatky [pro stát](/doporuceni/teze-o-praci-s-poznatky-stat.qmd) a pro [samotné týmy ve státní správě a jejich členy](/doporuceni/teze-o-praci-s-poznatky-stat.qmd). Ty je vhodné číst pro lepší porozumění přepokladům a poznatkům, ze kterých při formulaci doporučení vycházíme.
 
-# Struktury a procesy podporující využívání poznatků
+# Struktury a procesy podporující využívání poznatků {#struktury}
 
-# Stabilnější analytické kapacity
+# Stabilnější analytické kapacity {#stabilnejsi}
 
 **Co je problém**: analytickým kapacitám chybí finanční a organizační stabilita
 
@@ -47,7 +47,7 @@ Uvnitř státní správy je velká část analytiků a analytiček zaměstnaná 
 
 Dále existuje riziko vzniku nerovností v analytických možnostech uvnitř státní správy, jelikož projekty EU fondů mají vzhledem k finančním prostředkům větší možnosti zaměstnávat zručné analytiky a analytičky (alespoň​ zatím). Delegování analytické práce na pracoviště (dočasně) financované ESIF ale zároveň signalizuje, že budování analytického týmu a know-how není pro stát prioritou. 
 
-## Lepší propojení věcných a implementačních útvarů
+## Lepší propojení věcných a implementačních útvarů {#propojeni}
 
 **Co je problém**: věcné a implementační útvary jsou často příliš oddělené, což brzdí i analytickou práci a využívání poznatků.
 
@@ -64,7 +64,7 @@ Lepšímu využívání poznatků v tvorbě politik brání to, že na řadě mi
 
 To pak také vede k fragmentaci a duplikaci analytických kapacit, které se budují ad hoc na implementačních odděleních. Jednou z příčin tohoto problému je budování specifických kapacit ze zdrojů EU fondů, které jsou ale často v systému ministerstev postaveny mimo stálé útvary zabývající se těmi stejnými tématy.
 
-## Snadnější vznik projektových týmů
+## Snadnější vznik projektových týmů {#projektove-tymy}
 
 **Co je problém**: funkční specializace a personalistická pravidla znesnadňují vznik projektových týmů, zož zhoršuje podmínky pro informované rozhodování.
 
@@ -85,9 +85,9 @@ Vedení státní služby, popř. zákonodárce:
 
 Současná struktura státní správy je organizována podle funkcí a profesí a zaměření jednotlivých oddělení, které se specializují na danou agendu, popř. specifickou činnostu v rámci agendy. Toto nastavení zabraňuje flexibilnějšímu vznikání týmů na projektové bázi, které by se po určitou dobu věnovaly konkrétními problému, což může být vhodnější model pro potýkání se se společenskými výzvami a využívání poznatků pro jejich řešení.
 
-# Uznané a podporované role
+# Uznané a podporované role {#role}
 
-## Profese analytika
+## Profese analytika {#profese}
 
 - typové role
 - standard
@@ -108,7 +108,7 @@ TODO https://analysisfunction.civilservice.gov.uk/careers/career-framework/
 
 Obecným systémovým problémem práce s poznatky je absence uchopení analytika/čky jako specifické profese. Problematické v tomto ohledu není to, že není zavedena přesná definice, což by naopak vzhledem k šíři práce s poznatky ve veřejném sektoru mohlo být zbytečně omezující. Deficitem současného neuchopení analytické profese je to, že následně neexistuje etablovaná komunita, v níž by mohlo docházet k výměně zkušeností a vzájemnému se učení, odborný rozvoj, profesní identita a související motivace se rozvíjet. Dále pak chybí více institucionalizované mechanismy jako společný onboarding nebo přehled základních datových a informačních zdrojů.  
 
-## Personalistické procesy jako podpora práce s poznatky
+## Personalistické procesy jako podpora práce s poznatky {#personalistika}
 
 **Co je problém**: 
 
@@ -116,13 +116,13 @@ Obecným systémovým problémem práce s poznatky je absence uchopení analytik
 
 **Proč je to třeba** 
 
-## Policy analysis jako klíčová aktivita státu
+## Policy analysis jako klíčová aktivita státu {#policy-analysis}
 
 TODO: note že to má překryv s analytiky + policy work, viz Howlett
 
-# Lepší schopnosti a dovednosti
+# Lepší schopnosti a dovednosti {#schopnosti}
 
-## Základní schopnosti práce s daty jako standard
+## Základní schopnosti práce s daty jako standard {#schopnosti-standard}
 
 **Co je problém**: Chybí postupy, jak dosáhnout základních schopností práce s poznatky a daty u širokého spektra úředníků 
 
@@ -144,7 +144,7 @@ Z naší zkušenosti s relativně rozličnými týmy víme, že základní přeh
 
 Toto se netýká pouze “tvrdé” datové práce, ale i obecnější schopnosti výzkumné činnosti včetně zadávání výzkumu analytickým oddělením. Tato absence podpory a motivací rozvoje datových a souvisejících schopností je přítomná i v náboru, kontinuálním vzdělávání a hodnocení. 
 
-## Vzdělávání v práci s poznatky
+## Vzdělávání v práci s poznatky {#schopnosti-vzdelavani}
 
 **Co je problém**: V současné době neexistují komplexní vzdělávací schémata, která by zaměstnance a zaměstnankyně státní správy připravila na práci s poznatky. 
 
@@ -175,7 +175,7 @@ Narozdíl od zmiňovaných oblastí v tématu práce s poznatky (analytické pr�
 
 Specifickým problémem pak jsou dovednosti pro vedení analytických týmů. Ani zde neexistuje profesní příprava.
 
-## Nejen pro experty a řadové analytiky
+## Nejen pro experty a řadové analytiky {#schopnosti-manazeri}
 
 **Co je problém**: Základní povědomí o práci s poznatky někdy chybí i na úrovni vedoucích pracovníků (představených).
 
@@ -194,7 +194,7 @@ Představení nemají být experty na analytickou práci, ale nějaká míra zna
 
 Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neefektivnímu využívání existujících analytických kapacit, případně k demotivaci analytiků.
 
-## Nábor a platy umožňující přitáhnout talent
+## Nábor a platy umožňující přitáhnout talent {#nabor}
 
 TODO
 
@@ -204,9 +204,9 @@ TODO
 
 **Proč je to třeba**
 
-# Dostupnější zdroje dat a informací
+# Dostupnější zdroje dat a informací {#zdroje}
 
-## Snadnější přístup k datům veřejného sektoru
+## Snadnější přístup k datům veřejného sektoru {#zdroje-data}
 
 TODO
 
@@ -222,7 +222,7 @@ TODO
   - mikrodata osobní
   - totéž pro výzkum - pokud k tomu nemá přístup vědecká sféra, negeneruje užitečný výzkum
 
-## Dostupné akademické zdroje
+## Dostupné akademické zdroje {#zdroje-akademicke}
 
 TODO
 
@@ -232,7 +232,7 @@ TODO
 
 **Proč je to třeba**
 
-## Snadněji nalezitelné výstupy veřejného sektoru
+## Snadněji nalezitelné výstupy veřejného sektoru {#zdroje-vystupy}
 
 TODO
 
@@ -242,11 +242,13 @@ TODO
 
 **Proč je to třeba**
 
-# Podmínky pro zlepšování práce s poznatky
+# Podmínky pro zlepšování práce s poznatky {#podminky}
 
-## Leadership a klíčové role
+## Leadership a klíčové role  {#podminky-role}
 
 TODO
+
+TODO note může být i kolektivní (viz SK) ale musí být viditelný
 
 **Co je problém**: 
 
@@ -256,7 +258,7 @@ V této oblasti naznačujeme pouze některé směry k úvaze.
 
 **Proč je to třeba**
 
-## Standardy a podmínky pro práci s daty
+## Standardy a podmínky pro práci s daty {#podminky-datarina}
 
 **Co je problém**: v oblasti analýzy dat se zásadně liší přístupy, technologie a postupy běžně používané ve státní správě od těch běžných v soukromém sektoru.
 
@@ -287,7 +289,7 @@ Stávající stav vytváří personální a technologické bariéry mezi soukrom
 
 Především ale stávající stav omezuje škálu nástrojů a metod, které stát běžné využívá a potenciálně vede k nákupu komerčních řešení či přímo řešení na zakázku tam, kde by open source nástroje přinesly stejný užitek s nižšími náklady.
 
-## Audit a kontrola motivující k práci s poznatky
+## Audit a kontrola motivující k práci s poznatky {#podminky-audit}
 
 **Co je problém**: auditní a kontrolní aktéři mohou nezamýšleně omezovat motivaci k empirické práci popř. inovacím šířeji
 
