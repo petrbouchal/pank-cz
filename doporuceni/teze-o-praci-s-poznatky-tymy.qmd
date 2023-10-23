@@ -16,7 +16,7 @@ format:
 
 ## Proč a jak tyto vzkazy vznikly
 
-> Strávili jsme spoustu času s šesti analytickými týmy, o něco méně času čtením literatury a zkoumáním zahraniční praxe práce s poznatky. 
+> Strávili jsme spoustu času s šesti analytickými týmy, o něco méně času studiem literatury a zkoumáním zahraniční praxe práce s poznatky. 
 >
 > Z konfrontace těchto pohledů a zkušeností vykrystalizovala **sada tezí**, o kterých si myslíme, že mohou mnoha lidem ve veřejné správě posloužit při promýšlení vlastní role, role poznatků ve veřejných institucích, i při uvažování o zlepšování vlastní práce.
 >
