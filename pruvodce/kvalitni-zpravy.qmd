@@ -1,0 +1,8 @@
+---
+title: "Kvalitní a efektivní zprávy"
+subtitle: "Aby se vaše reporty dobře četly"
+blok: ['vyuziti']
+poradi: 1
+---
+
+> Tento návod je zatím v přípravě

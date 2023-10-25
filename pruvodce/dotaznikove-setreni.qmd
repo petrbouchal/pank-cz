@@ -1,7 +1,7 @@
 ---
 title: "Dotazníkové šetření"
 subtitle: "Posbírejte data a vytáhnětě s nich to podstatné"
-blok: ["ziskavani"]
+# blok: ["ziskavani"]
 poradi: 4
 editor: source
 ---

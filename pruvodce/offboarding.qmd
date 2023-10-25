@@ -1,0 +1,9 @@
+---
+title: "Offboarding člena týmu"
+subtitle: "Nepřicházejte o znalosti těch, kdo odchází z týmu"
+blok: ['rizeni']
+poradi: 12
+editor: source
+---
+
+## V přípravě
