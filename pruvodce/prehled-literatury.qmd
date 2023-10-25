@@ -60,6 +60,12 @@ https://www.gov.uk/guidance/what-works-network
 
 @nutleysandraWhatCountsGood2013
 
+@salganikBitBitSocial2019
+
+@alexanderTellingStoriesData2023
+
+@huntington-kleinEffectIntroductionResearch
+
 ### Odkazovaná literatura
 
 :::{#refs}

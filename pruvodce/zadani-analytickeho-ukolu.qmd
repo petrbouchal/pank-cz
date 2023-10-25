@@ -90,6 +90,10 @@ Takový postup pomůže i v případě, že analytický úkol řešíte např. *
 
 # Další zdroje
 
+TO DO zdroje
+
+@henkAnalyticsTranslatorNew
+
 [Evidence Transparency Framework](https://www.instituteforgovernment.org.uk/publications/evidence-transparency-framework)
 
 [Aqua Book](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)

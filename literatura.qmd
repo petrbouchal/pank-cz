@@ -1,5 +1,5 @@
 ---
-title: "Literatura"
+title: "Citovaná a využitá literatura"
 bibliography: "citace/pank-citace.bib"
 citation-location: document
 reference-location: document
@@ -7,9 +7,7 @@ nocite: |
   @*
 ---
 
-## Všechny zdroje
-
-Blah
+## Použité zdroje
 
 ::: {#refs}
 :::

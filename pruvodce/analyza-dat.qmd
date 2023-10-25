@@ -35,6 +35,8 @@ Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout sm
 
 # Další zdroje
 
+Pro ladění postupů práce s daty na pomezí věcné expertizy a datové analytiky se vám může hodit [průvodce The Turing Way](https://the-turing-way.netlify.app/index.html) od britského Turing Institute, která zachycuje nejen praktické postupy pro technickou práci, ale i tipy pro spolupráci a práci s partnery [@communityTuringWayHandbook2022].
+
 ## TODO co citovat
 
 @bogerJurassicMarkInattentional2021
@@ -42,6 +44,25 @@ Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout sm
 https://ukdataservice.ac.uk/learning-hub/computational-social-science/
 
 @kadukPowerQueryExcel2018
+
+@bertoniHandbookComputationalSocial2023
+
+@spectorDataScienceContext2022
+
+@salganikBitBitSocial2019
+
+@fosterBigDataSocial2021
+
+@alexanderTellingStoriesData2023
+
+@huntington-kleinEffectIntroductionResearch
+
+@goldacreBetterBroaderSafer2022
+
+@bouchalCzsoUseOpen2020
+
+@bouchalStatnipokladnaUseData2020
+
 
 ### Citované zdroje a literatura
 

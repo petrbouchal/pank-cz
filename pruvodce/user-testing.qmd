@@ -142,7 +142,7 @@ UMUX
   6. Potřeboval(a) bych hodně času, abych se zvykl(a) na tento systém.
   7. Funkce systému jsou dobře integrovány.
 
-Více na [webu Measuringu](https://measuringu.com/umux-lite/)
+Více např. na [webu MeasuringU](https://measuringu.com/umux-lite/)
 
 ## Další zdroje
 
