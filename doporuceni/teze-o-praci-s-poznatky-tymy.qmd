@@ -104,7 +104,11 @@ Jako všechny (nejen fyzikální) metafory a přirovnání i tato místy kulhaj�
 
 ### Produkty, nejen projekty {#produkty}
 
-**Projektové řízení** je v mnoha situacích potřeba, abyste zvládli zkoordinovat práci více lidí na více souvisejících kusech práce, které mají fungovat dohromady. Někdy ale musíte uvažovat i o **produktech**. Produkt je něco, co má přinést nějakou hodnotu svému uživateli, co se vyvíjí a je třeba to udržovat. Právě práce s daty a poznatky jde tímto směrem: od zaměření na výstupy k zaměření na produkty, které mají delší životnost a při jejich vývoji se používají metody user-centered designu. Typickým příkladem jsou dashboardy, pravidelné reporty a webová rozhraní. Projektové řízení vám umožní dělat věci správně; produktové řízení pomůže dělat správné věci. A uvažování o své práci jako (z části) péči o produkty vám pomůže nedělat reporty do šuplíku. I proto v průvodci najdete návod na [uživatelské testování webového produktu](/pruvodce/user-testing.qmd). Ve vztahu k analýze a komunikaci dat se dokonce uchytil pojem **data product management**; dočíst se o tom můžete třeba na webu [Locally Optimistic](https://locallyoptimistic.com/post/data-product-manager/) a doslechnout v podcastu [Experiencing Data](https://designingforanalytics.com/experiencing-data-podcast/).
+**Projektové řízení** je v mnoha situacích potřeba, abyste zvládli zkoordinovat práci více lidí na více souvisejících kusech práce, které mají fungovat dohromady. 
+
+Někdy ale musíte uvažovat i o **produktech**. Produkt je něco, co má přinést nějakou hodnotu svému uživateli, co se vyvíjí a je třeba to udržovat. Právě práce s daty a poznatky jde tímto směrem: od zaměření na výstupy k zaměření na produkty, které mají delší životnost a při jejich vývoji se používají metody user-centered designu. Typickým příkladem jsou dashboardy, pravidelné reporty a webová rozhraní. Projektové řízení vám umožní dělat věci správně; produktové řízení pomůže dělat správné věci. A uvažování o své práci jako (z části) péči o produkty vám pomůže nedělat reporty do šuplíku. I proto v průvodci najdete návod na [uživatelské testování webového produktu](/pruvodce/user-testing.qmd). 
+
+Ve vztahu k analýze a komunikaci dat se dokonce uchytil pojem **data product management**; dočíst se o tom můžete třeba na webu [Locally Optimistic](https://locallyoptimistic.com/post/data-product-manager/) a doslechnout v podcastu [Experiencing Data](https://designingforanalytics.com/experiencing-data-podcast/).
 
 ## Jak uvažovat o změně a zlepšování
 
@@ -114,13 +118,20 @@ Jako všechny (nejen fyzikální) metafory a přirovnání i tato místy kulhaj�
 
 ### Uvažujte o úrovních: individuální, týmová, organizační, systémová
 
-V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na dva hlavní způsoby zlepšení. Prvním je zaměření na jednotlivce. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat. Tím druhým je zaměření na "systém". Tím máme na mysli zaměření na fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systemizován, jak efektivně a dobře v něm nastavit jednotlivé sekce apd. 
+V kontextu zlepšování práce s poznatky se většina praxe, ale také vědecké literatury, zaměřuje na **dva hlavní způsoby zlepšení**. 
 
-V projektu jsme se snažili pracovat především s úrovní, která se nachází “mezi” těmito dvěma variantami. Tou je tým jako entita, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme. Tento pohled nás taky vede k uvědomění, že technická a metodická zlepšení často [nejsou řešením](#techfixes) daného problému -- alespoň ne úplným. 
+- Prvním je zaměření *na jednotlivce*. Zde se jedná především o vzdělávání jednotlivců v kapacitách, které vnímáme jako nezbytně nutné pro danou pozici. Většinou je jednotlivec poslán na kurzy, kde má tyto nové kapacity a vědomosti získat.
+- Druhým je zaměření na *"systém"*. Tím máme na mysli fungování celé organizace/instituce, v našem případě především resorty. Zde se zlepšení zaměřuje na to, jak je daný resort systemizován, jak efektivně a dobře v něm nastavit jednotlivé sekce apd. 
+
+V projektu jsme se snažili pracovat především s úrovní, která se nachází “mezi” těmito dvěma variantami. Tou je **tým** jako entita, která se společně snaží vykonat určitý úsek práce a je zapotřebí jejich spolupráce k dosažení stanovených výsledků. Bavíme-li se tedy např. o vzdělávání, je dle naší zkušenosti smysluplné dívat se na to, jak můžeme tým vzdělávat společně jako celek tak, aby jejich spolupráce přinesla výsledky práce, které od daného týmu očekáváme. 
+
+Tento pohled nás taky vede k uvědomění, že technická a metodická zlepšení často [nejsou řešením](#techfixes) daného problému -- alespoň ne úplným. 
 
 ### Vyhledávejte a zapojte externí pohled, hlas a pomoc
 
-Z naší externí role a pohledu zpětně vnímáme, že významnou přidanou hodnotu projektu ve spolupráci se zapojenými útvary, byl právě pohled z odstupu. Takový pohled, neovlivněný zaběhlými postupy či přístupy, přináší nadhled a svěží vítr, se kterým je možné vidět určité výzvy a příležitosti jasněji a může výrazně pomoci ke zlepšení práce a fungování týmu. Podobně užitečný může být vlastní pohled z odstupu či společná reflexe daného týmu po určité době. 
+Z naší externí role a pohledu zpětně vnímáme, že významnou přidanou hodnotu projektu ve spolupráci se zapojenými útvary, byl právě pohled z odstupu. Takový pohled, neovlivněný zaběhlými postupy či přístupy, přináší nadhled a svěží vítr, se kterým je možné vidět určité výzvy a příležitosti jasněji a může výrazně pomoci ke zlepšení práce a fungování týmu. 
+
+Podobně užitečný může být vlastní pohled z odstupu či společná reflexe daného týmu po určité době. 
 
 ### Když chcete něco změnit, může pomoct model chování COM-B
 
@@ -159,11 +170,13 @@ Ideální by bylo, kdyby toto síťování a sdílení mezi lidmi ve státní sp
 
 ### Technické řešení není vždy řešení {#techfix}
 
-Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak některá z těchto řešení jsou často finančně i časově náročné a nakonec ani neřeší původní problém, který jsme se snažili adresovat. Je proto dobré mít na paměti, než se rozhodneme pro technické řešení, že problém a jeho řešení se může nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
+Častá tendence v oblasti analytické práce je dívat se na problém tak, že jeho řešení je technické (zavedeme lepší informační systém, vyrobíme dashboardy atd.). Avšak některá z těchto řešení jsou často finančně i časově náročné a nakonec ani neřeší původní problém. Problém a jeho řešení se mohou nabízet v mnohem méně nákladných alternativách (zlepšení komunikace, lepší definice a porozumění problému, lepší zadání výzkumu atd.).
 
 ### Čas strávený zlepšováním vlastní práce je investice {#investice}
 
-Některé z návodů v našem [průvodci](/pruvodce) vyžadují vklad času na aktivity, na které v běžné provozu není prostor. To se může zdát jako luxus. Tyto postupy jsme ale s týmy zapojenými do projektu vyvíjeli hlavně proto, že sami jejich členové tuto potřebu reflektovali. V rozhovorech a workshopech se často shodli, že neukotvenost některých postupů a aktivit (např. správa dat a znalostí, řízení společné práce aj.) je ve skutečnosti připravuje čas a energii: některé věci by mohli dělat efektivněji a některé jejich aktivity by mohly mít větší přínos. (V tomto smyslu je i čas na reflexi jen zdánlivým luxusem). O zlepšování zásadních aspektů práce týmu je tedy dobré  přemýšlet jako o investici, která se vám vrátí.
+Některé z návodů v našem [průvodci](/pruvodce) vyžadují vklad času na aktivity, na které v běžné provozu není prostor. To se může zdát jako luxus. Tyto postupy jsme ale s týmy zapojenými do projektu vyvíjeli hlavně proto, že sami jejich členové tuto potřebu reflektovali. V rozhovorech a workshopech se často shodli, že neukotvenost některých postupů a aktivit (např. správa dat a znalostí, řízení společné práce aj.) je ve skutečnosti připravuje čas a energii: některé věci by mohli dělat efektivněji a některé jejich aktivity by mohly mít větší přínos. (V tomto smyslu je i čas na reflexi jen zdánlivým luxusem). 
+
+O zlepšování zásadních aspektů práce týmu je tedy dobré  přemýšlet jako o investici, která se vám vrátí.
 
 ## Odkazovaná literatura
 
