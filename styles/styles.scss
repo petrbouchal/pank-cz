@@ -732,13 +732,19 @@ li {
   padding-left: 3rem;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 767px) {
   .hero-box{
     padding-left: 0rem;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+
+@media only screen and (min-width: 968px) {
+  .claim {
+    min-height: 6rem !important;
   }
 }
 
@@ -749,17 +755,20 @@ li {
 
 .claim {
   min-height: none;
+  margin-bottom: 0.6rem;
 }
 
 @media only screen and (min-width: 600px) {
   .rep-box {
     min-height: 18rem;
   }
-
+  
   .claim {
-    min-height: 11rem;
+    min-height: 9rem;
   }
 }
+
+
 
 .rep-box {
   min-height: none;
