@@ -720,9 +720,12 @@ li {
 }
 
 .cntnr {
-  margin-top: auto;
   margin-bottom: auto;
   margin-left: 0px !important;
+}
+
+.notop {
+  margin-top: 1rem !important;
 }
 
 .hero-box {

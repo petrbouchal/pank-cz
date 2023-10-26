@@ -51,7 +51,7 @@ listing:
 
 ::::{.g-col-12 .g-col-md-6 .cntnr}
 
-## Co v průvodci najdete?
+## Co v průvodci najdete? {.notop}
 
 :::{.front-listing-left}
 
@@ -63,9 +63,9 @@ listing:
 
 ::::
 
-:::{.g-col-12 .g-col-md-6}
+:::{.g-col-12 .g-col-md-6 .cntnr}
 
-## Chcete se rovnou začíst?
+## Chcete se rovnou začíst? {.notop}
 
 :::{.front-listing-right}
 
@@ -131,7 +131,7 @@ Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*.
 
 Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování? 
 :::
-:::{.g-col-12 .g-col-sm-6 .algnd}
+:::{.g-col-12 .g-col-sm-6}
 :::{.btn .btn-primary .abtn}
 [Vzkazy o práci z poznatky&nbsp;⟶](/teze-tymy)
 :::
@@ -145,7 +145,7 @@ Ne všechno změníte sami tím, že budete pracovat na svém týmu.
 
 Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pravidlech, organizačním fungování úřadů.
 :::
-:::{.g-col-12  .g-col-sm-6 .algnd}
+:::{.g-col-12  .g-col-sm-6}
 :::{.btn .btn-primary .abtn}
 [Doporučení pro stát&nbsp;⟶](/doporuceni)
 :::
