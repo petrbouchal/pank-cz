@@ -745,12 +745,16 @@ li {
 }
 
 .claim {
-  min-height: 10rem;
+  min-height: none;
 }
 
 @media only screen and (min-width: 600px) {
   .rep-box {
     min-height: 18rem;
+  }
+
+  .claim {
+    min-height: 11rem;
   }
 }
 

@@ -75,8 +75,7 @@ format:
     reference-location: margin
     citation-location: document
     theme:
-      light: [cosmo.scss, styles.scss]
-      # dark: [darkly, styles-dark.scss]
+      light: [styles/cosmo.scss, styles/styles.scss]
     toc: true
     toc-expand: true
     anchor-sections: false
