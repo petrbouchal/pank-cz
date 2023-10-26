@@ -36,8 +36,11 @@ https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
 [Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
 
 https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=metodika-uvod + https://apl.czso.cz/iSMS/ukazvyb.jsp
+@bouchalCzsoUseOpen2020
+@bouchalStatnipokladnaUseData2020
 
 Statistika & My
+[Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
 
 link na organogramy
 
