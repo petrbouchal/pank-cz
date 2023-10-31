@@ -9,7 +9,7 @@ project:
   - nastroje
 
 website:
-  site-url: https://pank-cz.netlify.app
+  site-url: https://pank.cz
   image: /images/opengraph.jpg
   title: "PANK"
   navbar:
@@ -81,6 +81,7 @@ format:
     anchor-sections: false
     link-external-icon: true
     link-external-newwindow: true
+    link-external-filter: "^(?:http:|https:)\/\/(((www\.)?pank\.cz)|([a-z0-9\-]*\-\-)?pank\-cz\.netlify\.app?)"
 
 
 
