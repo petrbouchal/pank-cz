@@ -22,9 +22,9 @@ Naše spolupráce vycházela ze **zájmu vedení organizace**, která podporuje 
 
 # Diagnostická fáze
 
-Po sladění se s vedením analytického oddělení ohledně cílů naší spolupráce následovaly asi devadesátiminutové **rozhovory** se všemi členy analytického oddělení, ve kterých jsme se snažili zjistit, jak svou práci vnímají, kde jsou prostory pro zlepšení a kde jsou největší bariéry pro případné změny.
+Po sladění se s vedením analytického oddělení ohledně cílů naší spolupráce následovaly asi devadesáti minutové **rozhovory** se všemi členy analytického oddělení, ve kterých jsme se snažili zjistit, jak svou práci vnímají, kde jsou prostory pro zlepšení a kde jsou největší bariéry pro případné změny.
 
-V rámci této diagnostické fáze jsme také identifikovali blízké **spolupracovníky analytického oddělení**, jak v rámci organizace, tak mimo ni. Z rozhovorů s nimi jsme si slibobali pochopit také jejich perspektivu a dozvědět se, co funguje a kde jsou prostory pro zlepšení. Relativní centralita analytického oddělení v organizaci pro nás znamenala rozhovory s lidmi na vícero úrovních v organizaci a z různých oddělení. 
+V rámci této diagnostické fáze jsme také identifikovali blízké **spolupracovníky analytického oddělení**, jak v rámci organizace, tak mimo ni. Z rozhovorů s nimi jsme si slibovali pochopit také jejich perspektivu a dozvědět se, co funguje a kde jsou prostory pro zlepšení. Relativní centralita analytického oddělení v organizaci pro nás znamenala rozhovory s lidmi na vícero úrovních v organizaci a z různých oddělení. 
 
 Oproti očekávání jsme proto nakonec posbírali širší obraz o tom, jakou má **práce s poznatky v organizaci** pozici a kde jsou prostory pro zlepšení i nad rámec samotného analytického oddělení, což vedlo k vytvoření sekundárního diagnostického zaměření v rámci naší spolupráce. Vše bylo doplněno o desk research, který se týkal organizace jako celku i práce analytického oddělení. Diagnostiku oddělení jsme tedy uchopili především se zaměřením na vztah oddělení a jeho interních "zákazníků". Diagnostiku celé organizace jsme zaměřili především na klíčový proces celé organizace -- tedy přípravu a realizaci programů a soutěží na podporu aplikovaného výzkumu -- kde práce s poznatky hraje důležitou roli.    
 
@@ -55,13 +55,13 @@ Z diskuze s členy analytického oddělení byl vytvořen seznam priorit na kter
 -  Ministáže v rámci organizace
 -  Řízení a přijímání zakázek
 
-Z těchto priorit jsme si dále vybírali ty, které odpovídaly časovým a obsahovým kapacitám oddělení. Tím je myšleno, že jsme se vždy společně snažili pracovat na tom, co pro členy analytického oddělení v danou chvíli dávalo smysl, především z hlediska komplementarity z jejich aktivitami v daný čas. Nedávalo by moc smysl snažit se pracovat na něčem, na co členové oddělení v danou chvíli neměli čas ani neměli na pořadu dne, nebo nevnímali jako důležitou agendu.  
+Z těchto priorit jsme si dále vybírali ty, které odpovídaly časovým a obsahovým kapacitám oddělení. Tím je myšleno, že jsme se vždy společně snažili pracovat na tom, co pro členy analytického oddělení v danou chvíli dávalo smysl, především z hlediska komplementarity s jejich aktivitami v daný čas. Nedávalo by smysl snažit se pracovat na něčem, na co členové oddělení v danou chvíli neměli čas, nebo nevnímali jako důležitou agendu.  
 
 # Intervence
 
 ## Zvýšení využití analytického výstupu
 
-První prioritou bylo zvýšení využití analytického výstupu. Analytické oddělení již několik let vydává pravidelnou, časově náročnou komplexní analýzu - **mapování inovačních kapacit [INKA](https://www.tacr.cz/projekt-inka-vysledky-mapovani-inka2/)**. Jak ovšem sami tvůrci identifikovali, tato analýza není ani v organizaci ani mimo ni **využívaná** tak často, jak by si čas vložený do ní a její relevantnost zasloužily. Cílem této aktivity proto bylo zjistit důvody tohoto nízkého využití a především najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci využívat. Samotný postup k těmto zjištěním probíhal takto: 
+První prioritou bylo zvýšení využití analytického výstupu. Analytické oddělení již několik let vydává pravidelnou, časově náročnou a komplexní analýzu - **mapování inovačních kapacit [INKA](https://www.tacr.cz/projekt-inka-vysledky-mapovani-inka2/)**. Jak ovšem sami tvůrci identifikovali, tato analýza není ani v organizaci ani mimo ni **využívaná** tak často, jak by si čas vložený do ní a její relevantnost zasloužily. Cílem této aktivity proto bylo zjistit důvody tohoto nízkého využití a především najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci využívat. Samotný postup k těmto zjištěním probíhal takto: 
 
 Nejdříve analytické oddělení vytvořilo seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad "okrajovými" stakeholdery, jež spíše mohou svým zájem o výstup překvapit. Zatímco v rámci organizace udělali několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. 
 
@@ -104,13 +104,13 @@ Pomůže udělat si dobrý přehled o tom, jaké ad hoc úkoly plníte a podle t
 -  Ujasnit si, co je a není třeba
 -  Investovat do automatizace
 -  Vyplatí se investovat do komunikace vlastní práce, a to v několika rovinách:
-- U větších projektů myslete na uživatele, znát jejich potřeby, a následně na ně cílit vhodnou formou výstupu
-- U dílčích analýz je vhodné udržovat jejich přehled např. na intranetu -- tím omezíte duplicitní poptávky a zvýšíte šanci, že vaši práci objeví a využijí další lidé
--  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.    
+-- U větších projektů myslete na uživatele, znát jejich potřeby, a následně na ně cílit vhodnou formou výstupu
+-- U dílčích analýz je vhodné udržovat jejich přehled např. na intranetu -- tím omezíte duplicitní poptávky a zvýšíte šanci, že vaši práci objeví a využijí další lidé
+--  U dílčích ad hoc poptávek je součástí vaší role pomoct zákazníkovi definovat, co potřebuje.    
 
 # Systémové bariéry
 
-Tým v relativně malé organizaci nanaráží na zásadní systémové bariéry; pro lepší fungování práce s poznatky přesevším v oblasti fungování politik výzkumu a vývoje by ale pomohla lepší **dostupnost (především firemních) dat napříč úřady** pro účely vyhodnocování dopadů intervencí.
+Tým v relativně malé organizaci naráží na zásadní systémové bariéry; pro lepší fungování práce s poznatky především v oblasti fungování politik výzkumu a vývoje by ale pomohla lepší **dostupnost (především firemních) dat napříč úřady** pro účely vyhodnocování dopadů intervencí.
 
 # Dobré praxe
 
@@ -124,7 +124,7 @@ Tým v relativně malé organizaci nanaráží na zásadní systémové bariéry
 
 Na úrovni TA ČR
 
--  organizce má **systém řízení změn**, kde lze diskutovat náměty na změny v procesech, které zasáhnou širší spektrum aktérů
+-  organizace má **systém řízení změn**, kde lze diskutovat náměty na změny v procesech, které zasáhnou širší spektrum aktérů
 -  je patrná schopnost a ochota jednotlivých specialistů **využívat data** pro zlepšování procesů
 -  agentura má interní **evaluační jednotku** (ta dělá i nepovinné ex post a ex ante evaluace), která se průběžně snaží zlepšovat jak metody vyhodnocování programů a soutěží, tak propisování výsledků evaluací do rozhodování
 
