@@ -28,7 +28,7 @@ TODO https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
 
 ## Další zdroje
 
-## Zdroje na úklid
+## Zdroje na úklid TO DO
 
 https://www.czso.cz/csu/czso/pracoviste_statni_statisticke_sluzby
 
