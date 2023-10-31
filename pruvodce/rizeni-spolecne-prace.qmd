@@ -38,37 +38,37 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných 
 
 ## 1. Efektivní řízení schůzek 
 
-### a. Před každou schůzkou je dobré se sjednotit na jejími cíli
+a. Před každou schůzkou je dobré se sjednotit na jejími cíli
 
-### b. Dále je vhodné stanovit její agendu (například vzájemný update, řešení zaseknutí se, brainstorming, plány do budoucna,...)
+b. Dále je vhodné stanovit její agendu (například vzájemný update, řešení zaseknutí se, brainstorming, plány do budoucna,...)
 
-### c. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účastnicím a účastníkům 
+c. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účastnicím a účastníkům 
 
-### d. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
+d. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
 
-## 2. Procesní mapa
+2. Procesní mapa
 
-### a. Procesní mapa slouží k zachycení různých činností, kterým se tým věnuje. Jejich vizualizace ve formě mapy ulehčuje identifikaci rozdělení zodpovědností za jednotlivé úkoly a dává lepší celkový přehled, což usnadňuje koordinaci v týmu. 
+a. Procesní mapa slouží k zachycení různých činností, kterým se tým věnuje. Jejich vizualizace ve formě mapy ulehčuje identifikaci rozdělení zodpovědností za jednotlivé úkoly a dává lepší celkový přehled, což usnadňuje koordinaci v týmu. 
 
-### b. Detailnější postupy a návody jsou k dispozici zde 
+b. Detailnější postupy a návody jsou k dispozici zde 
 
 ## 3. Mapa poznání 
 
-### a. Mapa poznání pomáhá zorganizovat a strukturovat věci, které víme o daném problému. Zachycení poznatků pomocí tohoto postupu usnadňuje identifikaci oblastí, které se musí doplnit i dalších kroků.
+a. Mapa poznání pomáhá zorganizovat a strukturovat věci, které víme o daném problému. Zachycení poznatků pomocí tohoto postupu usnadňuje identifikaci oblastí, které se musí doplnit i dalších kroků.
 
-### b. Detailnější postupy a návody jsou k dispozici zde 
+b. Detailnější postupy a návody jsou k dispozici zde 
 
 ## 4. Efektivní brainstorming 
 
-### a. Kolektivní brainstorming je významný především pokud se snažíte jako tým vyřešit problém. Dobrý brainstorming je vzájemně inspirativní, přináší energii pro další kroky a vede k novým nápadům.  
+a. Kolektivní brainstorming je významný především pokud se snažíte jako tým vyřešit problém. Dobrý brainstorming je vzájemně inspirativní, přináší energii pro další kroky a vede k novým nápadům.  
 
-### b. K produktivnějšímu brainstormingu můžete použít následující postupy:
+b. K produktivnějšímu brainstormingu můžete použít následující postupy:
 - Rapid ideation - časový limit na napsání co nejvíce nápadů 
--- Potom společná diskuze 
+ - Potom společná diskuze 
 - Online brainstorming (brain netting) 
--- Online tracking doc pro sdílení nápadů- follow up
+ - Online tracking doc pro sdílení nápadů- follow up
 - Kolotoč 
--- Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
+ - Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
 
 :::
 :::{#refs}
