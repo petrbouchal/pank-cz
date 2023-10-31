@@ -22,9 +22,9 @@ Tento návod neposkytuje postup krok za krokem, ale je především rozcestníke
 
 ### 4. Výzkumná data
 
-https://datacatalogue.cessda.eu/
+TODO https://datacatalogue.cessda.eu/
 
-https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
+TODO https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
 
 ## Další zdroje
 
