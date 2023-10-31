@@ -7,3 +7,4 @@ format:
   html: default
   docx: default
 citation-location: document
+toc-depth: 2
