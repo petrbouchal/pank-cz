@@ -45,25 +45,9 @@ listing:
       blok: "vyuziti"
     fields: 
       - title
-  - id: zacit
-    categories: false
-    type: default
-    sort: poradi
-    include: 
-      blok: "zacit"
-    fields: 
-      - title
 ---
 
 <br />
-
-:::{.pruvodce-box}
-
-::: {#zacit}
-:::
-
-:::
-
 
 :::{.pruvodce-box}
 

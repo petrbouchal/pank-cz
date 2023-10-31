@@ -69,7 +69,6 @@ listing:
 
 :::{.front-listing-right}
 
-- [Kde začít](/pruvodce/kde-zacit)  
 - [Jak spolupracovat v týmu](/pruvodce/index.qmd#rizeni) 
 - [Jak získávat poznatky](/pruvodce/index.qmd#ziskavani)   
 - [Jak s poznatky pracovat](/pruvodce/index.qmd#metody)   
