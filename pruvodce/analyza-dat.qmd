@@ -39,6 +39,18 @@ TODO vysvětlit koncept a původ reproducible research
 
 Pro ladění postupů práce s daty na pomezí věcné expertizy a datové analytiky se vám může hodit [průvodce The Turing Way](https://the-turing-way.netlify.app/index.html) od britského Turing Institute, která zachycuje nejen praktické postupy pro technickou práci, ale i tipy pro spolupráci a práci s partnery [@communityTuringWayHandbook2022].
 
+## Úvody česky
+
+- https://promis.econ.muni.cz/ + https://promis.econ.muni.cz/reproducible_research.html
+- https://sociology-fa-cu.github.io/courses.html
+    - https://sociology-fa-cu.github.io/uvod-do-r/
+    - https://sociology-fa-cu.github.io/uvod-do-r-kniha/
+    - https://sociology-fa-cu.github.io/appliedregressioninr/
+    - https://sociology-fa-cu.github.io/vybranatemataanalyzy/
+    - https://sociology-fa-cu.github.io/statistika1/
+- https://oeconomica.vse.cz/wp-content/uploads/Danko_Safr_R-snadno-a-rychle_1.pdf
+
+
 ## TODO co citovat
 
 @bogerJurassicMarkInattentional2021
