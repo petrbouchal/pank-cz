@@ -280,7 +280,7 @@ V posledních letech se velká část soukromého sektoru v oblasti analýzy dat
 - podpořit vývoj standardů práce a souvisejících nástrojů - zde inspirací může být iniciativa analytické profese britské státní služby [Reproducible Analytical Pipelines](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/), což je sada opakovaně využitelných nástrojů usnadňujících automatizaci analytických postupů a procesů.
 - podpořit využívání moderních přístupů metodikami (např. v oblasti RIA, popř. v potenciálním peer review mechanismu podle slovenského modelu), kde součástí kontroly kvality (např. u RIA hodnotící zprávy) bude ověření splnění základních standardů kvality práce s daty. Zde mohou být inspirací metodiky britské státní služby tzv. Duck Book [@ukgovernmentanalyticalcommunityQualityAssuranceCode2022] a Aqua Book [@hmtreasuryAquaBookGuidance2015] a částečně i Magenta Book [@hmtreasuryMagentaBookCentral2020].
 - prověřit možnost využít DIA resp. center kompetence pro tuto oblast
-- ucelenou sadu doporučení pro organizace v podobné situace nabízí britské tzv. Goldacre Review: studie, která navrhuje výrazné posílení datově analytických kapacit a zakotvení moderních postupů v této oblasti v zdravotnickém systému [goldacreBetterBroaderSafer2022].
+- ucelenou sadu doporučení pro organizace v podobné situace nabízí britské tzv. Goldacre Review: studie, která navrhuje výrazné posílení datově analytických kapacit a zakotvení moderních postupů v této oblasti v zdravotnickém systému [@goldacreBetterBroaderSafer2022].
 
 **Proč je to třeba**
 
