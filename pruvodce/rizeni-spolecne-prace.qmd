@@ -64,11 +64,11 @@ a. Kolektivní brainstorming je významný především pokud se snažíte jako 
 
 b. K produktivnějšímu brainstormingu můžete použít následující postupy:
 - Rapid ideation - časový limit na napsání co nejvíce nápadů 
- - Potom společná diskuze 
+  - Potom společná diskuze 
 - Online brainstorming (brain netting) 
- - Online tracking doc pro sdílení nápadů- follow up
+  - Online tracking doc pro sdílení nápadů- follow up
 - Kolotoč 
- - Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
+  - Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
 
 :::
 :::{#refs}
