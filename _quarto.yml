@@ -9,7 +9,7 @@ project:
   - nastroje
 
 website:
-  site-url: https://pank-cz.netlify.app
+  site-url: https://pank.cz
   image: /images/opengraph.jpg
   title: "PANK"
   navbar:
