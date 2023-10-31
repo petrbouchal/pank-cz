@@ -4,6 +4,8 @@ subtitle: "Nepřicházejte o znalosti těch, kdo odchází z týmu"
 blok: ['rizeni']
 poradi: 12
 editor: source
+aliases: 
+  - /pruvodce/offboarding
 ---
 
-## V přípravě
+> Tento návod je zatím v přípravě
