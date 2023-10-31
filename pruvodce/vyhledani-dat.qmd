@@ -22,6 +22,9 @@ Tento návod neposkytuje postup krok za krokem, ale je především rozcestníke
 
 ### 4. Výzkumná data
 
+https://datacatalogue.cessda.eu/
+
+https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
 
 ## Další zdroje
 
@@ -31,7 +34,9 @@ https://www.czso.cz/csu/czso/pracoviste_statni_statisticke_sluzby
 
 https://archiv.soc.cas.cz/cz/pristup-k-datum/jine-zdroje-dat
 
-https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
+
+https://www.cessda.eu/Tools/Data-Catalogue 
+
 
 [Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
 

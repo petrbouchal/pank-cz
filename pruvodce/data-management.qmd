@@ -309,6 +309,8 @@ Pragmatický standard dokumentace tabulkových datových sad [používá britsk�
 
 K dokumentaci datasetů viz @gebruDatasheetsDatasets2021, též kap. 10 v @alexanderTellingStoriesData2023.
 
+TO DO add https://dmeg.cessda.eu/
+
 ## Odkazované zdroje a literatura
 
 ::: {#refs}
