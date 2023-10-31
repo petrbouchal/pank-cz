@@ -6,57 +6,7 @@ poradi: 1
 editor: source
 ---
 
-## O co jde a k čemu to je
-
-Tento návod neposkytuje postup krok za krokem, ale je především rozcestníkem a repozitářem základních znalostí nutných pro práci s veřejnými daty.
-
-## Datové zdroje
-
-### 0. Metadata, číselníky
-
-### 1. Statistická data
-
-### 2. Administrativní data
-
-### 3. Výzkumná data
-
-### 4. Výzkumná data
-
-TODO https://datacatalogue.cessda.eu/
-
-TODO https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
-
-## Další zdroje
-
-## Zdroje na úklid TO DO
-
-https://www.czso.cz/csu/czso/pracoviste_statni_statisticke_sluzby
-
-https://archiv.soc.cas.cz/cz/pristup-k-datum/jine-zdroje-dat
-
-
-TODO https://www.cessda.eu/Tools/Data-Catalogue 
-
-
-[Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
-
-https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=metodika-uvod + https://apl.czso.cz/iSMS/ukazvyb.jsp
-@bouchalCzsoUseOpen2020
-@bouchalStatnipokladnaUseData2020
-
-Statistika & My
-[Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
-
-link na organogramy
-
-důležitá šetření ČSÚ: 
-
-- domácnosti https://www.czso.cz/csu/vykazy/setreni_u_domacnosti
-- firmy?
-
-https://www.czso.cz/csu/vykazy/setreni_u_domacnosti => vyhláška o Programu statistických zjišťování - [na rok 2023](https://www.zakonyprolidi.cz/cs/2022-324), [na rok 2024](https://www.zakonyprolidi.cz/monitor/7724336.htm)
-
-=> seznam [2023](https://www.czso.cz/csu/vykazy/program-statistickych-zjistovani-na-rok-2023) a [2024](https://www.czso.cz/csu/vykazy/program-statistickych-zjistovani-na-rok-2024)
+> ## Tento návod ještě připravujeme.
 
 
 
