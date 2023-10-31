@@ -59,6 +59,12 @@ ZOG by měl:
 - Ujišťujte se jak s výzkumníky, tak zadavateli, že se držíte na dobré cestě, případně diskutujte nutné změny odvozené z kontextu
 - Pro udržitelnost a přehlednost procesu zadání a vedení výzkumu se nabízí otázka vytvořit informační šablonu, která má sloužit k zaznamenání důležitých informací 
 
+## Kde už na tom pracují
+
+TODO MŠMT, MMR, MŽP - konsorcia, MV - technická řešení
+
+TODO LINK Beta mapa
+
 :::
 
 # Na co si dát pozor
@@ -68,6 +74,7 @@ Program BETA s sebou nese několik výzev na které je potřeba dávat pozor. Ch
 Také je dobré mít na paměti, že existují různé módy využití výzkumu - nejde jen o to, že se někdo v jeden moment na základě jedné studie rozhodne jinak. V tomto smyslu je důležité starat se o analýzy a přemýšlet nad tím, pro koho by mohli být relevantní.
 
 Pokud se někoho ptáme (např. na jejich potřeby v rámci daného výzkumného projektu), je potřeba aby z toho také něco mělil. Měli bychom alespoň komunikovat, jak informace, které nám poskytl vedly k té či té změně, nebo proč jsme se nakonec rozhodli jeho přání nevyplnit. Bez této zpětné vazby budou vztahy deteriovat a časem již žádné informace nezískáme.  
+
 
 # Další zdroje
 
