@@ -725,11 +725,20 @@ li {
   margin-left: 0px !important;
 }
 
+.cntnr-middle {
+  margin-bottom: auto !important;
+  margin-top: auto !important;
+  vertical-align: middle !important;
+}
+
 .notop {
   margin-top: 1rem !important;
 }
 
 .hero-box {
+  margin-bottom: auto;
+  margin-top: auto;
+  vertical-align: middle;
   padding-left: 3rem;
 }
 

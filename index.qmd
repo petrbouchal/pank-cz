@@ -86,7 +86,7 @@ listing:
 
 :::{.grid}
 
-:::{.g-col-12 .g-col-md-6 .cntnr}
+:::{.g-col-12 .g-col-md-6 .cntnr-middle}
 
 
 ## Vycházíme z praxe týmů ve státní správě
