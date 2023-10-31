@@ -35,7 +35,7 @@ https://www.czso.cz/csu/czso/pracoviste_statni_statisticke_sluzby
 https://archiv.soc.cas.cz/cz/pristup-k-datum/jine-zdroje-dat
 
 
-https://www.cessda.eu/Tools/Data-Catalogue 
+TODO https://www.cessda.eu/Tools/Data-Catalogue 
 
 
 [Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
