@@ -9,7 +9,7 @@
 - [x] integrovat písma https://stackoverflow.com/questions/75464776/how-to-override-the-default-font-using-locally-stored-fonts-in-themes
 - [ ] Matomo tracking
 - [x] style buttons
-- [ ] code font
+- [x] code font
 - [ ] ikona vyměnit
 - [ ] front obrázky vyměnit
 - [x] vert align hero boxu
