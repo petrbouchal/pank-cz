@@ -7,93 +7,69 @@ editor: source
 ---
 
 
+# O co jde a k čemu to je
 
-# Nadpis 1
+Dobrá organizace skupinové práce v týmu je zásadní pro obecně kvalitní analytickou práci. Tato sekce poskytuje několik doporučení a možných praxí, jak lépe řídit kolektivní procesy v týmu.  
 
-:::{.callout-note icon=false appearance=simple collapse=true}
+:::{.aside}
 
-### Poznámka, bez ikonky
+**Případové studie**
 
-Nějaký text
-
-:::
-
-[Poznámka na straně.]{.aside}
-
-## Nadpis 2
-
-:::{.panel-tabset}
-
-### Záložka
-
-Bod v záložce
-
-a další
-
-### Záložka
-
-Bod v druhé
-
-další bod v druhé
-
-:::
-
-:::{.callout-note collapse=false}
-
-### Tip
-
-Nějaký text
-
-:::
-
-:::{.btn .btn-primary}
-[Prolink na případovku ASZ](../pripadove-studie/asz)
-:::
+Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných příležitostí ESF MPSV.
 
 <br />
 
-
-Here is a simple footnote[^1]. With some additional text after it.
-
-[^1]: Poznámka na straně s odkazem do textu.
-
-### Nadpis 3 {#id-pro-odkazy}
-
-:::{.callout-important collapse=true}
-
-### Důležité, sbaleno
-
-Nějaký text
+:::{.btn .btn-primary}
+[přečíst případovou studii](../pripadove-studie/mpsv)
+:::
 
 :::
 
-## Další nadpis 2
+# Sebediagnostika: je to pro mě?
 
-:::{.callout-warning collapse=false}
+- Máte nejasnou agendu a cíle schůzek?
+- Chybí vám struktura společných úkolů?
+- Narážíte často na přehlcení informacemi?
+- Je pro vás obtížné prioritizovat významnost poznatků i úkolů?
 
-### Pozor
+:::{.strip .page-full .page-columns}
 
-Nějaký text
+# Jak na to 
+
+## 1. Efektivní řízení schůzek 
+
+### a. Před každou schůzkou je dobré se sjednotit na jejími cíli
+
+### b. Dále je vhodné stanovit její agendu (například vzájemný update, řešení zaseknutí se, brainstorming, plány do budoucna,...)
+
+### c. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účastnicím a účastníkům 
+
+### d. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
+
+## 2. Procesní mapa
+
+### a. Procesní mapa slouží k zachycení různých činností, kterým se tým věnuje. Jejich vizualizace ve formě mapy ulehčuje identifikaci rozdělení zodpovědností za jednotlivé úkoly a dává lepší celkový přehled, což usnadňuje koordinaci v týmu. 
+
+### b. Detailnější postupy a návody jsou k dispozici zde 
+
+## 3. Mapa poznání 
+
+### a. Mapa poznání pomáhá zorganizovat a strukturovat věci, které víme o daném problému. Zachycení poznatků pomocí tohoto postupu usnadňuje identifikaci oblastí, které se musí doplnit i dalších kroků.
+
+### b. Detailnější postupy a návody jsou k dispozici zde 
+
+## 4. Efektivní brainstorming 
+
+### a. Kolektivní brainstorming je významný především pokud se snažíte jako tým vyřešit problém. Dobrý brainstorming je vzájemně inspirativní, přináší energii pro další kroky a vede k novým nápadům.  
+
+### b. K produktivnějšímu brainstormingu můžete použít následující postupy:
+- Rapid ideation - časový limit na napsání co nejvíce nápadů 
+-- Potom společná diskuze 
+- Online brainstorming (brain netting) 
+-- Online tracking doc pro sdílení nápadů- follow up
+- Kolotoč 
+-- Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
 
 :::
-
-:::{.callout-caution icon=false appearance=minimal}
-
-### Opatrně
-
-Nějaký text, minimalistický layout
-
-:::
-
-[](https://cesko.digital/events/jak-usporadat-informace-a-usetrit-cas-a-naklady)
-
-# Další zdroje
-
-Pro správu znalostí v projektech se vám může hodit manuál nebo některé z nástrojů vyvinutých na Masarykově univerzitě v projektu [Řízení znalostí v projektech](https://pkm.econ.muni.cz/).
-
-@ramalingamToolsKnowledgeLearning2006
-
-## Odkazovaná literatura
-
 :::{#refs}
 :::
