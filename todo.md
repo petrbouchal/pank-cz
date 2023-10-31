@@ -16,6 +16,7 @@
 - [x] vert align boxu s linkem na případovky na front page
 - [ ] ověřit a spravit úrovně TOC napříč webem
 - [ ] doplnit header blocks kde jsou třeba
+- [ ] lepší docx šablona
 
 # Layout hlavních textů
 

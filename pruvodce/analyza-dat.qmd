@@ -17,6 +17,8 @@ Najdete zde tedy spíš sadu tipů a zdrojů, jak se v práci s daty posunout sm
 
 # O co jde a proč to řešit?
 
+TODO vysvětlit koncept a původ reproducible research
+
 # Je to pro mě? 
 
 # Směry rozvoje
