@@ -5,4 +5,85 @@ blok: ['vyuziti']
 poradi: 1
 ---
 
-> Tento návod je zatím v přípravě
+# O co jde a k čemu to je
+
+Kvalitu analytických výstupů nestanovuje pouze dobře odvedená metodologická práce, ale i způsob předávání informací, strukturace textu a další aspekty výstupů. Tato část průvodce se zabývá těmito aspekty.  
+
+:::{.aside}
+
+**Případové studie**
+
+Tento návod jsme vyvinuli a testovali ve spolupráci s týmem EJ NOK na MMR.
+
+<br />
+
+:::{.btn .btn-resource}
+[přečíst případovou studii](../pripadove-studie/mmr)
+:::
+
+:::
+
+# Sebediagnostika: je to pro mě?
+
+
+- Vypracováváte Vy nebo Vaše oddělení velké množství analytických výstupů?
+- Narážíte na to, že Vaše zprávy nejsou správně pochopené?
+- Začínáte se sepisováním výstupů?
+
+:::{.strip .page-columns .page-full}
+
+# Jak na to
+
+## Hlavní principy psaní výstupů
+- Omezit nadbytečný text
+    - Výstupy by měly jasně a rozhodně sdělit, co zjištěná evidence říká o analyzovaném problému. 
+        - Zvláště manažerská shrnutí by měla být formulována co nejúsporněji.
+        - Je vhodné vyvarovat se dlouhých úvodních odstavců, které naznačují strukturu celého textu, odkazují na další jeho části atd. Naopak na začátku je dobré motivovat text otázkou 
+        - Délka zprávy by měla být čtenářsky vstřícná, přičemž ideální rozsah se liší dle typů výstupů. Především do manažerského shrnutí a zpráv pro uživatele by měly jít pouze nejrelevantnější informace. Zároveň je dobré se vyvarovat kopírování materiálu z případových studií a obecnějších věcí do hlavní zprávy. 
+
+- Psát jasně
+    - Nepoužívat příliš dlouhá a složitá slova
+    - Vyvarovat se žargonu
+    - Vysvětlovat zkratky
+    - Věty i odstavce by měly být krátké, věty cca 15-20 slov. 
+    - Čím složitější problém, tím jednodušší věty 
+    - Vyvarovat se pasivního vidu, používat aktivní
+    - Psát specificky, vyvarovat se vágních slov a formulací, které mohou být dezinterpretovány
+    - Používat nadpisy a podnadpisy pro snadnější orientaci
+    - Používat balancovaný, hodnotově nezabarvený jazyk
+
+## Jak komunikovat informace a zjištění 
+Je dobré zvážit, nakolik chcete pracovat s triádou zjištění  - závěr - doporučení: co jsme se dozvěděli, co z toho plyne, a co s tím dělat
+Je nutné psát text s vědomím toho, že (minimálně některý) čtenář není odborníkem/icí na dané téma.
+Cílem psaní není utřídit si myšlenky, ale umožnit čtenáři, aby uviděl realitu tak, jak ji po zvážení informací a jejich utřídění vidí autor - a ukazuje se jako děj, pracuje se s metaforou vidění, se sekvencí (napřed vidím něco, pak se přesouvám někam dále, jde to po sobě a navazuje to, autor mi to ukazuje, představuje)
+Je nutné vyvarovat se zahlcení čtenářů sadou čísel, především velkými čísly, které jsou špatně zpracovatelné. Naopak je nutné nějakými způsoby ta čísla vztáhnout k “žité realitě”, například plochu převést na čtenáři známou geografickou jednotku (“plocha o velikosti ústeckého kraje” - dobře funguje v tzv. “perspective clauses” - “28,5 mld. hektarů - pro srovnání, to je dvojnásobek plochy kraje X”, popř. “to si lze představit jako…” nebo “v kontextu to znamená…”). 
+Nenuťte čtenáře počítat v hlavě, udělejte to za něj (např. “X se téměř zdvojnásobilo, z 27 v roce 2021 na 53 v roce 2023”).  Při srovnávání čísel používejte stejný základ - např. počty lékařů na tisíc lidí ve dvou krajích, ne “v kraji X je N lékařů na A obyvatel, v kraji Y NN lékařů na AA obyvatel”
+Vyhněte se nepatřičné přesnosti jednotlivých čísel - zaokrouhlujte, popř. uvádějte v tisících, milionech, podle toho, jak moc se daná veličina mění a jaké změny jsou podstatné
+Podobně někteří čtenáři nejsou zvyklí pracovat s procenty a procentními body. Zde třeba být precizní, popř. vysvětlit více způsoby, např. “výskyt X vzrostl z 2 % na 3 %, to znamená, že riziko X v populaci vzrostlo o polovinu”. Je lepší napsat “1 z 20” než “5 %”.
+Jak strukturovat různé texty
+Úvod
+Problém (Co je to za problém? Proč je důležitý?).
+Pozadí, kontext (Co se děje, kde, koho se to týká?).
+Příčiny současné situace (Proč? Uveďte důkazy nebo příklady.)
+Důsledky současné situace (Jaké má důsledky? Uveďte důkazy nebo příklady.)
+Úvod by měl plnit čtyři úkoly: Upoutá pozornost čtenáře, představuje téma, říká, proč je důležité, a proč by se jím měl čtenář zabývta.
+Outline celé zprávy
+Cíle projektu
+Background
+Přístupný a jasný průvodce metodikou výzkumu, včetně údajů o jak ovlivňuje závěry
+Zjištění strukturovaná podle témat, nikoliv na základě toho, jak byla “objevena” během výzkumného procesu.
+Závěry a doporučení 
+Odpovědi na otázku "so what?"
+Může být nutné odkázat na vývoj politiky v dané oblasti
+Měla by jasně vycházet z interpretace existujících dat
+Pokud možno by měla být propojeny s konkrétními zjištěními
+Podrobné technické a metodologické informace by měly být uvedeny v přílohách
+Jak psát manažerská shrnutí
+Hlavním cílem je poskytnout informace k pochopení diskutovaného problému, přesvědčit, že je potřeba ho řešit,  navrhnout doporučení a pomoci dospět k rozhodnutí ohledně dalších kroků.
+Nezabíhat do všech podrobností, místo toho poskytnout čtenáři dostatek informací, aby pochopil evaluovaný problém a dospěl k rozhodnutí.
+Vycházet z jasných dat a evidence. Každé zjištění by mělo čtenáře odkázat na na příslušnou část hlavní části zprávy. Například: "Více v oddílu N o znalostech zaměstnanců” . 
+Zaměřit se na výsledky a jejich význam, ne na metody. Čtenáře zajímá, co jste zjistili a co doporučujete. Nepotřebují znát podrobnosti vaší metodiky.
+Poskytnout “big picture” o diskutovaném problému
+
+
+# Na co si dát pozor aneb tipy & triky
