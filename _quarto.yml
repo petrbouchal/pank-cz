@@ -81,6 +81,7 @@ format:
     anchor-sections: false
     link-external-icon: true
     link-external-newwindow: true
+    link-external-filter: "^(?:http:|https:)\/\/(((www\.)?pank\.cz)|([a-z0-9\-]*\-\-)?pank\-cz\.netlify\.app?)"
 
 
 
