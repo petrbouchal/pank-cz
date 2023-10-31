@@ -109,3 +109,9 @@ Dobrou praxí mohou být interní checklisty, které stanoví hlavní aspekty, j
 
 Osvědčil se i sdílení příkladů dobrých a špatných analytických výstupů, které mohou být sdíleny uvnitř oddělení i s dalšími partnery. Tyto příklady konkretizují obecnější principy a jsou tak nápomocné ve sladění očekávání ohledně zpráv. 
 
+# Další zdroje
+
+
+[Writing for utilisation](https://www.betterevaluation.org/blog/writing-for-utilisation)
+
+[Guide for Research Publications](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179765/Research_reports_guidance_August2023.pdf)
