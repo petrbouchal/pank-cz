@@ -20,6 +20,10 @@ V době, kdy jsme na tématu pracovali, se ale rychle vyvíjela řada technologi
 
 ## Jakou rešerši potřebujete?
 
+Jaká situace?
+
+Jaká část procesu tvorby politik?
+
 ## Jaké poznatky do ní zahrnout?
 
 ## Kde hledat?
@@ -48,7 +52,7 @@ https://rightreview.knowledgetranslation.net/
 
 @snilstveitEvidenceGapMaps2016
 
-###
+### Clearinghouses
 
 https://eric.ed.gov/
 
@@ -58,6 +62,12 @@ https://txicfw.socialwork.utexas.edu/how-to-find-the-right-evidence-based-practi
 
 https://www.gov.uk/guidance/what-works-network
 
+https://www.desegregace.cz/
+
+https://www.scholaempirica.org/
+
+### Jak se v tom vyznat
+
 @nutleysandraWhatCountsGood2013
 
 @salganikBitBitSocial2019
@@ -66,7 +76,12 @@ https://www.gov.uk/guidance/what-works-network
 
 @huntington-kleinEffectIntroductionResearch
 
+
+
+@instituteforgovernmentEvidenceTransparencyFramework2015
+
 ### Odkazovaná literatura
+
 
 :::{#refs}
 :::

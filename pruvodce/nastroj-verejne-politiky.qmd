@@ -119,6 +119,8 @@ h. Vypracování intervenční logiky
 
 @michieBehaviourChangeWheel2011
 
+@instituteforgovernmentEvidenceTransparencyFramework2015
+
 ## Odkazovaná literatura
 
 :::{#refs}
