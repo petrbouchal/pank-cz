@@ -13,3 +13,11 @@
 - [ ] ikona vyměnit
 - [ ] front obrázky vyměnit
 - [ ] vert align hero boxu
+- [ ] ověřit a spravit úrovně TOC napříč webem
+- [ ] doplnit header blocks kde jsou třeba
+
+# Layout hlavních textů
+
+- [ ] sladit úrovně nadpisů v případovkách
+- [ ] sladit úrovně nadpisů v návodech
+- [ ] sladit kapitoly v případovkách
