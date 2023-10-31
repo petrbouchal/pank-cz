@@ -46,7 +46,7 @@ c. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účas
 
 d. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
 
-2. Procesní mapa
+## 2. Procesní mapa
 
 a. Procesní mapa slouží k zachycení různých činností, kterým se tým věnuje. Jejich vizualizace ve formě mapy ulehčuje identifikaci rozdělení zodpovědností za jednotlivé úkoly a dává lepší celkový přehled, což usnadňuje koordinaci v týmu. 
 
