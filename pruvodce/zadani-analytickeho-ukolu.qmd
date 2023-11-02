@@ -86,18 +86,19 @@ Jakkoli můžou pomoct postupy a nástroje (výše), **zásadní jsou funkční 
 
 Právě v těchto dlouhodobých spoluprácích může být nápomocné připravit **šablonu** pro zadávání analytických úkolů. Ta by měla sloužit jako základní osnova úkolu a pokrývat otázku/definici problému, deadliny, existující zdroje, případně potencionální uživatele koncového výstupu. Časem se vám může podařit vaše partnery **na tento způsob uvažování navyknout** - dobré kladení otázek je ostatně součástí výbavy pro práci s poznatky na straně klientů a zadavatelů analytické práce.
 
-Takový postup pomůže i v případě, že analytický úkol řešíte např. **veřejnou zakázkou**. Ukazuje se totiž, že zadávací dokumentace není dobrý podklad pro vyjasňování cílů - právě proto některé evaluační jednotky pracují s dokumentem **záměru analýzy (evaluace)**, jehož účelem je vyjasnit cíle a otázky. O tom viz [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) od Evaluační jednotky NOK.
+Takový postup pomůže i v případě, že analytický úkol řešíte např. **veřejnou zakázkou**. Zadávací dokumentace totiž není dobrý podklad pro vyjasňování cílů -- právě proto některé evaluační jednotky pracují s dokumentem **záměru analýzy (evaluace)**, jehož účelem je vyjasnit cíle a otázky. O tom viz [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) od Evaluační jednotky NOK.
 
 # Další zdroje
 
-TO DO zdroje
+Pokud se kontakt mezi zadavatelem a analytikem ve Vašem případě týká datově analytických úloh, může se Vám hodit článek o tzv. Analytics Translators [@henkeYouDonHave2018]. 
 
-@henkAnalyticsTranslatorNew
+Pokud úkol směřuje k zadání většího projektu, může se hodit využít [Manager's guide to evaluation](https://www.betterevaluation.org/frameworks-guides/managers-guide-evaluation) nebo náš návod na [-> Řízení externího výzkumu](management-externiho-vyzkumu.qmd), popř. i specificky [-> Využití programu BETA](beta2.qmd).
 
-[Evidence Transparency Framework](https://www.instituteforgovernment.org.uk/publications/evidence-transparency-framework)
+Pro vyladění celého procesu řízení úkolů se vám může hodit náš návod na [-> inventuru úkolů] a ještě víc seširoka publikace @nolisLeadingDataScience2022 -- opět zvláště ve vztahu k datově analytickým úlohám.
 
-[Aqua Book](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
+A pokud máte pocit, že vás odbavování úkolů vysiluje, možná potřebujete lépe plánovat znalostní potřeby napříč celou organizací -- k tomu zase pomůže návod [-> Identifikace znalostních potřeb](identifikace-znalostnich-potreb.qmd)
 
-[Using Evidence: A Practice Guide](https://media.nesta.org.uk/documents/Using_Research_Evidence_for_Success_-_A_Practice_Guide.pdf)
+## Odkazovaná literatura
 
-[Manager's guide to evaluation](https://www.betterevaluation.org/frameworks-guides/managers-guide-evaluation) 
+:::{#refs}
+:::
