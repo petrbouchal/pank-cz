@@ -9,7 +9,9 @@ aliases:
 ---
 # O co jde a k čemu to je
 
-Jedná se o zachycení znalostí a vědomostí zaměstnance, který odchází z daného oddělení. 
+Jedná se o zachycení znalostí a vědomostí kolegy či kolegyně, který*á opouští tým. 
+
+Praxe ukazuje, že ne všechny znalosti jsou explicitní -- [viz naše vzkazy pro týmy](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#tacitni). I když přimějete odcházející*ho kolegu či kolegyni napsat předávací zprávu, ne vše se podaří zachytit a některé znalosti vyplavou až při vzájemné interakci. Proto doporučujeme do procesu zařadi i exit interview, resp. do exit interview zařadit část zaměřenou na zachycení tohoto typu znalostí a informací.
 
 # Sebediagnostika: je to pro mě?
 
@@ -17,50 +19,74 @@ Následující návod je určen především pro ty, kteří zatím s offboardin
 
 :::{.strip .page-full .page-columns}
 
+
 # Jak na to 
 
-- Začněte brzy. Pokud možno, naplánujte proces spolu se zaměstnancem, který bude nahrazovat odcházejícího člověka. 
+1. Začněte brzy: co nejdřív po té, co se dovíte, že daný člověk bude odcházet. Pokud možno naplánujte proces spolu se zaměstnancem, který bude nahrazovat odcházejícího člověka. 
 
-- Určete kolegy, kterým by byly zanechané znalosti k prospěchu a zjistěte jejich zájem. 
+:::{.aside}
+Tento návod jsme vyvinuli ve spolupráci s Evaluační jednotkou NOK na MMR. 
+
+<br>
+
+:::{.btn .btn-resource}
+[Číst případovou studii ->](/pripadove-studie/case-mmr.qmd)
+:::
+:::
+
+2. Určete kolegy, kterým by byly zanechané znalosti k prospěchu a zjistěte jejich zájem. 
 
 - Rozlišujte mezi [“explicitními” a “tacitními” znalostmi](https://www.tlu.ee/~sirvir/Information%20and%20Knowledge%20Management/Key_Concepts_of_IKM/tacit_and_explicit_knowledge.html)
 
-- Ujistěte se, že explicit knowledge zachycena během celé doby je zpřístupněna pro ostatní. Zjistěte, zda tam nejsou další věci, které by bylo potřeba ještě podchytit. 
+- Ujistěte se, že explicitní znalosti jsou zachycené za dobu práce daného člověka jsou zpřístupněny pro ostatní. Zjistěte, zda tam nejsou další věci, které by bylo potřeba ještě podchytit. 
 
 - S ohledem na tacit knowledge, projděte s odcházejícím zaměstnancem aktivity a agendy jejich práce. Zjistěte u každých aktivit jak v nich pracoval a jaké dovednosti a znalosti byly potřeba k jejich vykonávání. 
 
-- Zeptejte se na “walk-through” pro zachycení dobrých praxí, úspěšných příběhů, jejich faktorů a také problémů.
+- Zeptejte se na “walk-through” jednotlivých aktivit, nebo aspoň těch nejdůležitějších -- to vám pomůže zachytit dobré praxe, úspěšné příběhy, jejich faktorů a také problémy.
 
-- Určete zdroje znalostí jako jsou lidé a networks. 
+- Určete zdroje znalostí jako jsou lidé a sítě kontaktů. 
 
-- Dobrým úvodem může být cvičení
-    - “10 věcí, které mi nikdo neřekl a dozvěděl jsem se je až při práci”. 
+- Dobrým úvodem může být cvičení spuštěné větou “řekni nám 10 věcí, které ti nikdo neřekl a dozvěděl* ses je až při práci”. 
 
-- Konkrétní možné otázky jsou následující: 
-    - Jak se může zlepšit proces nástupu na vaši roli pro nového člena týmu?
-    - Jaký typ školení jste chtěl/potřeboval, ale nedostal jste ho - jaký efekt by školení mělo na vaší práci?
-    - Co víte/umíte vy a nikdo jiný v týmu?
-    - Jak se může přenést vaše tacit a explicit knowledge do oddělení?
-    - Můžete představit Vaše klíčové kontakty novému členovi týmu?
-    - Jak může oddělení shromáždit a lépe využít znalosti jednotlivců? 
+Konkrétní možné otázky jsou následující: 
+    
+- Jak se může zlepšit proces nástupu na vaši roli pro nového člena týmu?
+- Jaký typ školení jste chtěl/potřeboval, ale nedostal jste ho - jaký efekt by školení mělo na vaší práci?
+- Co víte/umíte vy a nikdo jiný v týmu?
+- Jak se může přenést vaše tacit a explicit knowledge do oddělení?
+- Můžete představit Vaše klíčové kontakty novému členovi týmu?
+- Jak může oddělení shromáždit a lépe využít znalosti jednotlivců? 
+
+Vhodnou pomůckou může být zanesení a prioritizace předávaných znalostí např. formou nějaké digitální tabulce (např. Miro) nebo i lístečky na papír. 
+
+Můžete si vytvořit jednoduchou matici, kde budete pro každou aktivitu/agendu odcházejícího člena týmu zachytávat jednotlivé kategorie informací/znalostí. 
+
+![](images/offboarding.png)
+
+Nejspíš vám to pomůže odhalit také věci, které by bylo vhodné explicitně zachytit (tj. někam sepsat, uložit, předat), ale zatím se to nestalo.
 
 # Na co si dát pozor aneb tipy & triky
 
+- Toto je jen výsek věcí, které by měl zachytit dobrý offboarding proces -- jde o ty věci, které se nejvíc týkají práce s poznatky. Manažer týmu např. může chtít využit offboarding jako příležitost pro získání zpětné vazby a reflexe práce v týmu.
+
+- Zeptejte se personalistů ve Vaší organizaci, jestli nemají v tomto směru nějaké tipy, ověřené postupy nebo nástroje.
+
 - Pokud je exit-interview prováděno samostatně v rámci oddělení, je důležité, aby bylo facilitováno neutrálním členem týmu nebo externím článkem. Neutrální postavení umožní účastníkovi rozhovoru být více otevřený a sdílet užitečné informace. 
 
-- Je důležité vysvětlit pojmy jako jsou tacit a explicit knowledge. Je vhodné připojit konkrétní příklady z praxe daného oddělení. 
+- Je důležité vysvětlit pojmy jako tacitní a explicitní znalosti. Je vhodné připojit konkrétní příklady z praxe daného oddělení. 
 
-- Je dobré zachytit i soft znalosti a postoje, které jiným způsobem nelze získat, jelikož tyto informace nejsou zachyceny skrz personální oddělení ve státní správě. 
-
-- Vhodnou pomůckou může být zanesení a prioritizace předávaných znalostí v např. jamboardu. Inspirace zde: DOPLNIT OBRÁZEK!!!
+:::
 
 # Další zdroje
 
-[Knowledge-Based Exit Interview Guide](http://knowledgetransferalliance.pbworks.com/w/page/13792791/Knowledge-Based%20Exit%20Interview%20Guide)
-[Exit Interview Template and Questions](https://www.businessballs.com/team-management/exit-interviews/)
-[Making Exit Interviews Work](https://www.shrm.org/hr-today/news/hr-magazine/pages/0804agenda_empstaffing.aspx)
-[Making Exit Interviews Count](https://hbr.org/2016/04/making-exit-interviews-count)
-[Capturing and Storing Knowledge: Exit Interviews](https://cdn.odi.org/media/documents/6443.pdf)
+Pokud se chcete do tématu ponořit hlouběji a vypilovat si svůj vlastní postup, nabízíme několik zdrojů, ze kterým jsme tipy a praxe pro testování vybírali. Jde o exit interview postupy zaměřené na knowledge management. Jsou to starší zdroje, ale principy z nich lze snadno adaptovat do digitálních a moderních postupů.
+
+[Knowledge-Based Exit Interview Guide](http://knowledgetransferalliance.pbworks.com/w/page/13792791/Knowledge-Based%20Exit%20Interview%20Guide)  
+[Capturing and Storing Knowledge: Exit Interviews, ODI](https://cdn.odi.org/media/documents/6443.pdf)  
+
+Pokud vás zajímá logika a praxe exit interviews v širším personalistickém smyslu, dobrý přehled nabízí @spainMakingExitInterviews2016.
+
+## Citované zdroje
 
 :::{#refs}
 :::
