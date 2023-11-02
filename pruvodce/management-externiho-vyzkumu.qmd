@@ -1,1 +1,60 @@
+---
+title: "Management externího výzkumu"
+subtitle: "Jak zlepšít vedení externích výzkumů"
+blok: ['vyuziti']
+poradi: 10
+---
+
+# O co jde a k čemu to je
+
+Tato část průvodce nabízí přehled kroků, které mají za cíl zjednodušit řízení externího výzkumu, tedy analytické práce vykonávané externím dodavatelem. Vlastní tým je tak v pozici managera celého procesu, nikoliv vykonavatelem výzkumu. Návod zároveň nemá poskytnout technické rady např. stran zadávací dokumentace, ale obecnější postřehy pro lepší organizaci a spolupráci.  
+
+# Sebediagnostika: je to pro mě?
+
+Následující postup je vhodný pro týmy, které řídí proces externích výzkumných zakázek, a čelí problémům spojeným s managementem celého procesu. Ty se mohou mít nasledující podoby:
+- Velký objem zakázek
+- Velké množství požadavků a nároků ze strany různých zapojených aktérů 
+- Nevyjasněné standardy 
+
+
+:::{.strip .page-columns .page-full}
+
+# Jak na to
+
+## Nastavení parametrů spolupráce s dodavatelem
+- Existující zkušenosti ukazují, že hrozí riziko zahlcením iteracemi a připomínkováním
+- K omezení toho rizika je vhodné hned na začátku spolupráce nastavit    
+
+## Průběžná komunikace s dodavatelem
+- Na základě nastavení spolupráce v zadávací dokumentaci a na začátku spolupráce
+- Schůzky by se měly týkat celkového posunu postupu na projektu, metodologickým otázkám a kvality výzkumu
+- Součástí je i připomínkování průběžných dokumentů a draftů
+
+## Průběžná komunikace s klienty a budoucími uživateli výzkumů
+- Je důležité v průběhu celého externího výzkumu komunikovat s budoucími uživateli, aby byly reflektovány i jejich očekávání a potřeby 
+- Podobně chceme reflektovat vývoj výzkumu a to, jak se vzdalujeme od původního záměru
+
+## Knowledge management 
+- Viz [tento průvodce](/pruvodce/knowledge-management)
+
+
+# Na co si dát pozor aneb tipy & triky
+
+Co se týče debat uvnitř týmu, který externí výzkum managuje, tak se jako velmi vhodná jeví přítomnost externího moderátora/facilitátora diskuzí. Člověk zvenčí může vnést nový pohled, utřídit stávající argumenty a narušit zacyklení interních debat. 
+
+Je nutné situovat dané oddělení a jeho analytickou práci (včetně managementu externích výzkumů) v ekosystému státní správy a dalších relevantních aktérů. Ukazuje se, že řada problémů není překonatelných na úrovni oddělení, jelikož se nacházejí mimo jeho dosah. TO DO příklad - kapacity vlastní + potřeby a kapacity ostatních (zde věcňáci)
+
+V průběhu celého procesu je vhodné jak uvnitř týmu, tak v komunikaci s dodavatelem, stále mít na paměti kdo je uživatelem a cílovou skupinou daného výzkumu. Jakkoliv je náročné koordinovat a slaďovat různé standardy a očekávání, průběžná snaha v těchto ohledech může ušetřit čas, energii a frustraci při finalizaci a schvalování výstupů.
+
+Citlivou otázkou je přijetí výstupů z výzkumu, pokud jsou jejich závěry negativní pro dané stakeholdery. Tým pověřený managementem externího výzkumu by v takovýchto případech měl být obzvláště citlivý v komunikaci výsledků dotyčným aktérům. 
+
+Zároveň je nutné vůči všem zapojeným aktérům tematizovat skutečnost, že ne vše ohledně externího výzkumu je možné změnit (kvůli kapacitám všech zúčastněných). Průběžný expectation management může usměrnit diskuze ohledně řady aspektů výzkumného procesů a výstupů.  
+
+V praxi se dále ukázalo jako produktivní nastavit i neformální kanály komunikace s dodavateli, obzvláště po skončení daného projektu. Neformální prostředí umožňuje otevřeněji prodiskutovat úskalí a možnosti zlepšení spolupráce.  
+
+
+# Další zdroje
+
+
+[Management of External Evaluations](https://www.betterevaluation.org/sites/default/files/co-praxis_4.pdf)
 
