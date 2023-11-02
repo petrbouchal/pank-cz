@@ -111,6 +111,9 @@ Osvědčil se i sdílení příkladů dobrých a špatných analytických výstu
 
 # Další zdroje
 
+@lysyReportingRevolution2022
+
+@lysyHumanCenteredReport
 
 [Writing for utilisation](https://www.betterevaluation.org/blog/writing-for-utilisation)
 
