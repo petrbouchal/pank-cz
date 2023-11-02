@@ -6,32 +6,4 @@ poradi: 30
 editor: source
 ---
 
-## Zatím sbírka linků
-
-https://www.sciencespo.fr/liepp/fr/publications.html#Fiches%20m%C3%A9thodologiques%20LIEPP
-
-https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx
-
-https://www.betterevaluation.org/
-
-https://natcen.ac.uk/centres/methodology-and-innovation-hub
-
-https://knowledge4policy.ec.europa.eu/publication/science-policy-handbook_en
-
-https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en 
-
-https://www.bond.org.uk/wp-content/uploads/2022/08/impact_evaluation_guide_0515.pdf 
-
-https://www.oecd.org/derec/50399683.pdf / https://www.gov.uk/research-for-development-outputs/dfid-working-paper-38-broadening-the-range-of-designs-and-methods-for-impact-evaluations
-
-https://dpmc.govt.nz/our-programmes/policy-project/policy-methods-toolbox
-
-Foresight
-
-CBA
-
-@salganikBitBitSocial2019
-
-@alexanderTellingStoriesData2023
-
-@huntington-kleinEffectIntroductionResearch
+> Tento návod pro Vás ještě připravujeme.
