@@ -16,9 +16,9 @@ Tato případová studie zachycuje naši spolupráci s analytickým oddělením 
 
 # Charakteristika zapojeného útvaru
 
-Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že se oddělení musí vyrovnávat s touto dvojí rolí, kdy poptávka po ad hoc analýzách může někdy vést k upozadění koncepčnější práce. Oddělení je složeno z jednotek zaměstnanců.
+Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že se oddělení musí vyrovnávat s touto dvojí rolí, kdy poptávka po ad hoc analýzách může někdy vést k upozadění koncepčnější práce. Oddělení dále pracuje nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
 
-Naše spolupráce vycházela ze **zájmu vedení organizace**, která podporuje snahy o poznatky informované rozhodování, tak ze zájmu samotného týmu, který má chuť na sobě pracovat a dále se vzdělávat. 
+Naše spolupráce vycházela ze **zájmu vedení organizace**, která podporuje snahy o poznatky informovaného rozhodování, tak ze zájmu samotného týmu, který má chuť na sobě pracovat a dále se vzdělávat. 
 
 # Diagnostická fáze
 
