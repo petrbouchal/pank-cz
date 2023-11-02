@@ -75,7 +75,7 @@ format:
   - [ ] řazení např. barev ve složeném sloupci odpovídá přiřozenému pořadí
   - [ ] kvalitativní barevná škála pro kvalitativní data, souvislá pro kvantitativní, odstupňovaná pro kardinální data, popř. odstíny pro podkategorie
   - [ ] barev je přiměřené množství
- - [ ] nejsou použity barvy špatně odlišitelné pro osoby s poruchou zraku
+  - [ ] nejsou použity barvy špatně odlišitelné pro osoby s poruchou zraku
 - [ ] velikost: body jsou zvětšeny svou plochou, ne průměrem
 - [ ] u velkého množství bodů je použita průhlednost, aby byly vidět shluky
 - [ ] barvy jsou využity cíleně, např.
@@ -108,17 +108,17 @@ format:
 - [ ] řazení kategorií na osách odpovídá přirozenému pořadí a/nebo podporuje čtení (např. kategorie Jiné/Ostatní je řazena poslední)
 - [ ] řazení kategorií na koláčovém grafu usnadňuje srovnání a koláč začíná na 12:00
 - [ ] jsou použity smysluplně, tj. tak, pomáhaly čtení grafu a nerozptylovaly
-  - [ ] přiměřené množství, tloušťka a barva vodicích linek
-  - [ ] přiměřené využití "ticks" na osách
-  - [ ] přiměřené množství popisků hodnot na osách
+  - [ ] přiměřený počet, tloušťka a barva vodicích linek
+  - [ ] přiměřený počet "zarážek" (ticks) na osách
+  - [ ] přiměřené množství popisků hodnot na osách bez přehnaného opakování např. roku v datumu
   - [ ] nechybí/nejsou přeskočený žádné popisky na kategorické ose
 
 **Špatné praxe**
 
- - [ ] 3D grafy
- - [ ] podseknutá osa u sloupcového grafu
- - [ ] příliš roztažená osa Y u časových grafů (není vidět variabilita)
- - [ ] dvojitá osa
- - [ ] koláč s více než 4 kategoriemi
- - [ ] popisky osy X svisle/našikmo
- - [ ] červenozelená barevná škála
+- [ ] 3D grafy
+- [ ] podseknutá osa u sloupcového grafu (nezačíná na nule)
+- [ ] příliš roztažená osa Y u čarových grafů (není vidět variabilita)
+- [ ] dvojitá svislá osa s různými rozpětími nebo jednotkami -- zvlášť pokud navozuje falešný dojem vztahu mezi proměnnými měřenými na opačných osách
+- [ ] koláčový graf s více než 4 kategoriemi
+- [ ] popisky osy X svisle/našikmo: nenuťte své čtenáře kroutit hlavou
+- [ ] červenozelená barevná škála: nekomplikujte život lidem s poruchami vnímání barev

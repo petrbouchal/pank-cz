@@ -18,6 +18,7 @@
 - [ ] doplnit header blocks kde jsou třeba
 - [ ] lepší docx šablona
 - [ ] 404 grafika
+- [ ] umožnit doplňování ikon sekcí podle ID a doplnit ID
 
 # Layout hlavních textů
 
