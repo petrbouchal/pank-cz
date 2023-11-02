@@ -7,5 +7,60 @@ editor: source
 aliases: 
   - /pruvodce/offboarding
 ---
+# O co jde a k čemu to je
 
-> Tento návod je zatím v přípravě
+Jedná se o zachycení znalostí a vědomostí zaměstnance, který odchází z daného oddělení. 
+
+# Sebediagnostika: je to pro mě?
+
+Následující návod je určen především pro ty, kteří zatím s offboardingem nemají příliš zkušeností. 
+
+:::{.strip .page-full .page-columns}
+
+# Jak na to 
+
+- Začněte brzy. Pokud možno, naplánujte proces spolu se zaměstnancem, který bude nahrazovat odcházejícího člověka. 
+
+- Určete kolegy, kterým by byly zanechané znalosti k prospěchu a zjistěte jejich zájem. 
+
+- Rozlišujte mezi [“explicitními” a “tacitními” znalostmi](https://www.tlu.ee/~sirvir/Information%20and%20Knowledge%20Management/Key_Concepts_of_IKM/tacit_and_explicit_knowledge.html)
+
+- Ujistěte se, že explicit knowledge zachycena během celé doby je zpřístupněna pro ostatní. Zjistěte, zda tam nejsou další věci, které by bylo potřeba ještě podchytit. 
+
+- S ohledem na tacit knowledge, projděte s odcházejícím zaměstnancem aktivity a agendy jejich práce. Zjistěte u každých aktivit jak v nich pracoval a jaké dovednosti a znalosti byly potřeba k jejich vykonávání. 
+
+- Zeptejte se na “walk-through” pro zachycení dobrých praxí, úspěšných příběhů, jejich faktorů a také problémů.
+
+- Určete zdroje znalostí jako jsou lidé a networks. 
+
+- Dobrým úvodem může být cvičení
+    - “10 věcí, které mi nikdo neřekl a dozvěděl jsem se je až při práci”. 
+
+- Konkrétní možné otázky jsou následující: 
+    - Jak se může zlepšit proces nástupu na vaši roli pro nového člena týmu?
+    - Jaký typ školení jste chtěl/potřeboval, ale nedostal jste ho - jaký efekt by školení mělo na vaší práci?
+    - Co víte/umíte vy a nikdo jiný v týmu?
+    - Jak se může přenést vaše tacit a explicit knowledge do oddělení?
+    - Můžete představit Vaše klíčové kontakty novému členovi týmu?
+    - Jak může oddělení shromáždit a lépe využít znalosti jednotlivců? 
+
+# Na co si dát pozor aneb tipy & triky
+
+Pokud je exit-interview prováděno samostatně v rámci oddělení, je důležité, aby bylo facilitováno neutrálním členem týmu nebo externím článkem. Neutrální postavení umožní účastníkovi rozhovoru být více otevřený a sdílet užitečné informace. 
+
+Je důležité konkrétně vysvětlit pojmy jako jsou tacit a explicit knowledge. Je vhodné připojit konkrétní příklady z praxe daného oddělení. 
+
+Je dobré zachytit i soft znalosti a postoje, které jiným způsobem nelze získat, jelikož tyto informace nejsou zachyceny skrz personální oddělení ve státní správě. 
+
+Vhodnou pomůckou může být zanesení a prioritizace předávaných znalostí v např. jamboardu. Inspirace zde: 
+
+# Další zdroje
+
+[Knowledge-Based Exit Interview Guide](http://knowledgetransferalliance.pbworks.com/w/page/13792791/Knowledge-Based%20Exit%20Interview%20Guide)
+[Exit Interview Template and Questions](https://www.businessballs.com/team-management/exit-interviews/)
+[Making Exit Interviews Work](https://www.shrm.org/hr-today/news/hr-magazine/pages/0804agenda_empstaffing.aspx)
+[Making Exit Interviews Count](https://hbr.org/2016/04/making-exit-interviews-count)
+[Capturing and Storing Knowledge: Exit Interviews](https://cdn.odi.org/media/documents/6443.pdf)
+
+:::{#refs}
+:::
