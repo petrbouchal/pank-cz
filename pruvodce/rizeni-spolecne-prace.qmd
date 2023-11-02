@@ -4,6 +4,8 @@ subtitle: "Jak zvládnout společnou tvůrčí práci na složitých problémech
 blok: ["rizeni"]
 poradi: 9
 editor: source
+aliases: 
+  - /pruvodce/spolecna-prace
 ---
 
 
@@ -11,19 +13,6 @@ editor: source
 
 Dobrá organizace skupinové práce v týmu je zásadní pro obecně kvalitní analytickou práci. Tato sekce poskytuje několik doporučení a možných praxí, jak lépe řídit kolektivní procesy v týmu.  
 
-:::{.aside}
-
-**Případové studie**
-
-Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných příležitostí ESF MPSV.
-
-<br />
-
-:::{.btn .btn-primary}
-[přečíst případovou studii](../pripadove-studie/mpsv)
-:::
-
-:::
 
 # Sebediagnostika: je to pro mě?
 
@@ -32,19 +21,34 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných 
 - Narážíte často na přehlcení informacemi?
 - Je pro vás obtížné prioritizovat významnost poznatků i úkolů?
 
+<br>
+
 :::{.strip .page-full .page-columns}
 
 # Jak na to 
 
 ## 1. Efektivní řízení schůzek 
 
+
 a. Před každou schůzkou je dobré se sjednotit na jejími cíli
 
+:::{.aside}
+
+Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných příležitostí ESF MPSV.
+
+<br />
+
+:::{.btn .btn-resource}
+[Číst případovou studii ->](../pripadove-studie/mpsv)
+:::
+
+:::
 b. Dále je vhodné stanovit její agendu (například vzájemný update, řešení zaseknutí se, brainstorming, plány do budoucna,...)
 
 c. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účastnicím a účastníkům 
 
 d. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
+
 
 ## 2. Procesní mapa
 

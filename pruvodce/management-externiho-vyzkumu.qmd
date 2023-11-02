@@ -1,13 +1,17 @@
 ---
 title: "Management externího výzkumu"
-subtitle: "Jak zlepšít vedení externích výzkumů"
-blok: ['vyuziti']
+subtitle: "Jak zlepšit řízení zakázek a externích týmů"
+blok: ['metody']
 poradi: 10
+aliases: 
+- /pruvodce/rizeni-zakazek
 ---
 
 # O co jde a k čemu to je
 
-Tato část průvodce nabízí přehled kroků, které mají za cíl zjednodušit řízení externího výzkumu, tedy analytické práce vykonávané externím dodavatelem. Vlastní tým je tak v pozici managera celého procesu, nikoliv vykonavatelem výzkumu. Návod zároveň nemá poskytnout technické rady např. stran zadávací dokumentace, ale obecnější postřehy pro lepší organizaci a spolupráci.  
+Tento návod nabízí přehled kroků, které mají za cíl zjednodušit řízení externího výzkumu, tedy analytické práce vykonávané externím dodavatelem. Vlastní tým je tak v pozici managera celého procesu, nikoliv vykonavatelem výzkumu. 
+
+Návod nemá ambici technické rady např. stran zadávací dokumentace a právního rozměru zadávání a řízení zakázek, ale přináší obecnější postřehy pro lepší organizaci a spolupráci. 
 
 # Sebediagnostika: je to pro mě?
 
@@ -16,15 +20,27 @@ Následující postup je vhodný pro týmy, které řídí proces externích vý
 - Velké množství požadavků a nároků ze strany různých zapojených aktérů 
 - Nevyjasněné standardy 
 
-
 :::{.strip .page-columns .page-full}
 
 # Jak na to
 
+
 ## Nastavení parametrů spolupráce s dodavatelem
+
+
 - Existující zkušenosti ukazují, že hrozí riziko zahlcením iteracemi a připomínkováním
 - K omezení toho rizika je vhodné hned na začátku spolupráce nastavit    
 
+:::{.aside}
+Tento návod jsme vyvinuli především díky spolupráci s Evaluační jednotkou NOK na MMR. 
+
+<br>
+
+:::{.btn .btn-resource}
+[Číst případovou studii ->](/pripadove-studie/case-mmr.qmd)
+:::
+
+:::
 ## Průběžná komunikace s dodavatelem
 - Na základě nastavení spolupráce v zadávací dokumentaci a na začátku spolupráce
 - Schůzky by se měly týkat celkového posunu postupu na projektu, metodologickým otázkám a kvality výzkumu
@@ -35,8 +51,9 @@ Následující postup je vhodný pro týmy, které řídí proces externích vý
 - Podobně chceme reflektovat vývoj výzkumu a to, jak se vzdalujeme od původního záměru
 
 ## Knowledge management 
-- Viz [tento průvodce](/pruvodce/knowledge-management)
+- Viz [-> tento návod](/pruvodce/knowledge-management)
 
+:::
 
 # Na co si dát pozor aneb tipy & triky
 
@@ -55,6 +72,7 @@ V praxi se dále ukázalo jako produktivní nastavit i neformální kanály komu
 
 # Další zdroje
 
+TODO LINK průvodce evaluátora
 
 [Management of External Evaluations](https://www.betterevaluation.org/sites/default/files/co-praxis_4.pdf)
 
