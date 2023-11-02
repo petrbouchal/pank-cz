@@ -17,9 +17,28 @@
 - [ ] ověřit a spravit úrovně TOC napříč webem
 - [ ] doplnit header blocks kde jsou třeba
 - [ ] lepší docx šablona
+- [ ] 404 grafika
 
 # Layout hlavních textů
 
 - [ ] sladit úrovně nadpisů v případovkách
 - [ ] sladit úrovně nadpisů v návodech
 - [ ] sladit kapitoly v případovkách
+- [ ] sladit side notes o případovkách - textace, nadpis
+
+# Grafika
+
+- průvodce = button možná, ale divný když bude první
+- ztlumit dlaždice
+
+- carousel s otázkami -- jedna hlavní, ostatní blurred
+- příběh projektu -- vše do timeline
+
+- šipky do dlaždic?
+
+- klikatelnou co největší plochy u dlaždic atd.
+
+- Teze
+
+- footer rozšířit -- zopakovat tam rozcestník
+
