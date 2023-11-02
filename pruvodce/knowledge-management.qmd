@@ -103,11 +103,11 @@ V kontextu propagace je dobré si uvědomit, že **ne vše jde naplánovat**, vy
 
 Sebelepší propagace ale věc nezachrání, pokud analýzy nevychází ze **skutečných potřeb** (⟶ návod [Identifikace znalostních potřeb](identifikace-potreb)) nebo trpí špatným **procesem zadání** mezi zákazníkem a tvůrcem (⟶ návod [Zadání analytického úkolu](zadani-ukolu) & návod [Zadání externího výzkumu](zadani-externiho-vyzkumu)).
 
-A pamatujte, že i po zavedení skvělého knowledge managementu bude stále platit, že [**část znalostí je pouze v hlavách lidí**](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#tacitni) a je potřeba zajistit jejich zachování např. i když někdo tým opouští (⟶ návod [TODO LINK Offboarding člena týmu](offboarding)).
+A pamatujte, že i po zavedení skvělého knowledge managementu bude stále platit, že [**část znalostí je pouze v hlavách lidí**](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#tacitni) a je potřeba zajistit jejich zachování např. i když někdo tým opouští (⟶ návod [ Offboarding člena týmu](offboarding)).
 
 ## Kde už na tom pracují
 
-TODO: TA ČR, MŠMT, EJ NOK
+TODO: TA ČR, MŠMT, EJ NOK, ASZ - semináře k výzkumům
 
 # Další zdroje
 
