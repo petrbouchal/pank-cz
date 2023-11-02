@@ -21,6 +21,8 @@ Vizualizace je datový produkt a tak k němu můžete přistupovat.
 - Produkt před vypuštěním do světa otestovat  
 - Pak sbírat zpětnou vazbu a iterativně zlepšovat  
 
+TODO curse koncept
+
 :::{.aside}
 
 **Případová studie**
@@ -133,19 +135,17 @@ Může k tomu použít třeba checklist níže
 
 Pokuste se taky ukázat někomu graf na pouhých 5 vteřin a zeptejte se, co je jeho hlavní myšlenkou. 
 
+# Tipy & triky
+
+> Tuto část pro Vás ještě dokončujeme.
+
 # Další zdroje a nástroje
 
-@lysyUXEvaluationData2021
+> Tuto část pro Vás ještě dokončujeme.
 
-@franconeriThreePerceptualTools2021
+## Základní zdroje
 
-@schwabishPracticeVisualData2021
-
-@schwabishEconomistGuideVisualizing2014
-
-@franconeriScienceVisualData2021
-
-@xiongCurseKnowledgeVisual2020
+### Příručky a učebnice
 
 @wilkeFundamentalsDataVisualization2019
 
@@ -153,7 +153,45 @@ Pokuste se taky ukázat někomu graf na pouhých 5 vteřin a zeptejte se, co je 
 
 @cairoTruthfulArtData2016
 
+@lysyUXEvaluationData2021
+
 @kirkDataVisualisationHandbook2019
 
-[doplnit]
+### Přehledy dobrých praxí a návody
+
+@schwabishEconomistGuideVisualizing2014
+
+@schwabishPracticeVisualData2021
+
+@franconeriScienceVisualData2021
+
+
+TODO doplnit
+
+## Nástroje
+
+Datawrapper
+
+
+
+## Konkrétní tipy a sbírky příkladů
+
+TODO Schwabish videos
+
+TODO The Little of Visualistion design
+
+## Blogy
+
+TODO Lisa Muth
+
+## Pokročilé zdroje a odborná literatura
+
+@xiongCurseKnowledgeVisual2020
+
+@franconeriThreePerceptualTools2021
+
+## Odkazovaná literatura
+
+:::{#refs}
+:::
 

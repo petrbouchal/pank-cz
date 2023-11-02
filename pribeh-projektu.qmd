@@ -6,6 +6,7 @@ aliases:
   - /kontakt
   - /o-nas
   - /pribeh-projektu
+  - /mapovani
 ---
 
 > ## Tuto část webu ještě připravujeme
