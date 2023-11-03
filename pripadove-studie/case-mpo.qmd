@@ -53,7 +53,7 @@ Největší překážkou pro využití analytických kapacit v oddělení S3 byl
 
 V oddělení RIS3 jsou rozsáhlé analytické práce zadány externě zejména Technologickému centru Praha. Tyto analytické podklady jsou posléze využity v jednotlivých procesních dokumentech, které jsou šířeji sdíleny se zainteresovanými stranami. Monitoring spočívá hlavně v kompletaci datových sad od různých poskytovatelů (Eurostat / ČSÚ, IS VaVaI, MS2021+, data z krajů) a tato činnost se opakuje každý rok. Pro tuto činnost jsou postupy již ustálené a nevyžadují sofistikované metody a nástroje (kontingenční tabulky, grafy).
 
-Hlavní rolí týmu oddělení S3 nespočívá tolik v generování poznatků, ale v jejich syntéze z primárních a sekundárních zdrojů. V této souvislosti ale nejsou ustálené pracovní postupy pro jejich kontinuální monitoring a syntézu. Zároveň sesbírané podněty jsou spíše kumulativní, což je ovšem protichůdné k základním principům RIS3 strategie (prioritizace na místo kumulace).
+Hlavní rolí týmu oddělení S3 nespočívá tolik v generování poznatků, ale v jejich syntéze z primárních a sekundárních zdrojů. V této souvislosti ale nejsou ustálené pracovní postupy pro jejich kontinuální monitoring a syntézu. Částečně to může souviset s charakterem a nahodilostí požadavků na takového výstupy. Zároveň sesbírané podněty jsou spíše kumulativní, což je ovšem protichůdné k základním principům RIS3 strategie (prioritizace na místo kumulace).
 
 ##  Využitelnost výstupů 
 
@@ -93,7 +93,7 @@ Tým zaujímá proklientský přístup při komunikaci se zainteresovanými stra
 
 I přes vysoké nároky na organizaci a koordinaci se daří EDP platformy pravidelně zapojovat do procesů tvorby a implementace strategie. RIS3 strategie je tedy příkladem strategického dokumentu, který je živý i prostřednictvím průběžného zapojení stakeholderů do jeho řízení.
 
-Tým S3 využívá evropských sítí a expertizy (zejm. Společné výzkumné středisko Evropské komise - JRC) pro odbornou podporu svých agend. Nedávno tato spolupráce vyústila v [doporučení](https://www.ris3.cz/aktuality/novy-pohled-na-inovacni-politiku-prinasi-studie-mpo-a-jrc) pro design a implementaci nového nástroje podpory výzkumu a vývoje - Inovační mise.
+Tým S3 využívá evropských sítí a expertizy (zejm. Společné výzkumné středisko Evropské komise - JRC) pro odbornou podporu svých agend. Nedávno tato spolupráce vyústila v [doporučení](https://www.ris3.cz/aktuality/novy-pohled-na-inovacni-politiku-prinasi-studie-mpo-a-jrc) pro design a implementaci nového nástroje podpory výzkumu a vývoje - RIS3 mise.
 
 Oddělení S3 zároveň buduje tuzemskou síť specializované expertizy pomocí projektu [„Strategická inteligence pro výzkum a inovace“ (STRATIN+)](https://stratin.tc.cas.cz/), na kterém se podílí Technologické centrum Praha, Sociologický ústav AV ČR, EURAXESS a Národní vzdělávací fond. MPO také navázal spolupráce v tématu inovací napříč veřejnými organizacemi (zejm. Czechinvest a TA ČR). 
 
@@ -101,9 +101,9 @@ Oddělení S3 zároveň buduje tuzemskou síť specializované expertizy pomocí
 
 TODO prolinky na teze a systémová doporučení
 
-V oddělení S3 se koncentrují všechny činnosti spojené se strategickou prací, od koncepce po koordinaci, ale také poskytování dat a podkladů do celého prostředí a síťování všech aktérů. Ukazuje to na realitu práce s poznatky: často **je součástí širší agendy** (např. řízení strategy) zahrnují jak operativu či implementaci, tak strategickou práci. Kvalita práce s poznakty má podstatný vliv na celkový výsledk, ale útvar -- a často ani jednotlivci -- kteří tuto práci vykonávají by se sami za analytiky neoznačili.
+V oddělení S3 se koncentrují všechny činnosti spojené se strategickou prací, od koncepce po koordinaci, ale také poskytování dat a podkladů do celého výzkumného a inovačního prostředí a síťování všech aktérů. Ukazuje to na realitu práce s poznatky, která je často **součástí širší agendy** (např. řízení strategií) zahrnující jak operativu či implementaci, tak strategickou práci. Kvalita práce s poznakty má podstatný vliv na celkový výsledek, ale útvar -- a často ani jednotlivci -- kteří tuto práci vykonávají by se sami za analytiky neoznačili.
 
-Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovanou odbornou kapacitu v tématu podpory výzkumu a vývoje a **vytváří datové produkty** (především RIS3 portál) pro celé prostředí. 
+Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovanou odbornou kapacitu v tématu podpory výzkumu a vývoje a **vytváří datové produkty** (především RIS3 portál) pro celý ekosystém. 
 
 **Know-how pro práci s daty je koncentrovaná v jednom až dvou** členech týmu, což je relativně běžné i v jiných analytických útvarech (např. na ASZ). To přináší výhodu z hlediska budování know-how, nicméně se tím zvyšuje i závislost na těchto členech týmu a případné riziko při výpadku či odchodu člena týmu. Specificky v oblasti dat vzniká také riziko, že postupy pro správu dat (data management) nejsou zexplicitněny a aplikovány napříč týmem.  
 
@@ -115,6 +115,6 @@ TODO prolinky na systémová doporučení
 
 Oblast veřejné podpory výzkumu a vývoje se v Česku vyznačuje velkým počtem aktérů a roztříštěností zodpovědností. V kontextu strategie RIS3 je tato fragmentace ještě posílená tím, že tvorba a řízení strategie je organizačně oddělená od rozhodování ohledně finanční podpory v rámci evropských i národních dotačních titulů, a to i v rámci ministerstva.
 
-Aktivity na podporu implementace strategie (vč. analytické práce) jsou z podstatné části hrazené skrz evropské fondy formou projektového financování. V důsledku jsou tyto aktivity rozvíjeny v krátkých časových rámcích typických pro projektové financování (2-3 roky), což ohrozuje jejich kontinuitu a zvyšuje nejistotu členů týmu ohledně jejich budoucího působení. 
+Aktivity na podporu implementace strategie (vč. analytické práce) jsou z podstatné části hrazené skrz evropské fondy formou projektového financování. V důsledku jsou tyto aktivity rozvíjeny v krátkých časových rámcích typických pro projektové financování (2-3 roky), což ohrožuje jejich kontinuitu a zvyšuje nejistotu členů týmu ohledně jejich budoucího působení. 
 
 
