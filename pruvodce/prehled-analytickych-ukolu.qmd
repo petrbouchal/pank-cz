@@ -45,9 +45,16 @@ Kdy se může přehled vzešlý z inventury hodit?
 
 # Jak na to
 
+
+## 1. Identifikujte smysluplné kategorie pro vytvoření přehledu
+
+Kolegové z analytického oddělení doporučují nepřesáhnout více jak tři kategorie podle kterých analýzy řadit
+
 :::{.aside}
 
 **Ukázka přehledu analýz**
+
+Takto to vypadalo při naší práci s kolegy v analytickém oddělení TA ČR. Tento soubor můžete použít jako inspiraci.
 
 <br>
 
@@ -55,10 +62,6 @@ Kdy se může přehled vzešlý z inventury hodit?
 [Stáhnout](attachments/Prioritizace analýz.xlsx)
 :::
 :::
-
-## 1. Identifikujte smysluplné kategorie pro vytvoření přehledu
-
-Kolegové z analytického oddělení doporučují nepřesáhnout více jak tři kategorie podle kterých analýzy řadit
 
 V našem případě jsme měli 15 kategorií, což se ukázalo jako nejen problematické z hlediska počtu jako takového, ale také pro srozumitelnou komunikaci dalším analytikům, kteří nebyli u procesu vzniku přehledu
 
