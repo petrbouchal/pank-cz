@@ -29,15 +29,7 @@ format:
 
 Ačkoliv je "analytická práce" obvykle chápána výlučně jako práce s daty, její podoba a role ve veřejné správě je mnohem širší.
 
-Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako "analytik/čka" vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, více či méně "nevýzkumné" úlohy jako například rešerše, příprava zpráv pro partnery, vizualizace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat a např. ve vzdělávání cílit na toto širší spektrum potřebných dovedností.
-
-### Různé role analytika/čky
-
-Role analytika/čky ve veřejné správě se neomezuje na práci s daty a tvorbu analýz, ale zahrnuje mnohem širší spektrum činností. 
-
-Z širokého chápání analytické práce vyplývá, že analytik/čka se nevěnuje pouze statistické práci s daty. Naopak pokrývá celou řadu činností, které přesahují využití statistických nástrojů a "tradiční" výzkumné úkony obecně. Analytik/čka tak v různých kontextech může být autorkou zpráv pro management či veřejnost, zadavatelkou externího výzkumu, či "překladatelkou" mezi světěm výzkumu a světem veřejných politik. Lepší práce s poznatky ve veřejné správě by toto měla brát v potaz. 
-
-Analytická práce nespočívá výlučně v produkci nových textů a zpráv, ale i ve shrnutí a komunikaci existujících poznatků a postupů. Součástí analytické práce je i syntéza poznatků, jejich předávání a knowledge brokering. Tyto činnosti jsou obzvláště důležité k zajištění toho, aby nedocházelo k duplikování práce a věnování zdrojů na generaci poznání, které již existuje. 
+Pro lepší uchopení významu práce s poznatky ve veřejné správě je nutné začít vnímat analytickou práci jako mnohem širší kategorii činností, než se obvykle děje. Podle našich zkušeností je jako "analytik/čka" vnímán zaměstnanec/kyně, který/á pracuje s kvantitativními daty a statistickými nástroji. Realita je ale taková, že práce s poznatky obnáší celou řadu činností, z nichž tyto tvoří pouze zlomek. Nejedná se pouze o práci s kvalitativními daty, ale i jiné, více či méně "nevýzkumné" úlohy jako například rešerše, příprava zpráv pro partnery, komunikace zjištění, atd. Snahy o posun práce s poznatky ve veřejné správě by tuto šíři měly reflektovat a např. vzdělávání by mělo cílit na toto širší spektrum potřebných dovedností.
 
 Jak ukazuje výzkum ze zahraničí [@olejniczakRoleAnalystsPublic2018, @howlettPolicyAnalyticalCapacity2015] i z českého prostředí [@veselyPolicyAnalysisPolicy2016], analytici skutečně v praxi hrají relativně širokou roli; snahy o posílení analytické práce by toto měly brát v potaz a např. podporovat rozvoj dovedností v celé této šíři. V tomto kontextu může být užitečný i koncept tzv. policy work [@colebatchWorkingPolicy2011; v českém kontextu @kohoutekConceptualizingPolicyWork2013; @kohoutekPolicyWorkIts2018].
 
@@ -51,17 +43,17 @@ Stejně tak i dedikované analytické útvary hrají různé role. Některé se 
 
 ### Rozvoj analytické práce není jen o budování resortních analytických útvarů
 
-Je možné, že některý typ útvarů by měl např. na resortech existovat průřezově. Toto nebylo předmětem našeho zkoumání, ale dílčí poznatky naznačují, že na některých resortech chybí analytické kapacity na řešení velkých celoresortních témat. Pak by bylo možné uvažovat o nějaké míře stanovení standardu podobně jako je tomu např. [na Slovensku](@ministerstvofinancisrMetodikaBudovaniaAnalitickych2023). I v takovém případě by ale jakákoli koncepce rozvoje analytické práce neměla zapomenout na další typy útvarů, pro které je práce s poznatky podstatná.
+Je možné, že některý typ útvarů by měl např. na resortech existovat průřezově. Toto nebylo předmětem našeho zkoumání, ale dílčí poznatky naznačují, že na některých resortech chybí analytické kapacity na řešení velkých celoresortních témat. Pak by bylo možné uvažovat o nějaké míře stanovení standardu podobně jako je tomu např. [na Slovensku](@ministerstvofinancisrMetodikaBudovaniaAnalitickych2023). I v takovém případě by ale jakákoli koncepce rozvoje analytické práce neměla zapomenout na další typy útvarů, pro které je práce s poznatky podstatná, a také na jednotlivce, které hrají roli analytika ve věcně nebo implementačně zaměřeném útvaru.
 
 ### "Knowledge Delivery" jako jedna ze základních funkcí uvnitř organizací
 
 Při uvažování o veřejných organizacích se často objevují kategorie "strategie" a "implementace/operativa", popř. ještě různé podpůrné funkce. Dobře fungující organizace ale musí umět také vstřebávat informace a sbírat zpětnou vazbu a využívat je ve své práci, ať už strategické nebo operativní. 
 
-Můžete se snažit o aplikaci principů "učící se organizace", ale jednodušší může být zajímat se o to, kdo a kde vykonává funkci tohoto "dodavatele poznatků" (knowledge delivery) do různých procesů a rozhodnutí. Může a nemusí to být jeden specializovaný útvar -- v některých organizacích je "knowledge delivery" funkce integrovaná do věcných útvarů, jinde je více centralizovaná, nezávislá nebo externí. Některé útvary v sobě mísí strategickou, operativní a znalostní funkci. Hlavní otázka pro identifikaci této funkce dodávání poznatků je: odkud do našich strategických a implementačních procesů vstupují poznatky zvenčí? Kdo má za úkol zajistit, aby se to dělo?
+Proto je třeba zajímat se o to, kdo a kde vykonává funkci tohoto "dodavatele poznatků" (knowledge delivery) do různých procesů a rozhodnutí. Může a nemusí to být jeden specializovaný útvar -- v některých organizacích je "knowledge delivery" funkce integrovaná do věcných útvarů, jinde je více centralizovaná, nezávislá nebo externí. Některé útvary v sobě mísí strategickou, operativní a znalostní funkci. Hlavní otázka pro identifikaci této funkce dodávání poznatků je: odkud do našich strategických a implementačních procesů vstupují poznatky zvenčí? Kdo má za úkol zajistit, aby se to dělo?
 
-Důležité je vědět, kde tuto funkci moje organizace má a co je potřeba pro to, aby fungovala, od kapacit a dovedností před struktury řízení a podpůrné funkce (např. personalistické), které umožní lidem či útvarům plnícím tuto funkci efektivně fungovat.
+Důležité je vědět, kde tuto funkci moje organizace má a co je potřeba, aby fungovala, od kapacit a dovedností před struktury řízení a podpůrné funkce (např. personalistické), které umožní lidem či útvarům plnícím tuto funkci efektivně fungovat.
 
-[!Schéma organizace s knowledge delivery funkcí na příkladu evropských fondů, kde tuto funkci často plní evaluační a monitoringové jednotky. Zdroj @olejniczakLearningEvaluationKnowledge2017](/images/olejniczak_overview.jpeg)
+![Schéma organizace s knowledge delivery funkcí na příkladu evropských fondů, kde tuto funkci často plní evaluační a monitoringové jednotky. Zdroj @olejniczakLearningEvaluationKnowledge2017](/images/olejniczak_overview.jpeg)
 
 ## O lidech
 
@@ -120,6 +112,8 @@ Technologie mají v analytické práci (a ve veřejné správě obecně) své m�
 Technologické nástroje mohou usnadnit řadu činností, nicméně nemohou být použity jako univerzální řešení. Je potřeba kriticky zvážit, nakolik je použití čistě technických řešení (např. zavedení umělé inteligence) skutečně vhodné a efektivní pro daný problém, kdy je potřeba pozornost věnovat širšímu kontextu. Spojeným problémem je to, že technická řešení dávají falešnou iluzi toho, že se jedná o řešení "nepolitická" a neutrální, a z těch, kdo je zavádějí, tak zdánlivě snímají nutnost politického rozhodování. 
 
 ### Nejde jen o řadové experty a analytiky
+
+TODO
 
 ## O podmínkách
 
