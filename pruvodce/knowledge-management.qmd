@@ -121,7 +121,7 @@ TODO
 
 [@lambePrinciplesKnowledgeAuditing2023]
 
-[@bankWorldBankKnowledge2019]
+[@worldbankWorldBankKnowledge2019a]
 
 [Knowledge Solutions](https://link.springer.com/book/10.1007/978-981-10-0983-9) [@serratKnowledgeSolutions2017]
 
