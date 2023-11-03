@@ -119,21 +119,21 @@ Technologie mají v analytické práci (a ve veřejné správě obecně) své m�
 
 Technologické nástroje mohou usnadnit řadu činností, nicméně nemohou být použity jako univerzální řešení. Je potřeba kriticky zvážit, nakolik je použití čistě technických řešení (např. zavedení umělé inteligence) skutečně vhodné a efektivní pro daný problém, kdy je potřeba pozornost věnovat širšímu kontextu. Spojeným problémem je to, že technická řešení dávají falešnou iluzi toho, že se jedná o řešení "nepolitická" a neutrální, a z těch, kdo je zavádějí, tak zdánlivě snímají nutnost politického rozhodování. 
 
-### Nejde jen o řadové experty a analytiky
-
 ## O podmínkách
 
 ### Expertiza v práci s poznatky se shlukuje v klastrech napříč resorty a sektory
 
 O analytických kapacitách v jednotlivých oblastech veřejných politik je proto dobré uvažovat přes hranice resortů a sektorů. 
 
-V některých oblastech dochází k rozvoji kapacit napříč resorty a sektory. Příkladem je oblast vzdělávání, kde významná část odborných kapacit vznikla mimo státní správu, nyní z nich ale státní správa těží při snaze o rozvoj vlastní analytické kapacity. Podobně se trans-sektorální skupina vytvořila v oblasti životního prostředí díky existenci konsorcií aplikovaného výzkumu iniciovaných MŽP. Výměny zkušeností a společné učení v těcho komunitách expertů pak podporují např. konference (Konference Evaluační jednotky NOK) a odborné společnosti (mj. Česká evaluační společnost.)
+V některých oblastech dochází k rozvoji kapacit napříč resorty a sektory. Příkladem je oblast vzdělávání, kde významná část odborných kapacit vznikla mimo státní správu, nyní z nich ale státní správa těží při snaze o rozvoj vlastní analytické kapacity. Podobně se trans-sektorální skupina vytvořila v oblasti životního prostředí díky existenci konsorcií aplikovaného výzkumu iniciovaných MŽP. Výměny zkušeností a společné učení v těcho komunitách expertů pak podporují např. konference ([Konference Evaluační jednotky NOK](https://www.dotaceeu.cz/cs/evropske-fondy-v-cr/narodni-organ-pro-koordinaci/evaluace/evaluacni-konference)) a odborné společnosti (mj. [Česká evaluační společnost](https://czecheval.cz).)
 
 ### Správa a sdílení dat jsou pro práci s poznatky zásadní 
 
-Pro kvalitní analytickou práci je nutné věnovat pozornost a energii managementu a sdílení dat.
+Pro kvalitní analytickou práci je nutné věnovat pozornost a energii managementu a sdílení dat -- jak na úrovni velkých systémů a celých organizací, tak na úrovni týmů.
 
 Naše zkušenosti poukazují na to, že na řadě oddělení nejsou nijak kodifikované postupy stran shromažďování, klasifikaci a péči o data, ať již získaná odjinud, či vygenerovaná přímo danými odděleními. Management dat je často ad hoc a stojí na několika málo jedincích, kteří mají přehled o existujících datech a jsou schopni zajistit jejich dodání v případě potřeby. Tento systém je tak těžko udržitelný v případě personálních obměn. Pro efektivnější a kontinuálnější práci s poznatky je vhodné na min. úrovni oddělení zavést stálejší postupy a dobré praxe, se kterými by byli obeznámeni (a dodržovali je) všichni zaměstnanci a zaměstnankyně. 
+
+Problémem jiného řádu a dopadu pak je zajištění správy dat na úrovni informačných systémů a institucí.
 
 ### Součástí analytických kapacit je schopnost pořizovat poznatky zvenčí 
 
