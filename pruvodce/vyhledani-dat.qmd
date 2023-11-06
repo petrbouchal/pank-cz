@@ -37,6 +37,23 @@ https://archiv.soc.cas.cz/cz/pristup-k-datum/jine-zdroje-dat
 
 https://www.cessda.eu/Tools/Data-Catalogue 
 
+https://www.databaze-strategie.cz/cz/CR/online-indikatory
+
+
+https://www.envirometr.cz/
+
+
+## Jak se koukat na téma
+
+- statistiky
+- admin data
+- mezinárodní srovnání
+
+- vstupy: lidi, peníze: lidi, platy, peníze
+- výstupy, aktivita: služby, interkace, procesy
+- výsledky: statistika, agregace admin dat
+- dopady: výzkum
+
 
 [Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A) + [architektura egovernmentu šířeji](https://archi.gov.cz/)
 
