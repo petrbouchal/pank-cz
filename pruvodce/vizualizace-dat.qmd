@@ -39,9 +39,19 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 
 # Je to pro mě?
 
-- Máme signály o tom, že nemáme optimální vizualizace?
-- ...
+Tento návod vám pomůže, pokud platí některé z následujících tvrzení:
 
+- Máme signály o tom, že naše vizualizace jsou pro uživatele našich výstupů těžko srozumitelné.
+- Chceme si být jistější, že nepácháme žádné vizualizační hříchy.
+- Občas máme pocit, že grafy do zpráv a prezentací dáváme spíš jako signál, že pracujeme z daty, než jako skutečně informativní prvek.
+- Nejsme si při vytváření grafů a tabulek jistí, jestli využíváme vhodné formy zobrazení dat.
+- Nedaří se nám v týmu shodnout na tom, jaké vizualizace používat na jaká data.
+
+Pokud si jste docela jistí v kramflecích, ale rádi byste stavěli na aktuálním poznání o tom, jak funguje vnímání vizualizací, podívejte se do [literatury](#přehledy-dobrých-praxí-a-návody). 
+
+Pokud byste rádi rozšířili spektrum vizuálních forem, které pro vizualizaci dat využíváte, můžete se [inspirovat některým z mnoha zdrojů](#konkrétní-tipy-a-sbírky-příkladů) -- nebo možná potřebujete využít nějaký jiný nástroj než Excel: [podívejte se na možnosti níže](#nástroje-pro-vizualizaci).
+
+<br>
 
 
 # Jak na to {.strip}
@@ -111,7 +121,7 @@ I tabulka je vizualizace: její rozložení, uspořádání a grafická úprava 
 - Nedatové prvky (vodítka, pozadí): mohou napomoci čtení, ale pokud nejsou vhodně zvoleny, mohou odvádět pozornost od informací
 - Titulek a podtitulek
   - Titulek = hlavní sdělení grafu: "Nárůst počtu uchazečů o zaměstnání"
-  - Podtitulek: = popis datové sady, území a časového úseku: "Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022"
+  - Podtitulek = popis datové sady, území a časového úseku: "Vývoj počtu uchazečů o zaměstnání v Praze v období 2010-2022"
 - Zdroj  
 
 > Celkové uspořádání grafu a formu jeho prvků tvořte tak, abyste minimalizovali nároky na tzv. pracovní paměť, tj. aby čtenář musel co nejméně přeskakovat mezi prvky grafu, srovnávat od sebe vzdálené hodnoty a podobně.
