@@ -37,7 +37,7 @@ Tento návod jsme vyvinuli a testovali s týmem OVE na MMR
 
 :::
 
-# Je to pro mě?
+# Je to pro mě? {#sebediagnostika}
 
 Tento návod vám pomůže, pokud platí některé z následujících tvrzení:
 
@@ -156,7 +156,7 @@ Může k tomu použít třeba checklist níže
 
 Pokuste se taky ukázat někomu graf na pouhých 5 vteřin a zeptejte se, co je jeho hlavní myšlenkou. 
 
-# Tipy & triky a na co si dávat pozor
+# Tipy & triky a na co si dávat pozor {#triky}
 
 Většinu pastí jsme zachytili v checklistu -- použijte jej.
 
@@ -187,7 +187,7 @@ Můžete ho zkusit hacknout, neboli nějak to omezené obejít. Pomůže [někte
 
 Anebo využít jiný nástroj. Máte dvě možnosti: využít nějaký mocný a flexibilní programovací jazyk (typicky Python nebo R) anebo naopak některý z [online nástrojů na tvorbu grafů](#nastroje).
 
-# Další zdroje a nástroje
+# Další zdroje a nástroje {#navod-zdroje}
 
 ## ČP.edu: vizualizace dat
 
