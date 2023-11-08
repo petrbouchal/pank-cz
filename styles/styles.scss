@@ -640,7 +640,7 @@ li {
   margin-bottom: 0.3rem;
 }
 
-#o-co-jde-a-k-čemu-to-je > h1::before {
+#o-co-jde-a-k-čemu-to-je > h1::before, #navod-intro > h1::before {
   content: "";
   background-image: url(images/section-icon-intro.png);
   background-size: 100% 100%;
@@ -655,7 +655,7 @@ li {
   margin-right: 0.6rem;
 }
 
-#sebediagnostika-je-to-pro-mě > h1::before {
+#sebediagnostika-je-to-pro-mě > h1::before, #sebediagnostika>h1::before {
   content: "";
   background-image: url(images/section-icon-diag.png);
   background-size: 100% 100%;
@@ -670,7 +670,7 @@ li {
   margin-right: 0.6rem;
 }
 
-#jak-na-to > h1::before, #jak-na-to>h2::before {
+#jak-na-to > h1::before, #jak-na-to>h2::before, #navod>h1::before {
   content: "";
   background-image: url(images/section-icon-steps.png);
   background-size: 100% 100%;
@@ -685,7 +685,8 @@ li {
   margin-right: 0.6rem;
 }
 
-#na-co-si-dát-pozor-aneb-tipy-triky > h1::before, #na-co-si-dát-pozor-aneb-tipy-triky>h2::before {
+#na-co-si-dát-pozor-aneb-tipy-triky > h1::before, #na-co-si-dát-pozor-aneb-tipy-triky>h2::before, #triky>h1::before,
+#triky>h2::before {
   content: "";
   background-image: url(images/section-icon-tipy.png);
   background-size: 100% 100%;
@@ -700,7 +701,7 @@ li {
   margin-right: 0.6rem;
 }
 
-#další-zdroje > h1::before {
+#další-zdroje > h1::before, #navod-zdroje>h1::before {
   content: "";
   background-image: url(images/section-icon-zdroje.png);
   background-size: 100% 100%;
