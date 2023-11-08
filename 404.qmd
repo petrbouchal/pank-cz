@@ -6,3 +6,5 @@ editor: source
 Tuto stránku nedokážeme najít. Buď zmizela, nebo je někde jinde.
 
 Zkuste hledat nebo začít na [začátku](index.html).
+
+![](images/404.png)
