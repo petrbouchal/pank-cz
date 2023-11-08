@@ -1,9 +1,7 @@
 ---
 title: "Vizualizace dat"
 subtitle: "Jak zobrazit data tak, aby se na to dalo dívat"
-categories: ["Komunikace", "Kvanti"]
 blok: ["vyuziti"]
-title-block-categories: false
 editor: source
 poradi: 2
 ---
