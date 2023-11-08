@@ -244,10 +244,8 @@ Hodně se dá naučit z tohoto [výběru zaměřeného na drobné, ale mocné pr
 
 Skvělý je blog [Lisy Muth](https://lisacharlottemuth.com/articles.html), mj. texty o [barvách](https://blog.datawrapper.de/colors-for-data-vis-style-guides/), [anotacích](https://blog.datawrapper.de/text-in-data-visualizations/), a [písmech](https://blog.datawrapper.de/fonts-for-data-visualization/) v grafech.
 
-## Pokročilé zdroje a odborná literatura
 Pro inspiraci se vyplatí sledovat
 
-@xiongCurseKnowledgeVisual2020
 - datového reportéra Financial Times Johna Burn-Murdocha [twitter](https://twitter.com/jburnmurdoch) | [web](https://www.ft.com/john-burn-murdoch)
 - vizuální sloupek *The Economist* [Graphic Detail](https://www.economist.com/graphic-detail)
 - [datové novináře Českého rozhlasu](https://www.irozhlas.cz/zpravy-tag/datova-zurnalistika)
