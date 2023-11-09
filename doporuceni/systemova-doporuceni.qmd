@@ -25,7 +25,7 @@ aliases:
 
 # Struktury a procesy podporující využívání poznatků {#struktury}
 
-# Stabilnější analytické kapacity {#stabilnejsi}
+## Stabilnější analytické kapacity {#stabilnejsi}
 
 **Co je problém**: analytickým kapacitám chybí finanční a organizační stabilita
 
@@ -244,17 +244,52 @@ Zkušenosti mnohých států ukazují, že je možno toho dosáhnout zároveň s
 
 ## Dostupné akademické zdroje {#zdroje-akademicke}
 
-> Tuto část doporučení ještě připravujeme.
+**Co je problém:** Velká část akademických výzkumů není pro zaměstnance státní správy dostupná.
+
+**Co doporučujeme** 
+
+Jako řešení se nabízí, aby např. státní správa jako celek pořídila přístupy do zásadních akademických databází. V této oblasti nemáme dostatečné informace, abychom dokázali vyhodnotit, jaké řešení by bylo prakticky a finančně schůdné.
+
+Součástí řešení pravděpodobně je i posílení motivace vědců k publikování formou open access, což ale spadá do domény podpory výzkumu a vývoje.
 
 ## Snadněji nalezitelné výstupy veřejného sektoru {#zdroje-vystupy}
 
-> Tuto část doporučení ještě připravujeme.
+**Co je problém:** Neexistuje způsob, jak spolehlivě vyhledat zveřejněné výstupy analytické práce veřejných institucí.
+
+**Co doporučujeme** 
+
+Vytvořit a zpřístupnit repozitář studií.
+
+Systém by měl být pokud možno co nejjednodušší.
+
+Lze se inspirovat např. [knihovnou evaluací EU fondů](http://dotaceeu.cz/knihovna-evaluaci), včetně některých zkušeností ohledně vhodné míry komplexity systému a jeho uživatelské přívětivosti.
+
+**Proč je to třeba**
+
+Nejedná se pouze o opatření směrem k transparentnosti vůči veřejnosti; veřejný nebo částečně veřejný repozitář studií je nejsnadnějším způsobem, jak zpřístupnit výstupy i napříč státní správou.
 
 # Podmínky pro zlepšování práce s poznatky {#podminky}
 
 ## Leadership a klíčové role  {#podminky-role}
 
-> Tuto část doporučení ještě připravujeme.
+**Co je problém:** V několika oblastech zásadních pro práci s poznatky neexistují viditelní lídři tématu.
+
+**Co doporučujeme** 
+
+Jedním z možných řešení by bylo ustanovit existující seniorní manažery či expertů do rolí jmenovaných odborných lídrů pro specifické oblasti, např.:
+
+- správa dat -- potenciálně i Chief Data Officer úřadu
+- analýza dat a výzkum (viz role tzv. Chief Analysts v některých zahraničních státních správách)
+- vědecké poradenství (viz role tzv. Chief Science Advisors ministerstev v některých státech)
+- správa znalostí
+
+Tyto designace by mohly existovat v některých nebo všech ministerstech nebo napříč centrální státní správou. V některých variantách by bylo možné tyto role navázat na kariérní linku rozvoje nebo existující institut vyníkajících, všeobecně uznávaných odborníků.
+
+Lze navrhnout různé varianty těchto rolí, lišící se např. tím, jaký má vztah k definování standardů, vzdělávacích programů či přímo k zodpovědnosti za kvalitu práce v dané oblasti v dané instituci ci napříč institucemí, popř. může jít naopak o role více neformální.
+
+**Proč je to třeba**
+
+Rozvoj dovedností a kvality práce v těchto oblastech nemůže být jen věcí standardů, postupů a školení, ale je třeba mít také viditelné zastánce rozvoje a profesní vzory.
 
 ## Standardy a podmínky pro práci s daty {#podminky-datarina}
 
