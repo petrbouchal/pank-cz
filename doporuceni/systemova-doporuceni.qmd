@@ -87,7 +87,52 @@ Současná struktura státní správy je organizována podle funkcí a profesí 
 
 # Uznané a podporované role {#role}
 
-> Tuto část doporučení ještě připravujeme.
+## Profese analytika {#profese}
+
+**Co je problém**: Na rozdíl od některých jiných profesí není role analytika ve státní službě definovaná a uznaná.
+
+**Co doporučujeme** 
+
+Není v našich silách navrhnout kompletní řešení ukotvení role analytika ve státní službě, ale nabízíme několik kontur, které by takové ukotvení mělo mít:
+
+- Typové role: zřejmě nepůjde o jednu standardizovanou profesi či roli, ale o širší profesi s několika specializacemi -- např. britský stát v tomto směru staví [kariérní rámec analytiků](https://analysisfunction.civilservice.gov.uk/careers/career-framework/).
+- Je možné vycházet také ze standardu, jak se taková profese vykonává; tento přístup volí např. britská státní správa [@hmgovernmentGovernmentFunctionalStandard2023]
+- Součástí profese by měla být předvídatelná kariérní dráha, tj. např. postup po kariérní lince (což je širší problém řízení státní služby)
+- Pro rozvoj profese je vhodné mít viditelné lídry např. na jednotlivých ministerstvech nebo napříč službou
+
+Z těchto náčrtů je patrné, že si nejsme jisti, zda by profesionalizaci role analytika prospělo zařazení mezi obory služby s příslušnou zkouškou ve stávajícím systému zákona o státní službě.
+
+**Proč je to třeba** 
+
+Obecným systémovým problémem práce s poznatky je absence uchopení analytika/čky jako specifické profese. Problematické v tomto ohledu není to, že není zavedena přesná definice, což by naopak vzhledem k šíři práce s poznatky ve veřejném sektoru mohlo být zbytečně omezující. Deficitem současného neuchopení analytické profese je to, že následně neexistuje etablovaná komunita, v níž by mohlo docházet k výměně zkušeností a vzájemnému se učení, odborný rozvoj, profesní identita a související motivace se rozvíjet. (Jakkoli je přínosné PSSAÚ jako platforma vzniklá odspoda.) Dále pak chybí více institucionalizované mechanismy jako společný onboarding nebo přehled základních datových a informačních zdrojů.  
+
+## Personalistické procesy jako podpora práce s poznatky {#personalistika}
+
+**Co je problém**: Běžná personalistická praxe -- např. nábor, proces adaptace a kroky při odchodu pracovníků -- neslouží jako podpora pro udržování a předávání poznatků.
+
+**Co doporučujeme** 
+
+Ani zde nejsme vzhledem k naší expertize a zkušenostem z praxe schopni navrhnout řešení, ale je patrné, že např. správě a uchovávání poznatků by pomohly jakékoli kroky, které by podpořily týmy a manažery v zavedení a využívání standardních procesů předávání a uchovávání poznatků v klíčových momentech "životního cyklu" zaměstnance: při nástupu, při změně pozice, při odchodu. 
+
+**Proč je to třeba** 
+
+Toto slabé místo se pravděpodobně projevuje nejen u týmů a jednotlivců intenzivněji pracujících s poznakty, zde jsme ale v naší zkušenosti se zapojenými týmy tento deficit pozorovali silně. Práce s poznatky je velmi závislá na získaných znalostech, dovednostech a kontaktech, které často nejsou nikde kodifikované a proto jsou náchylné ke ztrátě v momentech personální diskontinuity.
+
+## Policy analysis jako klíčová aktivita státu {#policy-analysis}
+
+**Co je problém**: tvorba a analýza politik není viděna jako klíčová aktivita veřejných institucí
+
+**Co doporučujeme**: 
+
+Procesu tvorby politik by prospělo, kdyby analýza a tvorba politik byly považovány za základní proces státní správy a podle toho státní služba uvažovala o potřebných kapacitách, dovednostech a organizačních faktorech. Bez dalšího zkoumání není zjevné, jaké kroky k tomuto stavu mohou vést; mohlo by se jednat např. o redefinici oborů služby a proměnu vstupního, resp. průběžného vzdělávání. Vítaným impulsem tímto směrem může být i posílení role metodik RIA v procesu přípravy legislativy.
+
+**Proč je to třeba**: 
+
+V současnosti jsou činnosti spojené s tvorbou politik a opatření často uvažovány odděleně: analýza dat, tvorba legislativy, evaluace, aj. Dílčí výjimkou je strategické řízení, které má svou metodiku a odbornou komunitu; velká část státních zaměstnanců, kteří tvoří veřejné politiky a veřejněpolitické nástroje, se ale nepovažuje za stratégy a sféru strategií tedy nepovažuje za svou. 
+
+Takovéto uchopení aktivit, které jdou často napříč útvary a obory, by také usnadnilo propojování mezi světem analytiků a světem věcných expertů či tvůrců legislativy.
+
+V tomto se česká státní správa liší od mnohých rozvinutých států, které "policy making" považují za ucelenou roli a profesi uvnitř státní služby.
 
 # Lepší schopnosti a dovednosti {#schopnosti}
 
@@ -165,13 +210,37 @@ Nedostatky v této oblasti vedou kromě nekvalitního rozhodování také k neef
 
 ## Nábor a platy umožňující přitáhnout talent {#nabor}
 
-> Tuto část doporučení ještě připravujeme.
+**Co je problém:** Úroveň a struktura platů znesnadňuje přitahování talentovaných kandidátů na analytické pozice.
+
+**Co doporučujeme** 
+
+V této oblasti nemůžeme dát konkrétní doporučení, protože oblast odměňování je komplikovaná a citlivá, navíc dílčí změny jsou v jednání.
+
+Že kromě větší úpravy platových úrovní, struktury platových stupňů a tabulek a větší flexibility v odměňování (včetně hojnějšího využívání stávajících možností) by pomohla i větší platová transparentnost a aktivnější přístup k náboru.
+
+Protože některé nástroje platové flexibility jsou navázány na obory služby, neexistence oborů služby zachycujících analytické činnosti zde omezuje schopnosti zaměstnavatelů využít flexibility pro zatraktivnění pozic.
+
+**Proč je to třeba**
+
+Analytické dovednosti -- včetně technických, např. práce s daty -- jsou silně poptávané v soukromé sféře, horší platová nabídka státu se tedy v této oblasti projevuje obzvláště silně.
 
 # Dostupnější zdroje dat a informací {#zdroje}
 
 ## Snadnější přístup k datům veřejného sektoru {#zdroje-data}
 
-> Tuto část doporučení ještě připravujeme.
+**Co je problém:** Mnohá data veřejného sektoru, zejména administrativní a statistická mikrodata, nejsou dostupná pro analytické účely.
+
+**Co doporučujeme** 
+
+Prosadit zákon o správě dat veřejného sektoru v takové formě, která umožní přístup k mikrodatům pro analytické účely.
+
+**Proč je to třeba**
+
+Kromě samotné možnosti analytiků využívat data je jejich zpřístupnění pro vědecké a výzkumné účely potřebné i proto, aby se posílila schopnost akademické sféry produkovat výzkum využitelný veřejnou správou.
+
+Jak pro výzkum, tak pro analýzy ve veřejném sektoru platí, že využití ve světě běžných metod např. hodnocení dopadů, stejně jako cílení politik a dobrá definice řešených problémů, se neobejdou bez přístupu k administrativním mikrodatům, tj. typicky datům na individuální úrovni.
+
+Zkušenosti mnohých států ukazují, že je možno toho dosáhnout zároveň se zachováním potřebné úrovně ochrany údajů.
 
 ## Dostupné akademické zdroje {#zdroje-akademicke}
 
