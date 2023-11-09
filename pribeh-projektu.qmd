@@ -7,52 +7,122 @@ aliases:
   - /o-nas
   - /pribeh-projektu
   - /mapovani
+listing: 
+  - id: tym
+    type: grid
+    template: ejs/tym.ejs
+    contents: tym.yaml
 ---
+
+Projekt PANK realizoval výzkumný tým Českých priorit od jara 2021 do podzimu 2023. 
 
 ## Kdo jsme & kontakt {#kontakt}
 
+Tyto tváře stojí za většinou projektu jako výzkumný tým. Můžete nás kontaktovat na adrese <pank@ceskepriority.cz>.
+
+:::{#tym}
+:::
+
+Důležitou roli hráli také Martin Nekola, Marek Havrda, Vladimír Kváča, Richard Kokeš a Petr Janský jako seniorní tým projektu. S metodami nám pomáhali Petr Witz a Martin Nekola.
+
+## Zapojené týmy ve státní správě
+
+Projekt by nemohl proběhnout bez zapojení šesti týmů ve státní správě:
+
+- sekce vzdělávání a mládeže na Ministerstvu školství, mládeže a tělovýchovy, jako aplikační garant
+- Oddělení S3 na Ministerstvu průmyslu a obchodu
+- Evaluační jednotka Národního orgánu pro koordinaci na Ministerstvu pro místní rozvoj
+- Oddělení výzkumu a evaluací Agentury pro sociální začleňování na Ministerstvu pro místní rozvoj
+- Oddělení analýz Technologické agentury ČR
+- Oddělení rovnosti žen a mužů v sekci ESF na Ministerstvu práce a sociálních věcí
+
 ## Příběh projektu
+
+### Proč a jak
+
+Motivace a základní logiku projektu jsme shrnuli dvou článcích na blogu Českých priorit:
+
+- [Jak pomáhat analytikům státu?](https://www.ceskepriority.cz/blog/jak-pomahat-analytikum-statu)
+- [Analytici ve státní správě: rozmanitější, než se zdá](https://www.ceskepriority.cz/blog/analytici-ve-statni-sprave-rozmanitejsi-nez-se-zda)
+
+Projekt jsme také v úvodu prezentovali na [Pracovní skupině pro spolupráci analytických útvarů](https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/) -- viz [podklady](https://www.cr2030.cz/wp-content/uploads/2021/06/6.-jedn%C3%A1n%C3%AD-PSSA%C3%9A.zip).
+
+
+### Mapování analytických kapacit
+
+V úvodu projektu jsme kromě diagnostické fáze práce se zapojenými týmy realizovali také mapování analytických kapacit v centrální státní správě. Můžete si přečíst [shrnutí poznatků z tohoto šetření](/mapovani/mapovani-shrnuti.pdf). 
 
 ### Série ČP.edu
 
-### Příběh ve třech článcích na blogu
+Kromě práce se zapojenými týmy jsme jednotlivé aspekty práce s poznatky otevírali také formou veřejných přednášek v sérii ČP.edu.
+
+1. Data ve veřejné správě - [slides](https://drive.google.com/file/d/14G9JW2O70bTxA41_bmBRuHHLPs23IUzV/view?usp=drive_link)
+
+2. Analýza dat prakticky - [slides](https://drive.google.com/file/d/1vPXDhyM0_ceeE3lh-c4LHJXIWCRDkd0-/view?usp=drive_link)
+
+3. Vizualizace dat: video
+
+{{< video https://www.youtube.com/watch?v=PgmduPetX5k >}}
+
+4. Behaviorální přístupy ve veřejné správě: video
+
+{{< video https://www.youtube.com/watch?v=vc8HRdulKis >}}
+
+
+Série pokračuje dalšími tématy -- na mailing list Vás rád zařadí Tomáš Čech, <tomas.cech@ceskepriority.cz>.
+
+### [Festivaly kreativní byrokracie](https://creativebureaucracy.cz/)
+
+V roce 2021 jsme se účastnili panelu na téma využití dat: viz čas cca 3:21:00
+
+{{< video https://vimeo.com/643463026 >}}
+
+V roce 2022 jsme sdíleli naše poznatky o rovoji úředníků -- viz čas cca 3:15
+
+{{< video https://www.youtube.com/watch?v=K5XR6jq4cYI&list=PLOX5xelTsEv9mistpejv_quSESgvV6Dyz&index=4 >}}
+
+A v roce 2023 jsme pro účastníky nachystali workshop -- ten na videu není, ale záznam i tak doporučujeme.
+
+{{< video https://www.youtube.com/watch?v=A6GTdn_3gOQ >}}
+
+Také jsme s radostí přispěli reflexí z projektu k [Civil Service Talent Hack Day](https://cesko.digital/events/civil-service-talent-hackday-2023) v březnu 2023.
+
+{{< video https://www.youtube.com/embed/8qglD9y_0oA?si=EJWqTvwPVxBuP5uv >}}
 
 ## Poděkování
 
-Aplikační garant: Mušuta, Volčík
+Děkujeme Technologické agentuře ČR za finanční podporu a hodnotitelům a zpravodajovi za cennou zpětnou vazbu.
 
-Testeři: anonymně mnoho
+Pod názvem Podpora analytické práce ve veřejné správě (PAPVS) jej podpořila Technologická agentura ČR v programu Éta pod číslem [TL05000330](https://starfos.tacr.cz/cs/project/TL05000330).
 
-TA ČR: zpravodaj & TA ČR
+![](images/logolink_eta-b.png)
 
-Účastníci FKB a organizátor Chytil
+Za aplikačního garanta -- Ministerstvo školství, mládeže a tělovýchovy -- s námi spolupracovali Stanislav Volčík a Jan Mušuta.
 
-Zahraničním expertům
+Nic z toho, co najdete na tomto webu, by nevzniklo bez členů šesti týmů, kteří nám věnovali svůj čas a energii. Děkujeme jim všem, především pak:
 
-Respondentům mapování a státním tajemníkům
+- Stanislavu Volčíkovi, Ondřeji Saxovi, Jiřímu Münichovi z MŠMT
+- Janě Drlíkové a Janě Bystřické z MMR
+- Radce Vepřkové, Petru Langovi a Zuzaně Korecké z Agentury pro sociální začleňování na MMR
+- Iloně Johnové Koukalové, Adéle Šeredové Purschové a Lukáši Müllerovi z MPSV
+- Michalovi Petkovovi a Davidu Šulcovi z TA ČR
+- Tomáši Holinkovi a Dagmar Vránové z MPO
 
-PSSAÚ
+Stejně tak jsme zavázáni všem jejich kolegům a partnerům uvnitř i vně jejich organizací a veřejné správy, kteří nám věnovali čas na rozhovory a konzultace.
 
-Nekola, Witz, Havrda, Janský, Kváča, Kokeš
+S designem tohoto webu nám velmi pomohli Katarína Pribylová, Adam Melničák a Michal Kříž, s grafikou Jakub Ferjenčík.
 
-GovLab
+Děkujeme také
 
-Jirman
-
-Kolegyně a kolegové ČP esp. komunikace
-
-Kampus
-
-Grafika (Klára), NPI (Katarína, Adam, Michal)
-
-Jakub Ferjenčík
-
-Panelisté ČP.edu
-
-EJ NOK konf
-
-PSSAÚ
-
-Expertky a experti: Ladislava Zbiejczuk Suchá, Kristína Zákopčanová, Michal Koláček [link]
+- všem respondentům mapování analytických kapacit z řad zaměstnanců státní správy
+- Petru Jirmanovi a Miroslavu Juráskovi za konzultace a pomoc s mapováním analytických kapacit
+- mnohým účastníkům našich workshopů na Festivalu kreativní byrokracie a Matějovi Chytilovi, který nás na něj opakovaně zval
+- mnohým účastníkům uživatelského výzkumu a testování tohoto webu
+- mnohým zahraničním expertům
+- panelistům série ČP.edu: Kristíně Pšorn Zákopčanové, Jakubu Malinovi, Radce Domanské, Benediktu Kotmelovi a Alici Navrátilové, Lukáši Hájkovi, Martinu Poláškovi
+- expertům a expertkám, kteří nám radili s jednotlivými tématy: Kristína Pšorn Zákopčanová, Ladislava Zbiejczuk Suchá, Michal Koláček
+- kolegům v Kampusu Hybernská za azyl a produkci akcí
+- kolegům v Českých prioritách za rady, odbodnou a komunikační podporu a skvělou společnost
+- členům týmu GovLab a dalším účastníkům sdílení mezi průvodci změnou
 
 
