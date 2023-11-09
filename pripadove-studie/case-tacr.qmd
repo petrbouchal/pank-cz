@@ -67,8 +67,6 @@ Nejdříve analytické oddělení vytvořilo aktualizovaný seznam všech releva
 
 Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterých vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikaci jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. 
 
-Na základě této zkušenosti vznikl návod TODO LINK.
-
 ## Úspora času díky lepší komunikaci a lepšímu plánování práce
 
 Další dva prostory pro zlepšení, které byly identifikovány, zachycujeme společně, jelikož práce na nich měla komplementární řešení. Prvním bylo obecné **nastavení komunikace výstupů a analýz**, kde hlavním problémem byla neznalost stakeholderů o všech již zpracovaných analýzách a na to navazující dotazy, které analytické oddělení zbytečně kapacitně zatěžovaly. Druhou bylo **plánování práce** -- roadmapa analytického oddělení. V kontextu, kdy jste často zahlceni ad hoc analýzami a dotazy se těžko hledá prostor pro koncepční práci, který jsme se snažili vytvořit. 
