@@ -113,8 +113,6 @@ TODO fix & annotate links
 
 [Leading Data Science Teams](https://saturncloud.io/resources/Leading%20Data%20Science%20Teams.pdf)
 
-
-
 [Teaching Public Service](https://www.teachingpublicservice.digital/en/syllabus-index)
 
 [Managing a Data Science Team](https://hbr.org/2018/10/managing-a-data-science-team)

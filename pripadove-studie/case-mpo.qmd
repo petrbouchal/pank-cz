@@ -85,7 +85,7 @@ Druhá intervence měla za cíl navrhnout postup pro realizaci syntetické analy
 
 Analytické výstupy, které generují členové týmu S3, jsou využívány interně i externě, a proto je vhodné v přípravných fázích pochopit potřeby těchto uživatelů a přizpůsobit jim obsah i formu analytického výstupu. Paralelně jsme se pokusili o aplikaci inovativních nástrojů pro rešerši literatury, zejména pomocí umělé inteligence.
 
-Zkušenosti z této části spolupráce jsme promítli do návodu [Kvalitní a efektivní zprávy →](TODO LINK)
+Zkušenosti z této části spolupráce jsme promítli do návodu [Kvalitní a efektivní zprávy →](/pruvodce/kvalitni-zpravy.qmd)
 
 # Dobré praxe v týmu
 
@@ -97,25 +97,21 @@ Tým S3 využívá evropských sítí a expertizy (zejm. Společné výzkumné s
 
 Oddělení S3 zároveň buduje tuzemskou síť specializované expertizy pomocí projektu [„Strategická inteligence pro výzkum a inovace“ (STRATIN+)](https://stratin.tc.cas.cz/), na kterém se podílí Technologické centrum Praha, Sociologický ústav AV ČR, EURAXESS a Národní vzdělávací fond. MPO také navázal spolupráce v tématu inovací napříč veřejnými organizacemi (zejm. Czechinvest a TA ČR). 
 
-# Zobecnitelnější vhledy
+# Reflexe práce se zapojeným týmem
 
-TODO prolinky na teze a systémová doporučení
+V oddělení S3 se koncentrují všechny činnosti spojené se strategickou prací, od koncepce po koordinaci, ale také poskytování dat a podkladů do celého výzkumného a inovačního prostředí a síťování všech aktérů (viz [vzkaz o funkci dodávání poznatků](/doporuceni/teze-o-praci-s-poznatky-stat.qmd#knowledge-delivery)). Ukazuje to na realitu práce s poznatky, která je často **součástí širší agendy** (např. řízení strategií) zahrnující jak operativu či implementaci, tak strategickou práci. Kvalita práce s poznakty má podstatný vliv na celkový výsledek, ale útvar -- a často ani jednotlivci -- kteří tuto práci vykonávají by se sami za analytiky neoznačili.
 
-V oddělení S3 se koncentrují všechny činnosti spojené se strategickou prací, od koncepce po koordinaci, ale také poskytování dat a podkladů do celého výzkumného a inovačního prostředí a síťování všech aktérů. Ukazuje to na realitu práce s poznatky, která je často **součástí širší agendy** (např. řízení strategií) zahrnující jak operativu či implementaci, tak strategickou práci. Kvalita práce s poznakty má podstatný vliv na celkový výsledek, ale útvar -- a často ani jednotlivci -- kteří tuto práci vykonávají by se sami za analytiky neoznačili.
+Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovanou odbornou kapacitu v tématu podpory výzkumu a vývoje a [**vytváří datové produkty**](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#produkty) (především RIS3 portál) pro celý ekosystém. 
 
-Přestože se nejedná o čistě analytický útvar, oddělení S3 má vybudovanou odbornou kapacitu v tématu podpory výzkumu a vývoje a **vytváří datové produkty** (především RIS3 portál) pro celý ekosystém. 
+**Know-how pro práci s daty je koncentrovaná v jednom až dvou** členech týmu (viz vzkaz o [specializaci](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#specializace)), což je relativně běžné i v jiných analytických útvarech (např. na ASZ). To přináší výhodu z hlediska budování know-how, nicméně se tím zvyšuje i závislost na těchto členech týmu a případné riziko při výpadku či odchodu člena týmu. Specificky v oblasti dat vzniká také riziko, že postupy pro správu dat (data management) nejsou zexplicitněny a aplikovány napříč týmem.  
 
-**Know-how pro práci s daty je koncentrovaná v jednom až dvou** členech týmu, což je relativně běžné i v jiných analytických útvarech (např. na ASZ). To přináší výhodu z hlediska budování know-how, nicméně se tím zvyšuje i závislost na těchto členech týmu a případné riziko při výpadku či odchodu člena týmu. Specificky v oblasti dat vzniká také riziko, že postupy pro správu dat (data management) nejsou zexplicitněny a aplikovány napříč týmem.  
-
-Během projektu se ukázalo, jak užitečné může být vyhledat expertizu i mimo veřejnou správu, zejména pro aplikaci technických postupů. V našem případě se přes odborné komunity (Datavis Meetup Brno) podařilo najít člověka z technologické firmy, který pracoval s vizualizačním nástrojem, který je v Česku relativně méně využívaný, je ale integrován do systému RIS3 portálu. Díky tomu členové týmu získali rady a pomoc při řešení problémů od experta z jiného sektoru.
+Během projektu se ukázalo, jak užitečné může být vyhledat expertizu i mimo veřejnou správu (vzkaz: [někdo už to někde řeší](/doporuceni/teze-o-praci-s-poznatky-tymy.qmd#někdo-už-to-někde-řeší)), zejména pro aplikaci technických postupů. V našem případě se přes odborné komunity (Datavis Meetup Brno) podařilo najít člověka z technologické firmy, který pracoval s vizualizačním nástrojem, který je v Česku relativně méně využívaný, je ale integrován do systému RIS3 portálu. Díky tomu členové týmu získali rady a pomoc při řešení problémů od experta z jiného sektoru.
 
 # Systémové bariéry
 
-TODO prolinky na systémová doporučení
+Oblast veřejné podpory výzkumu a vývoje se v Česku vyznačuje velkým počtem aktérů a roztříštěností zodpovědností. V kontextu strategie RIS3 je tato fragmentace ještě posílená tím, že tvorba a řízení strategie je [organizačně oddělená od rozhodování ohledně finanční podpory](/doporuceni/systemova-doporuceni.qmd#propojeni) v rámci evropských i národních dotačních titulů, a to i v rámci ministerstva.
 
-Oblast veřejné podpory výzkumu a vývoje se v Česku vyznačuje velkým počtem aktérů a roztříštěností zodpovědností. V kontextu strategie RIS3 je tato fragmentace ještě posílená tím, že tvorba a řízení strategie je organizačně oddělená od rozhodování ohledně finanční podpory v rámci evropských i národních dotačních titulů, a to i v rámci ministerstva.
-
-Aktivity na podporu implementace strategie (vč. analytické práce) jsou z podstatné části hrazené skrz evropské fondy formou projektového financování. V důsledku jsou tyto aktivity rozvíjeny v krátkých časových rámcích typických pro projektové financování (2-3 roky), což ohrožuje jejich kontinuitu a zvyšuje nejistotu členů týmu ohledně jejich budoucího působení. 
+Aktivity na podporu implementace strategie (vč. analytické práce) jsou z podstatné části hrazené skrz evropské fondy formou projektového financování. V důsledku jsou tyto aktivity rozvíjeny v krátkých časových rámcích typických pro projektové financování (2-3 roky), což ohrožuje jejich kontinuitu a zvyšuje nejistotu členů týmu ohledně jejich budoucího působení. (Viz [doporučení](/doporuceni/systemova-doporuceni.qmd#stabilnejsi).)
 
 # Kontakt a poděkování
 
