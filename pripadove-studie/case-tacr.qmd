@@ -16,7 +16,7 @@ Tato případová studie zachycuje naši spolupráci s analytickým oddělením 
 
 # Charakteristika zapojeného útvaru
 
-Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že se oddělení musí vyrovnávat s touto dvojí rolí, kdy poptávka po ad hoc analýzách může někdy vést k upozadění koncepčnější práce. Oddělení dále pracuje nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
+Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že se oddělení musí vyrovnávat s touto dvojí rolí, kdy poptávka po ad hoc analýzách může někdy vést k upozadění koncepčnější práce. Oddělení dále pracuje na nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
 
 Naše spolupráce vycházela ze **zájmu vedení organizace**, která podporuje snahy o poznatky informovaného rozhodování, tak ze zájmu samotného týmu, který má chuť na sobě pracovat a dále se vzdělávat. 
 
@@ -61,11 +61,11 @@ Z těchto priorit jsme si dále vybírali ty, které odpovídaly časovým a obs
 
 ## Zvýšení využití analytického výstupu
 
-První prioritou bylo zvýšení využití analytického výstupu. Analytické oddělení již několik let vydává pravidelnou, časově náročnou a komplexní analýzu - **mapování inovačních kapacit [INKA](https://www.tacr.cz/projekt-inka-vysledky-mapovani-inka2/)**. Jak ovšem sami tvůrci identifikovali, tato analýza není ani v organizaci ani mimo ni **využívaná** tak často, jak by si čas vložený do ní a její relevantnost zasloužily. Cílem této aktivity proto bylo zjistit důvody tohoto nízkého využití a především najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci více/častěji využívat. Samotný postup k těmto zjištěním probíhal takto: 
+První prioritou bylo zvýšení efektivity při využívání analytických výstupů. Analytické oddělení připravuje a realizuje (3 mapování v posledních 10 letech) pravidelnou, časově náročnou a komplexní analýzu - **mapování inovačních kapacit [INKA](https://www.tacr.cz/projekt-inka-vysledky-mapovani-inka2/)**. Výstupy mapování představují významný potenciál pro využití nejen v oblasti podpory výzkumu a vývoje, ale i v dalších oblastech. Sami tvůrci identifikovali, že pro co nejvyšší naplnění tohoto potenciálu by bylo potřeba častějšího využití výsledků mapování inovačních kapacit, a to jak v rámci TA ČR tak i ostatními orgány státní správy. Cílem této aktivity proto bylo zjistit důvody, proč nejsou výsledky využívány v takové míře jak bylo očekáváno a následně najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci více využívat. Samotný postup k těmto zjištěním probíhal takto:
 
 Nejdříve analytické oddělení vytvořilo aktualizovaný seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad "okrajovými" stakeholdery, jež spíše mohou svým zájem o výstup překvapit. Zatímco v rámci organizace udělali několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. 
 
-Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterých vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikaci jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. 
+Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterém vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikaci jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. 
 
 ## Úspora času díky lepší komunikaci a lepšímu plánování práce
 
@@ -108,7 +108,7 @@ Pomůže udělat si dobrý přehled o tom, jaké ad hoc úkoly plníte a podle t
 
 # Systémové bariéry
 
-Tým v relativně malé organizaci naráží na zásadní systémové bariéry; pro lepší fungování práce s poznatky především v oblasti fungování politik výzkumu a vývoje by ale pomohla lepší **dostupnost (především firemních) dat napříč úřady** pro účely vyhodnocování dopadů intervencí.
+Tým v relativně malé organizaci naráží na zásadní systémové bariéry; pro lepší fungování práce s poznatky především v oblasti fungování politik výzkumu a vývoje by ale pomohla lepší **dostupnost dat (především soukromého sektoru) napříč úřady** pro účely vyhodnocování dopadů intervencí.
 
 # Dobré praxe
 
