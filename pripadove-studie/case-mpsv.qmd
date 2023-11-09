@@ -38,7 +38,7 @@ Diagnostika poukázala na několik strukurálních problémů, kterým oddělen�
 
 První sada intervencí, která byla v různé míře přítomná během celé spolupráce, se týkala knowledge managementu a týmového řízení práce. V sérii menších workshopů s různými členy a členkami týmu se probíraly hlavní problémy oddělení, což bylo ukotvení problému (v tomto případě zaměření plánované výzvy), zahlcení informacemi, chybějící strukturizace práce v týmu a absence efektivního řízení schůzek a společné práce. Na workshopech pak byly představeny postupy jako vytvoření mapy problémů, procesní mapy, systematické organizace práce a efektivního brainstormingu. Tyto praxe pak byly tématizovány během celé spolupráce. 
 
-Tuto zkušenost jsme promítli do návodu [Řízení společné práce v týmu](TODO LINK)
+Tuto zkušenost jsme promítli do návodu [Řízení společné práce v týmu](/pruvodce/rizeni-spolecne-prace.qmd)
 
 ## Příprava výzvy a její evaluace 
 
@@ -51,7 +51,7 @@ V průběhu celé spolupráce se ukázalo, že nejefektivnější formou interve
 Dalším důležitým zjištěním bylo, že v procesu přípravy výzvy a její evaluace byla velmi přínosná přítomnost externích pozorovatelů a komentátorů. Členky a členové Českých priorit nepůsobili pouze jako lektorky a lektoři na daných workshopech, ale i moderátoři/ky a facilitátoři/ky debat oddělení. V průběhu projektu a v závěrečné reflexi se členky a členové oddělení X do velké míry shodovali, že pohled zvenčí od někoho, kdo nebyl zatížený ustanovenými procesy, poskytla nové impulsy a reflexi, které pomohly posunout diskuzi oddělení nad opakujícími se problémy. 
 
 
-# Zobecnitelnější vhledy
+# Reflexe práce se zapojeným týmem
 
 Spolupráce s tímto oddělením a práce na výše zmíněných oblastech poukázala na několik aspektů práce s poznatky, které jsou relevantní i pro další oddělení státní správy. 
 

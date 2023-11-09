@@ -75,7 +75,7 @@ V oddělení jsou částečně implementovány tzv. buddy systém a stínování
 
 Členové OVE se pravidelně setkávají v rámci tematických seminářů a na konferencích umožňující síťování s dalšími aktéry.
 
-# Zobecnitelnější vhledy [TODO název sladit]
+# Reflexe práce se zapojeným týmem
 
 OVE je příkladem analytického útvaru, který se vyznačuje vysokou mírou odbornosti a dedikace v aplikaci vědeckých metod pro potřeby různých aktérů mimo i uvnitř veřejnou správu. 
 
