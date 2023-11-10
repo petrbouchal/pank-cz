@@ -59,6 +59,8 @@ ZOG by měl:
 - Ujišťujte se jak s výzkumníky, tak zadavateli, že se držíte na dobré cestě, případně diskutujte nutné změny odvozené z kontextu
 - Pro udržitelnost a přehlednost procesu zadání a vedení výzkumu se nabízí otázka vytvořit informační šablonu, která má sloužit k zaznamenání důležitých informací 
 
+Ve spolupráci s MŠMT vznikla [šablona](/attachments/zadavani-vyzkumu.docx) pro zadávání výzkumu v programu BETA, která může sloužit ke zlepšení zadávání výzkumu.
+
 ## Kde už na tom pracují
 
 > v přípravě
