@@ -51,7 +51,7 @@ Nejprve je potřeba zajistit kapacity
 ZOG by měl:
 
 - Vnímat svoji roli jako spojku mezi výzkumníky a zadavateli výzkumu a zajišťovat kvalitní přenos poznatků pro zadavatele.
-- Před začátkem každého výzkumu věnovat dostatek času definování výzkumných otázek (DOPLNIT link na intervenci k zadávání).   
+- Před začátkem každého výzkumu věnovat dostatek času definování výzkumných otázek. Ve spolupráci s MŠMT vznikla [šablona](/attachments/zadavani-vyzkumu) pro zadávání výzkumu v programu BETA, která může sloužit jako inspirace. 
 - Věnovat čas vysvětlením stakeholderům toho, jak procesu BETA na Vašem resortu funguje
 - Věnujte čas sběru všech relevantních stakeholderů a jejich podnětům, kterým by mohl výzkum být užitečný. Může se týkat i aktérů spjatých s resortem, např. VVI. 
 - Udržujte všechny stakeholdery průběžné informované (např. Můžete nahrávat kontrolní dny apod. pro ty kdo se nemohou zúčastnit)
@@ -59,7 +59,7 @@ ZOG by měl:
 - Ujišťujte se jak s výzkumníky, tak zadavateli, že se držíte na dobré cestě, případně diskutujte nutné změny odvozené z kontextu
 - Pro udržitelnost a přehlednost procesu zadání a vedení výzkumu se nabízí otázka vytvořit informační šablonu, která má sloužit k zaznamenání důležitých informací 
 
-Ve spolupráci s MŠMT vznikla [šablona](/attachments/zadavani-vyzkumu) pro zadávání výzkumu v programu BETA, která může sloužit ke zlepšení zadávání výzkumu.
+
 
 ## Kde už na tom pracují
 
