@@ -7,11 +7,11 @@
 - [ ] řazení položek v průvodci
 - [x] link ČP v patičce, obecně umravnit zápatí
 - [x] integrovat písma https://stackoverflow.com/questions/75464776/how-to-override-the-default-font-using-locally-stored-fonts-in-themes
-- [ ] Matomo tracking
+- [x] Matomo tracking
 - [x] style buttons
 - [x] code font
-- [ ] ikona vyměnit
-- [ ] front obrázky vyměnit
+- [x] ikona vyměnit
+- [x] front obrázky vyměnit
 - [x] vert align hero boxu
 - [x] vert align boxu s linkem na případovky na front page
 - [ ] ověřit a spravit úrovně TOC napříč webem

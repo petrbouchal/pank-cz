@@ -81,8 +81,6 @@ format:
     anchor-sections: false
     link-external-icon: true
     link-external-newwindow: true
-
-
-
-
+    include-in-header: 
+      file: "matomo.html"
 
