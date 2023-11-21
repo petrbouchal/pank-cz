@@ -12,23 +12,23 @@ format:
 
 # Představení 
 
-Tato případová studie zachycuje naši spolupráci s analytickým oddělením TA ČR, které v mnohém vnímáme jako **příklad dobré praxe**. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky do svého fungování. Naše spolupráce především přinesla impuls věnovat se věcem, na který dříve nebyl čas, jako systematické uchopení souhrnu všech analýz či větší zaměření se na zákazníky analytických výstupů a jejich potřeb.    
+Tato případová studie zachycuje naši spolupráci s analytickým oddělením (AO) TA ČR, které v mnohém vnímáme jako **příklad dobré praxe**. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky a využívat je ve své práci. Naše spolupráce především přinesla TA ČR/AOimpuls věnovat se činnostem, na které dříve nebyl dostatek času, jako například systematicky uchopit a zveřejnit zpracované analýzy, dashboardy atd. či se více zaměřit na zákazníky analytických výstupů a jejich potřeb.    
 
 # Charakteristika zapojeného útvaru
 
-Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že se oddělení musí vyrovnávat s touto dvojí rolí, kdy poptávka po ad hoc analýzách může někdy vést k upozadění koncepčnější práce. Oddělení dále pracuje na nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
+Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že oddělení musí flexibilně reagovat a prioritizovat své činnosti, kdy poptávka po ad hoc analýzách může vést k upozadění dlouhodobější koncepčnější práce. Oddělení dále pracuje na nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
 
-Naše spolupráce vycházela ze **zájmu vedení organizace**, která podporuje snahy o poznatky informovaného rozhodování, tak ze zájmu samotného týmu, který má chuť na sobě pracovat a dále se vzdělávat. 
+Naše spolupráce vycházela jak ze **zájmu vedení organizace**, která podporuje principy rozhodování založených na informacích a poznatcích (evidence informed/based), tak ze zájmu samotného oddělení, které má chuť na sobě pracovat a dále se vzdělávat. 
 
 # Diagnostická fáze
 
 Po sladění se s vedením analytického oddělení ohledně cílů naší spolupráce následovaly asi devadesáti minutové **rozhovory** se všemi členy analytického oddělení, ve kterých jsme se snažili zjistit, jak svou práci vnímají, kde jsou prostory pro zlepšení a kde jsou největší bariéry pro případné změny.
 
-V rámci této diagnostické fáze jsme také identifikovali blízké **spolupracovníky analytického oddělení**, jak v rámci organizace, tak mimo ni. Z rozhovorů s nimi jsme si slibovali pochopit také jejich perspektivu a dozvědět se, co funguje a kde jsou prostory pro zlepšení. Relativní centralita analytického oddělení v organizaci pro nás znamenala rozhovory s lidmi na vícero úrovních v organizaci a z různých oddělení. 
+V rámci této diagnostické fáze jsme také identifikovali blízké **spolupracovníky analytického oddělení**, jak v rámci organizace, tak mimo ni. Z rozhovorů s nimi jsme si slibovali pochopit také jejich perspektivu a dozvědět se, co funguje a kde jsou prostory pro zlepšení. Relativní vysoká centralita analytického oddělení v organizaci pro nás znamenala rozhovory s lidmi na vícero úrovních v organizaci a z různých oddělení. 
 
-Oproti očekávání jsme proto nakonec posbírali širší obraz o tom, jakou má **práce s poznatky v organizaci** pozici a kde jsou prostory pro zlepšení i nad rámec samotného analytického oddělení, což vedlo k vytvoření sekundárního diagnostického zaměření v rámci naší spolupráce. Vše bylo doplněno o desk research, který se týkal organizace jako celku i práce analytického oddělení. Diagnostiku oddělení jsme tedy uchopili především se zaměřením na vztah oddělení a jeho interních "zákazníků". Diagnostiku celé organizace jsme zaměřili především na klíčový proces celé organizace -- tedy přípravu a realizaci programů a soutěží na podporu aplikovaného výzkumu -- kde práce s poznatky hraje důležitou roli.    
+Oproti očekávání jsme proto nakonec posbírali širší obraz o tom, jakou má **práce s poznatky v organizaci** pozici a kde jsou prostory pro zlepšení i nad rámec samotného analytického oddělení, což vedlo k vytvoření sekundárního diagnostického zaměření v rámci naší spolupráce. "Druhá" diagnostika se zaměřovala na práci s poznatky v celé organizaci TA ČR. Vše bylo doplněno o desk research, který se týkal organizace jako celku i práce analytického oddělení. Diagnostiku oddělení jsme tedy uchopili především se zaměřením na vztah oddělení a jeho interních "zákazníků". Diagnostiku celé organizace jsme zaměřili především na klíčový proces celé organizace -- tedy přípravu a realizaci programů a soutěží na podporu aplikovaného výzkumu -- kde práce s poznatky hraje důležitou roli.    
 
-Po diagnostické fázi jsme vypracovali naší diagnostickou zprávu o stavu analytického oddělení. Dokument byl rozdělen do následujících části: 
+Po diagnostické fázi jsme vypracovali naší diagnostickou zprávu o stavu analytického oddělení. Dokument byl rozdělen do následujících částí: 
 
 -  Role analytického oddělení
 -  Komunikace
@@ -40,12 +40,12 @@ Každá kapitola byla obohacena o diskuzní body, jejichž cílem bylo usnadnit 
 
 # Identifikace oblastí rozvoje
 
-Z diskuze s členy analytického oddělení byl vytvořen seznam priorit na které jsme se v projektu chtěli zaměřit. Každá priorita ke zlepšení obsahovala tyto kategorie: 
+Z diskuze se členy analytického oddělení byl vytvořen seznam priorit, na které jsme se v projektu chtěli zaměřit. Každá priorita ke zlepšení obsahovala tyto kategorie: 
 - Pro které členy oddělení je téma relevantní (ne každá práce se týká všech členů)
 - Popis problému
 - Cílový stav -- čeho chceme dosáhnout 
 - Potenciální způsoby řešení (nabídka vícero způsobů, které vyžadují různé kapacitní zatížení)
-- Dodatečné otázky a obavy (proč se nám něco nemusí povést či obava ze špatně pojmenovaného problému a případná existence důležitějšího problému). 
+- Dodatečné otázky a obavy (proč, se nám něco nemusí povést či obava ze špatně pojmenovaného problému a případná existence důležitějšího problému). 
 
 ## Konkrétní priority byly následující: 
 
@@ -63,7 +63,7 @@ Z těchto priorit jsme si dále vybírali ty, které odpovídaly časovým a obs
 
 První prioritou bylo zvýšení efektivity při využívání analytických výstupů. Analytické oddělení připravuje a realizuje (3 mapování v posledních 10 letech) pravidelnou, časově náročnou a komplexní analýzu - **mapování inovačních kapacit [INKA](https://www.tacr.cz/projekt-inka-vysledky-mapovani-inka2/)**. Výstupy mapování představují významný potenciál pro využití nejen v oblasti podpory výzkumu a vývoje, ale i v dalších oblastech. Sami tvůrci identifikovali, že pro co nejvyšší naplnění tohoto potenciálu by bylo potřeba častějšího využití výsledků mapování inovačních kapacit, a to jak v rámci TA ČR tak i ostatními orgány státní správy. Cílem této aktivity proto bylo zjistit důvody, proč nejsou výsledky využívány v takové míře jak bylo očekáváno a následně najít kroky, které analytické oddělení může učinit, aby relevantní stakeholdeři začali tento výstup ve své práci více využívat. Samotný postup k těmto zjištěním probíhal takto:
 
-Nejdříve analytické oddělení vytvořilo aktualizovaný seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad "okrajovými" stakeholdery, jež spíše mohou svým zájem o výstup překvapit. Zatímco v rámci organizace udělali několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. 
+Nejdříve analytické oddělení vytvořilo aktualizovaný seznam všech relevantních stakeholderů, kteří by podle jejich názoru měli výstup využívat, jak uvnitř, tak vně organizace. Zde byla snaha být co nejvíce inkluzivní a přemýšlet i nad "okrajovými" stakeholdery, jež spíše mohou svým zájmem o výstup překvapit. Zatímco v rámci organizace udělali členové analytického oddělení několik polostrukturovaných rozhovorů, mimo organizaci bylo rozesláno dotazníkové šetření. 
 
 Po sběru těchto vstupů si analytické oddělení vypracovalo dokument, ve kterém vyhodnocovalo zpětnou vazbu. Ta pak sloužila k identifikaci jednotlivých kroků v procesu vytváření a komunikace analytického výstupu tak, aby se zvýšilo jeho využití. Tento analytický výstup v době psaní tohoto textu ještě není veřejný, proto nevíme, jak jednotlivé zásahy pomohly do zvýšení využití. 
 
@@ -71,19 +71,19 @@ Na základě této zkušenosti vznikl návod TODO LINK.
 
 ## Úspora času díky lepší komunikaci a lepšímu plánování práce
 
-Další dva prostory pro zlepšení, které byly identifikovány, zachycujeme společně, jelikož práce na nich měla komplementární řešení. Prvním bylo obecné **nastavení komunikace výstupů a analýz**, kde hlavním problémem byla neznalost stakeholderů o všech již zpracovaných analýzách a na to navazující dotazy, které analytické oddělení zbytečně kapacitně zatěžovaly. Druhou bylo **plánování práce** -- roadmapa analytického oddělení. V kontextu, kdy jste často zahlceni ad hoc analýzami a dotazy se těžko hledá prostor pro koncepční práci, který jsme se snažili vytvořit. 
+Další dva prostory pro zlepšení, které byly identifikovány, zachycujeme společně, jelikož práce na nich měla komplementární řešení. Prvním bylo obecné **nastavení komunikace výstupů a analýz**, kde hlavním problémem byla neznalost stakeholderů o všech již zpracovaných analýzách a na to navazující dotazy, které analytické oddělení zbytečně kapacitně zatěžovaly. Druhou bylo **plánování práce** -- roadmapa analytického oddělení. V kontextu, kdy jste často zahlceni ad hoc analýzami a dotazy, se těžko hledá prostor pro koncepční práci, který jsme se snažili vytvořit. 
 
-Proto základním identifikovaným řešením bylo vytvoření přehledu všech analýz, které analytické oddělení zpracovalo a na kterých ví, že bude pracovat (to se týká především těch, které se pravidelně opakují). Tento přehled měl několik kategorií, které měly napomoci k dosažení výše zmíněných řešení. Cílem tohoto přehledu byl minimálně trojí. Prvně umožňuje sdílení se zbytkem organizace, aby ostatní měli přehled, co analytické oddělení dělalo a dělá. Za druhé přehled umožňuje lepší plánování práce, jelikož si je analytické oddělení lépe vědomo, kdy je jaká práce čeká. V neposlední řadě toto cvičení pomohlo vyjasnit si, kam dává smysl vkládat energii do automatizace některých procesů.
+Proto základním identifikovaným řešením bylo vytvoření přehledu všech analýz, které analytické oddělení zpracovalo a na kterých ví, že bude pracovat (to se týká především těch, které se pravidelně opakují). Tento přehled měl několik kategorií, které měly napomoci k dosažení výše zmíněných řešení. Cíl tohoto přehledu byl minimálně trojí. Prvně umožňuje sdílení informací se zbytkem organizace, aby ostatní měli přehled, co analytické oddělení dělalo a dělá. Za druhé přehled umožňuje lepší plánování práce, jelikož si je analytické oddělení lépe vědomo, kdy je jaká práce čeká. V neposlední řadě toto cvičení pomohlo vyjasnit si, kam dává smysl vkládat energii do automatizace některých procesů.
 
-Přehled analytických aktivit přinesl kýžené dopady a je analytickým oddělením nadále **využíván a rozvíjen**. Jeden z limitů je počet kategorií, které jsme při vytvoření do přehledu zavedli. Člen analytického oddělení zpětně doporučuje držet se max. tří hlavních kategorií, které mají být kvalitně popsány, aby kdokoliv nový měl jasnou představu co si pod danou kategorií představit. Pro nás z toho určitě plyne poučení, jelikož jsme dostatečně neotestovali jaké kategorie dávají opravdu smysl a jaký je smysluplný počet.
+Přehled analytických aktivit přinesl kýžené dopady a je analytickým oddělením nadále **využíván a rozvíjen**. Jedním z limitů je počet kategorií, které jsme při vytvoření do přehledu zavedli. Člen analytického oddělení zpětně doporučuje držet se max. tří hlavních kategorií, které mají být kvalitně popsány, aby kdokoliv nový měl jasnou představu co si pod danou kategorií představit. Pro nás z toho určitě plyne poučení, jelikož jsme dostatečně neotestovali, jaké kategorie dávají opravdu smysl a jaký je smysluplný počet.
 
 Na základě této zkušenosti vznikl návod [Inventura analytických úkolů →](/pruvodce/prehled-analytickych-ukolu.qmd)
 
 ## Rozpracované intervence
 
-Jak téma ministáži, tak téma přijímání zakázek jsme s analytickým týmem diskutovali, ale v rámci kapacit jsme na nich již systematicky nepracovali. Nemáme proto dostatek poznatků, které bychom zde mohli sdílet. 
+Jak téma ministáží, tak téma přijímání zakázek jsme s analytickým týmem diskutovali, ale v rámci kapacit jsme na nich již systematicky nepracovali. Nemáme proto dostatek poznatků, které bychom zde mohli sdílet. 
 
-Základem myšlenky **ministáží** bylo umožnit, aby zaměstnanci analytického týmu mohli na krátkou dobu (v řádu několika dnů) vidět "pod ruce" relevantním partnerům -- sami členové analytického oddělení zmiňovali, že i krátké pozorování práce kolegů v jiných útvarech organizace jim pomohlo identifikovat procesy, kde může efektivnější práce s daty pomoci. Cílem by bylo, aby lépe rozuměli jejich práci, potřebám a lépe určili co za analýzy dává smysl těmto partnerům nabízet. Často se totiž setkáváme s tím, že problém se zadáváním analýz je na straně jejich poptavatelů. 
+Základem myšlenky **ministáží** bylo umožnit, aby zaměstnanci analytického týmu mohli na krátkou dobu (v řádu několika dnů) vidět "pod ruce" relevantním partnerům -- sami členové analytického oddělení zmiňovali, že i krátké pozorování práce kolegů v jiných útvarech organizace jim pomohlo identifikovat procesy, kde může efektivnější práce s daty pomoci. Cílem by bylo, aby lépe rozuměli jejich práci, potřebám a lépe určili, co za analýzy dává smysl těmto partnerům nabízet. Často se totiž setkáváme s tím, že problém se zadáváním analýz je na straně jejich poptavatelů. 
 
 To má dvě příčiny: 
 
@@ -126,7 +126,7 @@ Na úrovni TA ČR
 
 -  organizace má **systém řízení změn**, kde lze diskutovat náměty na změny v procesech, které zasáhnou širší spektrum aktérů
 -  je patrná schopnost a ochota jednotlivých specialistů **využívat data** pro zlepšování procesů
--  agentura má interní **evaluační jednotku** (ta dělá i nepovinné ex post a ex ante evaluace), která se průběžně snaží zlepšovat jak metody vyhodnocování programů a soutěží, tak propisování výsledků evaluací do rozhodování
+-  agentura má interní **evaluační jednotku** (ta dělá i nepovinné ex post a ex ante evaluace), která se průběžně snaží zlepšovat jak metody vyhodnocování programů a soutěží, tak propisování výsledků evaluací do rozhodování agentury
 
 # Kontakt a poděkování
 
