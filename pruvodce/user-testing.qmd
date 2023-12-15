@@ -20,30 +20,6 @@ Ať už se jedná o report, výroční zprávu, webovou stránku nebo dashboard,
 
 A před vypuštěním do světa je užitečné výstup otestovat a zjistit, zda skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k jeho využití. 
 
-:::{.aside}
-
-**Případové studie**
-
-Postup pro realizaci užvatelského výzkumu jsme aplikovali na čtyřech případech:
-
-- [Výroční zpráva o státní službě](https://www.mvcr.cz/sluzba/clanek/vyrocni-zprava-vyrocni-zprava-o-statni-sluzbe.aspx) Ministerstva vnitra každý rok přináší přehled o vývoji státní služby v ČR. Jejím cílem je poskytnout žádané infromace rozmanité  skupině čtenářů. 
-
-- Tematický report [INKA](https://inkaviz.tacr.cz/data/INKA-3-Souhrnna-a-doporucujici-zprava.pdf), který vydáva Technologická agentura ČR, shrnuje zjištění z dotazníkového šetření mezi podniky ohledně jejich inovačních kapacit. 
-
-- Výsledky dotazníkového šetření oddělení rovnosti mužů a žen (MPSV) slouží pro žadatelé o podporu jako podklad pro jejich rozhodování. Jedná se tak o úzkou a specifickou skupinu čtenářů, kteří mají na základě těchto výsledků učinit rozhodnutí. V tomto případě vstupoval uživatelský výzkum již do fáze designu dotazníku. 
-
-- V rámci projektu PANK jsme také realizovali uživatelské testování prezentačního webu MPO [strategie RIS3](https://www.ris3.cz/). Vedle naplnění potřeb uživatelů byla v tomto případě důležitá i přívětivost a funkčnost webového rozhraní, se kterým interagují uživatelé.
-
-<br>
-
-:::{.btn .btn-resource}
-[Číst případovou studii MPO→](/pripadove-studie/case-mpo.qmd)
-[Číst případovou studii TA ČR→](/pripadove-studie/case-tacr.qmd)
-[Číst případovou studii MPSV→](/pripadove-studie/case-mpsv.qmd)
-
-:::
-:::
-
 # Sebediagnostika: je to vůbec pro mě?
 
 - Produkujete analytické výstupy (reporty, weby, studie), které mají být využívány jinou skupinou lidí  
@@ -54,21 +30,67 @@ V případě tvorby webového produktu je také důležité zajistit abychom:
 - měli dostatečnou kapacitu na to, abychom realizovali uživatelský výzkum ještě než se zadají specifikace developerům
 - měli možnost po spuštění webu provádět změny na základě uživatelského testování? Do jaké míry? Za jaké náklady
 
-:::{.page-full .strip .page-columns}
 
 :::{.aside}
 <br>
 :::
 
+
+:::{.callout-tip}
+
+### Různá využití: report, výročka, web...
+
+Postup pro realizaci uživatelského výzkumu jsme aplikovali na čtyřech případech:
+
+**[Výroční zpráva o státní službě](https://www.mvcr.cz/sluzba/clanek/vyrocni-zprava-vyrocni-zprava-o-statni-sluzbe.aspx)**: Ministerstva vnitra každý rok přináší přehled o vývoji státní služby v ČR. Jejím cílem je poskytnout žádané infromace rozmanité  skupině čtenářů. 
+
+**Tematický report [INKA](https://inkaviz.tacr.cz/data/INKA-3-Souhrnna-a-doporucujici-zprava.pdf)**, který vydáva Technologická agentura ČR, shrnuje zjištění z dotazníkového šetření mezi podniky ohledně jejich inovačních kapacit. 
+
+**Výsledky dotazníkového šetření oddělení rovnosti mužů a žen (MPSV)** slouží pro žadatele o podporu jako podklad pro jejich rozhodování. Jedná se tak o úzkou a specifickou skupinu čtenářů, kteří mají na základě těchto výsledků učinit rozhodnutí. V tomto případě vstupoval uživatelský výzkum již do fáze designu dotazníku. 
+
+**Webu [strategie RIS3](https://www.ris3.cz/)** spravovaný MPO. Vedle naplnění potřeb uživatelů byla v tomto případě důležitá i přívětivost a funkčnost webového rozhraní, se kterým interagují uživatelé.
+
+:::
+
+:::{.aside}
+
+<br>
+
+**Případové studie**
+
+Tento návod jsme vyvíjeli s několika týmy (viz box vlevo):
+
+<br>
+
+:::{.btn .btn-resource}
+[Tým S3 na MPO →](/pripadove-studie/case-mpo.qmd)
+:::
+
+<br>
+
+:::{.btn .btn-resource}
+[TA ČR →](/pripadove-studie/case-tacr.qmd)
+:::
+
+<br>
+
+:::{.btn .btn-resource}
+[MPSV →](/pripadove-studie/case-mpsv.qmd)
+:::
+
+:::
+
+:::{.page-full .strip .page-columns}
+
 # Jak na to?
 
-## Definujte záměr uživatelského výzkumu
+## 1. Definujte záměr uživatelského výzkumu
 
 - Definujte si vaši designerskou výzvu. Například: 
   - jak bychom mohli zajistit, aby uživatelé snadno našli žádané informace
   - jak bychom mohli zajistit, aby uživatelé snadno interagovali s webovou stránkou a plnili specifické úkony
 
-## Popište, kdo jsou potenciální čtenáři a uživatelé (uvnitř či mimo vaši organizaci)	
+## 2. Popište, kdo jsou potenciální čtenáři a uživatelé (uvnitř či mimo vaši organizaci)	
 
 - Vytvořte seznam lidí, kteří budou dotazováni v dalších krocích
 - Vytvořte typického uživatele
@@ -78,12 +100,13 @@ V případě tvorby webového produktu je také důležité zajistit abychom:
   - Specifikujte jejich motivace, obavy a potřeby pomocí nástroje [Value Proposition Canvas - viz níže](#vpc) 
 
 
-## Pro každou skupinu popište:
+## 3. Pro každou skupinu popište:
+
 - Co mají dělat pomocí vašeho výstupu / Jaké další činnosti budou navazovat?
 - Jaké informace jsou nejdůležitější a jaké jsou vedlejší, případně co může ještě podpořit využití
 - Co jim může bránit v jeho využití
 
-## Vyhodnocení a testování 
+## 4. Vyhodnocení a testování 
 
 - Vyhodnoťte závěry uživatelského výzkumu pro tvorbu formy a obsahu vašeho analytického výstupu a vytvořte první prototyp. Ten můžete následně otestovat a ověřit, že výstup plní jejich očekávání. 
 
@@ -91,7 +114,7 @@ V případě tvorby webového produktu je také důležité zajistit abychom:
 
 # Testování webu
 
-## Pobavte se s uživateli
+## 1. Pobavte se s uživateli
 
 Příprava:
 
@@ -107,7 +130,7 @@ Realizace rozhovoru:
 - Pozorujte, jak úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
 - Ve třetí části udělejte debrief 
 
-## Vytvořte feedbackový dotazník
+## 2. Vytvořte feedbackový dotazník
 
 Příprava:
 
@@ -115,7 +138,7 @@ Příprava:
 - Vytvořte dotazník např. v Google Forms.
 - Rozhodňete si, zda dotazník bude distribuován přímo na stránkách pomocí prosby o feedback nebo cíleně přes email.
 
-## Syntéza výsledků
+## 3. Syntéza výsledků
 
 - Popište skupiny uživatelů, jejich charakteristiky a potřeby.
 - Sepište identifikované překážky a popis jejich příčin.
