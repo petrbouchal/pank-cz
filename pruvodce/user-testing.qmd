@@ -1,6 +1,6 @@
 ---
-title: "Uživatelský výzkum a testování webového produktu"
-subtitle: "Jak prezentovat výsledky na webu"
+title: "Uživatelský výzkum pro analytické výstupy"
+subtitle: "Výstupy a reporty, které fungují pro uživatelé"
 categories: ["Pro analytiky", "Design"]
 blok: ["vyuziti"]
 title-block-categories: false
@@ -14,30 +14,45 @@ nocite: |
 
 # O co jde a k čemu to je
 
-Součástí práce analytika je umět výsledky analýz předávat dalším uživatelům, a to se čím dál více děje pomocí webových stránek.
+Součástí práce analytika je umět své výsledky předávat uživatelům v přístupném, přívětivém a zejména užitečném formátu. Cílem je podpořit využitelnost výstupů.
 
-Před samotným rozvojem webového produktu je důležité umět sondovat potřeby budoucích uživatelů a přizpůsobit webový produkt jejim očekáváním. 
+Ať už se jedná o report, výroční zprávu, webovou stránku nebo dashboard, je důležité pochopit potřeby potenciálních uživatelů již ve fázi přípravy a návrhu analytického výstupu.
 
-Po vytvoření (první verze) webových stránek je užitečné je otestovat a zjistit, zda web skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k využití produktu. 
+A před vypuštěním do světa je užitečné výstup otestovat a zjistit, zda skutečně naplňuje očekávání a potřeby, přičemž nevznikají na straně uživatele překážky k jeho využití. 
 
 :::{.aside}
 
-**Případová studie**
+**Případové studie**
 
-V rámci projektu PANK jsme realizovali uživatelské testování prezentačního webu [strategie RIS3](https://www.ris3.cz/) spolu s členy oddělení S3 na MPO.
+Postup pro realizaci užvatelského výzkumu jsme aplikovali na čtyřech případech:
+
+- [Výroční zpráva o státní službě](https://www.mvcr.cz/sluzba/clanek/vyrocni-zprava-vyrocni-zprava-o-statni-sluzbe.aspx) Ministerstva vnitra každý rok přináší přehled o vývoji státní služby v ČR. Jejím cílem je poskytnout žádané infromace rozmanité  skupině čtenářů. 
+
+- Tematický report [INKA](https://inkaviz.tacr.cz/data/INKA-3-Souhrnna-a-doporucujici-zprava.pdf), který vydáva Technologická agentura ČR, shrnuje zjištění z dotazníkového šetření mezi podniky ohledně jejich inovačních kapacit. 
+
+- Výsledky dotazníkového šetření oddělení rovnosti mužů a žen (MPSV) slouží pro žadatelé o podporu jako podklad pro jejich rozhodování. Jedná se tak o úzkou a specifickou skupinu čtenářů, kteří mají na základě těchto výsledků učinit rozhodnutí. V tomto případě vstupoval uživatelský výzkum již do fáze designu dotazníku. 
+
+- V rámci projektu PANK jsme také realizovali uživatelské testování prezentačního webu MPO [strategie RIS3](https://www.ris3.cz/). Vedle naplnění potřeb uživatelů byla v tomto případě důležitá i přívětivost a funkčnost webového rozhraní, se kterým interagují uživatelé.
 
 <br>
 
 :::{.btn .btn-resource}
-[Číst případovou studii →](/pripadove-studie/case-mpo.qmd)
+[Číst případovou studii MPO→](/pripadove-studie/case-mpo.qmd)
+[Číst případovou studii TA ČR→](/pripadove-studie/case-tacr.qmd)
+[Číst případovou studii MPSV→](/pripadove-studie/case-mpsv.qmd)
+
 :::
 :::
 
 # Sebediagnostika: je to vůbec pro mě?
 
-- Má webový produkt za cíl oslovit širší skupinu uživatelů?
-- Máme dostatečnou kapacitu na to, abychom realizovali uživatelský výzkum ještě než se zadají specifikace developerům? 
-- Bude možnost po spuštění webu provádět změny na základě uživatelského testování? Do jaké míry? Za jaké náklady?
+- Produkujete analytické výstupy (reporty, weby, studie), které mají být využívány jinou skupinou lidí  
+- Máme signály, že potenciál pro využití výstupu není naplněný
+- Máme zpětnou vazbu od uživatelů, že výstup není přehledný
+
+V případě tvorby webového produktu je také důležité zajistit abychom:
+- měli dostatečnou kapacitu na to, abychom realizovali uživatelský výzkum ještě než se zadají specifikace developerům
+- měli možnost po spuštění webu provádět změny na základě uživatelského testování? Do jaké míry? Za jaké náklady
 
 :::{.page-full .strip .page-columns}
 
@@ -47,27 +62,36 @@ V rámci projektu PANK jsme realizovali uživatelské testování prezentačníh
 
 # Jak na to?
 
-## Před začátkem rozvoje webu
+## Definujte záměr uživatelského výzkumu
 
-### Analyzujte cílové skupiny a jejich potřeby
+- Definujte si vaši designerskou výzvu. Například: 
+  - jak bychom mohli zajistit, aby uživatelé snadno našli žádané informace
+  - jak bychom mohli zajistit, aby uživatelé snadno interagovali s webovou stránkou a plnili specifické úkony
 
-Zmapujte zamýšlené uživatelské skupiny a popište aktivity, které by měly na webu dělat. Můžou vám pomoct následující postupy:
+## Popište, kdo jsou potenciální čtenáři a uživatelé (uvnitř či mimo vaši organizaci)	
 
-- vytvořte matici skupin a aktivit (pro každou skupinu identifikujet potřebu, kterou nejspíš potřebují splnit, např. najít konkrétní analýzu, exportovat data…)
-- specifikujte jejich motivace, obavy a potřeby pomocí nástroje [Value Proposition Canvas - viz níže](#vpc) 
+- Vytvořte seznam lidí, kteří budou dotazováni v dalších krocích
+- Vytvořte typického uživatele
+- Oslovte 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30minutový rozhovor a položte jim následující otázky:
+  - Pro jaké účely byste využil/a daný výstup?
+  - Jaká máte očekávání od takového výstupu?
+  - Specifikujte jejich motivace, obavy a potřeby pomocí nástroje [Value Proposition Canvas - viz níže](#vpc) 
 
-### Pobavte se s cílovými skupinami
 
-Oslovte 3 až 5 potenciálních uživatelů, kteří spadají do různých skupin na cca 30minutový rozhovor.
+## Pro každou skupinu popište:
+- Co mají dělat pomocí vašeho výstupu / Jaké další činnosti budou navazovat?
+- Jaké informace jsou nejdůležitější a jaké jsou vedlejší, případně co může ještě podpořit využití
+- Co jim může bránit v jeho využití
 
-Položte jim následující otázky:
+## Vyhodnocení a testování 
 
-- Pro jaké účely byste využil*a stránku?
-- Jaká máte očekávání od takového produktu?
+- Vyhodnoťte závěry uživatelského výzkumu pro tvorbu formy a obsahu vašeho analytického výstupu a vytvořte první prototyp. Ten můžete následně otestovat a ověřit, že výstup plní jejich očekávání. 
 
-## Testování webu
+- Po provedení změn znovu otestujte analytický výstup s uživateli, abyste zjistili, zda byly provedené změny účinné.
 
-### Pobavte se s uživateli
+# Testování webu
+
+## Pobavte se s uživateli
 
 Příprava:
 
@@ -83,7 +107,7 @@ Realizace rozhovoru:
 - Pozorujte, jak úlohy realizuje respondent (tazatel nezasahuje, pouze pozoruje)
 - Ve třetí části udělejte debrief 
 
-### Vytvořte feedbackový dotazník
+## Vytvořte feedbackový dotazník
 
 Příprava:
 
@@ -91,7 +115,7 @@ Příprava:
 - Vytvořte dotazník např. v Google Forms.
 - Rozhodňete si, zda dotazník bude distribuován přímo na stránkách pomocí prosby o feedback nebo cíleně přes email.
 
-### Syntéza výsledků
+## Syntéza výsledků
 
 - Popište skupiny uživatelů, jejich charakteristiky a potřeby.
 - Sepište identifikované překážky a popis jejich příčin.
@@ -99,8 +123,12 @@ Příprava:
 
 :::
 
-# Na co si dát pozor
+# Tipy a triky, aneb na co si dát pozor
 
+- Na průzkum lidé nemají moc času, snažte si uvědomit, jak je nezahltit, nikdy nenaplníme potřeby všech. Můžeme se dozvědět, že analytický výstup je zbytečný děláme ho špatně/nevyužitelně
+- Není potřeba provést rozhovory se všemi možnými uživateli, stačí 3-5 lidí, kteří pokrývají širší spektrum potenciálních uživatelů
+- Dejte zpětnou vazbu dotázaným lidem, aby věděli, jak jste zapracovali jejich podněty
+- Uživatelský výzkum by měl být kontinuální proces. Na základě nových zjištění a feedbacku od uživatelů pravidelně aktualizujte a vylepšujte analytický výstup.
 - Během rozhovoru je důležité nenavádět uživatele a neposkytovat mu rady.
 - Vždy vysvětlit respondentům, že testujeme design webu a ne jejich schopnosti.
 
@@ -118,7 +146,7 @@ Pro každou cílovou skupinu popsat v následujícím pořadí:
 
 Více k Value Proposition Canvas na [webu 100 metod](https://kisk.phil.muni.cz/100metod/value-proposition-canvas)
 
-## Sada otázek pro dotazníkové šetření
+## Sada otázek pro dotazníkové šetření k webovému produktu
 
 System Usability Scale
 
