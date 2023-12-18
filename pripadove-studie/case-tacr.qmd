@@ -12,11 +12,11 @@ format:
 
 # Představení 
 
-Tato případová studie zachycuje naši spolupráci s analytickým oddělením (AO) TA ČR, které v mnohém vnímáme jako **příklad dobré praxe**. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky a využívat je ve své práci. Naše spolupráce především přinesla TA ČR/AOimpuls věnovat se činnostem, na které dříve nebyl dostatek času, jako například systematicky uchopit a zveřejnit zpracované analýzy, dashboardy atd. či se více zaměřit na zákazníky analytických výstupů a jejich potřeb.    
+Tato případová studie zachycuje naši spolupráci s analytickým oddělením (AO) TA ČR, které v mnohém vnímáme jako **příklad dobré praxe**. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky a využívat je ve své práci. Naše spolupráce především přinesla TA ČR/AOimpuls věnovat se činnostem, na které dříve nebyl dostatek času, jako například systematické uchopení a zveřejnění zpracované analýzy, dashboardy atd. či větší zaměření na zákazníky analytických výstupů a jejich potřeb.    
 
 # Charakteristika zapojeného útvaru
 
-Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že oddělení musí flexibilně reagovat a prioritizovat své činnosti, kdy poptávka po ad hoc analýzách může vést k upozadění dlouhodobější koncepčnější práce. Oddělení dále pracuje na nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
+Analytické oddělení je jedním ze **stěžejních útvarů pro práci s poznatky** v TA ČR. Oddělení pracuje jak na koncepčních a plánovaných analýzách, tak na ad hoc analýzách na poptávku především od vedení organizace, popř. klíčových aktérů prostředí VaVaI. To mj. znamená, že oddělení musí flexibilně reagovat a prioritizovat své činnosti, kdy poptávka po ad hoc analýzách může vést k upozadění dlouhodobější koncepčnější práce. Oddělení dále pracuje na nástrojích pro zefektivnění práce TA ČR a na řízení dat a datových toků v TA ČR.
 
 Naše spolupráce vycházela jak ze **zájmu vedení organizace**, která podporuje principy rozhodování založených na informacích a poznatcích (evidence informed/based), tak ze zájmu samotného oddělení, které má chuť na sobě pracovat a dále se vzdělávat. 
 
