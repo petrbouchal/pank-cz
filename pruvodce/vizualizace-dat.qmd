@@ -201,9 +201,9 @@ V listopadu 2022 jsme jako součást série ČP.edu organizovali workshop na té
 
 Na webu lze najít několik kompletních -- přitom ale dobře použitelných -- příruček. 
 
-Zcela volně dostupná je Fundamentals of Data Visualization, zaměřená na principy, postupy a dobré praxe [@wilkeFundamentalsDataVisualization2019]. Podobná, ale s příklady kódy v jazyce R je Data Visualisation in Practice od sociologoa Kierana Healyho [@healyDataVisualizationPractical2019].
+Zcela volně dostupná je *Fundamentals of Data Visualization*, zaměřená na principy, postupy a dobré praxe [@wilkeFundamentalsDataVisualization2019]. Podobná, ale s příklady kódy v jazyce R je Data Visualisation in Practice od sociologoa Kierana Healyho [@healyDataVisualizationPractical2019].
 
-Z běžných knih lze nejvíce doporučit Data Visualisation Handbook [@kirkDataVisualisationHandbook2019], zaměřenou na vizualizaci jako pracovní proces; naopak Alberto Cairo v The Truthful Art [@cairoTruthfulArtData2016] nabízí celkové pojednání o problematice komunikace čísel a vychází ze zkušenosti novináře a akademika.
+Z běžných knih lze nejvíce doporučit *Data Visualisation Handbook* [@kirkDataVisualisationHandbook2019], zaměřenou na vizualizaci jako pracovní proces; naopak Alberto Cairo v *The Truthful Art* [@cairoTruthfulArtData2016] nabízí celkové pojednání o problematice komunikace čísel a vychází ze zkušenosti novináře a akademika. Podobně šířeji téma pojímá i David Spiegelhalter v knížce *The Art of Statistics* [@spiegelhalterArtStatisticsLearning2020].
 
 #### v Excelu
 
