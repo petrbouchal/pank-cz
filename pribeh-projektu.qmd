@@ -38,8 +38,6 @@ Projekt by nemohl proběhnout bez zapojení šesti týmů ve státní správě:
 
 ## Příběh projektu
 
-### Proč a jak
-
 Motivace a základní logiku projektu jsme shrnuli dvou článcích na blogu Českých priorit:
 
 - [Jak pomáhat analytikům státu?](https://www.ceskepriority.cz/blog/jak-pomahat-analytikum-statu)
@@ -47,12 +45,15 @@ Motivace a základní logiku projektu jsme shrnuli dvou článcích na blogu Če
 
 Projekt jsme také v úvodu prezentovali na [Pracovní skupině pro spolupráci analytických útvarů](https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/) -- viz [podklady](https://www.cr2030.cz/wp-content/uploads/2021/06/6.-jedn%C3%A1n%C3%AD-PSSA%C3%9A.zip).
 
+## Akce, reporty, další dění
 
 ### Mapování analytických kapacit
 
 V úvodu projektu jsme kromě diagnostické fáze práce se zapojenými týmy realizovali také mapování analytických kapacit v centrální státní správě. Můžete si přečíst [shrnutí poznatků z tohoto šetření](/mapovani/mapovani-shrnuti.pdf). 
 
-### Série ČP.edu
+### ČP.edu: série tematických vzdělávacích akcí 
+
+#### Data a vizualizace
 
 Kromě práce se zapojenými týmy jsme jednotlivé aspekty práce s poznatky otevírali také formou veřejných přednášek v sérii ČP.edu.
 
@@ -68,8 +69,23 @@ Kromě práce se zapojenými týmy jsme jednotlivé aspekty práce s poznatky ot
 
 {{< video https://www.youtube.com/watch?v=vc8HRdulKis >}}
 
-
 Série pokračuje dalšími tématy -- na mailing list Vás rád zařadí Tomáš Čech, <tomas.cech@ceskepriority.cz>.
+
+#### Design veřejných služeb 26. 9. 2023
+
+{{< video https://www.youtube.com/watch?v=lF1hPyNwBbE >}}
+
+#### Práce s kvalitativními daty
+
+1. Kvalitativní data #1: proč je kvalitativní výzkum vhodný pro policy making? -- video (26. 10. 2023)
+
+{{< video https://www.youtube.com/watch?v=_Dv-ANVoyFs >}}
+
+2. Kvalitativní data #2: jak je získávat -- video (22. 11. 2023)
+
+{{< video https://www.youtube.com/watch?v=ghdbIQtLadc >}}
+
+Na leden 2024 připravujeme třetí část kvalitativní série; bude zaměřená na komunikaci poznatků z kvalitativních dat.
 
 ### [Festivaly kreativní byrokracie](https://creativebureaucracy.cz/)
 
@@ -81,13 +97,16 @@ V roce 2022 jsme sdíleli naše poznatky o rovoji úředníků -- viz čas cca 3
 
 {{< video https://www.youtube.com/watch?v=K5XR6jq4cYI&list=PLOX5xelTsEv9mistpejv_quSESgvV6Dyz&index=4 >}}
 
-A v roce 2023 jsme pro účastníky nachystali workshop -- ten na videu není, ale záznam i tak doporučujeme.
+A v roce 2023 jsme pro účastníky nachystali workshop -- ten na videu není, ale záznam konference i tak doporučujeme.
 
 {{< video https://www.youtube.com/watch?v=A6GTdn_3gOQ >}}
 
 Také jsme s radostí přispěli reflexí z projektu k [Civil Service Talent Hack Day](https://cesko.digital/events/civil-service-talent-hackday-2023) v březnu 2023.
 
 {{< video https://www.youtube.com/embed/8qglD9y_0oA?si=EJWqTvwPVxBuP5uv >}}
+
+
+
 
 ## Poděkování
 
