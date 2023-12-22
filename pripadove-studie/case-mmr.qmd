@@ -6,6 +6,11 @@ listable: "listable"
 format: 
   docx: default
   html: default
+aliases: 
+  - /mmr
+  - /ejnok
+  - /pripadove-studie/mmr
+  - /pripadove-studie/ejnok
 ---
 
 Tato případová studie zachycuje spolupráci řešitelského týmu s oddělením evaluací Národního orgánu pro koordinaci. Agenda tohoto oddělení je tvořena z dominantní části evaluacemi v oblasti evropských fondů (dříve evropské strukturální a investiční fondy, ESIF). Útvar se zabývá zadáváním externích evaluačních zakázek a jejich koordinací, příležitostně provádí interní evaluace a věnuje se kultivaci evaluačního prostředí v ČR. Motivací na zapojení do projektu PANK bylo především zefektivnění zadávání externích evaluací a jejich management.
