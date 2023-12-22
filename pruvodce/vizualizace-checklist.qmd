@@ -111,7 +111,7 @@ format:
   - [ ] přiměřený počet, tloušťka a barva vodicích linek
   - [ ] přiměřený počet "zarážek" (ticks) na osách
   - [ ] přiměřené množství popisků hodnot na osách bez přehnaného opakování např. roku v datumu
-  - [ ] nechybí/nejsou přeskočený žádné popisky na kategorické ose
+  - [ ] nechybí/nejsou přeskočeny žádné popisky na kategorické ose
 
 **Špatné praxe**
 
