@@ -7,4 +7,94 @@ format:
   html: default
 ---
 
-> Tuto případovou studii ještě dolaďujeme.
+Tato případová studie zachycuje spolupráci řešitelského týmu s oddělením evaluací Národního orgánu pro koordinaci. Agenda tohoto oddělení je tvořena z dominantní části evaluacemi v oblasti evropských fondů (dříve evropské strukturální a investiční fondy, ESIF). Útvar se zabývá zadáváním externích evaluačních zakázek a jejich koordinací, příležitostně provádí interní evaluace a věnuje se kultivaci evaluačního prostředí v ČR. Motivací na zapojení do projektu PANK bylo především zefektivnění zadávání externích evaluací a jejich management.
+
+## Představení týmu
+
+Tým je na velmi pokročilé úrovni, co se týče analytických znalostí a dovedností. Jednotliví členové a členky útvaru se velmi dobře orientují v relevantních metologických postupech, existující literatuře a obecně v daném odborném poli. Na úrovni týmové práce jsou pak zavedené principy sdílení informací a knowledge managementu obecně.  
+
+Členové a členky týmu příležitostně provádějí interní evaluace týkající se procesů na daném ministerstvu, ale hlavní náplň jejich činnosti tvoří zádávání a management externích zakázek. V neposlední řadě pak tým představuje knowledge brokera a usiluje o kultivaci a odborný posun v oblasti evaluací v ČR.  
+
+## Diagnostika
+
+Na počátku spolupráce proběhla diagnostická fáze, jejíž cíle byly dva. Zaprvé přesněji identifikovat potřeby Evaluační jednotky Národního orgánu pro koordinaci (EJ NOK), ve kterých by projekt PANK mohl intervenovat, a zadruhé zjistit zkušenosti a perspektivy dalších aktérů zapojených do aktivit EJ NOK. Proběhly rozhovory s vedoucí oddělení, zaměstnanci a zaměstnankyněmi, nadřízeného orgánu, dodavateli externích evaluací a uživateli těchto evaluací. Dále se členové týmu PANK jako pozorovatelé zúčastnili schůzek mezi dodavateli a EJ NOK a prezentací dodavatelů stakeholderům. 
+
+Vzhledem k omezeným kapacitám EJ NOK i projektu PANK pak došlo k prioritizaci oblastí spolupráce. Na základě individuálních i společných rozhovorů a pozorování bylo rozhodnuto, že aktivity v rámci PANKu se budou zaměřovat především na problematiku zadávání a řešení externích evaluací, které jsou prováděny třetími subjekty jako jsou konzultantské společnosti. EJ NOK v těchto procesech působí především jako prostředník mezi těmito dodavateli a klienty, jimiž jsou především další části Národního orgánu pro koordinaci na MMR, od jejich manažerů -- vedoucích, ředitelů a náměstka*yně -- po věcné experty. 
+
+## Intervence
+
+### Offboarding člena týmu
+
+Na začátku spolupráce došlo za spolupráce s týmem PANKu k offboardingu odcházejícího zaměstnance EJ NOK. Tato intervence reagovala na aktuální situaci - odchod zaměstnance se specifických know-how - ale také navazovala na identifikovanou potřebu zkvalitnění správy znalostí (knowledge management) v útvaru. Offboarding se skládal z několika kroků. Prvním byla diskuze významu knowledge managementu v organizaci, jejíž je offboarding součástí. 
+
+:::{.aside}
+Viz návod 
+
+<br>
+
+:::{.btn .btn-resource}
+[Offboarding člena týmu ->](/pruvodce/offboarding.qmd)
+:::
+:::
+
+Dále pak členové týmu PANK s odcházejícím zaměstnancem za účasti vedení EJ NOK uskutečnily extenzivní rozhovor, který navazoval na již dříve uskutečněný rozhovor mezi vedoucí a zaměstnancem. Účelem setkání bylo poskytnout upřímný feedback na chybějící vstupní školení a průběh nástupu zaměstnance fungování pracoviště, návrhy na zlepšení, a v neposlední řadě předání poznatků o organizaci a roli zaměstnance v ní. 
+
+V rámci rozhovoru proběhlo i cvičení na prioritizaci poznatků důležitých pro organizaci, které je potřeba předat v rámci personálních přesunů. 
+
+### Management externího výzkumu (zakázek)
+
+Velkou část pracovní náplně oddělení představuje management externích evaluací, které se někdy týkají operačních programů, častěji ale hodnotí systém ESI fondů jako celek, z pohledu zastřešující Dohody o partnerství, ať už v rovině výsledků nebo procesního fungování. Nejedná se pouze o zadávání zakázek, ale o celý proces debat se stakeholdery nad formulací evaluačních potřeb, tvorbu zadávácí dokumentace, výběrové řízení, komunikaci s dodavatelem, a zprostředkování role prostředníka mezi dodavateli a klienty z MMR. Oddělení zároveň zajišťuje připomínkování evaluačních zpráv ze strany relevantních věcných oddělení na ostatních ministerstvech kvůli jejich informovanosti a vhledu do daného problému. 
+
+Vzhledem k množství zapojených aktérů a jejich různých očekávání je práce oddělení vysoce časově a zdrojově náročná, a její zefektivnění představovalo velkou část spolupráce v rámci projektu PANK. 
+
+Ohledně zadávání externího výzkumu proběhl s celým týmem workshop, jehož cílem bylo vygenerovat sdílené představy o hlavních problémech externích evaluací a definici kvalitních evaluačních zpráv. Na workshopu zaměstnankyně a zaměstnanci v moderované diskuzi debatovali a sumarizovali své zkušenosti a prespektivy. 
+
+Následně členové týmu PANK na základě workshopu vypracovali draft dokumentu, který shrnoval hlavní body týkající se nedostatků externích evaluací a znaků dobře odvedené evaluační práce. Dokument byl následně konzultován v užším okruhu mezi členy týmu PANK a několika zástupci oddělení. Na jeho základě pak vznikla předběžná sada doporučení pro dodavatele i klienty evaluací, které oddělení bude následně diskutovat s relevantními stakeholdery. 
+
+## Průřezová témata identifikoaná při spolupráci s týmem
+
+V průběhu spolupráce s evaluační jednotkou se objevilo několik bodů, které jsou relevantní pro další útvary státní správy.
+
+Prvním je **velké množství aktérů zapojených do procesu řízení** externích zakázek, kteří do něho vstupují v různých fázích. Tato skutečnost komplikuje představu externě dodávaných výzkumů jakožto přímočarého procesu, v němž policy maker zadává výzkumný úkol analytikovi, který ho následně dodává. Naopak zkušenosti z práce oddělení Y ukazují, že se jedná o komplexní činnost, v níž musí oddělení jakožto koordinátor a broker adresovat celou řadu aspektů. 
+
+Druhým spojeným postřehem je **různorodost klientů z řad státní správy** jakožto uživatelů výzkumných zpráv a jejich potřeb. Tato skutečnost je důležitá pro uvědomění si toho, že neexistuje jeden typ uživatele výstupů a produktů. 
+
+Posledním postřehem je význam **kvalitní moderace a facilitace debat** uvnitř týmu externím člověkem. V případě EJ NOK bylo moderování debat oddělení poměrně náročné vzhledem k analytické pokročilosti celého oddělení. 
+
+## Systémové bariéry
+
+První jsou nedostatečné prostředky alokované na management zakázek. Jedná se jednak o prostředky alokované na samotné externí projekty, které evaluují velké implementační programy. Ačkoliv oddělení dohlíží na největší projekty na trhu, vzhledem k jejich komplexnosti a náročnosti jsou vynaložené finance stále nedostatečné, což vytváří podmínky, v nichž nelze vykonat excelentní evaluační výzkum.. Oddělení Y samotné také nedisponuje rozpočtem (a následně ani personálním zajištěním), který by umožnil se mimořádně velkým evaluačním projektům, které oddělení zadává a řídí, věnovat v optimální formě.
+
+Druhým systémovým problémem jsou nevyjasněné standardy kvalitní evaluace a výzkumné práce obecně napříč státní správou. Na to opakovaně naráží evaluační jednotka NOK v pozici prostředníka, který má zprostředkovávat komunikaci mezi dodavateli evaluací a klienty z řad státní správy. Tato komunikace a celkový proces řízení zakázek je ale komplikovaný, jelikož různí aktéři mají různá očekávání ohledně toho, co představuje kvalitní zprávu a výzkum. Různé standardy jsou de facto realitou i přes existenci metodiky evaluací pro evropské fondy, průvodce evaluátora a např. standardů vydaných Českou evaluační společností.  
+
+Poslední bariérou na systémové úrovni jsou komplikace stran zapojení externích expertů a expertek. Ty se týkají neflexibilnosti zakázek a personalistických aspektů, které často nedovolují externí odborníky a odbornice najímat na menší a krátkodobější činnosti, např. pro ad hoc poradenství při zadávání nebo řízení evaluací.
+
+## Dobré praxe
+
+Evaluační jednotka NOK může sloužit pro další orgány státní správy jako zdroj dobrých praxí v několika oblastech. 
+
+První je již výše zmíněný **knowledge management**. Oddělení má velmi dobře institucionalizované principy přenosu znalostí a organizace práce v týmu. Průběžná podpora využití znalostí z evaluací je pak podpořena mj. [Knihovnou evaluací](https://dotaceeu.cz/knihovna-evaluaci) a praxí vytváření každoročního přehledu poznatků z evaluací.
+
+**Knihovna evaluací** nabízí přehled uskutečněných evaluací filtrovatelných podle kategorií jako je operační program, období, nebo tématické zaměření. Knihovna může sloužit jako inspirace dalším podobným databázím jiných útvarů. Jde o jednoduché řešení často identifikované absence přehledu vzniklých evaluací, zde bohužel pouze v hranicích EU fondů. 
+
+Informovanost a budování odborné komunity v oblasti evaluací pak EJ NOK podporuje **[každoroční odbornou konferencí](https://www.dotaceeu.cz/cs/microsites/evaluacni-konference/obecne-informace)** doprovozenou vzdělávacími workshopy.
+
+V metododolické rovině evaluací se týmu EJ NOK daří zařazovat do evaluací inovativní postupy a metody, mj. i díky využití expertního poradenství nabízeného v jejich případě Evropskou komisí (helpdesk zřízený DG REGIO, přes který mohou členské státy poptat experty na ad hoc konzultaci); pro zajištění kvality evaluací pak EJ NOK využilo tzv. peer review mechanismus též facilitovaný Evropskou komisí.
+
+Oddělení dále v minulosti vytvořilo [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) jako příručku pro další evaluační týmy, která představuje různé aspekty celého procesu. Dokument může sloužit jako inspirace pro podobné zachycení postupů a metod i v případě dalších podobných výzkumů. 
+
+Oddělení také na začátku celého procesu vypracovává **záměr evaluace**, a to před externími i interními. To zajišťuje, že následné kroky (včetně například zadávací dokumentace a výběrového řízení) následují hlubší logiku a celkové cíle a že u externích zakázek se příprava evaluace neomezuje na řešení zadávací dokumentace.
+
+Produktivní praxí relevantní pro další sektory státní správy jsou **různé formáty komunikace výsledků** (i průběžných) výzkumu, které jsou zacílené na různé skupiny uživatelů. Oddělení připravuje ve spolupráci s dodavateli externích evaluací např. managerská shrnutí, letáky pro širší veřejnost, atd. S tím souvisí i další praktiky, které oddělení během řízení externích evaluací provádí. Jedná se například o průběžné prezentace pro stakeholdery, které poskytují platformu pro diskuzi a řešení problémů.
+
+Oddělení se do evaluačních procesů snaží **zahrnout externí aktéry**, především relevantní odborníky a odbornice (jakkoliv toto naráží na problémy na systémové úrovni zachycené výše). Činí tak ve formě např. veřejných výzev pro výzkumné instituce nebo neziskové organizace. 
+
+Poslední dobrou praxí je **zapojení evaluací do chodu ministerstva**, tedy za hranicí EU fondů a sekce. Členky a členové oddělení například provádějí pravidelné šetření spokojenosti na ministerstvu.
+
+## Reflexe spolupráce
+
+Spolupráce s evaluační jednotkou NOK poukázala na význam širšího prostředí, ve kterém se analytické týmy pohybují. Hlavním problémem, kterým oddělení čelí, není nedostatek analytických znalostí a metodologické deficity, ale množství a heterogenita aktérů zapojených do procesů evaluace, a následná šíře standardů a požadavků, které musí oddělení moderovat. Tento problém je ještě umocněn nedostatečnými kapacitami, kterými oddělení disponuje.
+
+## Poděkování
+
+Děkujeme především Janě Drlíkové a Janě Bystřické za jejich čas a spolupráci.
