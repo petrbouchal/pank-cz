@@ -6,13 +6,15 @@ aliases:
   - /doporuceni/inspirace
 ---
 
+#
+
 ## Návody a průvodci 
 
 [Průvodce evaluátora](https://dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx)
 
 [Metodika systematického přehledu poznatků](http://www.mmr.cz/getmedia/72852f3f-f52f-47e1-bec8-6c1c72ce0097/02a_dokument_final.pdf.aspx?ext=.pdf)
 
-[Další zde]
+[Další metodologicky zaměřené zdroje uvádíme v odděleném návodu](/pruvodce/dalsi-metody.qmd)
 
 ## Základní literatura
 
