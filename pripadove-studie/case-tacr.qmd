@@ -12,7 +12,7 @@ format:
 
 # Představení 
 
-Tato případová studie zachycuje naši spolupráci s analytickým oddělením (AO) TA ČR, které v mnohém vnímáme jako **příklad dobré praxe**. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky a využívat je ve své práci. Naše spolupráce především přinesla TA ČR/AOimpuls věnovat se činnostem, na které dříve nebyl dostatek času, jako například systematicky uchopit a zveřejnit zpracované analýzy, dashboardy atd. či se více zaměřit na zákazníky analytických výstupů a jejich potřeb.    
+Tato případová studie zachycuje naši spolupráci s analytickým oddělením (AO) TA ČR, které v mnohém vnímáme jako **příklad dobré praxe**. Členové oddělení mají poměrně vysoké technické znalosti, mají touhu se zlepšovat, vzdělávat a snaží se přinášet nové myšlenky a využívat je ve své práci. Naše spolupráce především přinesla TA ČR/AO impuls věnovat se činnostem, na které dříve nebyl dostatek času, jako například systematicky uchopit a zveřejnit zpracované analýzy, dashboardy atd. či se více zaměřit na zákazníky analytických výstupů a jejich potřeb.    
 
 # Charakteristika zapojeného útvaru
 
