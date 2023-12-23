@@ -18,10 +18,42 @@
 - [ ] doplnit header blocks kde jsou třeba
 - [ ] lepší docx šablona
 - [x] 404 grafika
-- [x] umožnit doplňování ikon sekcí podle ID
+- [ ] umožnit doplňování ikon sekcí podle ID
+- [ ] doplnit všude ID sekcí
 
 # Layout hlavních textů
 
 - [ ] sladit úrovně nadpisů v případovkách
 - [ ] sladit úrovně nadpisů v návodech
-- [ ] sladit názvy kapitol v případovkách
+- [ ] sladit side notes o případovkách - textace, nadpis
+
+- footer rozšířit -- zopakovat tam rozcestník
+
+## Links
+
+- MMR case links to navody
+- managing external <> KM, UX
+
+- [ ] sladit kapitoly v případovkách
+- [ ] sladit side notes o případovkách - textace, nadpis
+
+# Grafika
+
+- průvodce = button možná, ale divný když bude první
+- ztlumit dlaždice
+
+- carousel s otázkami -- jedna hlavní, ostatní blurred
+- příběh projektu -- vše do timeline
+
+- šipky do dlaždic?
+
+- klikatelnou co největší plochy u dlaždic atd.
+
+- Teze
+
+- footer rozšířit -- zopakovat tam rozcestník
+
+## Links
+
+- MMR case links to navody
+- managing external <> KM, UX
