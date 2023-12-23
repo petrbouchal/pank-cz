@@ -10,15 +10,16 @@
 - [ ] Matomo tracking
 - [x] style buttons
 - [x] code font
-- [ ] ikona vyměnit
+- [x] ikona vyměnit
 - [ ] front obrázky vyměnit
 - [x] vert align hero boxu
 - [x] vert align boxu s linkem na případovky na front page
 - [ ] ověřit a spravit úrovně TOC napříč webem
 - [ ] doplnit header blocks kde jsou třeba
 - [ ] lepší docx šablona
-- [ ] 404 grafika
-- [ ] umožnit doplňování ikon sekcí podle ID a doplnit ID
+- [x] 404 grafika
+- [ ] umožnit doplňování ikon sekcí podle ID
+- [ ] doplnit všude ID sekcí
 
 # Layout hlavních textů
 
@@ -43,3 +44,7 @@
 
 - footer rozšířit -- zopakovat tam rozcestník
 
+## Links
+
+- MMR case links to navody
+- managing external <> KM, UX
