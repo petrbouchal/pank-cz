@@ -1,0 +1,6 @@
+---
+title: "Příprava evaluace"
+subtitle: "Zvažte včas, jak vyhodnotíte své opatření, výzvu, plán..."
+# blok: ['metody']
+---
+
