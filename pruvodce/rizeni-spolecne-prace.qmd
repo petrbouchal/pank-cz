@@ -11,13 +11,19 @@ aliases:
 
 # O co jde a k čemu to je
 
-Dobrá organizace skupinové práce v týmu je zásadní pro obecně kvalitní analytickou práci. Tato sekce poskytuje několik doporučení a možných praxí, jak lépe řídit kolektivní procesy v týmu.  
+Dobrá organizace skupinové práce v týmu je zásadní pro zvládnutí jakéhokoli společného úkolu, ale u práce s intenzivnějším zapojením poznatků je zcela zásadní. 
 
+Tento návod poskytuje několik doporučení a možných praxí, jak lépe řídit kolektivní procesy v týmu. 
+
+Nemá ambici být příručkou manažera ani manuálem projektového řízení, ale představuje pár technik a nástrojů, které mohou pomoci s problémy, které jsme v praxi práce s poznatky v týmu často pozorovali.
+
+> Tento návod vznikl při práci týmu na dotační výzvě, tj. docela běžném nástroji veřejných politik. Tým se zde potýkal s celou sadou úkolů (sběr, interpretace a syntéza poznatků, definování problémů a cílů výzvy, hodnocení variant řešení) a právě v tomto kontextu narazil na bariéry při uřízení společné práce a informací.
 
 # Sebediagnostika: je to pro mě?
 
-- Máte nejasnou agendu a cíle schůzek?
+- Máte nejasnou agendu a cíle schůzek? Stává se vám, že se společné schůzky rozbíhají do stran a nedaří se vám na nich soustředit energii členů týmu?
 - Chybí vám struktura společných úkolů?
+- Ztrácí se vám v interakcích mezi členy týmu informace?
 - Narážíte často na přehlcení informacemi?
 - Je pro vás obtížné prioritizovat významnost poznatků i úkolů?
 
@@ -29,8 +35,7 @@ Dobrá organizace skupinové práce v týmu je zásadní pro obecně kvalitní a
 
 ## 1. Efektivní řízení schůzek 
 
-
-a. Před každou schůzkou je dobré se sjednotit na jejími cíli
+1. Před každou schůzkou je dobré se sjednotit na jejími cíli
 
 :::{.aside}
 
@@ -43,37 +48,53 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných 
 :::
 
 :::
-b. Dále je vhodné stanovit její agendu (například vzájemný update, řešení zaseknutí se, brainstorming, plány do budoucna,...)
 
-c. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účastnicím a účastníkům 
+2. Dále je vhodné stanovit její agendu (například vzájemný update, řešení zaseknutí se, brainstorming, plány do budoucna,...)
 
-d. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
+3. Během schůzek pořizujte jejich stručný záznam a ten pak pošlete účastnicím a účastníkům, přípaně udržujte ve společném dokumentu.
 
+4. Dohodněte se na dalších krocích ohledně diskutovaných problematik, a ty pak shrňte v záznamu ze schůzky, aby všichni účastnění věděli, jaké jsou jejich následující role
+
+Může být vhodné řízení schůzek, včetně přípravy agendy, záznamu a followupu rotovat mezi členy týmu.
 
 ## 2. Procesní mapa
 
-a. Procesní mapa slouží k zachycení různých činností, kterým se tým věnuje. Jejich vizualizace ve formě mapy ulehčuje identifikaci rozdělení zodpovědností za jednotlivé úkoly a dává lepší celkový přehled, což usnadňuje koordinaci v týmu. 
+- Procesní mapa slouží k zachycení různých činností, kterým se tým věnuje.
+- Jejich vizualizace ve formě mapy ulehčuje identifikaci rozdělení zodpovědností za jednotlivé úkoly a dává lepší celkový přehled, což usnadňuje koordinaci v týmu. 
 
-b. Detailnější postupy a návody jsou k dispozici zde 
+> Např. v případě výše zmíněného týmu bylo pro tým užitečné oddělit fázi definování řešeného problému a hledání jeho řešení. Jakmile tyto části pojmenujete a shodnete se, že je (alespoň zpočátku) chcete řešit odděleně, dáváte každému možnost upozornit, pokud diskuse uteče k jiné fázi, a tím se vrátit na koleje.
 
 ## 3. Mapa poznání 
 
-a. Mapa poznání pomáhá zorganizovat a strukturovat věci, které víme o daném problému. Zachycení poznatků pomocí tohoto postupu usnadňuje identifikaci oblastí, které se musí doplnit i dalších kroků.
+Mapa poznání pomáhá zorganizovat a strukturovat věci, které víme o daném problému. Zachycení poznatků pomocí tohoto postupu usnadňuje identifikaci oblastí, které se musí doplnit i dalších kroků.
 
-b. Detailnější postupy a návody jsou k dispozici zde 
+Jako šablonu u složitějších problémů můžete využít např. nástroj tzv. Evidence Gap Map. Ta zachycuje jednotlivé "outcomes" na vodorovné ose a na svislé ose jednotlivé intervence, které se snaží dané "outcomes" ovlivnit. V buňkách pak jsou zachyceny např. tečkami jednotlivé studie, nebo souhrnný symbol míry poznání v dané oblasti. Variant je více, viz [@saranEvidenceGapMaps2018]. 
+
+U jednodušších situací může stačit např.
+
+- matice, kde 
+  - v řádcích zanesete jednotlivé otázky, podproblémy nebo cílové skupiny
+  - ve sloupcích zanesete typy informací ("kolik jich je", "jaké mají výsledky v oblasti X a Y"), popř. jen kolonky "co víme" a "co nevíme".
+
+Buď v mapě, nebo v detailnějším dokumentu udržujte "rodokmen" každé informace: kde jste ji vzali, včetně odkazu, citace atd.
 
 ## 4. Efektivní brainstorming 
 
-a. Kolektivní brainstorming je významný především pokud se snažíte jako tým vyřešit problém. Dobrý brainstorming je vzájemně inspirativní, přináší energii pro další kroky a vede k novým nápadům.  
+Kolektivní brainstorming je významný především pokud se snažíte jako tým vyřešit problém. Dobrý brainstorming je vzájemně inspirativní, přináší energii pro další kroky a vede k novým nápadům.  
 
-b. K produktivnějšímu brainstormingu můžete použít následující postupy:
-- Rapid ideation - časový limit na napsání co nejvíce nápadů 
-    - Potom společná diskuze 
+Základním znakem brainstormingu je, že se v něm nápady generují, ale nediskutují a nekritizují. (K "ostřelování" nápadů můžete použít jiné postupy, např. tzv. [pre-mortem](https://digitalhealth.blog.gov.uk/2018/09/20/pre-mortem-identifying-opportunities-and-risks/) -- "Představte si, že jsme o rok dál a tento nápad nefungoval. Proč?" nebo tzv. [černý klobouk ze sady Six Thinking Hats](https://www.betterevaluation.org/methods-approaches/methods/six-thinking-hats).)
+
+K produktivnějšímu brainstormingu můžete použít následující postupy:
+
+- Rapid ideation: každý člen týmu sám v časovém limitu sepíše co nejvíce nápadů (je vhodné dát si i dolní hranici, např. 8, což je číslo, při kterém začínají vznikat méně konvenční nápady) 
 - Online brainstorming (brain netting) 
-  - Online tracking doc pro sdílení nápadů- follow up
-- Kolotoč 
-  - Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
+- Kolotoč: Každý člen přidá jeden nápad (kolečko všech, než se začne diskutovat a kritizovat)
+
+Můžete také využít pomůcky pro nastartování představivosti, např. [karty od britské Policy Lab](https://openpolicy.blog.gov.uk/2015/07/10/cards-toolkit-to-help-generate-ideas-and-develop-your-policy-project-in-an-agile-way/).
 
 :::
+
+## Citované zdroje
+
 :::{#refs}
 :::
