@@ -5,4 +5,268 @@ blok: ['vyuziti']
 poradi: 1
 ---
 
-> Tento návod pro Vás ještě připravujeme.
+# O co jde a k čemu to je
+
+Kvalita analytických výstupů nespočívá pouze v metodologicky dobře odvedené práci, ale i ve způsobu předávání informací. Ten často determinuje, zda budou mít sdělované poznatky dopad na své adresáty.
+
+Tento návod se zaměřuje na psané zprávy. Najdete zde tipy, jak psát tak, aby text byl pro vaše publikum co nejpřístupnější. 
+
+Nejde o jednotlitý návod nebo kompletní popis "jediné správné cesty". Spíše je to sada podnětů a rad, které vám umožní si utříbit myšlenky a najít si pomůcky, kterých se můžete držet.
+
+:::{.aside}
+
+**Případové studie**
+
+Tento návod jsme vyvinuli a testovali ve spolupráci s týmem EJ NOK na MMR.
+
+<br />
+
+:::{.btn .btn-resource}
+[přečíst případovou studii](../pripadove-studie/mmr)
+:::
+
+:::
+
+> **Související návody**
+>
+> Větší zprávy často jsou výsledkem externího zadání -- viz návod [Řízení externího výzkumu](management-externiho-vyzkumu.qmd).
+>
+> I zpráva je produkt pro uživatele, proto se vám může hodit [uživatelský výzkum a testování](user-testing.qmd).
+>
+> Pokud ve svém reportu používáte vizualizace dat, máme pro vás k tomu [specializovaný návod](vizualizace-dat.qmd).
+> 
+> A až zprávu budete mít, pečujte o ni a její využití: [návod k knowledge managementu](knowledge-management.qmd).
+
+# Sebediagnostika: je to pro mě?
+
+- Vypracováváte Vy nebo Vaše oddělení velké množství psaných analytických výstupů?
+- Narážíte na to, že adresáti vašich zpráv mají problém text učíst, nebo máte signály, že si z nich nedokáží vzít podstatné závěry?
+- Začínáte se sepisováním výstupů? Bojujete s tím, jak strukturovat zprávy, ale i jejich části?
+- Řešíte, jak nejlépe do svého textu včlenit fakta a čísla tak, aby je čtenáři vsřebali?
+
+:::{.strip .page-columns .page-full}
+
+# Jak na to
+
+## Hlavní principy psaní výstupů
+
+**Cíle, struktura, uživatelé**
+
+- Cílem psaní není utřídit si myšlenky, ale umožnit čtenáři, aby uviděl realitu tak, jak ji po zvážení informací a jejich utřídění vidí autor - a ukazuje se jako děj, pracuje se s metaforou vidění, se sekvencí (napřed vidím něco, pak se přesouvám někam dále, jde to po sobě a navazuje to, autor mi to ukazuje, představuje)
+
+- Myslete na to, že (minimálně některý) čtenář není odborníkem/icí na dané téma. Zvažte, pro které čtenáře jsou jednotlivé psané výstupy z vaší analytické práce.
+
+- Zvažte, zda chcete pracovat s triádou zjištění -- závěr -- doporučení: co jsme se dozvěděli, co z toho plyne, a co s tím dělat. Toto je schéma běžné ve světě evaluací a v některých situacích vám usnadní život, pokud se ho budete konzistentně držet.
+
+- Analytická zpráva není akademický článek. V mnohých případech -- záleží na publiku a předpokládaném využití -- není vhodná struktura *úvod -- metody -- poznatky -- závěry -- doporučení" [viz @davidsonUnlearningOurSocial2007].
+
+**Omezte nadbytečný text**
+
+Výstupy by měly jasně a rozhodně sdělit, co práce s poznatky říká o analyzovaném problému. 
+
+Zvláště manažerská shrnutí by měla být formulována co nejúsporněji.
+
+Je vhodné vyvarovat se dlouhých úvodních odstavců, které naznačují strukturu celého textu, odkazují na další jeho části atd. Naopak na začátku je dobré motivovat text otázkou.
+
+Délka zprávy by měla být čtenářsky vstřícná, přičemž ideální rozsah se liší dle typů výstupů. Především do manažerského shrnutí a zpráv pro uživatele by měly jít pouze nejrelevantnější informace. Zároveň je dobré se vyvarovat kopírování materiálu z případových studií a obecnějších věcí do hlavní zprávy. 
+
+**Pište jasně**
+
+- Nepoužívejte příliš dlouhá a složitá slova
+- Vyvarujte se žargonu
+- Vysvětlujte zkratky
+- Věty i odstavce by měly být krátké, věty cca 15-20 slov. 
+- Čím složitější problém, tím jednodušší věty 
+- Vyvarujte se trpného rodu (pasivu), používejte činný
+- Pište konkrétně, vyvarujte se vágních slov a formulací, které mohou být dezinterpretovány
+- Používejte nadpisy a podnadpisy pro snadnější orientaci
+- Používejte vyvážený, hodnotově nezabarvený jazyk
+
+**Jak psát o číslech**
+
+Nezahlcujte čtenáře sadou čísel, především velkými čísly, které jsou špatně zpracovatelná.
+
+- Vztáhněte čísla k “žité realitě”, například plochu převeďte na čtenáři známou geografickou jednotku (“plocha o velikosti Ústeckého kraje”
+- Dobře fungují tzv. “perspective clauses” - “28,5 mld. hektarů -- pro srovnání, to je dvojnásobek plochy kraje X”, popř. “to si lze představit jako…” nebo “v kontextu to znamená...”). 
+
+*Čtenáři by to mělo pomoct zodpovědět otázku "je to velké číslo? Je to hodně, nebo málo?"*
+
+:::{.callout-note}
+
+### Lidský mozek a velká čísla
+
+Počítejte s tím, že lidský mozek není stavěný na práci s velmi velkými čísly.
+
+Jakmile se čísla dostanou do řádů, které se špatně konkrétně představují, v lidském vnímání těchto čísel začínají dominovat kognitivní zkratky, které zhoršují srovnávání a uvažování o číslech.
+
+Např. tzv. "mental number line", kde na pomyslné ose mezi tisícem a miliardou lidé mají tendenci milion umístit doprostřed [@izardCalibratingMentalNumber2008; @feigensonCoreSystemsNumber2004].
+
+:::
+
+- Nenuťte čtenáře počítat v hlavě, udělejte to za něj (např. “X se téměř zdvojnásobilo, z 27 v roce 2021 na 53 v roce 2023”).  
+
+- Při srovnávání čísel používejte stejný základ - např. počty lékařů na tisíc lidí ve dvou krajích, ne “v kraji X je N lékařů na A obyvatel, v kraji Y NN lékařů na AA obyvatel”
+
+- Vyhněte se nepatřičné přesnosti jednotlivých čísel: zaokrouhlujte, popř. uvádějte v tisících, milionech, podle toho, jak moc se daná veličina mění a jaké změny jsou podstatné
+
+- Podobně někteří čtenáři nejsou zvyklí pracovat s procenty a procentními body. Zde je třeba být precizní, popř. vysvětlit více způsoby, např. “výskyt X vzrostl z 2 % na 3 %, to znamená, že riziko X v populaci vzrostlo o polovinu”. Je lepší napsat “1 z 20” než “5 %”.
+
+Více viz [@millerChicagoGuideWriting2015].
+
+## Jak strukturovat různé části zpráv
+
+**Úvod**
+
+- Problém (Co je to za problém? Proč je důležitý?)
+- Pozadí, kontext (Co se děje, kde, koho se to týká?)
+- Příčiny současné situace (Proč? Uveďte důkazy nebo příklady.)
+- Důsledky současné situace (Jaké má důsledky? Uveďte důkazy nebo příklady.)
+
+Úvod by měl plnit několik základních úkolů:
+
+- Upoutat pozornost čtenáře
+- Představit téma
+- Vysvětlit, proč je téma důležité
+- Objasnit čtenáři, co má od textu čekat
+
+Součástí úvodu také mohou být následující prvky:
+
+- Osvětlení struktury celé zprávy
+- Cíle projektu
+
+> **Tip**
+>
+> Pro úvod i některé další celky uvnitř zprávy se může hodit následovat tzv. strukturu SPQA: Situation, Complication, Question, Answer.
+>
+> *Situation*: o co tady je jde?  
+>       --> např. "Ve státní správě pracují analytici."
+>
+> *Complication*: co na tom řešíme? Proč to řešíme?  
+>       --> např. "Mnoho z nich se chce zlepšovat, ale neví, kde začít." 
+> 
+> *Question*: Co konkrétně je problém?  
+>       --> např. "Jak bychom jim mohli pomoct jako výzkumníci zvenčí?" 
+>
+> *Answer*: Jaké máme řešení? Jak zodpovídáme otázku?  
+>       --> např. "Přinášíme průvodce prací s poznatky, který jsme vyvinuli spolu s několika analytickými týmy." 
+>
+> Pořadí jednotlivých prvků můžete měnit a každý prvek rozkošatět, přitom ale držte strukturu. 
+>
+> Podobná struktura, které se dá držet, je tzv. "What -- So what -- What now", která v podstatě odpovídá logice "zjištění -- závěr -- doporučení".
+
+**Struktura ostatních části zprávy**
+
+*Background / kontext*: u některých zpráv je vhodné zachytit kontext toho, o čem píšete - proč např. analyticky zachycujete daný problém, co se v dané oblasti děje, co už se o věci ví. Neměla by to ale být suše popisná část zachycující vše vzdáleně související ani přehled literatury pro dobrý pocit.
+
+*Přístupný a jasný průvodce metodikou výzkumu*, včetně údajů o tom, jak zvolený design a metody ovlivňují závěry. Součástí by mělo být i vysvětlení zdrojových dat a jak s nimi autoři pracovali. Často je vhodné část zprávy nazvat "Metody a zdroje dat". 
+
+U kratších zpráv či zpráv jednodušších výzkumů může být vhodné tuto část zařadit na konec a metody a zdroje dat shrnout pouze v jedné či svou větách v úvodu s odkazem na příslušnou metodologickou sekci.
+
+U složitějších analýz je vhodné odděleně zachytit:
+
+- celkový design výzkumu
+- zdroje dat
+- jednotlivé využité metody -- u každé ale zachyťte jak metodu sběru dat, tak metodu analýzy
+
+*Zjištění* struktutujte podle témat či položených otázek, nikoliv na základě toho, jak byla “objevena” během výzkumného procesu či z jakého zdroje či metody vzešla.
+
+**Závěry a doporučení** 
+        
+- Měly by odpovědět na otázku "so what?" -- dát smysl a vyústění předchozím částem zprávy, ukázat, proč nás daná věc má trápit a co s ní.
+- Může být vhodné odkázat na vývoj politiky v dané oblasti
+- Měly by jasně vycházet z interpretace existujících dat
+- Podrobné technické a metodologické informace by měly být uvedeny v přílohách
+
+Doporučení
+
+- seskupte podle témat
+- pokud možno by měla být propojeny s konkrétními zjištěními
+- omezte počtem
+- formulujte nejlépe jako "aktér/instituce X by měl udělat Y"
+
+**Jak psát manažerská shrnutí**
+
+- Hlavním cílem je poskytnout informace k pochopení diskutovaného problému, přesvědčit, že je potřeba ho řešit,  navrhnout doporučení a pomoci dospět k rozhodnutí ohledně dalších kroků.
+
+Nezabíhejte do všech podrobností, místo toho poskytnout čtenáři dostatek informací, aby pochopil evaluovaný problém a dospěl k rozhodnutí.
+
+- Vycházet z jasných dat a evidence. Každé zjištění by mělo čtenáře odkázat na na příslušnou část hlavní části zprávy. Například: "Více v oddílu N o znalostech zaměstnanců” . 
+- Zaměřit se na výsledky a jejich význam, ne na metody. Čtenáře zajímá, co jste zjistili a co doporučujete. Nepotřebují znát podrobnosti vaší metodiky.
+- Poskytnout “big picture” o diskutovaném problému
+
+## Jak texty editovat
+
+Zaprvé, pokud možno s odstupem časovým i personálním. Pokud editujete svůj vlastní text, dejte si odstup aspoň den, ideálně víc. Nejlepší je nechat text přečíst i někoho, kdo ho nepsal nebo u projektu vůbec nebyl.
+
+Zadruhé, odlište jednotlivé pohledy na text a jeho různé úrovně řešte odděleně, ideálně při oddělených "editorských průchodech" textem:
+
+1. Struktura: je celková struktura textu vhodná a logická? Lze aplikovat i na úrovni sekcí a odstavců.
+2. Věty: dávají jednotlivé věty smysl? Jsou pochopitelné a logické?
+3. Formulace ("copy editing"): jak vyznívají konkrétní formulace? Jsou zvolena správná a vhodná slova? Jak text vyznivá svým tónem, slovníkem?
+4. Proofreading: opravte překlepy a pravopisné a gramatické chyby.
+
+Zatřetí, u analytických zpráv, kde cílem je předávat faktické poznatky, zvláště pak čísla, je potřeba do procesu zajištění kvality zařadit ještě fact check:
+
+1. Říkáme stejné věci (tvrzení) na různých místech?
+2. Máme na různých místech stejná čísla, resp. jsou čísla na různých místech zprávy vzájemně konzistentní?
+3. Dokážeme jednotlivá čísla dostopovat ke zdroji nebo analytickému kroku?
+4. Jsou konkrétní čísla a faktická tvrzení věcně správně?
+
+U bodů (3) a (4) můžete kontrolu udělat náhodně nebo "stratifikovaně" -- např. vybrat vzorek čísel, které společně můžou ukázat na problém při zpracování dat. 
+
+> Zvláště na fact-checkingovou fázi se snažte zapojit někoho, kdo čísla nepočítal a zprávu nepsal.
+
+
+## Jak psát věty a odstavce
+
+Při psaní delších textů se kromě celkové struktury musíte zaobírat i strukturou menších celků: vět a odstavců.
+
+**Věty** jsou základní strukturální jednotkou, ve které se váš čtenář musí dokázat vyznat. Při strukturování vět je dobré mít na paměti pojem *pracovní paměti* vašeho čtenáře (můžete si ho také představit jako tzv. mental bandwidth, okamžitou mentální kapacitu). Proto:
+
+- pište jednoduché věty, dlouhé a složité rozdělte
+- používejte slovesa raději než podstatná jména ("zkrátili jsme" raději než "provedli jsme redukci délky")
+- neschovávejte pointu věty na její konec
+- snažte se nezačínat věty vymezujícími nebo specifikujícími frázemi - jděte rovnou k věci ("Z důvodu...", "V kontextu", "S výjimkou")
+- omezte abstraktní "metapojmy" ("koncept", "rovina" atd.)
+
+**Odstavce** by měly fungovat jako celky. Mělo být jasné, proč je daná skupina věc v jednom odstavci (a ne v tom předchozím nebo následujícím). Každý odstavec by mít svou vlastní strukturu, ideálně s
+
+- úvodní větou na začátku, která shrne tvrzení odstavce -- tuto větu čtou čtenáři, kteří mají čas text jen proletět;
+- tělem odstavce, který typicky dodává podklady, důvody nebo příklady pro úvodní větu;
+- větou, která odstavec uzavírá nebo naznačuje přechod do nového.
+
+Více viz [@talbotHowWriteParagraphs2014].
+
+> Pokud píšete pro web, mohly by se vám hodit [pravidla tvorby textu na web](https://designsystem.gov.cz/pravidla/pravidla-pro-tvorbu-obsahu.html), která jsou součástí design systému gov.cz.
+
+:::
+
+# Jak to provést {#triky}
+
+Dobrou praxí mohou být interní checklisty, které stanoví hlavní aspekty, jež by měly výstupy obsahovat. Ty můžete předat i externím tvůrcům zpráv, např. řešitelům výzkumných úkolů nebo dodavatelům analytických zakázek.
+
+Pokud text vzniká ve spolupráci zadavatele a dodavatele -- např. zadavatel je v pozici "připomínkujícího", jde vhodné, aby si tyto dvě strany vyjasnily, jakou vrstvu kontroly (viz "Jak texty editovat výše") chcete dělat v jaké fázi projektu.
+
+U mnoha reportů se vyplatí využít nebo zaplatit někoho, kdo v procesu nebyl zapojený, a nechat ho/ji zprávu přečíst očima adresáta nebo přinejmenším vlastníma očima nezúčastněného čtenáře.
+
+Osvědčilo se i sdílení příkladů dobrých a špatných analytických výstupů, které mohou být sdíleny uvnitř oddělení i s dalšími partnery. Tyto příklady konkretizují obecnější principy a jsou tak nápomocné ve sladění očekávání ohledně zpráv. 
+
+# Další zdroje
+
+Velmi užitečným úvodem do psaní přívětivé ke čtenářům je [@pinkerSenseStyleThinking2015]. Kniha je sice o psaní v angličtině, principy psaní s ohledem na fungování lidského mozku jsou využitelné obecně.
+
+Zvláště pro tvorbu obsahu na webu je vhodná knížka *Content Design* [@richardsContentDesign2017].
+
+Užitečné jsou publikace Chrise Lysyho, mnohé dostupné na webu [@lysyReportingRevolution2022; @lysyHumanCenteredReport].
+
+O psaní o číslech dobře pojednává Jane E. Miller v *The Chicago Guide to Writing About Numbers* [@millerChicagoGuideWriting2015].
+
+Další tipy:
+
+- [Writing for utilisation](https://www.betterevaluation.org/blog/writing-for-utilisation)
+- [Guide for Research Publications](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1179765/Research_reports_guidance_August2023.pdf) britské státní správy.
+
+## Odkazovaná literatura
+
+:::{#refs}
+:::
