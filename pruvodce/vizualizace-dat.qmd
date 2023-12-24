@@ -233,6 +233,7 @@ Dále lze doporučit několik online příruček dobrých praxí:
 
 - Renomovaný praktik Maarten Lambrechts sestavil výborného [průvodce vizualizací](https://data.europa.eu/apps/data-visualisation-guide/) na webu Evropské komise [@euacademyDataVisualisationGuide2023]
 - Doporučit lze i přehledy dobrých praxí od britské statistické společnosti [@krauseBestPracticesData2023] a státní služby [@analysisfunctioncentralteamDataVisualisationCharts2022]
+- Britský statistický úřad Office of National Statistics udržuje vlastní [standard vizualizací](https://service-manual.ons.gov.uk/data-visualisation/about).
 
 Praktické tipy pro design tabulek nabízí @schwabishTenGuidelinesBetter2020 ([PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74C6FD9FEB12038A52A95B9FBCA05A12/S2194588820000111a.pdf/div-class-title-ten-guidelines-for-better-tables-div.pdf))
 
