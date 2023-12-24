@@ -1,11 +1,140 @@
 ---
-title: "Zadávání externího výzkumu"
-subtitle: "Jak uřídit pořizování výzkumu zvenčí"
-categories: ["Řízení"]
+title: "Řízení externího výzkumu"
+subtitle: "Jak ukočírovat pořizování výzkumu zvenčí"
 blok: ["ziskavani"]
-title-block-categories: false
-poradi: 12
+poradi: 3
 editor: source
+aliases: 
+  - /pruvodce/rizeni-externiho-vyzkumu
 ---
 
-> Tento návod pro vás ještě připravujeme.
+# O co jde a k čemu to je
+
+Tento návod nabízí přehled kroků a rad, které vám pomohou zjednodušit řízení externího výzkumu, tedy analytické práce vykonávané externím dodavatelem. Vlastní tým je tak v pozici manažera celého procesu, nikoliv vykonavatelem výzkumu. 
+
+Návod zároveň nemá ambici poskytovat technické rady stran právních aspektů zadávání zakázek, ale šířeji využitelné postřehy pro lepší organizaci a spolupráci. Předpokládá situaci, kdy zakázka je zadaná a vy ji potřebujete dobře uřídit.
+
+:::{.aside}
+**Případová studie**
+
+Tento návod jsme vyvíjeli a testovali ve spolupráci s týmem Evaluační jednotky NOK na MMR. 
+
+<br>
+
+:::{.btn .btn-resource}
+[Číst případovou studii&nbsp;⟶](/pripadove-studie/ejnok)
+:::
+
+:::
+
+> ### Související návody
+> 
+> Celý příběh nejspíš začíná při [zadání analytického úkolu](/pruvodce/zadani-analytickeho-ukolu.qmd) a možná vzešel z [identifikace znalostních potřeb organizace](identifikace-znalostnich-potreb.qmd).
+>
+> Pokud na jeho řešení používáte program TA ČR BETA, pak pro vás máme [specializovaný návod](/pruvodce/beta2.qmd).
+> 
+> Jakmile to zvládnete, v závěru najdete odkazy na navazující návody.
+
+# Sebediagnostika: je to pro mě? {#sebediagnostika}
+
+Následující postup je vhodný pro týmy, které řídí proces externích výzkumných (analytických, evaluačních) zakázek a čelí problémům spojeným s managementem celého procesu. Ty mohou mít nasledující podoby:
+
+- velký objem zakázek popř. v nich vznikajících výstupů
+- velké množství požadavků a nároků ze strany různých zapojených aktérů 
+- nevyjasněné standardy, ať už mezi stranami (zadavatel-dodavatel) nebo uvnitř zadavatelského týmu 
+
+:::{.strip .page-columns}
+
+:::{.aside}
+
+:::
+
+
+# Jak na to {#navod}
+
+Vycházíme z toho, že dobré řízení externě zadaného výzkumu by mělo přispět k několika cílům:
+
+- získat co nejkvalitnější výstup (ve smyslu splnění zadání, metodologické kvality i využitelnosti)
+- absolvovat celý proces co možná nejefektivněji, bez zbytečných ztrát času a energie
+- posílit využitelnost a využití výstupu tím, že do procesu vtáhnete uživatele výstupu
+
+Mezi těmito cíli může být pnutí -- právě ve zvládání tohoto pnutí je mistrovství interních analytických týmů coby knowledge brokers mezi externími výzkumnými (či dodavatelskými) týmy.
+
+## Dohodněte s dodavatelem  parametry a pravidla spolupráce
+
+Zkušenosti ukazují, že u typické zakázky hrozí riziko zahlcení iteracemi a připomínkováním.
+
+K omezení toho rizika je vhodné hned na začátku spolupráce nastavit jasné postupy a očekávání:
+
+- Jaké milníky v celém procesu budou? Kolik kol komentářů k jakým verzím výstupů proběhne?
+- Kdo je na každé straně kontaktním bodem pro které části práce a výstupy?
+- Očekává zadavatel, že se mu dostanou do rukou pouze úplné drafty v široce prezentovatelné úpravě, nebo i hrubší mezivýstupy?
+- Jaký typ zpětné vazby by měl zadavatel nebo další aktéři poskytnout v jednotlivých fázích procesu?
+- Jak to budeme dělat technicky? (Jak se sdílí dokumenty, jak se schází komentáře apod.)
+
+Tyto parametry typicky nejsou v potřebné míře detailu zachyceny v zadávací dokumentaci nebo smlouvě, proto si je musíte s externím týmem sladit na začátku spolupráce, nejlépe na úvodní (kick-off) schůzce. To samozřejmě znamená, že v tom musíte mít jasno i uvnitř interního týmu.
+
+## Slaďte si standardy a očekávání ve svém týmu
+
+Mezi lidmi, kteří se budou v interním týmu o zakázku starat, je potřeba vyjasnit podobné aspekty práce:
+
+- v jaké fázi spolupráce budete zapojovat další aktéry (vč. uživatelů), jaký typ zpětné vazby po nich budete chtít a v jaké formě?
+- v jaké fázi budete sami poskytovat zpětnou vazbu na různé aspekty výstupů? (Viz část k editování v [návodu pro tvorbu kvalitních a efektivních zpráv](kvalitni-zpravy.qmd#jak-texty-editovat)) - tj. shodněte se např., zda v prvních fázích řešit gramatické a podobné povrchové problémy
+
+Zde je samozřejmě prostor pro robustnější kodifikaci standardů pro analytické výstupy např. ve formě šablon, checklistů a standardů. Ty vám mohou pomoci (a můžete je sdílet přímo s externími výzkumníky), ale pomůže i shoda na základních očekáváních a postupech. 
+
+## Komunikujte s dodavatelem průběžne
+
+Základní parametry by ideálně měly být stanoveny už v zadávací dokumentaci.
+
+- Připravte se ale na to, že komunikovat s dodavatelem byste měli průběžně,
+- zvláště pokud zadávací dokumentace předpokládá jen výměnu draftů zpráv a kontrolní dny.
+
+Schůzky by se měly týkat
+
+- celkového posunu postupu práce na projektu
+- metodologických otázek a kvality výzkumu
+
+Pokuste se na jednotlivé schůzky připravit agendu, která tyto rozměry práce pokryje, abyste na nic nezapomněli.
+
+## Vtáhněte do procesu uživatele výstupů
+
+Je důležité v průběhu celého externího výzkumu komunikovat s budoucími uživateli, aby byly reflektovány i jejich očekávání a potřeby. Optimálně samozřejmě uživatele vtáhněte už do tvorby záměru a/nebo zadávací dokumentace, tím by to ale nemělo skončit.
+
+Uživateli nejspíš není jen váš nadřízený nebo manažeři věcných útvarů, pro které danou práci pořizujete, ale i věcní experti v těchto útvarech. A tyto skupiny mohou mít různá očekávání a požadavky.
+
+Podobně je vhodné reflektovat vývoj výzkumu a to, zda a jak se (mj. i na základě zpětné vazby uživatelů) vzdalujeme od původního záměru.
+
+Pokud máte nejasno v tom, kdo a jak bude výstupy využívat, zapracujte na výzkumu uživatelů výstupů: [k tomu nabízíme samostatný návod](user-testing.qmd), který vám pomůže i při ladění samotných zpráv a dalších analytických produktů.
+
+## Podpořte kvalitu výstupu a jeho využití
+
+Červenou nití celého procesu samozřejmě je cíl dobrat se co nejkvalitnějšího výsledku (ve smyslu jeho metodologické kvality i využitelnosti) a díky vtažení uživatelů do procesu podpořit jeho využití.
+
+K tomu vám mohou pomoct tyto specializované návody
+
+- [Uživatelský výzkum a testování pro analytické výstupy](user-testing.qmd)
+- [Kvalitní a efektivní zprávy](kvalitni-zpravy.qmd)
+- [Péče o existující výstupy](knowledge-management.qmd)
+
+<br> 
+
+:::
+
+# Na co si dát pozor anebo tipy a triky {#triky}
+
+Pro sladění očekávání uvnitř týmu, který externí výzkum managuje se jako velmi vhodná ukázala přítomnost externího moderátora/facilitátora diskuzí. Člověk zvenčí může vnést nový pohled, utřídit stávající argumenty a narušit zacyklení interních debat. 
+
+V průběhu celého procesu je vhodné jak uvnitř týmu, tak v komunikaci s dodavatelem, stále mít na paměti kdo je uživatelem a cílovou skupinou daného výzkumu. Jakkoliv je náročné koordinovat a slaďovat různé standardy a očekávání, průběžná snaha v těchto ohledech může ušetřit čas, energii a frustraci při finalizaci a schvalování výstupů.
+
+Citlivou otázkou je přijetí výstupů z výzkumu, pokud jsou jejich závěry negativní pro dané stakeholdery. Tým pověřený managementem externího výzkumu by v takovýchto případech měl být obzvláště citlivý v komunikaci výsledků dotyčným aktérům. 
+
+Zároveň je nutné vůči všem zapojeným aktérům tematizovat skutečnost, že ne vše ohledně externího výzkumu je možné změnit (kvůli kapacitám všech zúčastněných, popř. mantinelům původního zadání). Průběžný expectation management může usměrnit diskuze ohledně řady aspektů výzkumného procesů a výstupů.  
+
+V praxi se dále ukázalo jako produktivní nastavit i neformální kanály komunikace s dodavateli, obzvláště po skončení daného projektu, kdy je vhodné vytvořit prostor pro upřímnou zpětnou vazbu na proces spolupráce, aniž by to mělo dopad na formální vztah v rámci zakázky. Neformální prostředí umožňuje otevřeněji prodiskutovat úskalí a možnosti zlepšení spolupráce.  
+
+# Další zdroje
+
+Užitečným úvodem do role interní jednotky ve vztahu k externím dodavatelům je [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) od Evaluační jednotky NOK, se kterou jsme tento návod vyvíjeli.
+
+Může se vám hodit i [Manager's Guide z webu Better Evaluations](https://www.betterevaluation.org/frameworks-guides/managers-guide-evaluation) -- stejné principy a postupy jde aplikovat, ať jde o evaluace nebo jiný druh výzkumu a analýz.
