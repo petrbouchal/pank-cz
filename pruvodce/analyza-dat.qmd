@@ -5,4 +5,10 @@ poradi: 3
 blok: ["metody"]
 ---
 
-> ## Tento návod ještě připravujeme
+> ## Tento návod ještě připravujeme.
+>
+> Tento návod nezvnikl v rámci projektu PANK jako výsledek práce se [zapojenými týmy](/pribeh-projektu.qmd#zapojené-týmy-ve-státní-správě).
+>
+> Vytváříme ho až následně, abychom nad rámec původního projektu poskytli podporu v oblasti, kde podle nás chybí. 
+>
+> Návod zveřejníme na jaře 2024.
