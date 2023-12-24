@@ -6,7 +6,9 @@ poradi: 30
 editor: source
 ---
 
-## Zatím sbírka linků
+# Co tu najdete
+
+# Metodologické příručky a přehledy
 
 https://www.sciencespo.fr/liepp/fr/publications.html#Fiches%20m%C3%A9thodologiques%20LIEPP
 
@@ -16,24 +18,47 @@ https://www.betterevaluation.org/
 
 https://natcen.ac.uk/centres/methodology-and-innovation-hub
 
-https://knowledge4policy.ec.europa.eu/publication/science-policy-handbook_en
+@suchaSciencePolicyHandbook2020
 
 https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en 
 
-https://www.bond.org.uk/wp-content/uploads/2022/08/impact_evaluation_guide_0515.pdf 
 
-https://www.oecd.org/derec/50399683.pdf / https://www.gov.uk/research-for-development-outputs/dfid-working-paper-38-broadening-the-range-of-designs-and-methods-for-impact-evaluations
+## Zkoumání veřejné správy
+
+@roggerGovernmentAnalyticsHandbook2023
+
+## Dotazníková šetření
+
+@schaefferAdvancesScienceAsking2020
+
+# Kauzalita, evaluace, dopady
+
+@huntington-kleinEffectIntroductionResearch2021
+
+@sternImpactEvaluationGuide2015
+
+@sternBroadeningRangeDesigns2012
 
 https://dpmc.govt.nz/our-programmes/policy-project/policy-methods-toolbox
 
-Foresight
 
-CBA
+@humphreysIntegratedInferencesCausal2023
 
-@salganikBitBitSocial2019
+## Zaostřeno na analýzy kvantitativních dat
 
 @alexanderTellingStoriesData2023
 
-@huntington-kleinEffectIntroductionResearch
+@salganikBitBitSocial2019
 
-@humphreysIntegratedInferencesCausal2023
+# Z dílny Českých priorit
+
+Foresight
+
+Forecasting
+
+CBA
+
+# Citace
+
+:::{#refs}
+:::
