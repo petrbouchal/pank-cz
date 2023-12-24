@@ -1,16 +1,14 @@
 ---
 title: "Tvorba nástroje veřejné politiky"
 subtitle: "Jak lépe připravovat dotační výzvy a podobné instrumenty"
-categories: ["Organizace práce", "Design politik"]
 blok: ["metody"]
-title-block-categories: false
 poradi: 7
 editor: source
 ---
 
 # O co jde a k čemu to je
 
-Tato intervence se zabývá zlepšením a zefektivněním přípravy nástroje veřejné politiky jako jsou například evaluační výzvy. Popisuje činnost od prvních kroků formulace cílů nástroje až po přípravu evaluace jeho působení. Je určena pro oddělení, jejichž agenda se neskládá primárně z policy analysis a přípravy nástrojů veřejné politiky, a jejichž zaměstnanci a zaměstnankyně nejsou příliš zkušení v těchto činnostech. 
+Tento návod se zabývá zlepšením a zefektivněním přípravy nástroje veřejné politiky jako jsou například evaluační výzvy. Popisuje činnost od prvních kroků formulace cílů nástroje až po přípravu evaluace jeho působení. Je určena pro oddělení, jejichž agenda se neskládá primárně z policy analysis a přípravy nástrojů veřejné politiky, a jejichž zaměstnanci a zaměstnankyně nejsou příliš zkušení v těchto činnostech. 
 
 :::{.aside}
 
@@ -20,8 +18,8 @@ Tuto intervenci jsme vyvinuli a testovali ve spolupráci s oddělením rovných 
 
 <br />
 
-:::{.btn .btn-primary}
-[přečíst případovou studii](../pripadove-studie/mpsv)
+:::{.btn .btn-resource}
+[Číst případovou studii](../pripadove-studie/mpsv)
 :::
 
 :::
