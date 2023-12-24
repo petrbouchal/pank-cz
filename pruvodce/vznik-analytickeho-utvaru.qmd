@@ -93,7 +93,7 @@ Pro zlepšování dílčích aktivit týmu se vám můžou hodit další návody
 
 [Zadání analytického úkolu ⟶](zadani-analytickeho-ukolu.qmd)
 
-[Zadávání externího výzkumu ⟶](zadavani-externiho-vyzkumu.qmd)
+[Zadávání externího výzkumu ⟶](management-externiho-vyzkumu.qmd)
 
 [Využití programu BETA ⟶](beta2.qmd)
 
