@@ -16,7 +16,6 @@ website:
     title: false
     toggle-position: right
     right:
-      - text: "   "
       - text: "Průvodce prací s poznatky"
         file: pruvodce/index.qmd
         menu:
@@ -52,7 +51,7 @@ website:
   repo-url: https://github.com/petrbouchal/pank-foolkit
   # repo-actions: [edit, issue]
   search:
-    # show-item-context: tree
+    show-item-context: tree
     keyboard-shortcut: none
     type: overlay
 
@@ -81,7 +80,7 @@ format:
     anchor-sections: false
     link-external-icon: true
     link-external-newwindow: true
-    link-external-filter: "^(?:http:|https:)\/\/(((www\\.)?pank\\.cz)|([a-z0-9\\-]*\\-\\-)?pank\\-cz\\.netlify\\.app?)"
+    link-external-filter: "^(?:http:|https:)\/\/(((www\\.)?pank\\.cz)|([a-z0-9\\-]*\\-\\-)?pank\\-cz\\.netlify\\.app?)|(ceskepriority\\.cz\\?)|(quarto\\.org\\?)"
     include-in-header: 
       file: "matomo.html"    
 

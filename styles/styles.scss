@@ -200,6 +200,10 @@ body {
   text-decoration: none !important;
 }
 
+.quarto-listing-container-default div.body {
+  width: auto !important;
+}
+
 .card-title-small .listing-title {
   margin-bottom: 50pt !important;
   padding-bottom: 50pt !important;
@@ -474,6 +478,15 @@ h2 {
 
 .navbar-logo {
   max-height: 40px;
+}
+
+.navbar .navbar-container>.navbar-brand-container {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.navbar #quarto-search {
+  margin-left: 0px;
 }
 
 .front-listing-left > ul {
