@@ -5,12 +5,14 @@ listable: not
 language: 
   toc-title-website: Rychlá navigace
 toc: true
-format:
-  html: 
-    grid:
-      sidebar-width: 300px
 format-links: false
-sidebar: false
+format:
+  html:
+    page-layout: article
+    toc-location: left
+    grid:
+      sidebar-width: 400px
+      margin-width: 300px
 title-block-banner: false
 listing:
   - id: rizeni
