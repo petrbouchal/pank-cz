@@ -1,9 +1,75 @@
 ---
 title: "Další metody práce s poznatky"
 subtitle: "Rozcestník metodologických průvodců a příruček"
-# blok: ['metody']
 poradi: 30
 editor: source
 ---
 
-> Tento návod pro Vás ještě připravujeme.
+# Co tu najdete
+
+Zde nabízíme odkazy na veřejně (většinou online) dostupné publikace a nástroje, které zatím nenašly místo v žádném z našich návodů. Většinou jde o zdroje týkající se konkrétních analytických a výzkumných metod.
+
+:::{.aside}
+**Jak se dostat k dalším zdrojům**
+
+Pokud nemáte přístup k univerzitní knihovně [Národní knihovna](https://ntk.cz) a [Národní technická knihovna](https://techlib.cz) nabízejí (vzdálený) online přístup k mnoha odborným časopisům i specizizovaným knihám. 
+
+Členství v každé z nich nestojí ani stovku ročně, vyplatí se to. 
+:::
+
+Přednostně vybíráme ty zaměřené na praktiky a nespecialisty.
+
+# Metodologické příručky a přehledy
+
+- Laboratoř evaluací politik na Sciences-Po publikuje [několikastránková představení](https://www.sciencespo.fr/liepp/fr/publications.html#Fiches%20m%C3%A9thodologiques%20LIEPP) základních i specializovaných metod relevantních pro veřejné politiky. 
+- V českém prostředí dobrý úvod do evaluační práce -- použitelný i pro neevaluátory nabízí [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) z dílny Evaluační jednotky Národního orgánu pro koordinaci na MMR -- jeden z našich zapojených útvarů! 
+- Pro širší uchopení lze doporučit i Science for Policy Handbook od kolektivu autorů z Joint Research Center Evropské komise [@suchaSciencePolicyHandbook2020
+].
+- [BetterEvaluation](https://www.betterevaluation.org/) je rozcestník evaluačních a příbuzných metod a přístupů.
+- Evropská komise udržuje tzv. [Better Regulation Toolbox](https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en ), což je zásobník metod a postupů pro tvorbu regulací a veřejných politik.
+
+## Zkoumání veřejné správy
+
+Pokud se vaše analytická práce dotýká veřejné správy samotné, mohl by vám přijít vhod *The Government Analytics Handbook: Leveraging Data to Strengthen Public Administration*[@roggerGovernmentAnalyticsHandbook2023], dostupná na https://www.worldbank.org/en/publication/government-analytics.
+
+## Dotazníková šetření
+
+Ledacos k nim najdete v publikacích odkazovaných výše; nás ale zaujal nedávný přehled literatury na téma "jak správně pokládat otázky" [@schaefferAdvancesScienceAsking2020].
+
+# Kauzalita, evaluace, dopady
+
+Zásadní pro práci s poznatky v oblasti veřejných politik je porozumění kauzalitě a jak ji zkoumat. Níže několik nedávných publikací zaměřených většinou na praktiky.
+
+- Úvod do hodnocení dopadů přináší *Impact Evaluation A Guide for Commissioners and Managers* [@sternImpactEvaluationGuide2015].
+
+- Spektrum metod použitelných pro kauzální usuzování v evaluaci veřejných politik představuje report vzniklý pro britské ministerstvo mezinárodního rozvoje [@sternBroadeningRangeDesigns2012]
+
+- Ucelené (zde spíše odbornější) pojednání mixed methods přístupů ke zkoumání kauzálních vztahů najdete v [@humphreysIntegratedInferencesCausal2023], dostupné na https://macartan.github.io/integrated_inferences/.
+
+- Velmi přístupné pojednání o moderních přístupek ke kauzalitě nabízí nedávná kniha *The Effect* [@huntington-kleinEffectIntroductionResearch2021].
+
+## Zaostřeno na analýzy kvantitativních dat
+
+Rohan Alexander v (online) knize *Telling Stories With Data* [@alexanderTellingStoriesData2023] ukazuje celý proces analýzy dat i s důrazem na kvantitativní analytické metody zaměřené na kauzální usuzování, a zároveň uvádí příklady realizace jednotlivých úkolů v jazyce R.
+
+Matthew Salganik v knize *Bit by Bit: Social Research in the Digital Age* [@salganikBitBitSocial2019; dostupné na https://www.bitbybitbook.com/en/1st-ed/preface/] ukazuje, jak společenskověvní výzkum může pracovat s dostupností velkého množství dat a digitálních technologií.
+
+:::{.callout-tip}
+### Připravujeme
+
+Pro oblast analýzy kvantitativních dat připravujeme rozšíření průvodce o specializovaný návod.
+
+# Z dílny Českých priorit
+
+České priority nabízí materiály v několika oblastech:
+
+- [Foresight](https://www.ceskepriority.cz/foresight) - [příručka], [slovníček pojmů](https://www.ceskepriority.cz/foresight/slovnicek-foresightovych-pojmu), [rozcestník metod](https://www.ceskepriority.cz/foresight#metody)
+
+- [Forecasting](https://www.ceskepriority.cz/forpol)
+
+- Cost-benefit analýza, viz mj. příručku [@zapletalovaPruvodceAnalyzouNakladu2019]
+
+# Citace
+
+:::{#refs}
+:::
