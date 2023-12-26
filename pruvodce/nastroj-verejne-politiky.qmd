@@ -8,69 +8,66 @@ editor: source
 
 # O co jde a k čemu to je
 
-Tento návod se zabývá zlepšením a zefektivněním přípravy nástroje veřejné politiky, jako jsou například:
+Tento návod vám pomůže zefektivnit přípravu nástrojů veřejné politiky, jako jsou například:
 
-- dotační výzvy (např. v EU fondech)
-- dotační programy
-- programy podpory
-- vyhlášky a metodiky
-- návrhy politik a strategií 
+-   dotační výzvy (např. v EU fondech)
+-   dotační programy
+-   programy podpory
+-   vyhlášky a metodiky
+-   návrhy politik a strategií
 
-Maximalistickým případem této problematiky je tvorba legislativy, u které definici problému a vyhodnocování řešení ex ante probíhá v rámci tzv. [Regulatory Impact Assessment (RIA)](https://ria.gov.cz/). Tento návod nastiňuje analogický proces, ale v odlehčeném podání pro méně rozsáhlá opatření.
+Může se hodit i pro jednotlivé projekty.
 
-:::{.callout-tip}
+Naopak maximalistickým případem takového úkolu je tvorba zákonů, u které definici problému a vyhodnocování řešení ex ante probíhá v tzv. [Regulatory Impact Assessment (RIA)](https://ria.gov.cz/). Tento návod nastiňuje analogický proces, ale v odlehčeném podání pro méně rozsáhlá opatření.
 
+::: callout-tip
 ### Proč řešit "tvorbu nástroje" a co tím myslíme
 
 Vycházíme ze dvou poznatků:
 
 1\. Týmy ve státní správě často tvoří podobné nástroje veřejné politiky (*policy making*), ale někdy si ani neuvědomují, že jde o specifickou disciplínu.[^1]
 
-2\. Pro tento typ práce neexistuje v českém prostředí dobrá metodická podpora. 
+2\. Pro tento typ práce neexistuje v českém prostředí dobrá metodická podpora.
+:::
 
 [^1]: s výjimkou tvorby strategií, pro kterou sice existuje [metodika](https://mmr.gov.cz/cs/microsites/portal-strategicke-prace-v-ceske-republice/nastroje-a-metodicka-podpora/vystupy-projektu), ale jde o méně častou a více specializovanou činnost.
 
-:::
-
-Účelem tohoto návodu není tyto činnosti kompletně definovat a metodicky uchopit, ani nahradit existující metodiky tvorby např. výzev v EU fondech. 
+Účelem tohoto návodu není tyto činnosti kompletně definovat a metodicky uchopit, ani nahradit existující metodiky tvorby např. výzev v EU fondech.
 
 Chceme ale upozornit na nejčastější nepochopení a nástrahy, se kterými se týmy potýkají, a usnadnit komukoli se s nimi popasovat bez ohledu na to, zda je o dotační program, výzvu v EU fondech, nebo jiný typ nástroje.
 
-:::{.aside}
-
+::: aside
 **Případové studie**
 
 Tento návod jsme vyvinuli a testovali ve spolupráci s oddělením rovných příležitostí ESF MPSV.
 
 <br />
 
-:::{.btn .btn-resource}
+::: {.btn .btn-resource}
 [Číst případovou studii](../pripadove-studie/mpsv)
 :::
-
 :::
 
 # Sebediagnostika: je to pro mě?
 
 Návod je vhodný pro týmy v těchto situacích:
 
-- Jejich pracovní agenda se obvykle neskládá z přípravy nástrojů veřejné politiky (tj. nejde např. o strategické týmy nebo týmy přípravy výzev EU fondů)
-- Nedisponují dostatečnými lidskými kapacitami (především znalosti metod, postupů atd.) ani časovými možnostmi 
-- Nemají vyjasněné zadání zeshora 
-- Není jasná definice toho, k čemu má daný nástroj mířit
-- Nedisponují dostatečnou datovou podporou
+-   Jejich pracovní agenda se obvykle neskládá z přípravy nástrojů veřejné politiky (tj. nejde např. o strategické týmy nebo týmy přípravy výzev EU fondů)
+-   Nedisponují dostatečnými lidskými kapacitami (především znalosti metod, postupů atd.) ani časovými možnostmi
+-   Nemají vyjasněné zadání zeshora
+-   Není jasná definice toho, k čemu má daný nástroj mířit
+-   Nedisponují dostatečnou datovou podporou
 
 <br>
 
-:::{.strip .page-full .page-columns}
-
-# Jak na to 
+::: {.strip .page-full .page-columns}
+# Jak na to
 
 ## Principy a základní rady
 
 **Rozfázujte si proces a nepředbíhejte**
 
-Je zásadní začít u definice a zachycení problému, ne u řešení. Alespoň v úvodu je dobré tyto kroky oddělit. 
+Je zásadní začít u definice a zachycení problému, ne u řešení. Alespoň v úvodu je dobré tyto kroky oddělit.
 
 **Analýza neznamená popsat všechno**
 
@@ -82,7 +79,7 @@ Na každý problém je dobré dívat se prizmatem někoho, koho se ten problém 
 
 **Stavte na tom, co už se o problému a řešeních ví**
 
-Zřejmě nejste první na světě -- a možná ani v Česku nebo ve vaší organizaci -- kdo tento problém řeší. Podívejte se, co už se v dané oblasti udělalo a co se ví o tom, jak se to povedlo -- u nás i v zahraničí. 
+Zřejmě nejste první na světě -- a možná ani v Česku nebo ve vaší organizaci -- kdo tento problém řeší. Podívejte se, co už se v dané oblasti udělalo a co se ví o tom, jak se to povedlo -- u nás i v zahraničí.
 
 **Rozšiřte si pole možných řešení**
 
@@ -90,19 +87,19 @@ Stejně jako byste neměli do procesu vstupovat s pevnou představou toho, jak p
 
 **Včas se zamyslete, jak budete váš nástroj vyhodnocovat**
 
-Evaluaci -- způsob vyhodnocení vašeho návrhu při jeho realizaci -- byste neměli zvažovat, až program dobíhá, ale naopak už když nástroj vymýšlíte. Může se vám například stát, že příležitost nástroj vyhodnotit a něco se tím naučit bude rozhodující při volbě variant. Navíc při návrhu nástroje dokážete ovlivnit praktické provedení a sběr dat tak, abyste dokázali dobře vyhodnotit jeho dopady. 
+Evaluaci -- způsob vyhodnocení vašeho návrhu při jeho realizaci -- byste neměli zvažovat, až program dobíhá, ale naopak už když nástroj vymýšlíte. Může se vám například stát, že příležitost nástroj vyhodnotit a něco se tím naučit bude rozhodující při volbě variant. Navíc při návrhu nástroje dokážete ovlivnit praktické provedení a sběr dat tak, abyste dokázali dobře vyhodnotit jeho dopady.
 
 **Nenechte se rozptýlit formálním procesem**
 
 Pokud výsledný návrh potřebujete promítnoud o nějaké formální šablony (např. šablona výzvy v EU fondech), nenechte tuto šablonu strnout vaši pozornost. Mohlo by se vám pak stát, že budete vyplňovat formálně požadované kolonky, ale uteče vám podstata problému. Raději si rozbor problému a popis řešení udělejte podle sebe, abyste měli jasno po věcné stránce. Až pak všechno překlopte do požadované formy.
 
-## 1. Vyjasněte řešený problém a zaměření a cíle nástroje
+## 1. Vyjasněte řešený problém a cíle nástroje
 
 V této části byste si měli ujasnit několik základních věcí:
 
-1. Jaký problém řešíme?
-2. Opravdu problém existuje tak, jak si myslíme?
-3. Koho se týká? Komu chceme pomoci?
+1.  Jaký problém řešíme?
+2.  Opravdu problém existuje tak, jak si myslíme?
+3.  Koho se týká? Komu chceme pomoci?
 
 Všimněte si dvou věcí:
 
@@ -114,133 +111,171 @@ Zadruhé, nikde zatím není řeč o řešení. Např. "chceme dát firmám pen�
 
 Měli byste pracovat s několika různými zdroji poznatků, namátkou:
 
-- Statistická data
-- Administrativní data
-- Odborné studie
-- Šedá literatura
-- Konzultace s experty (akademici, praktici)
-- Informace od aktérů/cílových skupin, pokud možno včetně systematicky sbíraných kvalitativních dat
+-   Statistická data
+-   Administrativní data
+-   Odborné studie
+-   Šedá literatura
+-   Konzultace s experty (akademici, praktici)
+-   Informace od aktérů/cílových skupin, pokud možno včetně systematicky sbíraných kvalitativních dat
 
 Zkuste zodpovídat následující otázky:
 
-- Jaký je stav?
-- Jak se to mění v čase?
-- Koho se týká?
-- Co je jeho příčinou?
+-   Jaký je stav?
+-   Jak se to mění v čase?
+-   Koho se týká?
+-   Co je jeho příčinou?
 
-:::{.callout-tip}
-
+::: callout-tip
 ### Připravujeme
 
 Pro jednotlivé zdroje dat a typy otázek připravujeme doplnění průvodce o specializované návody.
-
 :::
 
 ### Způsoby práce
 
 V této fázi je důležité -- ale také náročné -- pracovat tak, abyste se vyznali v informacích, které sesbíráte, a dokázali z nich vyvodit závěry.
 
-:::{.aside}
-Další praktické tipy najdete v návodu [[Řízení společné práce -->](rizeni-spolecne-prace.qmd)]{.btn .btn-resource}
+::: aside
+Další praktické tipy najdete v návodu [[Řízení společné práce --\>](rizeni-spolecne-prace.qmd)]{.btn .btn-resource}
 :::
 
 Několik praktických doporučení:
 
-- rozdělte jednotlivé otázky do podotázek, třeba podle podproblémů, cílových skupin apod.
-- pokud vás na úkolu pracuje víc, rozdělte si podotázky mezi sebe
-- pravidelně se potkávejte na schůzkách, kde si vzájemně vysvětlíte, na co jste přišli
-- pečlivě udržujte odkazy na všechny zdroje; poznámky, odkazy a shrnutí udržujte ve sdílených dokumentech
-- v dokumentu a na sdílených schůzkách si vytvořte prostor na zachycování a sdílení těchto typů informací:
-  - co nás překvapilo?
-  - co ještě nevíme?
-  - pomůže nám hledat ještě další informace?
+-   rozdělte jednotlivé otázky do podotázek, třeba podle podproblémů, cílových skupin apod.
+-   pokud vás na úkolu pracuje víc, rozdělte si podotázky mezi sebe
+-   pravidelně se potkávejte na schůzkách, kde si vzájemně vysvětlíte, na co jste přišli
+-   pečlivě udržujte odkazy na všechny zdroje; poznámky, odkazy a shrnutí udržujte ve sdílených dokumentech
+-   v dokumentu a na sdílených schůzkách si vytvořte prostor na zachycování a sdílení těchto typů informací:
+    -   co nás překvapilo?
+    -   co ještě nevíme?
+    -   pomůže nám hledat ještě další informace?
+
+:::{.callout-warning}
+
+*Kromě koordinace samotného týmu si už od začátku dohodněte způsob spolupráci s vaším "klientem", tedy tím, kdo se pod výsledek bude muset podepsat. Nejspíš to je někdo v vedení vaší organizace. Pokud jste od něj/ní nedostali zadaní, využijte svůj postup práce tak, abyste se s pomocí vámi vytvořených podkladů a poznatků postupně zadání dobrali.*
+
+:::
 
 ## 2. Možná řešení
 
 ### Rozšiřte spektrum řešení
 
-Abyste se vyhli roubování nástroje na předem vymyšlené řešení, rozšiřte spektrum řešení. Pomůže vám, když se zamyslíte nad 
+Abyste se vyhnuli roubování nástroje na předem vymyšlené řešení, rozšiřte spektrum řešení. Pomůže vám, když se zamyslíte nad
 
 **1. různými způsoby, jak měnit chování těch, na které nástrojem cílíme**
 
-Zde pomůže tzv. COM-B model. Ten zjednodušuje lidské chování na tři rozměry: motivaci, zdroje a schopnosti. 
+Zde pomůže tzv. COM-B model. Ten zjednodušuje lidské chování na tři rozměry: motivaci, zdroje a schopnosti.
 
 ![Zdroj: @olejniczakComparingBehavioralAssumptions2020 podle @michieBehaviourChangeWheel2011](images/com-b-olejniczak.jpeg)
 
 **2. různými typy veřejněpolitických zásahů**
 
-Možná začínáte u toho, že chcete finančně podpořit nějakou aktivitu. Může ale součástí řešení být i něco jiného, třeba poskytnutí informací, přesvědčování nebo  práce se vzory?
+Možná začínáte u toho, že chcete finančně podpořit nějakou aktivitu. Může ale součástí řešení být i něco jiného, třeba poskytnutí informací, přesvědčování nebo práce se vzory?
 
 ![Zdroj: @michieBehaviourChangeWheel2011](images/behaviour-change-wheel.webp)
 
-V této fázi se vám může hodit společný brainstorming, abyste si rozšířili pole možností klidně o nějaké méně realistické. Jejich hodnocení a zvažování může přijít později. Zkuste začít otázkami jako "Jak bychom mohli pomoct [skupině X], aby [dosáhla Y]" (tzv. *How might we* otázka), nebo "Co kdybychom..."
+V této fázi se vám může hodit společný brainstorming, abyste si rozšířili pole možností klidně o nějaké méně realistické. Jejich hodnocení a zvažování může přijít později. Zkuste začít otázkami jako "Jak bychom mohli pomoct \[skupině X\], aby \[dosáhla Y\]" (tzv. *How might we* otázka), nebo "Co kdybychom..."
 
-Pro inspiraci mohou pomoct třeba tyto [karty](https://www.slideshare.net/Openpolicymaking/060715-change-cardscollated").
+Pro inspiraci mohou pomoct třeba tyto [karty](https://www.slideshare.net/Openpolicymaking/060715-change-cardscollated%22).
 
-### Sesbírat inspirace
+### Sesbírejte inspirace
 
-Předchozí krok by vám měl dat nápady, kde a jak hledat -- zkuste tedy najít nějaké skutečné příklady využití podobného řešení u podobného problémy. 
+Předchozí krok by vám měl dat nápady, kde a jak hledat -- zkuste tedy najít nějaké skutečné příklady využití podobného řešení u podobného problémy.
 
-### Zvážit, co může fungovat
+Pomůže šedá i akademická literatura, clearing houses; k některým tématům existují v některých zemích přímo dedikované instituce, které poznatky syntetizují, např. britské [What Works Centers](https://www.gov.uk/guidance/what-works-network).
+
+### Zvažte, co může fungovat
 
 Zde byste se měli spolehnout hlavně na dostupnou literaturu, od té akademické po evaluace.
 
+Pokud součástí nástroje je více intervencí, nebo se snažíte ovlivnit chování více různých aktérů a tím dosáhnout nějaké změny, měli byste mít jasno v tom, jak bude celá věc fungovat.
+
+Tomu se říká teorie změny: lze ji zpracovat třeba formou diagramu, kde nakreslíte vztahy mezi vašimi intervencemi a jejich adresáty a pokusíte se od intervence dopracovat ke kýžené změně. Každá šipka by za sebou měla mít nějaké poznatky – něco, co podloží váš předpoklad, že k takové změně dojde na základě vaší intervence.
+
+::: callout-tip
+### Připravujeme
+
+Pro práci na rešerši zdrojů připravujeme doplnění průvodce o specializový návo.
+:::
+
 ## 3. Výběr a zdůvodnění řešení
 
-Zde se dostáváme do komplikované fáze. Každé možné řešení má své pro a proti
+Zde se dostáváme do komplikované fáze. Každé možné řešení má své pro a proti a každé s sebou může stát na jiných hodnotách.
+
+<div>
+
+Často vám může posloužit i logika cost-benefit analýzy (CBA), tedy postupu, díky kterému můžete "nacenit" náklady a přínosy navrhované intervence nebo jejích variant. Díky tomu můžete varianty porovnat nebo alespoň odhadnout, zda celé řešení bude celospolečensky výhodnější než stávající stav (nulová varianta). Ke cost-benefit analýze je k dispozici metodika od Českých priorit [@zapletalovaPruvodceAnalyzouNakladu2019], stejně jako návody např. [v Better Regulation Toolbox EK](https://commission.europa.eu/system/files/2023-09/BRT-2023-Chapter%208-Methodologies%20for%20analysing%20impacts%20in%20IAs%20evaluations%20and%20fitness%20checks_0.pdf).
+
+</div>
 
 ## 4. Příprava budoucí evaluace
 
-## V čem může pomoci účast externích spolupracovníků? 
+Zde není ideální prostor pro úplný úvod do tématu evaluací veřejných politik, tak jen několik základních rad na začátek:
 
-a. Moderace a facilitace interních workshopů k problematice
-b. Strukturování nápadů a debat 
-c. Feedback na drafty jednotlivých dokumentů
+1.  Zamyslete se, co by bylo potřeba za data a výzkumné kroky, abyste zjistili, jestli váš nástroj funguje tak, jak si představujete.
+    -   na jaké konkrétní otázky byste potřebovali odpověď?
+
+    -   jaká data by bylo potřeba mít nebo sbírat, abyste na tyto otázky dokázali odpovědět?
+2.  Pokud se otázky v bodě 1 podobají větě "chceme vědět, jestli to funguje", udělejte krok zpět a zkuste si ujasnit, co to znamená "to" a co to znamená "funguje". Jde vám o způsoby implementace, nebo o změnu nějakého výsledného stavu? A pokud nemáte jasno v tom, co je to "to", možná bude potřeba se vrátit na začátek (celého procesu).
+3.   Pokud v předchozích krocích nepadla žádná otázka, která by se podobala "chceme vědět, jak reálně probíhá implementace v terénu", zamyslete se, jestli by vám nepomohlo na tuto otázku znát odpověď před tím, než začnete evaluačně pátrat po výsledcích a dopadech.
+4.   Pokud jste v předchozích krocích nenašli jasné, evidence-informed řešení vašeho problému, které už někdo otestoval v podobném prostředí, zřejmě vás nebude zajímat jen odpověď na otázku "jestli to funguje" a "jak moc jsme pomohli cílové skupině" či "o kolik jsme díky intervenci posunuli s výsledkovou proměnnou X", ale také \*jak\* to vlastně ve skutečnosti funguje – jinými slovy, pokud vytváříte něco inovativního nebo něco přenášíte do nového prostředí, měly by vás zajímat nejen dopady, ale také mechanismy.
+
+## V čem může pomoci účast externích spolupracovníků?
+
+a.  Moderace a facilitace interních workshopů k problematice
+b.  Strukturování nápadů a debat
+c.  Feedback na drafty jednotlivých dokumentů
 
 Pokud je tento proces pro vás nový, externí hlas vás může efektivně vracet k řešení problému, pokud od něj předčasně utečete k hledání řešení, a může vám pomoct identifikovat nejasnosti v cílech a zaměření. Stejně tak vás může pobízet k větší představivosti při generování možných řešení, nebo naopak hrát roli ďáblova advokáta.
 
 Nemusí jít o experty na dané téma, ale je vhodné mít k sobě někoho, kdo je zvyklý uvažovat o veřejných politikách.
-
 :::
-
-
-
 
 # Tipy a triky
 
-- Zkušenosti ukazují, že je důležité přípravu intervenční logiky nepodcenit, jelikož se pak propisuje do všech dalších kroků 
-- Záměr nástroje je nápomocný v definici celkové problematiky a jejího vyjasnění si uvnitř týmu
-- Stejně tak evaluaci nástroje je nutné řešit již v průběhu formulace, aby bylo možné do designu nástroje zanést evaluační mechanismy 
-- Kolektivní brainstorming a připomínkování 
-- Vhodná je přítomnost někoho externího, pokud existuje ta možnost
+-   Zkušenosti ukazují, že je důležité přípravu intervenční logiky nepodcenit, jelikož se pak propisuje do všech dalších kroků
+-   Záměr nástroje je nápomocný v definici celkové problematiky a jejího vyjasnění si uvnitř týmu
+-   Stejně tak evaluaci nástroje je nutné řešit již v průběhu formulace, aby bylo možné do designu nástroje zanést evaluační mechanismy
+-   Kolektivní brainstorming a připomínkování
+-   Vhodná je přítomnost někoho externího, pokud existuje ta možnost
 
 # Další zdroje
 
 ## Rámce pro tvorbu opatření a strategií
 
-Better Regulation Toolbox
+Jako zásobník metod a postupů pro jednotlivé fáze úkolů můžete použit třeba tyto toolboxy:
 
-NZ Policy Making Toolkit
-
-
+- [Better Regulation Toolbox](https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en) (Evropská komise)
+- [Policy Methods Toolbox](https://www.dpmc.govt.nz/our-programmes/policy-project/policy-methods-toolbox) (Novozélandská státní správa)
 
 ## Nástroje pro inspiraci a sebehodnocení
 
-@olejniczakComparingBehavioralAssumptions2020
+Alternativní schéma typů veřejněpolitických intervencí nabízí @olejniczakComparingBehavioralAssumptions2020. Původní schéma tzv. Behaviour Change Wheel najdete v @michieBehaviourChangeWheel2011.
 
-@michieBehaviourChangeWheel2011
+Jedním ze základních požadavků na návrhy veřejných politik je tzv. transparentost využitých poznatků. Pokud se chcete podívat, jak hodnotit to, jestli je z návrhu jasné, jaké podklady pro něj byly využity a jak se došlo k vásledku, podívejte se na tzv. Evidence Transparency Framework [@rutterEvidenceTransparencyFramework2015] -- a rovnou můžete hodnocení podronit i vlastní práci. 
 
-@instituteforgovernmentEvidenceTransparencyFramework2015
+## Modelování a kvantifikace
+
+Kromě výše uvdedených toolboxů existují i metodiky specializované na modelování a kvantifikaci veřejných politik. V českém prostředí lze využít @zapletalovaPruvodceAnalyzouNakladu2019, komplexní metodika britské státní správy se jmenuje [Green Book](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2020).
 
 ## Inovace a rozšíření
 
-Design thinking, karty
+Inovativních přístupů k tvorbě politik je spousta -- zde je několik zdrojů, které pochází od praktiků a můžete si z nich vybrat dílčí postupy a nápady.
 
-Open policy
+- Postupy z oblasti tzv. Design Thinking, např. využijte nástroje ze sady [100 metod](https://100metod.cz/) nebo karty a metody [Libdesign](https://libdesign.kisk.cz/designove-metody)
+
+- Metody z oblasti tzv. open policy making, viz [Open Policy Making Toolkit](https://www.gov.uk/guidance/open-policy-making-toolkit), z nich např. [Change Cards](https://www.slideshare.net/Openpolicymaking/060715-change-cardscollated)
+
+- Experimentální metody: [Experimental Policy Design Methods](https://openpolicy.blog.gov.uk/2022/05/18/launching-our-experimental-policy-design-methods/)
+
 
 ## K zamyšlení
 
+Že proces tvorby politik není vždy úhledý a přímočarý -- a jak to tedy vypadá v praxi, konkrétně té brtiské, popisuje publikace *Policy Making in the Real World* [@hallsworthPolicyMakingReal2011].
 
+Praktickou příručkou pro zvládnutí celého procesu pak je @bardachPracticalGuidePolicy2020.
+
+Dílčí pojmy, problémy, ale i mýty a nepochopení dobře zachycuje Paul Cairney ve svých knihách a [na blogu](https://paulcairney.wordpress.com/blog/), včetně [pojetí témat v 1000 slovech](https://paulcairney.wordpress.com/1000-words/) -- nebo [750 slovech](https://paulcairney.wordpress.com/policy-analysis-in-750-words/) nebo [500](https://paulcairney.wordpress.com/500-words/).
 
 ## Rozvojové příležitosti
 
@@ -248,5 +283,5 @@ Ministerstvo pro místní rozvoj nabízí [vzdělávací program Strateduka](htt
 
 ## Odkazovaná literatura
 
-:::{#refs}
+::: {#refs}
 :::
