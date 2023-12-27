@@ -271,7 +271,13 @@ Inovativních přístupů k tvorbě politik je spousta -- zde je několik zdroj�
 
 ## K zamyšlení
 
-Že proces tvorby politik není vždy úhledý a přímočarý -- a jak to tedy vypadá v praxi, konkrétně té brtiské, popisuje publikace *Policy Making in the Real World* [@hallsworthPolicyMakingReal2011].
+Pár poznámek na příbuzná témata najdete v našich [vzkazech pro týmy](/doporuceni/teze-o-praci-s-poznatky-stat.qmd).
+
+Při vyhodnocnování studií a vstupů pro vaši práci se může hodit příručka *Using Research Evidence: A Proactice Guide* [@breckonUsingResearchEvidence2015].
+
+Pokud byste se rádi zamysleli nad tím, jaké druhy poznatků jsou vhodné a dostatečné pro vaši práci, začtěte se do studie *What Counts as Good Evidence?* [@nutleyWhatCountsGood2013].
+
+Že proces tvorby politik není vždy úhledný a přímočarý -- a jak to tedy vypadá v praxi, konkrétně té brtiské, popisuje publikace *Policy Making in the Real World* [@hallsworthPolicyMakingReal2011].
 
 Praktickou příručkou pro zvládnutí celého procesu pak je @bardachPracticalGuidePolicy2020.
 

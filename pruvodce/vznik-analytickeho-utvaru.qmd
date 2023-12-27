@@ -121,6 +121,10 @@ Pro ladění chodu týmu, zvlášť ve vztahu k práci s daty na pomezí věcné
 
 [Managing a Data Science Team](https://hbr.org/2018/10/managing-a-data-science-team)
 
+*Standardy*
+
+Slovenská síť analytických útvarů se řídí vlastní [metodikou budování analytických kapacit](https://www.minv.sk/swift_data/source/verejna_sprava/analyticke_kapacity/materialy/Metodika%20pre%20budovanie%20AK%20marec%202020.pdf). Zachycuje definici analytické jednotky a standardy na personální i organizační úrovni.
+
 *Kvalita dat a péče o ně*
 
 viz v průvodci návod [-> Správa dat](data-management.qmd)
