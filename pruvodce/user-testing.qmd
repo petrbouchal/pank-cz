@@ -1,6 +1,6 @@
 ---
 title: "Uživatelský výzkum pro analytické výstupy"
-subtitle: "Výstupy a reporty, které fungují pro uživatelé"
+subtitle: "Výstupy a reporty, které fungují pro uživatele"
 categories: ["Pro analytiky", "Design"]
 blok: ["vyuziti"]
 title-block-categories: false
