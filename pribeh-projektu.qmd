@@ -16,6 +16,11 @@ listing:
 
 Projekt PANK realizoval výzkumný tým Českých priorit od jara 2021 do podzimu 2023. 
 
+:::{.aside}
+Projekt [podpořila Technologická agentura ČR](https://starfos.tacr.cz/cs/project/TL05000330).
+:::
+
+
 ## Kdo jsme & jak nás kontaktovat {#kontakt}
 
 Tyto tváře stojí za většinou projektu jako výzkumný tým. Můžete nás kontaktovat na adrese <pank@ceskepriority.cz>.
@@ -52,6 +57,8 @@ Motivace a základní logiku projektu jsme shrnuli dvou článcích na blogu Če
 - [Analytici ve státní správě: rozmanitější, než se zdá](https://www.ceskepriority.cz/blog/analytici-ve-statni-sprave-rozmanitejsi-nez-se-zda)
 
 Projekt jsme také v úvodu prezentovali na [Pracovní skupině pro spolupráci analytických útvarů](https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/) -- viz [podklady](https://www.cr2030.cz/wp-content/uploads/2021/06/6.-jedn%C3%A1n%C3%AD-PSSA%C3%9A.zip).
+
+Celý projekt jsme z výzkumnického pohledu zachytili v [souhrnné výzkumné zprávě (PDF)](/downloads/pank_souhrnna-zprava-202309.pdf) ze září 2023. 
 
 ## Akce, reporty, další dění
 
@@ -150,6 +157,6 @@ Děkujeme také
 - expertům a expertkám, kteří nám radili s jednotlivými tématy: Kristína Pšorn Zákopčanová, Ladislava Zbiejczuk Suchá, Michal Koláček
 - kolegům a kolegyním v Kampusu Hybernská za azyl a produkci akcí
 - kolegům a kolegyním  v Českých prioritách za rady, odbornou a komunikační podporu a skvělou společnost
-- členům týmu GovLab a dalším účastníkům sdílení mezi průvodci změnou
+- členům týmu [GovLab](https://govlab.cz/) a dalším účastníkům sdílení mezi průvodci změnou
 
 
