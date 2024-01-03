@@ -51,8 +51,8 @@ website:
   repo-url: https://github.com/petrbouchal/pank-foolkit
   # repo-actions: [edit, issue]
   search:
-    # show-item-context: tree
-    # keyboard-shortcut: none
+    show-item-context: tree
+    keyboard-shortcut: none
     type: overlay
 
 format:
