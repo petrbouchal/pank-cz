@@ -73,7 +73,7 @@ Pro oblast analýzy kvantitativních dat připravujeme rozšíření průvodce o
 
 České priority nabízí materiály v několika oblastech:
 
-- [Foresight](https://www.ceskepriority.cz/foresight) -- [příručka], [slovníček pojmů](https://www.ceskepriority.cz/foresight/slovnicek-foresightovych-pojmu), [rozcestník metod](https://www.ceskepriority.cz/foresight#metody)
+- [Foresight](https://www.ceskepriority.cz/foresight) -- [příručka](https://www.ceskepriority.cz/files/metodicka-prirucka.pdf), [slovníček pojmů](https://www.ceskepriority.cz/foresight/slovnicek-foresightovych-pojmu), [rozcestník metod](https://www.ceskepriority.cz/foresight#metody)
 
 - [Forecasting](https://www.ceskepriority.cz/forpol)
 
