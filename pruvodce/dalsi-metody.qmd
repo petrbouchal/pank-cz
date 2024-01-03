@@ -21,18 +21,23 @@ Pokud nemáte přístup k univerzitní knihovně [Národní knihovna](https://nt
 
 Přednostně vybíráme ty zaměřené na praktiky a nespecialisty.
 
+> **Odkazy na webové zdroje**
+> 
+> Většina odkazovaných zdrojů je dostupných online, z velké části volně.
+>
+> Odkazy najdete buď přímo u daného zdroje, nebo v citaci po najetí na jména autorů v závorce, případně po kliknutí v seznamu citací na konci stránky.
+
 # Metodologické příručky a přehledy
 
 - Laboratoř evaluací politik na Sciences-Po publikuje [několikastránková představení](https://www.sciencespo.fr/liepp/fr/publications.html#Fiches%20m%C3%A9thodologiques%20LIEPP) základních i specializovaných metod relevantních pro veřejné politiky. 
 - V českém prostředí dobrý úvod do evaluační práce -- použitelný i pro neevaluátory nabízí [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) z dílny Evaluační jednotky Národního orgánu pro koordinaci na MMR -- jeden z našich zapojených útvarů! 
-- Pro širší uchopení lze doporučit i Science for Policy Handbook od kolektivu autorů z Joint Research Center Evropské komise [@suchaSciencePolicyHandbook2020
-].
+- Pro širší uchopení lze doporučit i Science for Policy Handbook od kolektivu autorů z Joint Research Center Evropské komise [@suchaSciencePolicyHandbook2020].
 - [BetterEvaluation](https://www.betterevaluation.org/) je rozcestník evaluačních a příbuzných metod a přístupů.
 - Evropská komise udržuje tzv. [Better Regulation Toolbox](https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en ), což je zásobník metod a postupů pro tvorbu regulací a veřejných politik.
 
 ## Zkoumání veřejné správy
 
-Pokud se vaše analytická práce dotýká veřejné správy samotné, mohl by vám přijít vhod *The Government Analytics Handbook: Leveraging Data to Strengthen Public Administration*[@roggerGovernmentAnalyticsHandbook2023], dostupná na https://www.worldbank.org/en/publication/government-analytics.
+Pokud se vaše analytická práce dotýká veřejné správy samotné, mohl by vám přijít vhod *The Government Analytics Handbook: Leveraging Data to Strengthen Public Administration* [@roggerGovernmentAnalyticsHandbook2023], dostupná na <https://www.worldbank.org/en/publication/government-analytics>.
 
 ## Dotazníková šetření
 
@@ -46,26 +51,29 @@ Zásadní pro práci s poznatky v oblasti veřejných politik je porozumění ka
 
 - Spektrum metod použitelných pro kauzální usuzování v evaluaci veřejných politik představuje report vzniklý pro britské ministerstvo mezinárodního rozvoje [@sternBroadeningRangeDesigns2012]
 
-- Ucelené (zde spíše odbornější) pojednání mixed methods přístupů ke zkoumání kauzálních vztahů najdete v [@humphreysIntegratedInferencesCausal2023], dostupné na https://macartan.github.io/integrated_inferences/.
+- Ucelené (zde spíše odbornější) pojednání mixed methods přístupů ke zkoumání kauzálních vztahů najdete v [@humphreysIntegratedInferencesCausal2023], dostupné na <https://macartan.github.io/integrated_inferences/>.
 
-- Velmi přístupné pojednání o moderních přístupek ke kauzalitě nabízí nedávná kniha *The Effect* [@huntington-kleinEffectIntroductionResearch2021].
+- Velmi přístupné pojednání o moderních přístupek ke kauzalitě nabízí nedávná kniha *The Effect* [@huntington-kleinEffectIntroductionResearch2021], dostupné na <https://theeffectbook.net/>.
 
 ## Zaostřeno na analýzy kvantitativních dat
 
 Rohan Alexander v (online) knize *Telling Stories With Data* [@alexanderTellingStoriesData2023] ukazuje celý proces analýzy dat i s důrazem na kvantitativní analytické metody zaměřené na kauzální usuzování, a zároveň uvádí příklady realizace jednotlivých úkolů v jazyce R.
 
-Matthew Salganik v knize *Bit by Bit: Social Research in the Digital Age* [@salganikBitBitSocial2019; dostupné na https://www.bitbybitbook.com/en/1st-ed/preface/] ukazuje, jak společenskověvní výzkum může pracovat s dostupností velkého množství dat a digitálních technologií.
+Matthew Salganik v knize *Bit by Bit: Social Research in the Digital Age* [@salganikBitBitSocial2019] dostupné na <https://www.bitbybitbook.com/en/1st-ed/preface/> ukazuje, jak společenskovědní výzkum může pracovat s dostupností velkého množství dat a digitálních technologií.
 
 :::{.callout-tip}
+
 ### Připravujeme
 
 Pro oblast analýzy kvantitativních dat připravujeme rozšíření průvodce o specializovaný návod.
+
+:::
 
 # Z dílny Českých priorit
 
 České priority nabízí materiály v několika oblastech:
 
-- [Foresight](https://www.ceskepriority.cz/foresight) - [příručka], [slovníček pojmů](https://www.ceskepriority.cz/foresight/slovnicek-foresightovych-pojmu), [rozcestník metod](https://www.ceskepriority.cz/foresight#metody)
+- [Foresight](https://www.ceskepriority.cz/foresight) -- [příručka], [slovníček pojmů](https://www.ceskepriority.cz/foresight/slovnicek-foresightovych-pojmu), [rozcestník metod](https://www.ceskepriority.cz/foresight#metody)
 
 - [Forecasting](https://www.ceskepriority.cz/forpol)
 
