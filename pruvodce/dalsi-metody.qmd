@@ -14,7 +14,7 @@ Zde nabízíme odkazy na veřejně (většinou online) dostupné publikace a ná
 :::{.aside}
 **Jak se dostat k dalším zdrojům**
 
-Pokud nemáte přístup k univerzitní knihovně [Národní knihovna](https://ntk.cz) a [Národní technická knihovna](https://techlib.cz) nabízejí (vzdálený) online přístup k mnoha odborným časopisům i specializovaným knihám. 
+Pokud nemáte přístup k univerzitní knihovně [Národní knihovna](https://nkp.cz) a [Národní technická knihovna](https://techlib.cz) nabízejí (vzdálený) online přístup k mnoha odborným časopisům i specializovaným knihám. 
 
 Členství v každé z nich nestojí ani stovku ročně, vyplatí se to. 
 :::
