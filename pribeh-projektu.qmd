@@ -1,5 +1,5 @@
 ---
-title: "O nás"
+title: "Co je PANK"
 editor: source
 description: "<a href='index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
 aliases: 
@@ -16,14 +16,22 @@ listing:
 
 Projekt PANK realizoval výzkumný tým Českých priorit od jara 2021 do podzimu 2023. 
 
-## Kdo jsme & kontakt {#kontakt}
+## Kdo jsme & jak nás kontaktovat {#kontakt}
 
 Tyto tváře stojí za většinou projektu jako výzkumný tým. Můžete nás kontaktovat na adrese <pank@ceskepriority.cz>.
 
 :::{#tym}
 :::
 
-Důležitou roli hráli také Martin Nekola, Marek Havrda, Vladimír Kváča, Richard Kokeš a Petr Janský jako seniorní tým projektu. S metodami nám pomáhali Petr Witz a Martin Nekola.
+:::{.aside}
+
+Důležitou roli hráli také Martin Nekola, Marek Havrda, Vladimír Kváča, Richard Kokeš a Petr Janský jako seniorní tým projektu.
+
+<br>
+
+S metodami nám pomáhali Petr Witz a Martin Nekola.
+
+:::
 
 ## Zapojené týmy ve státní správě
 
