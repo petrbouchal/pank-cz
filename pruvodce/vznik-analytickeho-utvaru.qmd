@@ -121,7 +121,7 @@ TODO fix & annotate links
 
 [The Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework)
 
-[Qualitz assurance of administrative data](https://www.ons.gov.uk/economy/economicoutputandproductivity/output/methodologies/qualityassuranceofadministrativedatausedineducationstatistics)
+[Quality assurance of administrative data](https://www.ons.gov.uk/economy/economicoutputandproductivity/output/methodologies/qualityassuranceofadministrativedatausedineducationstatistics)
 
 [Good Practice Principles for Data Ethics in the Public Sector](https://www.oecd.org/gov/digital-government/good-practice-principles-for-data-ethics-in-the-public-sector.pdf)
 

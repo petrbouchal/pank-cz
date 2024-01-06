@@ -3,7 +3,6 @@ title: "Další metody práce s poznatky"
 subtitle: "Rozcestník metodologických průvodců a příruček"
 blok: ['metody']
 poradi: 30
-blok: ["metody"]
 editor: source
 ---
 
