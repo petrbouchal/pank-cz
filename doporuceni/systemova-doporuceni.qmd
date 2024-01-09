@@ -175,7 +175,7 @@ Zde nenabízíme konkrétní řešení (tj. jaké typy rozvojových intervencí 
 
 Jak vysvětlujeme ve [vzkazech pro stát](teze-o-praci-s-poznatky-stat.qmd), rozvoj analytiků by měl z významné části stát na učení se od druhých a využívání a sdílení existující expertizy a dovedností. Stejně tak by součástí rozvojových intervencí mohly být interní stáže, které využívají mnohé státní služby v zahraničí a jako smysluplné je hodnotili i členové týmu v [jedné z našich případových studií](/pripadove-studie/case-tacr.qmd).
 
-Pro definování relevantních znalostí a dovedností, které by program měl budovat, lze využít např. rámec vyvinutý Joint Research Center [@@schwendingerCompetencesPolicymakingCompetence2022] a pro zacílení na různé role a typy analytiků lze využít [@@olejniczakRoleAnalystsPublic2018 resp. @howlettPolicyAnalyticalCapacity2015 viz obr. 1 na s. 175].
+Pro definování relevantních znalostí a dovedností, které by program měl budovat, lze využít např. rámec vyvinutý Joint Research Center [@schwendingerCompetencesPolicymakingCompetence2022] a pro zacílení na různé role a typy analytiků lze využít [@olejniczakRoleAnalystsPublic2018 resp. @howlettPolicyAnalyticalCapacity2015 viz obr. 1 na s. 175].
 
 Jako inspirace může sloužit i funkční standard [@hmgovernmentGovernmentFunctionalStandard2023] a [kompetenční model](https://analysisfunction.civilservice.gov.uk/careers/role-profiles-and-career-pathways/) britské státní služby pro analytickou profesi.
 
