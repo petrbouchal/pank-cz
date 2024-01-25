@@ -150,7 +150,7 @@ Ať čelíte jakémukoliv problému, je velká šance, že ho někdy někde tak�
 - Podívejte se do dobrých praxí v [našich případových studích](/pripadove-studie), případně v odpovídajících návodech
 - Poptejte se mezi členy [Pracovní skupiny pro spolupráci analytických útvarů](https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/)
 - Zeptejte se na [Slacku Česko.digital](https://cesko-digital.atlassian.net/wiki/spaces/CD/pages/87457796/Slack), [prohledejte webináře](https://www.youtube.com/@CeskoDigital/videos)
-- Podívejte se do [mapy státní správy](/nastroje/mapa)), kde jsou další podobné týmy
+- Podívejte se do [mapy státní správy](/nastroje/mapa-statu)), kde jsou další podobné týmy
 - Prohledejte repozitáře studií
   - [Knihovna evaluací ESIF](https://www.dotaceeu.cz/cs/evropske-fondy-v-cr/narodni-organ-pro-koordinaci/evaluace/knihovna-evaluaci)
   - [Knihovna produktů ESF](https://www.esfcr.cz/produkty-opz)
