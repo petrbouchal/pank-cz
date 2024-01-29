@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Mapa státu",
     "section": "",
-    "text": "Tady jste správně, pokud:\n\nse snažíte zjistit, kde ve struktuře nějakého úřadu se nachází konkrétní útvar\nbyste chtěli větět, kde a ve kterých úřadech najdete nějaké typy útvarů\nvás zajímají útvary pracující s poznatky napříč státní správou\n\n\n\n\nOrganizační schémata všech organizací\nVyberte jednu ze 237 organizací a prohlédněte si jeji organizačních schéma.\nVe schématech jsou vyznačené typy útvarů pracujících s poznatky.\nSeznam útvarů je u každé organizace i v prohledávatelné tabulce.\n\nProcházet organizační schémata\n\n\nÚtvary pracující z poznatky v celé státní správě\n\nSeznam všech útvarů pracujících s poznatky\n\nnapříč 237 organizacemi\nrozdělené podle typu\ni podle organizace\nv prohledávatelné tabulce\n\n\nProhledávat analytické útvary\n\n\n\n\n\n\n\n\nZdroje a obsah dat\n\n\n\nPracujeme s údaji se systemizace služebních úřadů na základě dostupných otevřených dat.\nDostupné jsou údaje o celé struktuře úřadů, které spadají pod státní službu. Těch je celkem 237 a data ukazují jejich strukturu od oddělení po vedení.\nK dispozici jsou názvy útvarů a počty míst v nich zahrnutých.\nPodle názvů pak doplňujeme kategorizací útvarů podle různých oblastí práce s poznatky.\nAktualizováno podle otevřených dat z 2024-01-01.\n\n\n\nData ke stažení\nStáhněte si ve formátu CSV\n\nkompletní strukturu úřadů\nseznam všech útvarů s doplněnou kategorizací role ve vztahu k práci s poznatky\ndataset vztahů jednotlivých útvarů\n\n\n\nKód\nKód, který data zpracovává, je dostupný na githubu petrbouchal/mapa-statu."
+    "text": "Tady jste správně, pokud:\n\nse snažíte zjistit, kde ve struktuře nějakého úřadu se nachází konkrétní útvar\nbyste chtěli vědět, kde a ve kterých úřadech najdete nějaké typy útvarů\nvás zajímají útvary pracující s poznatky napříč státní správou\n\n\n\n\nOrganizační schémata všech organizací\nVyberte jednu ze 237 organizací a prohlédněte si jeji organizačních schéma.\nVe schématech jsou vyznačené typy útvarů pracujících s poznatky.\nSeznam útvarů je u každé organizace i v prohledávatelné tabulce.\n\nProcházet organizační schémata\n\n\nÚtvary pracující z poznatky v celé státní správě\n\nSeznam všech útvarů pracujících s poznatky\n\nnapříč 237 organizacemi\nrozdělené podle typu\ni podle organizace\nv prohledávatelné tabulce\n\n\nProhledávat analytické útvary\n\n\n\n\n\n\n\n\nZdroje a obsah dat\n\n\n\nPracujeme s údaji ze systemizace služebních úřadů na základě dostupných otevřených dat.\nDostupné jsou údaje o celé struktuře úřadů, které spadají pod státní službu. Těch je celkem 237 a data ukazují jejich strukturu od oddělení po vedení.\nK dispozici jsou názvy útvarů a počty míst v nich zahrnutých.\nPodle názvů pak doplňujeme kategorizací útvarů podle různých oblastí práce s poznatky.\nAktualizováno podle otevřených dat z 2024-01-01.\n\n\n\nData ke stažení\nStáhněte si ve formátu CSV\n\nkompletní strukturu úřadů\nseznam všech útvarů s doplněnou kategorizací role ve vztahu k práci s poznatky\ndataset vztahů jednotlivých útvarů\n\n\n\nKód\nKód, který data zpracovává, je dostupný na githubu petrbouchal/mapa-statu."
   },
   {
     "objectID": "orgs.html",
@@ -906,6 +906,41 @@
     "objectID": "org_11001174.html",
     "href": "org_11001174.html",
     "title": "OSSZ Pelhřimov",
+    "section": "",
+    "text": "←zpět na seznam\n\nSchéma strukturySeznam útvarůTabulka struktury\n\n\n\n\n\n\n\n\nLegenda označení útvarů\n\n\n\n\nAnalýzy a evaluace Hodnocení, dopad Výzkum Monitoring Strategie, politiky, koncepce Statistika Ostatní\n\n\n\nPočet lidí zobrazený při najetí na bod útvaru zahrnuje lidi pracující přímo v útvaru a všech jeho podřízených útvarech.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKategorie vyznačuje analytické a podobné útvary (podle názvu), zbylé jsou označeny jako ostatní\nPočet míst: služební i pracovní místa podle systemizace, součet pro útvar včetně jeho podřízených útvarů\nÚroveň řízení: nižší číslo = vyšší úroveň\n\n\n\n\n\nKategorie útvaru\n\n\n\nostatní\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytický či příbuzný útvar\n\n\n\nNe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStav k 2024-01-01"
+  },
+  {
+    "objectID": "org_11001175.html",
+    "href": "org_11001175.html",
+    "title": "OSSZ Písek",
+    "section": "",
+    "text": "←zpět na seznam\n\nSchéma strukturySeznam útvarůTabulka struktury\n\n\n\n\n\n\n\n\nLegenda označení útvarů\n\n\n\n\nAnalýzy a evaluace Hodnocení, dopad Výzkum Monitoring Strategie, politiky, koncepce Statistika Ostatní\n\n\n\nPočet lidí zobrazený při najetí na bod útvaru zahrnuje lidi pracující přímo v útvaru a všech jeho podřízených útvarech.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKategorie vyznačuje analytické a podobné útvary (podle názvu), zbylé jsou označeny jako ostatní\nPočet míst: služební i pracovní místa podle systemizace, součet pro útvar včetně jeho podřízených útvarů\nÚroveň řízení: nižší číslo = vyšší úroveň\n\n\n\n\n\nKategorie útvaru\n\n\n\nostatní\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytický či příbuzný útvar\n\n\n\nNe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStav k 2024-01-01"
+  },
+  {
+    "objectID": "org_11001176.html",
+    "href": "org_11001176.html",
+    "title": "OSSZ Plzeň - jih",
+    "section": "",
+    "text": "←zpět na seznam\n\nSchéma strukturySeznam útvarůTabulka struktury\n\n\n\n\n\n\n\n\nLegenda označení útvarů\n\n\n\n\nAnalýzy a evaluace Hodnocení, dopad Výzkum Monitoring Strategie, politiky, koncepce Statistika Ostatní\n\n\n\nPočet lidí zobrazený při najetí na bod útvaru zahrnuje lidi pracující přímo v útvaru a všech jeho podřízených útvarech.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKategorie vyznačuje analytické a podobné útvary (podle názvu), zbylé jsou označeny jako ostatní\nPočet míst: služební i pracovní místa podle systemizace, součet pro útvar včetně jeho podřízených útvarů\nÚroveň řízení: nižší číslo = vyšší úroveň\n\n\n\n\n\nKategorie útvaru\n\n\n\nostatní\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytický či příbuzný útvar\n\n\n\nNe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStav k 2024-01-01"
+  },
+  {
+    "objectID": "org_11001177.html",
+    "href": "org_11001177.html",
+    "title": "OSSZ Plzeň - město",
+    "section": "",
+    "text": "←zpět na seznam\n\nSchéma strukturySeznam útvarůTabulka struktury\n\n\n\n\n\n\n\n\nLegenda označení útvarů\n\n\n\n\nAnalýzy a evaluace Hodnocení, dopad Výzkum Monitoring Strategie, politiky, koncepce Statistika Ostatní\n\n\n\nPočet lidí zobrazený při najetí na bod útvaru zahrnuje lidi pracující přímo v útvaru a všech jeho podřízených útvarech.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKategorie vyznačuje analytické a podobné útvary (podle názvu), zbylé jsou označeny jako ostatní\nPočet míst: služební i pracovní místa podle systemizace, součet pro útvar včetně jeho podřízených útvarů\nÚroveň řízení: nižší číslo = vyšší úroveň\n\n\n\n\n\nKategorie útvaru\n\n\n\nostatní\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytický či příbuzný útvar\n\n\n\nNe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStav k 2024-01-01"
+  },
+  {
+    "objectID": "org_11001178.html",
+    "href": "org_11001178.html",
+    "title": "OSSZ Plzeň - sever",
+    "section": "",
+    "text": "←zpět na seznam\n\nSchéma strukturySeznam útvarůTabulka struktury\n\n\n\n\n\n\n\n\nLegenda označení útvarů\n\n\n\n\nAnalýzy a evaluace Hodnocení, dopad Výzkum Monitoring Strategie, politiky, koncepce Statistika Ostatní\n\n\n\nPočet lidí zobrazený při najetí na bod útvaru zahrnuje lidi pracující přímo v útvaru a všech jeho podřízených útvarech.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKategorie vyznačuje analytické a podobné útvary (podle názvu), zbylé jsou označeny jako ostatní\nPočet míst: služební i pracovní místa podle systemizace, součet pro útvar včetně jeho podřízených útvarů\nÚroveň řízení: nižší číslo = vyšší úroveň\n\n\n\n\n\nKategorie útvaru\n\n\n\nostatní\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytický či příbuzný útvar\n\n\n\nNe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStav k 2024-01-01"
+  },
+  {
+    "objectID": "org_11001179.html",
+    "href": "org_11001179.html",
+    "title": "OSSZ Praha - východ",
     "section": "",
     "text": "←zpět na seznam\n\nSchéma strukturySeznam útvarůTabulka struktury\n\n\n\n\n\n\n\n\nLegenda označení útvarů\n\n\n\n\nAnalýzy a evaluace Hodnocení, dopad Výzkum Monitoring Strategie, politiky, koncepce Statistika Ostatní\n\n\n\nPočet lidí zobrazený při najetí na bod útvaru zahrnuje lidi pracující přímo v útvaru a všech jeho podřízených útvarech.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKategorie vyznačuje analytické a podobné útvary (podle názvu), zbylé jsou označeny jako ostatní\nPočet míst: služební i pracovní místa podle systemizace, součet pro útvar včetně jeho podřízených útvarů\nÚroveň řízení: nižší číslo = vyšší úroveň\n\n\n\n\n\nKategorie útvaru\n\n\n\nostatní\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalytický či příbuzný útvar\n\n\n\nNe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStav k 2024-01-01"
   },
