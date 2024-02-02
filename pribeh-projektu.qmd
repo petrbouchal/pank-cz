@@ -66,9 +66,9 @@ Celý projekt jsme z výzkumnického pohledu zachytili v [souhrnné výzkumné z
 
 V úvodu projektu jsme kromě diagnostické fáze práce se zapojenými týmy realizovali také mapování analytických kapacit v centrální státní správě. Můžete si přečíst [shrnutí poznatků z tohoto šetření](/mapovani/mapovani-shrnuti.pdf). 
 
-### ČP.edu: série tematických vzdělávacích akcí 
+### ČP.edu: série tematických vzdělávacích akcí {#cpedu}
 
-#### Data a vizualizace
+#### Data a vizualizace {#cpedu-data}
 
 Kromě práce se zapojenými týmy jsme jednotlivé aspekty práce s poznatky otevírali také formou veřejných přednášek v sérii ČP.edu.
 
@@ -90,7 +90,7 @@ Série pokračuje dalšími tématy -- na mailing list Vás rád zařadí Tomá�
 
 {{< video https://www.youtube.com/watch?v=lF1hPyNwBbE >}}
 
-#### Práce s kvalitativními daty
+#### Práce s kvalitativními daty  {#cpedu-kvali}
 
 1. Kvalitativní data #1: proč je kvalitativní výzkum vhodný pro policy making? -- video (26. 10. 2023)
 

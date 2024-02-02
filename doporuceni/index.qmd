@@ -38,7 +38,7 @@ Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zle
 Další zdroje, nástroje a návody které by se vám mohly hodit. Od koncepčnějších po velmi praktické, české i ze světa.
 
 :::{.btn .btn-primary}
-[Procházet inspirace a zdroje&nbsp;⟶](/inspirace)
+[Procházet inspirace a zdroje&nbsp;⟶](/nastroje)
 :::
 
 :::

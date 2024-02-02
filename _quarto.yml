@@ -6,7 +6,9 @@ project:
     navigate: false
   resources:
   - fonts
-  - nastroje
+  - nastroje/mapa-statu
+  - nastroje/beta
+  - nastroje/test.html
 
 website:
   site-url: https://pank.cz
@@ -32,6 +34,8 @@ website:
       - text: "Doporučení"
         file: doporuceni/index.qmd
       - pripadove-studie/index.qmd
+      - text: Inspirace
+        file: nastroje/index.qmd
       - pribeh-projektu.qmd
     logo: /images/logotype_blue.png
   twitter-card:

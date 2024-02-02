@@ -1,0 +1,347 @@
+---
+title: "Nástroje -- zdroje -- inspirace"
+subtitle: Kde hledat rady a nápady, kde se učit, s kým se potkat, co číst a poslouchat
+format:
+  html: 
+    link-external-newwindow: true
+    link-external-icon: false
+    title-block-banner: true
+    page-layout: full
+listing: 
+- id: inspirace
+  template: ../ejs/inspirace.ejs
+  # field-required: [title, subtitle, path, categories]
+  filter-ui: true
+  page-size: 100
+  template-params:
+    columns: 4
+  contents: 
+    - title: Mapa státu
+      categories: [Analytické útvary]
+      subtitle: Organizační struktury úřadů a přehled analytických útvarů
+      path: mapa-statu/
+    - title: Projekty TA ČR Beta
+      subtitle: Projekty aplikovaného výzkumu pro stát od roku 2013
+      categories: ["Studie & projekty"]
+      path: beta/
+    - title: Kurzy pro analytiky
+      subtitle: Aktuální seznam kurzů pro analytiky od MV ČR
+      categories: ["Vzdělávání a rozvoj"]
+      path: https://www.kvalitavs.cz/kurzy-pro-analytiky-ve-verejne-sprave/
+    - title: "ČP.edu: data"
+      categories: ["Toolkity & metody"]
+      subtitle: Série přednášek na téma práce s kvantitativními daty
+      path: "/pribeh-projektu.qmd#cpedu-data"
+    - title: "ČP.edu: kvalitativní data"
+      subtitle: Série přednášek na téma práce s kvalitativními daty
+      categories: ["Toolkity & metody"]
+      path: "/pribeh-projektu.qmd#cpedu-kvali"
+    - title: "Mapování analytických kapacit [PANK]"
+      subtitle: Studie analytických týmů na základě šetření z roku 2021
+      path: /mapovani/mapovani-shrnuti.pdf
+      categories: ["Analytické útvary"]
+    - title: "Knihovna evaluací EU fondů (alt)"
+      subtitle: Alternativní rozhraní ke knihovně evaluací ESI fondů
+      path: https://petrbouchal.xyz/evaluace
+      categories: ["Studie & projekty"]
+    - title: "Knihovna evaluací EU fondů (MMR)"
+      subtitle: Všechny evaluace ESI fondů v ČR
+      path: https://petrbouchal.xyz/evaluace
+      categories: ["Studie & projekty"]
+    - title: "Starfos (TA ČR)"
+      subtitle: Databáze výzkumných projektů
+      path: https://starfos.tacr.cz
+      categories: ["Studie & projekty"]
+    - title: "Průvodce evaluátora (MMR)"
+      subtitle: Příručka postupů a metod (nejen) pro evaluátory
+      path: "https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx"
+      categories: ["Toolkity & metody"]
+    - title: SAPEA Podcast
+      subtitle: Rozhovory s praktiky k tématu science for policy of Joint Research Centre EK
+      path: https://sapea.info/Podcasty/?s=09
+      categories: ["Podcasty"]
+    - title: INGSA Horizon Podcast
+      subtitle: Podcasty mezinárodní sítě vědeckých poradců
+      path: https://ingsa.org/home/Podcast/
+      categories: ["Podcasty"]
+    - title: Zákulisí sociologie
+      subtitle: Od výzkumníků [ústavu STEM](https://stem.cz)
+      path: https://talk.youradio.cz/porady/zakulisi-sociologie
+      categories: ["Podcasty"]
+    - title: De facto
+      subtitle: Podcast od Fakulty sociálních věd UK
+      path: https://fsv.cuni.cz/zivot-na-fakulte/Podcasty-de-facto
+      categories: ["Podcasty"]
+    - title: Okno příležitosti 
+      subtitle: Podcast katedry veřejné a sociální politiky FSV UK
+      path: https://open.spotify.com/show/1OpLJ58KYZ0NGSNai5Eh4O
+      categories: [Podcasty]
+    - title: Data Boutique
+      subtitle: O datech ve veřejném prostoru s Josefem Šlerkou od investigace.cz
+      path: https://www.investigace.cz/databoutique/
+      categories: ["Podcasty"]
+    - title: Ministerský jednorožec
+      subtitle: Podcast týmu sociálních inovací na Ministerstvu práce (MPSV)
+      path: https://www.podporujemeinovace.cz/inspirace/Podcasty/
+      categories: ["Podcasty"]
+    - title: DATA MESH
+      subtitle: Podcast & newsletter české datové komunity
+      path: https://www.datamesh.cz/
+      categories: ["Podcasty", "Newslettery & blogy"]
+    - title: Experiencing Data
+      subtitle: Podcasty o produktovém přístupu k využívání dat
+      categories: ["Podcasty"]
+    - title: IDEA Talks
+      subtitle: Video a Podcasty o studiích think tanku IDEA
+      path: https://idea.cerge-ei.cz/vystupy/idea-talks
+    - title: Studie IDEA
+      subtitle: Policy-relevantní studie think tanku IDEA při CERGE-EI
+      path: https://idea.cerge-ei.cz/vystupy/studie
+      categories: ["Studie & projekty"]
+    - title: Sociologický časopis
+      subtitle: Volně přístupné články
+      path: https://sreview.soc.cas.cz/
+      categories: ["Studie & projekty"]
+    - title: Statistika&My
+      subtitle: Popularizační časopis Českého statistického úřadu
+      path: https://www.statistikaamy.cz/
+      categories: ["Newslettery & blogy"]
+    - title: Pracovní skupina analytiků
+      subtitle: Poloformální pracovní skupina analytických útvarů
+      path: https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/
+      categories: ["Komunita & setkávání"]
+    - title: Byro
+      subtitle: Komunita progresivních úředníků
+      path: https://byro.works
+      categories: ["Komunita & setkávání"]
+    - title: Česká evaluační společnost
+      subtitle: Odborná společnost profesionálů v oblasti evaluací
+      path: https://czecheval.cz
+      categories: ["Komunita & setkávání"]
+    - title: Konference EJ NOK
+      subtitle: Každoroční konference evaluátorů veřejné správy, nejen ve fondech EU, prezentace od roku 2015
+      path: https://www.dotaceeu.cz/cs/evropske-fondy-v-cr/narodni-organ-pro-koordinaci/evaluace/evaluacni-konference
+      categories: ["Komunita & setkávání"]
+    - title: Konference ČES
+      subtitle: Každoroční konference odborné společnosti
+      path: https://czecheval.cz/cs/konference/
+      categories: ["Komunita & setkávání"]
+    - title: Festival kreativní byrokracie
+      subtitle: Konference progresivních úředníků
+      path: https://creativebureaucracy.cz/
+      categories: ["Komunita & setkávání"]
+    - title: Byro mentoring
+      subtitle: mentoringová platforma propojující začínající i pokročilé české úředníky a úřednice se zkušenými leadery
+      path: https://www.byro.works/mentoring
+      categories: ["Vzdělávání a rozvoj"]
+    - title: Evaluační minimum
+      subtitle: Úvodní kurz evaluačních přístupů a metod
+      categories: ["Vzdělávání a rozvoj"]
+      path: https://czecheval.cz/cs/Skoleni-a-kurzy
+    - title: Webináře KvalitaVS.cz
+      subtitle: Série s příklady dobré praxe inovací nejen v práci s poznatky
+      path: https://www.kvalitavs.cz/webinare-inovacni-management/
+      categories: [Toolkity & metody]
+    - title: Expertní stanoviska AV ČR AVEX
+      subtitle: Příklady shrnutí vědeckých poznatků k různým tématům
+      categories: ["Studie & projekty"]
+      path: https://www.avcr.cz/cs/veda-a-vyzkum/avex/
+    - title: 100 Metod
+      subtitle: Rozcestník metod pro odpovědný design informačních služeb
+      categories: [Toolkity & metody]
+    - title: Foresight [České priority]
+      subtitle: "Jak pracovat s budoucností: příručka, slovníček pojmů, rozcestník metod"
+    - title: FORPOL [České priority]
+      subtitle: Jak využít forecasting
+      path: https://www.ceskepriority.cz/foresight
+    - title: Metodika CBA
+    - title: Knihovna produktů ESF
+    - title: UK Civil Service Analysis Function
+      path: https://analysisfunction.civilservice.gov.uk/
+    - title: Česko.digital
+    - title: Data vis meetup Brno
+    - title: R Meetup Praha
+    - title: Webináře Česko.digital
+    - title: What Works Centers UK
+    - title: Toolkity & metody
+    - title: Rozcestník repozitářů studií
+    - title: AI nástroje na práci s literaturou
+    - title: Metodika budovania analytických kapacít [SK]
+      path: https://www.mfsr.sk/files/archiv/78/Metodika-budovania-analytickych-kapacit-v-statnej-sprave.pdf
+      categories: ["Analytické útvary"]
+    - title: Zásobník metod [PANK]
+      subtitle: Rozcestník metod a přístupů nad rámec našeho průvodce
+      path: /pruvodce/dalsi-metody
+      categories: [Toolkity & metody]
+    - title: Economics & Marginalia Newsletter
+      subtitle: Newsletter (nejen) o výzkumu (nejen) v oblasti rozvojové ekonomie
+      path: https://link.cgdev.org/economics-marginalia-signup
+      categories: [Newslettery & blogy]
+    - title: "Jon Baron: Evidence Newsletter"
+      path: https://www.evidencenewsletter.net/
+      categories: [Newslettery & blogy]
+    - title: The Bridge
+      subtitle: Newsletter Australia & New Zealand School of Government
+      path: https://anzsog.edu.au/research-insights-and-resources/research-projects/the-bridge/
+      categories: [Newslettery & blogy]
+    - title: DataConnect
+      subtitle: Datový festival britské státní správy
+      path: https://dataconnect.api.gov.uk/
+      categories: [Komunita & setkávání, Newslettery & blogy]
+    - title: DataBites
+      subtitle: série akcí s příklady využití dat ve veřejné správě [UK]
+      path: https://www.google.com/search?q=databites+institute+for+government&sourceid=chrome&ie=UTF-8
+      categories: [Komunita & setkávání, Newslettery & blogy]
+    - title: Magenta Book
+      subtitle: Evaluační příručka britské státní správy
+      categories: [Toolkity & metody]
+      path: https://www.gov.uk/government/publications/the-magenta-book
+    - title: Better Regulation Toolbox
+      subtitle: Sada nástrojů a návodů pro tvorbu politik a regulací od EK
+      path: https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox_en
+      categories: [Toolkity & metody]
+    - title: Zásobník metod od SciencesPo
+      subtitle: Stručné představení spektra výzkumných metod od Laboratoře evaluací na Sciences Po
+      path: https://www.sciencespo.fr/liepp/fr/publications.html#Fiches%20m%C3%A9thodologiques%20LIEPP
+      categories: [Toolkity & metody]
+    - title: Vzdělávací program pro analytiky veřejné správy
+      subtitle: Pilotní program Ministerstva vnitra
+      path: https://www.kvalitavs.cz/vzdelavaci-program-pro-analytiky-ve-verejne-sprave/
+      categories: [Vzdělávání a rozvoj]
+---
+
+<style>
+.category-buttons {
+  margin-bottom: 10px;
+}
+
+.category-button {
+  margin: .3rem .3rem .3rem 0rem
+}
+
+.category-button.active {
+  background-color: #003C71 !important;
+  color: white !important;
+  border-color: #003C71;
+}
+
+.show-all.active {
+  background-color: #003C71 !important;
+  color: white !important;
+  border-color: #003C71;
+}
+
+.category-buttons {
+  <!-- margin-bottom: -50px; -->
+}
+
+.show-all {
+  margin-right: .3rem
+}
+
+.input-group-text {
+  display: none;
+}
+
+input.form-control {
+  border-radius: 10px !important;
+  
+}
+
+</style>
+
+<div id="category-buttons" class="category-buttons"></div>
+
+
+:::{#inspirace}
+:::
+
+<script>
+const elements = document.querySelectorAll('.g-col-1');
+const allCategories = new Set();
+
+  elements.forEach(element => {
+    const elementCategories = element.getAttribute('data-categories');
+    if (elementCategories) {
+      const categories = elementCategories.split(',');
+      categories.forEach(category => allCategories.add(category.trim()));
+    }
+  });
+
+// Dynamically generate buttons
+const categoryButtonsContainer = document.getElementById('category-buttons');
+
+const showAllButton = document.createElement('button');
+    showAllButton.textContent = 'Vše';
+    showAllButton.setAttribute('data-category', 'all');
+    showAllButton.classList.add('show-all');
+    showAllButton.classList.add('btn');
+    showAllButton.classList.add('btn-resource');
+    showAllButton.onclick = showAll;
+    categoryButtonsContainer.appendChild(showAllButton);
+
+allCategories.forEach(category => {
+    const button = document.createElement('button');
+    button.textContent = `${category}`;
+    button.setAttribute('data-category', category);
+    button.classList.add('btn');
+    button.classList.add('btn-resource');
+    button.classList.add('category-button');
+    button.onclick = () => toggleFilter(button);
+    categoryButtonsContainer.appendChild(button);
+});
+
+
+function toggleFilter(button) {
+    const elements = document.querySelectorAll('.g-col-1');
+    const buttons = document.querySelectorAll('.category-buttons button');
+    const showAllButton = document.querySelector('.show-all');
+
+    buttons.forEach(btn => {
+      if (btn === showAllButton) {
+        showAllButton.classList.remove('active');
+      } else if (btn === button) {
+        btn.classList.toggle('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+
+    let isAnyButtonActive = false;
+
+    buttons.forEach(btn => {
+      if (btn.classList.contains('active')) {
+        isAnyButtonActive = true;
+      }
+    });
+
+const selectedCategory = button.getAttribute('data-category');
+
+elements.forEach(element => {
+  const elementCategories = element.getAttribute('data-categories').split(',');
+
+  if (isAnyButtonActive && !elementCategories.includes(selectedCategory)) {
+    element.style.display = 'none';
+  } else {
+    element.style.display = 'block';
+  }
+});
+}
+
+function showAll() {
+  const elements = document.querySelectorAll('.g-col-1');
+  const buttons = document.querySelectorAll('.category-buttons button');
+  const showAllButton = document.querySelector('.show-all');
+
+  buttons.forEach(button => {
+    button.classList.remove('active');
+  });
+
+  showAllButton.classList.add('active');
+
+  elements.forEach(element => {
+    element.style.display = 'block';
+  });
+  }
+
+</script>
