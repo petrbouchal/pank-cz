@@ -68,7 +68,9 @@ Celý projekt jsme z výzkumnického pohledu zachytili v [souhrnné výzkumné z
 
 V úvodu projektu jsme kromě diagnostické fáze práce se zapojenými týmy realizovali také mapování analytických kapacit v centrální státní správě. Můžete si přečíst [shrnutí poznatků z tohoto šetření](/mapovani/mapovani-shrnuti.pdf). 
 
-### Série ČP.edu
+### ČP.edu: série tematických vzdělávacích akcí {#cpedu}
+
+#### Data a vizualizace {#cpedu-data}
 
 Kromě práce se zapojenými týmy jsme jednotlivé aspekty práce s poznatky otevírali také formou veřejných přednášek v sérii ČP.edu.
 
@@ -86,6 +88,22 @@ Kromě práce se zapojenými týmy jsme jednotlivé aspekty práce s poznatky ot
 
 
 Série pokračuje dalšími tématy -- na mailing list Vás rád zařadí Tomáš Čech, <tomas.cech@ceskepriority.cz>.
+
+#### Design veřejných služeb 26. 9. 2023
+
+{{< video https://www.youtube.com/watch?v=lF1hPyNwBbE >}}
+
+#### Práce s kvalitativními daty  {#cpedu-kvali}
+
+1. Kvalitativní data #1: proč je kvalitativní výzkum vhodný pro policy making? -- video (26. 10. 2023)
+
+{{< video https://www.youtube.com/watch?v=_Dv-ANVoyFs >}}
+
+2. Kvalitativní data #2: jak je získávat -- video (22. 11. 2023)
+
+{{< video https://www.youtube.com/watch?v=ghdbIQtLadc >}}
+
+Na leden 2024 připravujeme třetí část kvalitativní série; bude zaměřená na komunikaci poznatků z kvalitativních dat.
 
 ### [Festivaly kreativní byrokracie](https://creativebureaucracy.cz/)
 
