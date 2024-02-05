@@ -46,7 +46,7 @@ listing:
       categories: ["Studie & projekty"]
     - title: "Knihovna evaluací EU fondů (MMR)"
       subtitle: Všechny evaluace ESI fondů v ČR
-      path: https://petrbouchal.xyz/evaluace
+      path: https://petrbouchal.xyz/esif-evaluace
       categories: ["Studie & projekty"]
     - title: "Starfos (TA ČR)"
       subtitle: Databáze výzkumných projektů
