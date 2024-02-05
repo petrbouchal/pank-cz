@@ -277,6 +277,7 @@ const showAllButton = document.createElement('button');
     showAllButton.classList.add('show-all');
     showAllButton.classList.add('btn');
     showAllButton.classList.add('btn-resource');
+    showAllButton.classList.add('show-all', 'active');
     showAllButton.onclick = showAll;
     categoryButtonsContainer.appendChild(showAllButton);
 
