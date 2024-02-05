@@ -40,11 +40,11 @@ website:
     logo: /images/logotype_blue.png
   twitter-card:
     image: /images/opengraph.jpg
-    title: "PANK: Průvodce prací s poznatky"
+    # title: "PANK: Průvodce prací s poznatky"
     description: "I Váš tým potřebuje pracovat s poznatky. Inspirativní průvodce s návody, tipy a triky a zdroji pro Vás."
   open-graph:
     image: /images/opengraph.jpg
-    title: "PANK: Průvodce prací s poznatky"
+    # title: "PANK: Průvodce prací s poznatky"
     description: "I Váš tým potřebuje pracovat s poznatky. Inspirativní průvodce s návody, tipy a triky a zdroji pro Vás."
     locale: cs_CZ
   favicon: favicon.png
