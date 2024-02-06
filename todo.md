@@ -20,6 +20,7 @@
 - [x] 404 grafika
 - [ ] umožnit doplňování ikon sekcí podle ID
 - [ ] doplnit všude ID sekcí
+- [ ] barva pagination buttons
 
 # Layout hlavních textů
 
