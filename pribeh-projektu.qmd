@@ -2,6 +2,7 @@
 title: "Co je PANK"
 editor: source
 description: "<a href='index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
+title-block-banner: true
 aliases: 
   - /kontakt
   - /o-nas
@@ -9,12 +10,17 @@ aliases:
   - /mapovani
 listing: 
   - id: tym
-    type: grid
+    template-params:
+      columns: 3
     template: ejs/tym.ejs
     contents: tym.yaml
 ---
 
-Projekt PANK realizoval výzkumný tým Českých priorit od jara 2021 do podzimu 2023. 
+PANK začal v roce 2021 jako projekt aplikovaného výzkumu -- s hlavní otázkou *jak pomoct analytikům ve státní správě dělat lepší a užitečnější práci*.
+
+Tento web zachycuje, co jsme se cestou dověděli a naučili. Rozvíjíme ho jako zdroj pro komunitu těch, kdo ve veřejné správě pracují s poznatky.
+
+Projekt PANK (Podpora analytických kapacit) realizoval výzkumný tým Českých priorit od jara 2021 do podzimu 2023.
 
 :::{.aside}
 Projekt [podpořila Technologická agentura ČR](https://starfos.tacr.cz/cs/project/TL05000330).
