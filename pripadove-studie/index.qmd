@@ -2,6 +2,7 @@
 title: "Případové studie"
 xx: "unlistable"
 editor: source
+title-block-banner: true
 listing:
   - id: pripadovky
     template: ../ejs/pripadovky.ejs

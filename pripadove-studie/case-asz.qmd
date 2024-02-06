@@ -5,6 +5,7 @@ aliases:
   - /pripadove-studie/asz
   - /asz
 listable: "listable"
+title-block-banner: true
 format: 
   docx: default
   html: default

@@ -2,6 +2,7 @@
 title: "MPO: oddělení Smart Specialisation Strategy"
 subtitle: "Oddělení S3 kombinuje analytickou, strategickou a koordinační práci v oblasti inovační politiky"
 listable: ["listable"]
+title-block-banner: true
 format: 
   docx: default
   html: default
