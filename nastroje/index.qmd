@@ -1,12 +1,14 @@
 ---
 title: "Nástroje -- zdroje -- inspirace"
 subtitle: Kde hledat rady a nápady, kde se učit, s kým se potkat, co číst a poslouchat
+description: "<a href='index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
 format:
   html: 
     link-external-newwindow: true
     link-external-icon: false
     title-block-banner: true
     page-layout: full
+    toc: false
 listing: 
 - id: inspirace
   template: ../ejs/inspirace.ejs
