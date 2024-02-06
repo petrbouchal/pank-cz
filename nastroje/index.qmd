@@ -15,11 +15,13 @@ listing:
   page-size: 100
   template-params:
     columns: 4
+    class: global-card-class
   contents: 
     - title: Mapa státu
       categories: [Analytické útvary]
       subtitle: Organizační struktury úřadů a přehled analytických útvarů
       path: mapa-statu/
+      class: local-card-class
     - title: Projekty TA ČR Beta
       subtitle: Projekty aplikovaného výzkumu pro stát od roku 2013
       categories: ["Studie & projekty"]

@@ -811,3 +811,11 @@ figcaption {
 .citation {
   font-style: italic;
 }
+
+.global-card-class {
+  padding: 0px;
+}
+
+.local-card-class {
+  background-color: $cp-secondary-grey !important;
+}
