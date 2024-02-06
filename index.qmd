@@ -4,12 +4,22 @@ title-block-banner: false
 toc: false
 listing: 
   - id: tym
-    type: grid
+    template-params:
+      columns: 3
     template: ejs/tym.ejs
     contents: tym.yaml
+format:
+  html:
+    page-layout: full
+    sidebar: true
+    grid:
+      sidebar-width: 50px
+      margin-width: 0px
+      body-width: 1000px
+      gutter-width: 50px
 ---
 
-:::{.column-page}
+:::{.page-full}
 
 ::: {.grid}
 
@@ -19,7 +29,9 @@ listing:
 
 :::
 
-::: {.g-col-12 .g-col-md-6 .cntnr .hero-box}
+::: {.g-col-12 .g-col-md-6}
+
+::: {.cntnr .hero-box}
 
 ## [Pracovat s poznatky*<br>potřebuje i Váš tým.]{.hero-red}
 
@@ -39,7 +51,9 @@ listing:
 
 :::
 
-:::{.strip .column-page}
+:::
+
+:::{.page-full .strip}
 
 :::{.aside}
 
@@ -112,10 +126,11 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 :::
 :::
 
-:::{.strip .column-page}
+:::{.strip .page-full}
 
 :::{.aside}
 <br />
+
 :::
 
 ## Naše doporučení
@@ -171,6 +186,7 @@ Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvo
 <br />
 
 
+:::{.page-column}
 
 :::{.d-none .d-sm-block}
 
@@ -178,7 +194,6 @@ Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvo
 :::{#tym}
 :::
 
-:::
 
 
 
@@ -190,6 +205,7 @@ Kromě rozvoje analytické práce se České priority zaměřují na systémové
 [Více o Českých prioritách&nbsp;⟶](https://ceskepriority.cz)
 :::
 
+
 <br />
 
 Tento průvodce a všechny související výstupy vznikly díky Technologické agentuře ČR, která podpořila náš projekt PANK. 
@@ -198,4 +214,8 @@ Tento průvodce a všechny související výstupy vznikly díky Technologické a
 [Příběh projektu&nbsp;⟶](/pribeh-projektu)
 :::
 
+:::
 
+:::
+
+:::
