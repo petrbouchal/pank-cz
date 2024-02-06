@@ -156,6 +156,8 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 
 <br />
 
+:::{.cntnr-narrow}
+
 ## Náš tým podporuje informované rozhodování ve veřejné správě
 
 Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskepriority.cz).
