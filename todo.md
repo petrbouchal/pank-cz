@@ -15,12 +15,13 @@
 - [x] vert align hero boxu
 - [x] vert align boxu s linkem na případovky na front page
 - [ ] ověřit a spravit úrovně TOC napříč webem
-- [ ] doplnit header blocks kde jsou třeba
+- [x] doplnit header blocks kde jsou třeba
 - [ ] lepší docx šablona
 - [x] 404 grafika
-- [ ] umožnit doplňování ikon sekcí podle ID
+- [x] umožnit doplňování ikon sekcí podle ID
 - [ ] doplnit všude ID sekcí
 - [ ] barva pagination buttons
+- [ ] v případovkách a o projektu změnit popisek TOC
 
 # Layout hlavních textů
 
