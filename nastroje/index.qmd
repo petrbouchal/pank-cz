@@ -12,7 +12,7 @@ format:
 listing: 
 - id: inspirace
   template: ../ejs/inspirace.ejs
-  # field-required: [title, subtitle, path, categories]
+  field-required: [title, path, categories, subtitle]
   filter-ui: true
   page-size: 100
   template-params:
@@ -23,7 +23,6 @@ listing:
       categories: [Analytické útvary]
       subtitle: Organizační struktury úřadů a přehled analytických útvarů
       path: mapa-statu/
-      class: local-card-class
     - title: Projekty TA ČR Beta
       subtitle: Projekty aplikovaného výzkumu pro stát od roku 2013
       categories: ["Studie & projekty"]
@@ -33,8 +32,8 @@ listing:
       categories: ["Vzdělávání a rozvoj"]
       path: https://www.kvalitavs.cz/kurzy-pro-analytiky-ve-verejne-sprave/
     - title: "ČP.edu: data"
-      categories: ["Toolkity & metody"]
       subtitle: Série přednášek na téma práce s kvantitativními daty
+      categories: ["Toolkity & metody"]
       path: "/pribeh-projektu.qmd#cpedu-data"
     - title: "ČP.edu: kvalitativní data"
       subtitle: Série přednášek na téma práce s kvalitativními daty
@@ -94,9 +93,11 @@ listing:
       categories: ["Podcasty", "Newslettery & blogy"]
     - title: Experiencing Data
       subtitle: Podcasty o produktovém přístupu k využívání dat
+      path: https://designingforanalytics.com/experiencing-data-podcast/
       categories: ["Podcasty"]
     - title: IDEA Talks
       subtitle: Video a Podcasty o studiích think tanku IDEA
+      categories: ["Studie & projekty", "Podcasty"]
       path: https://idea.cerge-ei.cz/vystupy/idea-talks
     - title: Studie IDEA
       subtitle: Policy-relevantní studie think tanku IDEA při CERGE-EI
@@ -153,24 +154,57 @@ listing:
     - title: 100 Metod
       subtitle: Rozcestník metod pro odpovědný design informačních služeb
       categories: [Toolkity & metody]
+      path: https://100metod.cz
     - title: Foresight [České priority]
       subtitle: "Jak pracovat s budoucností: příručka, slovníček pojmů, rozcestník metod"
+      path: https://www.ceskepriority.cz/foresight
+      categories: ["Toolkity & metody"]
     - title: FORPOL [České priority]
       subtitle: Jak využít forecasting
-      path: https://www.ceskepriority.cz/foresight
-    - title: Metodika CBA
+      categories: ["Toolkity & metody"]
+      path: https://www.ceskepriority.cz/forpol
     - title: Knihovna produktů ESF
+      subtitle: "Výstupy projektů ESF -- najdete mezi nimi návody a metodiky i výzkum"
+      categories: ["Toolkity & metody", "Studie & projekty"]
+      path: https://www.esfcr.cz/produkty-opz
     - title: UK Civil Service Analysis Function
+      subtitle: Sada zdrojů pro analytiky britské státní správy
       path: https://analysisfunction.civilservice.gov.uk/
+      categories: ["Toolkity & metody", "Analytické útvary", "Komunita & setkávání"]
     - title: Česko.digital
+      subtitle: Komunita kolem všeho digitálního blízkému veřejnému sektoru
+      path: https://cesko.digital
+      categories: ["Komunita & setkávání", "Toolkity & metody", "Vzdělávání a rozvoj"]
     - title: Data vis meetup Brno
+      subtitle: Brněnská setkání o vizualizaci dat
+      path: https://datavismeetup.cz/
+      categories: ["Komunita & setkávání", "Toolkity & metody", "Vzdělávání a rozvoj"]
     - title: R Meetup Praha
-    - title: Webináře Česko.digital
+      subtitle: Pražské setkávání datařů, kteří pracují s jazykem R
+      categories: ["Komunita & setkávání", "Toolkity & metody", "Vzdělávání a rozvoj"]
+      path: https://www.meetup.com/prague-r-meetup-group/
+    - title: Webináře edu.digital
+      subtitle: "včetně záznamů"
+      path: https://cesko.digital/projects/cesko-digital-edu
+      categories: ["Vzdělávání a rozvoj"]
     - title: What Works Centers UK
+      subtitle: Britské instituce zaměřené na přenos poznatků do veřejné správy
+      path: https://www.gov.uk/guidance/what-works-network
+      categories: ["Toolkity & metody"]
     - title: Toolkity & metody
-    - title: Rozcestník repozitářů studií
+      subtitle: Rozcestník metodologických příruček a toolkitů [PANK]
+      path: /pruvodce/dalsi-metody
+      categories: ["Toolkity & metody"]
+    - title: Rozcestník repozitářů studií [PANK]
+      subtitle: Kde hledat literaturu pro vaši rešerši
+      path: /pruvodce/reserse-literatury#repozitare
+      categories: ["Studie & projekty"]
     - title: AI nástroje na práci s literaturou
+      subtitle: Nástroje, které vám pomůžou hledat poznatky 
+      path: /pruvodce/reserse-literatury#nastroje
+      categories: ["Toolkity & metody"]
     - title: Metodika budovania analytických kapacít [SK]
+      subtitle: Standardy a postupy slovenských analytických útvarů
       path: https://www.mfsr.sk/files/archiv/78/Metodika-budovania-analytickych-kapacit-v-statnej-sprave.pdf
       categories: ["Analytické útvary"]
     - title: Zásobník metod [PANK]
@@ -182,6 +216,7 @@ listing:
       path: https://link.cgdev.org/economics-marginalia-signup
       categories: [Newslettery & blogy]
     - title: "Jon Baron: Evidence Newsletter"
+      subtitle: Příležitostný přehled nových studií v tématech veřejných poltitik
       path: https://www.evidencenewsletter.net/
       categories: [Newslettery & blogy]
     - title: The Bridge
@@ -212,11 +247,16 @@ listing:
       subtitle: Pilotní program Ministerstva vnitra
       path: https://www.kvalitavs.cz/vzdelavaci-program-pro-analytiky-ve-verejne-sprave/
       categories: [Vzdělávání a rozvoj]
+    - title: Real World Data Science
+      subtitle: Platforma britské a americké statistické společnosti
+      path: https://realworlddatascience.net/
+      categories: [Newslettery & blogy]
 ---
 
 <style>
 .category-buttons {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
+  padding-right: 0px !important;
 }
 
 .category-button {
@@ -254,8 +294,11 @@ input.form-control {
 
 </style>
 
-<div id="category-buttons" class="category-buttons"></div>
+:::panel-input
 
+<div id="category-buttons" class="category-buttons">Kategorie&nbsp;&nbsp;</div>
+
+:::
 
 :::{#inspirace}
 :::
