@@ -2,6 +2,8 @@
 title: "Nástroje -- zdroje -- inspirace"
 subtitle: Kde hledat rady a nápady, kde se učit, s kým se potkat, co číst a poslouchat
 description: "<a href='index.html'>Domů</a>&nbsp;>&nbsp;{{< meta title >}}"
+language: 
+  listing-page-filter: "Hledat"
 format:
   html: 
     link-external-newwindow: true
@@ -14,7 +16,7 @@ listing:
   template: ../ejs/inspirace.ejs
   field-required: [title, path, categories, subtitle]
   filter-ui: true
-  page-size: 100
+  page-size: 1000
   template-params:
     columns: 4
     class: global-card-class
