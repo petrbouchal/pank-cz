@@ -747,7 +747,7 @@ li {
 }
 
 .cntnr-narrow {
-  // max-width: 800px !important;
+  max-width: 1000px !important;
 }
 
 .cntnr-middle {
@@ -763,7 +763,7 @@ li {
 .hero-box {
   margin-bottom: auto;
   margin-top: auto;
-  vertical-align: middle;
+  vertical-align: middle !important;
   padding-left: 3rem;
 }
 
@@ -779,13 +779,12 @@ li {
 
 @media only screen and (min-width: 968px) {
   .claim {
-    min-height: 6rem !important;
+    min-height: 9rem !important;
   }
 }
 
 .abtn {
   margin-top: auto;
-  min-width: 18rem;
 }
 
 .claim {
@@ -793,13 +792,17 @@ li {
   margin-bottom: 0.6rem;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 575px) {
   .rep-box {
     min-height: 18rem;
   }
   
   .claim {
-    min-height: 9rem;
+    min-height: 200px;
+  }
+
+  .abtn {
+    min-width: 12rem;
   }
 }
 

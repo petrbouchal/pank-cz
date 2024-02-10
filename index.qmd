@@ -15,7 +15,7 @@ format:
     grid:
       sidebar-width: 50px
       margin-width: 0px
-      body-width: 1000px
+      body-width: 1400px
       gutter-width: 50px
 ---
 
@@ -29,9 +29,7 @@ format:
 
 :::
 
-::: {.g-col-12 .g-col-md-6}
-
-::: {.cntnr .hero-box}
+::: {.g-col-12 .g-col-md-6 .cntnr .hero-box}
 
 ## [Pracovat s poznatky*<br>potřebuje i Váš tým.]{.hero-red}
 
@@ -46,8 +44,6 @@ format:
 :::
 
 <br />
-
-:::
 
 :::
 
@@ -128,6 +124,8 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 
 :::{.strip .page-full}
 
+:::{.cntnr-narrow}
+
 :::{.aside}
 <br />
 
@@ -143,7 +141,9 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 Místo "data" a "evidence" jsme si zvykli mluvit o *práci s poznatky*. 
 
 Co byste o práci s poznatky měli vědět, než se pustíte do snah o její zlepšování? 
+
 :::
+
 :::{.g-col-12 .g-col-sm-6}
 :::{.btn .btn-primary .abtn}
 [Vzkazy o práci z poznatky&nbsp;⟶](/teze-tymy)
@@ -167,6 +167,9 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 :::
 <br />
 :::
+
+:::
+
 :::
 
 <br />
