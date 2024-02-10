@@ -45,6 +45,10 @@ listing:
       subtitle: Studie analytických týmů na základě šetření z roku 2021
       path: /mapovani/mapovani-shrnuti.pdf
       categories: ["Analytické útvary"]
+    - title: Pracovní skupina analytiků
+      subtitle: Poloformální pracovní skupina analytických útvarů
+      path: https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/
+      categories: ["Komunita & setkávání", "Analytické útvary"]
     - title: "Knihovna evaluací EU fondů (alt)"
       subtitle: Alternativní rozhraní ke knihovně evaluací ESI fondů
       path: https://petrbouchal.xyz/evaluace
@@ -56,6 +60,10 @@ listing:
     - title: "Starfos (TA ČR)"
       subtitle: Databáze výzkumných projektů
       path: https://starfos.tacr.cz
+      categories: ["Studie & projekty"]
+    - title: "Databáze strategií"
+      subtitle: Databáze strategických dokumentů ČR
+      path: https://databaze-strategie.cz
       categories: ["Studie & projekty"]
     - title: "Průvodce evaluátora (MMR)"
       subtitle: Příručka postupů a metod (nejen) pro evaluátory
@@ -113,10 +121,6 @@ listing:
       subtitle: Popularizační časopis Českého statistického úřadu
       path: https://www.statistikaamy.cz/
       categories: ["Newslettery & blogy"]
-    - title: Pracovní skupina analytiků
-      subtitle: Poloformální pracovní skupina analytických útvarů
-      path: https://www.cr2030.cz/pracovni-skupina-pro-koordinaci-analyticky-utvaru/
-      categories: ["Komunita & setkávání"]
     - title: Byro
       subtitle: Komunita progresivních úředníků
       path: https://byro.works
@@ -148,7 +152,7 @@ listing:
     - title: Webináře KvalitaVS.cz
       subtitle: Série s příklady dobré praxe inovací nejen v práci s poznatky
       path: https://www.kvalitavs.cz/webinare-inovacni-management/
-      categories: [Toolkity & metody]
+      categories: [Toolkity & metody, Vzdělávání a rozvoj]
     - title: Expertní stanoviska AV ČR AVEX
       subtitle: Příklady shrnutí vědeckých poznatků k různým tématům
       categories: ["Studie & projekty"]
@@ -166,7 +170,7 @@ listing:
       categories: ["Toolkity & metody"]
       path: https://www.ceskepriority.cz/forpol
     - title: Knihovna produktů ESF
-      subtitle: "Výstupy projektů ESF -- najdete mezi nimi návody a metodiky i výzkum"
+      subtitle: "Výstupy projektů ESF – najdete mezi nimi návody a metodiky i výzkum"
       categories: ["Toolkity & metody", "Studie & projekty"]
       path: https://www.esfcr.cz/produkty-opz
     - title: UK Civil Service Analysis Function
@@ -201,7 +205,7 @@ listing:
       subtitle: Kde hledat literaturu pro vaši rešerši
       path: /pruvodce/reserse-literatury#repozitare
       categories: ["Studie & projekty"]
-    - title: AI nástroje na práci s literaturou
+    - title: AI nástroje na práci s literaturou [PANK]
       subtitle: Nástroje, které vám pomůžou hledat poznatky 
       path: /pruvodce/reserse-literatury#nastroje
       categories: ["Toolkity & metody"]
