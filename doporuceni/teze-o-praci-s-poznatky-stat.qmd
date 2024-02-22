@@ -43,7 +43,8 @@ Stejně tak i dedikované analytické útvary hrají různé role. Některé se 
 
 ### Rozvoj analytické práce není jen o budování resortních analytických útvarů
 
-Je možné, že některý typ útvarů by měl např. na resortech existovat průřezově. Toto nebylo předmětem našeho zkoumání, ale dílčí poznatky naznačují, že na některých resortech chybí analytické kapacity na řešení velkých celoresortních témat. Pak by bylo možné uvažovat o nějaké míře stanovení standardu podobně jako je tomu např. [na Slovensku](@ministerstvofinancisrMetodikaBudovaniaAnalitickych2023). I v takovém případě by ale jakákoli koncepce rozvoje analytické práce neměla zapomenout na další typy útvarů, pro které je práce s poznatky podstatná, a také na jednotlivce, které hrají roli analytika ve věcně nebo implementačně zaměřeném útvaru.
+Je možné, že některý typ útvarů by měl např. na resortech existovat průřezově. Toto nebylo předmětem našeho zkoumání, ale dílčí poznatky naznačují, že na některých resortech chybí analytické kapacity na řešení velkých celoresortních témat. Pak by bylo možné uvažovat o nějaké míře stanovení standardu podobně jako je tomu např. na Slovensku [@ministerstvofinancisrMetodikaBudovaniaAnalitickych2023]. I v takovém případě by ale jakákoli koncepce rozvoje analytické práce neměla zapomenout na další typy útvarů, pro které je práce s poznatky podstatná, a také na jednotlivce, které hrají roli analytika ve věcně nebo implementačně zaměřeném útvaru.
+
 
 ### "Knowledge Delivery" jako jedna ze základních funkcí uvnitř organizací {#knowledge-delivery}
 
