@@ -113,7 +113,7 @@ Při správě datových úložišť rozlište surová data, back-end a front-end
 > Postarejte se také o konzitentní názvy souborů - viz [How to name files](https://speakerdeck.com/jennybc/how-to-name-files-the-sequel): aby je přečetl stroj i člověk a aby se správně řadily 
 >
 > Případně k tomu vytvoříte rozcestník v dokumentu, na intranetu, v Sharepointu aj.
-> Začněte těmi sadami a soubory, které skutečně používáte
+> Začněte těmi sadami a soubory, které skutečně používáte.
 
 ## Zdokumentujte svá data
 
@@ -281,7 +281,7 @@ Tím také posílíte **péči o znalosti** svého týmu: při dokumentaci dat m
 
 ## Ještě větší transparentnost
 
-U projektů, kde je důležité mít veřejně dostupný záznam o provedené analýze, se může hodit projekt archivovat v repozitáři např. na Zenodo nebo OSF -- tím zdokumentujete nejen data, ale i celý projekt; je to forma knowledge managementu [(viz návod)](knowledge-management.qmd).
+U projektů, kde je důležité mít veřejně dostupný záznam o provedené analýze, se může hodit projekt archivovat v repozitáři např. na Zenodo nebo OSF -- tím zdokumentujete nejen data, ale i celý projekt; je to forma knowledge managementu viz [(-> návod)](knowledge-management.qmd).
 
 :::{.callout-note}
 
@@ -297,9 +297,9 @@ Takto zachycené znalosti můžete zpřístupnit třeba na interní wiki nebo v 
 
 # Další zdroje
 
-České pojednání o tématu správy dat najdete v knize @krejciCestyDatumZdroje2012, základní principy najdete i na webu [Českého sociálně vedního datového archivu](https://archiv.soc.cas.cz/cz/prace-s-daty/management-dat-v-prubehu-vyzkumneho-projektu); tamtéž i [návod na tvorbu tzv. plánu správy dat](https://archiv.soc.cas.cz/cz/prace-s-daty/data-management-plan-pro-socialni-vedy) pro společenskovědní projekty. Užitečné mohou být i [prezentace z nedávného semináře ČSDA k tématu](https://archiv.soc.cas.cz/cz/aktuality/195-open-science-a-sdileni-socialnevednich-dat-v-praxi-data-management-plan-ochrana-respondentu-a-legalni-aspekty-sdileni-dat2).
+České pojednání o tématu správy dat najdete v knize @krejciCestyDatumZdroje2012, základní principy najdete i na webu [Českého sociálně vedního datového archivu](https://archiv.soc.cas.cz/cz/prace-s-daty/management-dat-v-prubehu-vyzkumneho-projektu); tamtéž i [návod na tvorbu tzv. plánu správy dat](https://archiv.soc.cas.cz/cz/prace-s-daty/data-management-plan-pro-socialni-vedy) pro společenskovědní projekty. Užitečné mohou být i [prezentace z nedávného semináře ČSDA k tématu](https://archiv.soc.cas.cz/cz/vyuka-a-kurzy/poradane-akce/event/21-open-science-a-sdileni-socialnevednich-dat-v-praxi-data-management-plan-ochrana-respondentu-a-legalni-aspekty-sdileni-dat).
 
-Příklad dlouhodobé zprávy dat pro další využití je [Český sociálně vední datový archiv (ČSDA)](https://archiv.soc.cas.cz/cz/), kde v [prohlížeči datových sad](http://nesstar.soc.cas.cz/webview/) najdete i způsob zaznamenání metadat, ze kterého se lze inpirovat.
+Příklad dlouhodobé správy dat pro další využití je [Český sociálně vední datový archiv (ČSDA)](https://archiv.soc.cas.cz/cz/), kde v [prohlížeči datových sad](http://nesstar.soc.cas.cz/webview/) najdete i způsob zaznamenání metadat, ze kterého se lze inpirovat.
 
 K dokumentaci se mohou hodit [standardy tzv. Dublin core metadat](https://www.dublincore.org/) - sice působí technicky, ale když je dokážete využití, nebudete vynalézat to, co už někdo vymyslel.
 
@@ -307,9 +307,9 @@ Alternativní přístup k dokumentaci dat a související nástroje nabízí [Da
 
 Pragmatický standard dokumentace tabulkových datových sad [používá britská státní správa](https://www.gov.uk/government/publications/recommended-open-standards-for-government/using-metadata-to-describe-tabular-data-for-publishing). 
 
-K dokumentaci datasetů viz @gebruDatasheetsDatasets2021, též kap. 10 v @alexanderTellingStoriesData2023.
+K dokumentaci datasetů viz @gebruDatasheetsDatasets2021, též [kap. 10](https://tellingstorieswithdata.com/10-store_and_share.html) v @alexanderTellingStoriesData2023.
 
-TO DO add https://dmeg.cessda.eu/
+Kompletní průvodce pro správu dat v kontextu výzkumu je [Data Management Expert Guide](https://dmeg.cessda.eu/) od CESSDA.
 
 ## Odkazované zdroje a literatura
 
