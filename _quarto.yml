@@ -40,6 +40,7 @@ website:
     logo: /images/logotype_blue.png
   twitter-card:
     image: /images/opengraph.jpg
+    card-style: summary_large_image
     # title: "PANK: Průvodce prací s poznatky"
     description: "I Váš tým potřebuje pracovat s poznatky. Inspirativní průvodce s návody, tipy a triky a zdroji pro Vás."
   open-graph:
