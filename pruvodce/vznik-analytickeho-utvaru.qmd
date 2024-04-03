@@ -2,7 +2,7 @@
 title: "Rozjezd analytického útvaru"
 subtitle: "Budujte analytické útvary pro potřeby organizace "
 blok: ["rizeni"]
-poradi: 12
+poradi: 1
 editor: source
 aliases: 
   - vznik-analytickeho-utvaru
