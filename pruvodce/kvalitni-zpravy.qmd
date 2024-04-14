@@ -82,6 +82,18 @@ Délka zprávy by měla být čtenářsky vstřícná, přičemž ideální rozs
 - Používejte nadpisy a podnadpisy pro snadnější orientaci
 - Používejte vyvážený, hodnotově nezabarvený jazyk
 
+:::{.callout-tip title="Konečně česká příručka srozumitelného psaní"}
+
+V roce 2023 vyšla knížka *Pište čtivě a srozumitelně* od bratrů Behúnových [@behunPisteCtiveSrozumitelne2023]. Uvnitř najdete spoustu užitečných tad, pro nás jsou nejnosnější tyto:
+
+- méně podstatných jmen, více sloves a vztažných zájmen
+- méně trpného rodu
+- méně žargonu
+- méně anglicismů slovních i větných: kniha ukazuje, jak nešikovně přebraná slova a fráze poznat
+- promyšlená struktura a forma textu: více odstavců a mezinadpisů, odrážky a zvýraznění
+
+:::
+
 **Jak psát o číslech**
 
 Nezahlcujte čtenáře sadou čísel, především velkými čísly, které jsou špatně zpracovatelná.
@@ -111,7 +123,7 @@ Např. tzv. "mental number line", kde na pomyslné ose mezi tisícem a miliardou
 
 - Podobně někteří čtenáři nejsou zvyklí pracovat s procenty a procentními body. Zde je třeba být precizní, popř. vysvětlit více způsoby, např. “výskyt X vzrostl z 2 % na 3 %, to znamená, že riziko X v populaci vzrostlo o polovinu”. Je lepší napsat “1 z 20” než “5 %”.
 
-Více viz [@millerChicagoGuideWriting2015].
+Více viz @millerChicagoGuideWriting2015.
 
 ## Jak strukturovat různé části zpráv
 
@@ -156,7 +168,7 @@ Součástí úvodu také mohou být následující prvky:
 
 **Struktura ostatních části zprávy**
 
-*Background / kontext*: u některých zpráv je vhodné zachytit kontext toho, o čem píšete - proč např. analyticky zachycujete daný problém, co se v dané oblasti děje, co už se o věci ví. Neměla by to ale být suše popisná část zachycující vše vzdáleně související ani přehled literatury pro dobrý pocit.
+*Background / kontext*: u některých zpráv je vhodné zachytit kontext toho, o čem píšete -- proč např. analyticky zachycujete daný problém, co se v dané oblasti děje, co už se o věci ví. Neměla by to ale být suše popisná část zachycující vše vzdáleně související ani přehled literatury pro dobrý pocit.
 
 *Přístupný a jasný průvodce metodikou výzkumu*, včetně údajů o tom, jak zvolený design a metody ovlivňují závěry. Součástí by mělo být i vysvětlení zdrojových dat a jak s nimi autoři pracovali. Často je vhodné část zprávy nazvat "Metody a zdroje dat". 
 
@@ -168,7 +180,7 @@ U složitějších analýz je vhodné odděleně zachytit:
 - zdroje dat
 - jednotlivé využité metody -- u každé ale zachyťte jak metodu sběru dat, tak metodu analýzy
 
-*Zjištění* struktutujte podle témat či položených otázek, nikoliv na základě toho, jak byla “objevena” během výzkumného procesu či z jakého zdroje či metody vzešla.
+*Zjištění* strukturujte podle témat či položených otázek, nikoliv na základě toho, jak byla “objevena” během výzkumného procesu či z jakého zdroje či metody vzešla.
 
 **Závěry a doporučení** 
         
@@ -229,15 +241,15 @@ Při psaní delších textů se kromě celkové struktury musíte zaobírat i st
 - snažte se nezačínat věty vymezujícími nebo specifikujícími frázemi - jděte rovnou k věci ("Z důvodu...", "V kontextu", "S výjimkou")
 - omezte abstraktní "metapojmy" ("koncept", "rovina" atd.)
 
-**Odstavce** by měly fungovat jako celky. Mělo být jasné, proč je daná skupina věc v jednom odstavci (a ne v tom předchozím nebo následujícím). Každý odstavec by mít svou vlastní strukturu, ideálně s
+**Odstavce** by měly fungovat jako celky. Mělo by být jasné, proč je daná skupina věc v jednom odstavci (a ne v tom předchozím nebo následujícím). Každý odstavec by mít svou vlastní strukturu, ideálně s
 
 - úvodní větou na začátku, která shrne tvrzení odstavce -- tuto větu čtou čtenáři, kteří mají čas text jen proletět;
 - tělem odstavce, který typicky dodává podklady, důvody nebo příklady pro úvodní větu;
 - větou, která odstavec uzavírá nebo naznačuje přechod do nového.
 
-Více viz [@talbotHowWriteParagraphs2014].
+Více viz @talbotHowWriteParagraphs2014.
 
-> Pokud píšete pro web, mohly by se vám hodit [pravidla tvorby textu na web](https://designsystem.gov.cz/pravidla/pravidla-pro-tvorbu-obsahu.html), která jsou součástí design systému gov.cz.
+> Pokud píšete pro web, mohly by se vám hodit [pravidla tvorby textu na web](https://designsystem.gov.cz/pravidla/pravidla-pro-tvorbu-obsahu.html), která jsou součástí design systému gov.cz. Obecné průvodce psaní nabízí i Ministerstvo vnitra (Metodika Easy to Read, @ministerstvovnitracrMetodikaEasytoRead2019) a kancelář ombudsmana [@samankovaJakPsatSrozumitelne2022].
 
 :::
 
@@ -245,7 +257,7 @@ Více viz [@talbotHowWriteParagraphs2014].
 
 Dobrou praxí mohou být interní checklisty, které stanoví hlavní aspekty, jež by měly výstupy obsahovat. Ty můžete předat i externím tvůrcům zpráv, např. řešitelům výzkumných úkolů nebo dodavatelům analytických zakázek.
 
-Pokud text vzniká ve spolupráci zadavatele a dodavatele -- např. zadavatel je v pozici "připomínkujícího", jde vhodné, aby si tyto dvě strany vyjasnily, jakou vrstvu kontroly (viz "Jak texty editovat výše") chcete dělat v jaké fázi projektu.
+Pokud text vzniká ve spolupráci zadavatele a dodavatele -- např. zadavatel je v pozici "připomínkujícího", je vhodné, aby si tyto dvě strany vyjasnily, jakou vrstvu kontroly (viz [Jak texty editovat](#jak-texty-editovat) výše) chcete dělat v jaké fázi projektu.
 
 U mnoha reportů se vyplatí využít nebo zaplatit někoho, kdo v procesu nebyl zapojený, a nechat ho/ji zprávu přečíst očima adresáta nebo přinejmenším vlastníma očima nezúčastněného čtenáře.
 
@@ -253,13 +265,15 @@ Osvědčilo se i sdílení příkladů dobrých a špatných analytických výst
 
 # Další zdroje
 
-Velmi užitečným úvodem do psaní přívětivé ke čtenářům je [@pinkerSenseStyleThinking2015]. Kniha je sice o psaní v angličtině, principy psaní s ohledem na fungování lidského mozku jsou využitelné obecně.
+Velmi užitečným úvodem do psaní přívětivé ke čtenářům je @pinkerSenseStyleThinking2015. Kniha je sice o psaní v angličtině, principy psaní s ohledem na fungování lidského mozku jsou využitelné obecně.
 
 Zvláště pro tvorbu obsahu na webu je vhodná knížka *Content Design* [@richardsContentDesign2017].
 
-Užitečné jsou publikace Chrise Lysyho, mnohé dostupné na webu [@lysyReportingRevolution2022; @lysyHumanCenteredReport].
+Užitečné jsou publikace Chrise Lysyho, mnohé dostupné na webu [@lysyReportingRevolution2022; @lysyHumanCenteredReport2020].
 
 O psaní o číslech dobře pojednává Jane E. Miller v *The Chicago Guide to Writing About Numbers* [@millerChicagoGuideWriting2015].
+
+V češtině stojí za to *Pište čtivě a srozumitelně* [@behunPisteCtiveSrozumitelne2023].
 
 Další tipy:
 
