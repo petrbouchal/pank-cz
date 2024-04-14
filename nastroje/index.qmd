@@ -257,6 +257,35 @@ listing:
       subtitle: Platforma britské a americké statistické společnosti
       path: https://realworlddatascience.net/
       categories: [Newslettery & blogy]
+    - title: Samizdat Datažurnál
+      subtitle: Newsletter datového týmu Českého rozhlasu, často zaměřený na veřejná data
+      path: https://samizdat.cz/datazurnal/
+      categories: [Newslettery & blogy]
+    - title: Data is Plural
+      subtitle: Newsletter s nečekanými zdroji dat
+      path: https://www.data-is-plural.com/
+      categories: [Newslettery & blogy]
+    - title: Counting Stuff
+      subtitle: Newsletter o práci s daty
+      path: https://www.counting-stuff.com/
+      categories: ["Newslettery & blogy"]
+    - title: SciCommHub
+      subtitle: Česká komunita zaměřená na komunikaci vědeckých poznatků
+      path: https://www.scicomhub.cz/
+      categories: ["Komunita & setkávání", "Newslettery & blogy"]
+    - title: GovLab Digest
+      subtitle: Týdenní souhrn studií a čtení k inovacím ve veřejné správě (GovLab při NYU)
+      path: https://blog.thegovlab.org/
+      categories: ["Newslettery & blogy", "Studie & projekty"]
+    - title: Data Visualisation Society
+      subtitle: Celosvětová komunita profesionálů v oblasti vizualizace dat
+      path: https://www.datavisualizationsociety.org/
+      categories: [Komunita & setkávání, Newslettery & blogy]
+    - title: PAQ Research Blog
+      subtitle: Dobré příklady komunikace analýz
+      categories: [Studie & projekty, Newslettery & blogy]
+      path: https://www.paqresearch.cz/research-blog
+
 ---
 
 <style>
