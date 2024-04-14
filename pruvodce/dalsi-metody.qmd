@@ -37,7 +37,8 @@ Přednostně vybíráme ty zaměřené na praktiky a nespecialisty.
 - V českém prostředí dobrý úvod do evaluační práce -- použitelný i pro neevaluátory nabízí [Průvodce evaluátora](https://www.dotaceeu.cz/getmedia/3ce5f6b9-24cc-4ac1-80d9-9eb769203f5a/Pruvodce-evaluatora_final_202007.pdf.aspx) z dílny Evaluační jednotky Národního orgánu pro koordinaci na MMR -- jeden z našich zapojených útvarů! 
 - Pro širší uchopení lze doporučit i Science for Policy Handbook od kolektivu autorů z Joint Research Center Evropské komise [@suchaSciencePolicyHandbook2020].
 - [BetterEvaluation](https://www.betterevaluation.org/) je rozcestník evaluačních a příbuzných metod a přístupů.
-- Evropská komise udržuje tzv. [Better Regulation Toolbox](https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en ), což je zásobník metod a postupů pro tvorbu regulací a veřejných politik.
+- Evropská komise udržuje tzv. [Better Regulation Toolbox](https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en), což je zásobník metod a postupů pro tvorbu regulací a veřejných politik.
+- Pro české prostřední velmi užitečná je publikace **Fantastická data ve veřejné politice a jak je využít**  [@hejzlarovaFantastickaDataVe2023]. Navzdory názvu většinou nejde o data kvantitativní, ale o to, jak pracovat se širokým spektrem zdrojů jako s daty -- od legislativních a administrativních textů přes mediální data a analýzu diskursu po systematické rešerše literatury a využití zahraničních prací. To vše s zachyceno v prostřední analýzy veřejných politik a s příklady z reálných výzkumů a analýz.
 
 ## Zkoumání veřejné správy
 
