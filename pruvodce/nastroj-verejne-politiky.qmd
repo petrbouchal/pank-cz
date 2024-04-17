@@ -18,7 +18,7 @@ Tento návod vám pomůže zefektivnit přípravu nástrojů veřejné politiky,
 
 Může se hodit i pro jednotlivé projekty.
 
-Naopak maximalistickým případem takového úkolu je tvorba zákonů, u které definici problému a vyhodnocování řešení ex ante probíhá v tzv. [Regulatory Impact Assessment (RIA)](https://ria.gov.cz/). Tento návod nastiňuje analogický proces, ale v odlehčeném podání pro méně rozsáhlá opatření.
+Naopak maximalistickým případem takového úkolu je tvorba zákonů, u které definici problému a vyhodnocování řešení ex ante probíhá v tzv. [Regulatory Impact Assessment (RIA)](https://ria.vlada.cz/). Tento návod nastiňuje analogický proces, ale v odlehčeném podání pro méně rozsáhlá opatření.
 
 ::: callout-tip
 ### Proč řešit "tvorbu nástroje" a co tím myslíme
