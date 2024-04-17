@@ -252,7 +252,7 @@ Jako zásobník metod a postupů pro jednotlivé fáze úkolů můžete použit 
 
 Alternativní schéma typů veřejněpolitických intervencí nabízí @olejniczakComparingBehavioralAssumptions2020. Původní schéma tzv. Behaviour Change Wheel najdete v @michieBehaviourChangeWheel2011.
 
-Jedním ze základních požadavků na návrhy veřejných politik je tzv. transparentost využitých poznatků. Pokud se chcete podívat, jak hodnotit to, jestli je z návrhu jasné, jaké podklady pro něj byly využity a jak se došlo k vásledku, podívejte se na tzv. Evidence Transparency Framework [@rutterEvidenceTransparencyFramework2015] -- a rovnou můžete hodnocení podronit i vlastní práci. 
+Jedním ze základních požadavků na návrhy veřejných politik je tzv. transparentost využitých poznatků. Pokud se chcete podívat, jak hodnotit to, jestli je z návrhu jasné, jaké podklady pro něj byly využity a jak se došlo k vásledku, podívejte se na tzv. Evidence Transparency Framework [@rutterEvidenceTransparencyFramework2015] -- a rovnou můžete hodnocení podrobit i vlastní práci. 
 
 ## Modelování a kvantifikace
 
