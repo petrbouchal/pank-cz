@@ -34,7 +34,7 @@ Vycházíme ze dvou poznatků:
 
 Účelem tohoto návodu není tyto činnosti kompletně definovat a metodicky uchopit, ani nahradit existující metodiky tvorby např. výzev v EU fondech.
 
-Chceme ale upozornit na nejčastější nepochopení a nástrahy, se kterými se týmy potýkají, a usnadnit komukoli se s nimi popasovat bez ohledu na to, zda je o dotační program, výzvu v EU fondech, nebo jiný typ nástroje.
+Chceme ale upozornit na nejčastější nepochopení a nástrahy, se kterými se týmy potýkají, a usnadnit komukoli se s nimi popasovat bez ohledu na to, zda jde o dotační program, výzvu v EU fondech, nebo jiný typ nástroje.
 
 ::: aside
 **Případové studie**
