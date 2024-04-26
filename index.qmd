@@ -124,8 +124,6 @@ Najdete v nich **příběhy** o tom, co se nám v týmech dařilo a nedařilo m�
 
 :::{.strip .page-full}
 
-:::{.cntnr-narrow}
-
 :::{.aside}
 <br />
 
@@ -166,8 +164,6 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 :::
 :::
 <br />
-:::
-
 :::
 
 :::
