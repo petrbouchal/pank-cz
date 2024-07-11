@@ -87,7 +87,7 @@ Stejně jako byste neměli do procesu vstupovat s pevnou představou toho, jak p
 
 **Včas se zamyslete, jak budete váš nástroj vyhodnocovat**
 
-Evaluaci -- způsob vyhodnocení vašeho návrhu při jeho realizaci -- byste neměli zvažovat, až program dobíhá, ale naopak už když nástroj vymýšlíte. Může se vám například stát, že příležitost nástroj vyhodnotit a něco se tím naučit bude rozhodující při volbě variant. Navíc při návrhu nástroje dokážete ovlivnit praktické provedení a sběr dat tak, abyste dokázali dobře vyhodnotit jeho dopady.
+Evaluaci -- vyhodnocení vašeho návrhu při jeho realizaci -- byste neměli zvažovat, až program dobíhá, ale naopak už když nástroj vymýšlíte. Může se vám například stát, že příležitost nástroj vyhodnotit a něco se tím naučit bude rozhodující při volbě variant. Navíc při návrhu nástroje dokážete ovlivnit praktické provedení a sběr dat tak, abyste dokázali dobře vyhodnotit jeho dopady.
 
 **Nenechte se rozptýlit formálním procesem**
 
@@ -105,7 +105,7 @@ Všimněte si dvou věcí:
 
 Zaprvé, naše prvotní představy o tom, co je problém (včetně těch převzatých ze zadání třeba on našich nadřízených) bereme jako vstupní hypotézu k ověření.
 
-Zadruhé, nikde zatím není řeč o řešení. Např. "chceme dát firmám peníze na částečné úvazky" není definice cíle.
+Zadruhé, nikde zatím není řeč o řešení. Např. "chceme dát firmám peníze na částečné úvazky" není definice cíle ani problému.
 
 ### Zdroje dat a poznatků
 
@@ -152,7 +152,7 @@ Několik praktických doporučení:
 
 :::{.callout-warning}
 
-*Kromě koordinace samotného týmu si už od začátku dohodněte způsob spolupráci s vaším "klientem", tedy tím, kdo se pod výsledek bude muset podepsat. Nejspíš to je někdo v vedení vaší organizace. Pokud jste od něj/ní nedostali zadaní, využijte svůj postup práce tak, abyste se s pomocí vámi vytvořených podkladů a poznatků postupně zadání dobrali.*
+*Kromě koordinace samotného týmu si už od začátku dohodněte způsob spolupráce se svým "klientem", tedy tím, kdo se pod výsledek bude muset podepsat. Nejspíš to je někdo ve vedení vaší organizace. Pokud jste od něj/ní nedostali zadání, využijte svůj postup práce tak, abyste se s pomocí vámi vytvořených podkladů a poznatků postupně zadání dobrali.*
 
 :::
 
