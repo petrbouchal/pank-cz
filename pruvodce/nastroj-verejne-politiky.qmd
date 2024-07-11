@@ -18,7 +18,7 @@ Tento návod vám pomůže zefektivnit přípravu nástrojů veřejné politiky,
 
 Může se hodit i pro jednotlivé projekty.
 
-Naopak maximalistickým případem takového úkolu je tvorba zákonů, u které definici problému a vyhodnocování řešení ex ante probíhá v tzv. [Regulatory Impact Assessment (RIA)](https://ria.vlada.cz/). Tento návod nastiňuje analogický proces, ale v odlehčeném podání pro méně rozsáhlá opatření.
+Naopak maximalistickým případem takového úkolu je tvorba zákonů, u které definici problému a vyhodnocování řešení ex ante probíhá v tzv. [Regulatory Impact Assessment (RIA)](https://ria.gov.cz/). Tento návod nastiňuje analogický proces, ale v odlehčeném podání pro méně rozsáhlá opatření.
 
 ::: callout-tip
 ### Proč řešit "tvorbu nástroje" a co tím myslíme
@@ -34,7 +34,7 @@ Vycházíme ze dvou poznatků:
 
 Účelem tohoto návodu není tyto činnosti kompletně definovat a metodicky uchopit, ani nahradit existující metodiky tvorby např. výzev v EU fondech.
 
-Chceme ale upozornit na nejčastější nepochopení a nástrahy, se kterými se týmy potýkají, a usnadnit komukoli se s nimi popasovat bez ohledu na to, zda jde o dotační program, výzvu v EU fondech, nebo jiný typ nástroje.
+Chceme ale upozornit na nejčastější nepochopení a nástrahy, se kterými se týmy potýkají, a usnadnit komukoli se s nimi popasovat bez ohledu na to, zda je o dotační program, výzvu v EU fondech, nebo jiný typ nástroje.
 
 ::: aside
 **Případové studie**
@@ -87,7 +87,7 @@ Stejně jako byste neměli do procesu vstupovat s pevnou představou toho, jak p
 
 **Včas se zamyslete, jak budete váš nástroj vyhodnocovat**
 
-Evaluaci -- způsob vyhodnocení vašeho návrhu při jeho realizaci -- byste neměli zvažovat, až program dobíhá, ale naopak už když nástroj vymýšlíte. Může se vám například stát, že příležitost nástroj vyhodnotit a něco se tím naučit bude rozhodující při volbě variant. Navíc při návrhu nástroje dokážete ovlivnit praktické provedení a sběr dat tak, abyste dokázali dobře vyhodnotit jeho dopady.
+Evaluaci -- vyhodnocení vašeho návrhu při jeho realizaci -- byste neměli zvažovat, až program dobíhá, ale naopak už když nástroj vymýšlíte. Může se vám například stát, že příležitost nástroj vyhodnotit a něco se tím naučit bude rozhodující při volbě variant. Navíc při návrhu nástroje dokážete ovlivnit praktické provedení a sběr dat tak, abyste dokázali dobře vyhodnotit jeho dopady.
 
 **Nenechte se rozptýlit formálním procesem**
 
@@ -105,7 +105,7 @@ Všimněte si dvou věcí:
 
 Zaprvé, naše prvotní představy o tom, co je problém (včetně těch převzatých ze zadání třeba on našich nadřízených) bereme jako vstupní hypotézu k ověření.
 
-Zadruhé, nikde zatím není řeč o řešení. Např. "chceme dát firmám peníze na částečné úvazky" není definice cíle.
+Zadruhé, nikde zatím není řeč o řešení. Např. "chceme dát firmám peníze na částečné úvazky" není definice cíle ani problému.
 
 ### Zdroje dat a poznatků
 
@@ -152,7 +152,7 @@ Několik praktických doporučení:
 
 :::{.callout-warning}
 
-*Kromě koordinace samotného týmu si už od začátku dohodněte způsob spolupráci s vaším "klientem", tedy tím, kdo se pod výsledek bude muset podepsat. Nejspíš to je někdo v vedení vaší organizace. Pokud jste od něj/ní nedostali zadaní, využijte svůj postup práce tak, abyste se s pomocí vámi vytvořených podkladů a poznatků postupně zadání dobrali.*
+*Kromě koordinace samotného týmu si už od začátku dohodněte způsob spolupráce se svým "klientem", tedy tím, kdo se pod výsledek bude muset podepsat. Nejspíš to je někdo ve vedení vaší organizace. Pokud jste od něj/ní nedostali zadání, využijte svůj postup práce tak, abyste se s pomocí vámi vytvořených podkladů a poznatků postupně zadání dobrali.*
 
 :::
 
@@ -252,7 +252,7 @@ Jako zásobník metod a postupů pro jednotlivé fáze úkolů můžete použit 
 
 Alternativní schéma typů veřejněpolitických intervencí nabízí @olejniczakComparingBehavioralAssumptions2020. Původní schéma tzv. Behaviour Change Wheel najdete v @michieBehaviourChangeWheel2011.
 
-Jedním ze základních požadavků na návrhy veřejných politik je tzv. transparentost využitých poznatků. Pokud se chcete podívat, jak hodnotit to, jestli je z návrhu jasné, jaké podklady pro něj byly využity a jak se došlo k vásledku, podívejte se na tzv. Evidence Transparency Framework [@rutterEvidenceTransparencyFramework2015] -- a rovnou můžete hodnocení podrobit i vlastní práci. 
+Jedním ze základních požadavků na návrhy veřejných politik je tzv. transparentost využitých poznatků. Pokud se chcete podívat, jak hodnotit to, jestli je z návrhu jasné, jaké podklady pro něj byly využity a jak se došlo k vásledku, podívejte se na tzv. Evidence Transparency Framework [@rutterEvidenceTransparencyFramework2015] -- a rovnou můžete hodnocení podronit i vlastní práci. 
 
 ## Modelování a kvantifikace
 
@@ -271,13 +271,7 @@ Inovativních přístupů k tvorbě politik je spousta -- zde je několik zdroj�
 
 ## K zamyšlení
 
-Pár poznámek na příbuzná témata najdete v našich [vzkazech pro týmy](/doporuceni/teze-o-praci-s-poznatky-stat.qmd).
-
-Při vyhodnocnování studií a vstupů pro vaši práci se může hodit příručka *Using Research Evidence: A Proactice Guide* [@breckonUsingResearchEvidence2015].
-
-Pokud byste se rádi zamysleli nad tím, jaké druhy poznatků jsou vhodné a dostatečné pro vaši práci, začtěte se do studie *What Counts as Good Evidence?* [@nutleyWhatCountsGood2013].
-
-Že proces tvorby politik není vždy úhledný a přímočarý -- a jak to tedy vypadá v praxi, konkrétně té brtiské, popisuje publikace *Policy Making in the Real World* [@hallsworthPolicyMakingReal2011].
+Že proces tvorby politik není vždy úhledý a přímočarý -- a jak to tedy vypadá v praxi, konkrétně té brtiské, popisuje publikace *Policy Making in the Real World* [@hallsworthPolicyMakingReal2011].
 
 Praktickou příručkou pro zvládnutí celého procesu pak je @bardachPracticalGuidePolicy2020.
 
