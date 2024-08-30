@@ -6,25 +6,66 @@ poradi: 1
 editor: source
 ---
 
+---
+title: "Vyhledání veřejných dat"
+subtitle: "Kde hledat veřejná data a jak se v nich vyznat?"
+blok: ["ziskavani"]
+poradi: 1
+editor: source
+---
+
 ## O co jde a k čemu to je
 
-Tento návod neposkytuje postup krok za krokem, ale je především rozcestníkem a repozitářem základních znalostí nutných pro práci s veřejnými daty.
+Tento návod neposkytuje postup krok za krokem, ale je především rozcestníkem a repozitářem základních znalostí nutných pro práci s veřejnými daty. Myslíme zde především data, která se hodí pro kvantitativní analýzu.
 
-## Datové zdroje
+## Co hledat? Data pro lidi, data pro stroje
 
-### 0. Metadata, číselníky
+
+## Kde hledat?
+
+Na otázku **kde brát data?** neexistujte jedna jasná odpověď - v Česku nenajdete jeden katalog nebo rozcestník dat. Kde máte hledat záleží na tom, jaký typ dat hledáte.
+
+Nabízíme tuto (nedokonalou) typologii, která může pomoct.
+
+
 
 ### 1. Statistická data
+
+#### Co je kde
+
+**ČSÚ a Eurostat**
+
+**ČSÚ a otevřená data**
+
+#### Jak hledat data ČSÚ [^1]
+
+[^1]: ČSÚ zlepšuje
+
+#### Kde bere ČSÚ data? 
+
+#### Metadata
+
+:::{.callout-note}
+
+##### Statistická služba!?
+
+https://www.czso.cz/csu/czso/pracoviste_statni_statisticke_sluzby
+
+:::
+
+#### ČSÚ a jiní poskytovatelé
 
 ### 2. Administrativní data
 
 ### 3. Výzkumná data
 
-### 4. Výzkumná data
-
 TODO https://datacatalogue.cessda.eu/
 
 TODO https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data
+
+### 4. Klasifikace a číselníky
+
+Ať použijete jakákoli data, nejspíš se v nich pracuje s nějakými kategoriemi, jednotkami pozorování či indikátory. Abyste s těmiti prvky mohli dále pracovat, potřebujete vědět, kde najít jejich kanonickou formu. Ty nejdůležitější číselníky, klasifikace a definice ukazatelů spravuje buď ČSÚ nebo ČÚZK. ČSÚ
 
 ## Další zdroje
 
@@ -57,6 +98,9 @@ důležitá šetření ČSÚ:
 https://www.czso.cz/csu/vykazy/setreni_u_domacnosti => vyhláška o Programu statistických zjišťování - [na rok 2023](https://www.zakonyprolidi.cz/cs/2022-324), [na rok 2024](https://www.zakonyprolidi.cz/monitor/7724336.htm)
 
 => seznam [2023](https://www.czso.cz/csu/vykazy/program-statistickych-zjistovani-na-rok-2023) a [2024](https://www.czso.cz/csu/vykazy/program-statistickych-zjistovani-na-rok-2024)
+
+
+
 
 
 
