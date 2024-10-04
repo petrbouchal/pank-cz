@@ -169,7 +169,7 @@ listing:
       subtitle: Jak využít forecasting
       categories: ["Toolkity & metody"]
       path: https://www.ceskepriority.cz/forpol
-    - title: AI for Academie
+    - title: AI for Academia
       subtitle: Anotovaná sbírka AI nástrojů pro výzkum
       categories: ["Toolkity & metody"]
       path: https://docs.google.com/document/d/1mb4SWtqyi1iEGCn2uTnHkPHqW3UoQr8b0xv5_81a-4Y/edit
