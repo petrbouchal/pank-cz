@@ -169,6 +169,10 @@ listing:
       subtitle: Jak využít forecasting
       categories: ["Toolkity & metody"]
       path: https://www.ceskepriority.cz/forpol
+    - title: AI for Academie
+      subtitle: Anotovaná sbírka AI nástrojů pro výzkum
+      categories: ["Toolkity & metody"]
+      path: https://docs.google.com/document/d/1mb4SWtqyi1iEGCn2uTnHkPHqW3UoQr8b0xv5_81a-4Y/edit
     - title: Knihovna produktů ESF
       subtitle: "Výstupy projektů ESF – najdete mezi nimi návody a metodiky i výzkum"
       categories: ["Toolkity & metody", "Studie & projekty"]
