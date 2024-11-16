@@ -118,6 +118,8 @@ Někdy se může hodit hledat data [podle indikátoru, který sledují](https://
 
 Data o územích pak ČSÚ poskytuje na [statistickém geoportálu](https://geodata.csu.gov.cz/portal/apps/sites/#/homepage).
 
+> Pokud na webu ČSÚ nenajdete požadovaný rozpad nebo agregaci dat, můžete si je v rozumné míře vyžádat od [informačních služeb](https://csu.gov.cz/informacni_sluzby_ustredi). 
+
 #### Metadata
 
 ČSÚ poskytuje a udržuje velkou část potřebných metadat -- číselníků, klasifikací a definic indikátorů. K tomu [ detailněji níže](#metadata-klasifikace-a-číselníky). 
