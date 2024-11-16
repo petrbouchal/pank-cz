@@ -5,3 +5,106 @@ subtitle: "Posbírejte data a vytáhnětě s nich to podstatné"
 poradi: 4
 editor: source
 ---
+Tento průvodce slouží především jako rozcestník pro řešení dílčích úkolů při designu dotazníku, a také jako připomínka některých základních principů a tipů, jak se vyvarovat nejčastějších chyb. 
+
+Některá témata -- ochrana soukromí, design škál, výběr vzorku, technologické nástroje -- necháváme na vaše studium specifických zdrojů.
+
+## Průvodce designem dotazníků
+
+Design dotazníkových šetření je samostatná disciplína se svými biblemi; o každém dílčím problému byste si mohli přečíst několik knih. Navíc různé výzkumné obory mají k věci trochu jiný přístup. Ale pokud bychom měli doporučit jeden praktický dokument, který Vám umožní podchytit ty nejpodstatnější aspekty, byl by to článek "How to Run Surveys" od americké ekonomky Stephanie Stantcheva [@stantchevaHowRunSurveys2022], případně i rozsáhlejší verzi téhož [@stantchevaHowRunSurveys2023].
+
+Pokud sbíráte data v dotazníkovém šetření v prostředí veřejné správy, může se vám některá z kapitol *Government Analytics Handbook* od expertů Světové banky [@roggerGovernmentAnalyticsHandbook2023] (viz [web](https://www.worldbank.org/en/publication/government-analytics)), konkrétně část [Public Servant Surveys](https://www.worldbank.org/en/publication/government-analytics/public-servants-survays)
+
+Praktický návod nabízí i průvodce evaluátora [@ministerstvopromistnirozvojPruvodceEvaluatoraSbirka2020] z dílny evaluátorů na Ministerstvu pro místní rozvoj.
+
+### Jak klást otázky
+
+Specifickým problémem pak je, jak správně tvořit otázky tak, aby jejich formulace a způsob zodpovídání co nejvíce přispěly ke kvalitě posbíraných dat. Nejčastější otazníky v této oblasti -- jak dlouhé mají být škály, jestli jednosměrné nebo dvousměrné, atd. -- zodpovídá na základě velmi pečlivého přehledu literatury článek "The Science of Asking Questions" [@schaefferAdvancesScienceAsking2020].
+
+### Jednoduchá pomůcka
+
+Když vytváříte otázky a odpovědní škály/možnosti, myslete především na to, co se musí odehrát v hlavě respondenta:
+
+1. Porozumět otázce
+2. Vybavit si odpověď (jinými slovy: vzpomenout si)
+3. Posoudit vybavené informace a jejich relevanci pro zodpovězení otázky
+4. Napárovat to, co se mu vybavilo, na odpovědi, které nabízíte
+5. Zadat/vybrat odpověď
+
+Zkuste si tento proces představit, když otázky vytvářite. (Možná vám to nepůjde - na to je [pilotáž](#pilotáž), viz níže.)
+
+:::{.strip .page-full .page-columns}
+
+:::{.aside}
+<br>
+:::
+
+## Dobré praxe pro design dotazníku
+
+### Na co dát pozor při tvorbě otázek
+
+- používejte už osvědčené otázky -- [viz sadu zdrojů níže](#kde-brát-otázky)
+- slaďte si odpovědní škály se zdroji dat o populaci, se kterou byste mohli chtít své respondenty srovnávat - např. u sociodemografických otázek (věkové kategorie apod.) -- nejlepší je podívat se, jak se sbírají data v oficiálních statistických šetřeních
+- totéž platí o klasifikacích -- např. stupně a obory vzdělání, povolání, území - na to lze využít existující číselníky a klasifikace, [dostupné jsou na webu ČSÚ v databázi metainformací](https://csu.gov.cz/klasifikace-ciselniky).
+- pokud si nejste jistí, jestli a jak danou informaci použijete, neptejte se na ni.
+
+### Kognitivní rozhovor
+
+Otestujte svoje otázky, nebo celý dotazník, naživo s potenciálním respondentem. 
+
+Nejlépe mu/jí dotazník ukažte tak, jak bude opravdu vypadat, a nechte respondenta říkat vám, co mu/jí jde hlavou, když vidí jednotlivé otázky a snaží se na ně odpovídat. 
+
+- Můžete se zaměřit jen na otázky, které nově vyvíjíte. 
+- V případě potřeby si vystačíte i s papírem.
+
+### Pilotáž
+
+Poproste skupinu (potenciálních) respondentů, aby pro vás vyplnili dotazník tak, jak opravdu bude vypadat. Pod jednotlivé (případně některé) otázky nebo na konec jednotlivých stránek přidejte textové pole, kam mohou respondenti vepsat, co zlepšit.
+
+Cvičně si vyhodnoťte data, která se z pilotáže sešla. Funguje dotazník tak, jak chcete?
+
+## Tipy pro realizaci
+
+### Komunikace není nikdy dost
+
+- Informujte předem a opakovaně ty, jejichž spolupráci potřebujete: respondenty, důležité lidi v organizacích a skupinách, na které cílíte
+- Nebojte se opakovat důležité informace: cíle výzkumu, pro koho, jak data využijete, jak bude celá věc probíhat, kdo a kdy se doví výsledky. Vložte je do průvodního dopisu, do úvodu dotazníku, na web k dotazníku.
+
+### Reminderů také není (skoro) nikdy dost
+
+- lidé mají spoustu práce a na dotazník zapomenou, i když ho chtějí vyplnit - pošlete jim přiměřené množství reminderů, a pokud to jde, upozorňujte na dotazník tam, kde to vaši respondenti zahlédnou: Linkedinové skupiny, schůzky, další kanály
+
+### Follow-up je zásadní
+
+- od začátku komunikujte, jak data využijete a jak budete komunikovat výsledky
+- Pokud to jen trochu jde, pošlete respodnentům s poděkováním i zprávu s vyhodnocením dotazníku.
+- Zeptejte se respondentů, jak moc věří, že výsledky někdo využije.
+
+:::
+
+## Kde brát otázky
+
+Na většinu věcí už se někdy někdo někoho v dotazníku ptal - a tedy už někdo vymyslel a vyzkoušel, jak se ptát. A jako bonus možná budete i vědět, jak odpovídali lidé jinde. Pokud možno tedy využijte již ověřené otázky (jen pozor na licence, některé organizace si stanovují, zda a za jakých podmínek může jejich otázky použít někdo jiný.)
+
+Pokud se jedná o sociodemografické otázky, je nejlepší začít u statistických úřadů, ale i pro postokové, hodnotové a tematicky specifické otázky existují zavedená mezinárodní šetření, z nichž mnohá jsou realizována v Česku a nejdete k nim český dotazník.
+
+K většině veřejných šetření najdete dotazníky na webu dané instituce, u těch mezinárodních lze různé verze dotazníku (a často i datové soubory) najít v sociálněvědním archivu [GESIS](https://www.gesis.org/en/home).
+
+- Oficiální statistická šetření
+    - **SILC** (šetření příjmů a životních podmínek), **LFS** (Výběrové šetření pracovních sil) -- různé verze dotazníků v různých jazycích lze najít právě v archivu [GESIS](https://www.gesis.org/en/home); dotazníky obsahují i některé postojové otázky (subjektivní kvalita života, důvěra aj.)
+    - **OECD** sbírá data na různá témata
+    - **šetření ČSÚ** - z [programu statistických zjišťování ČSÚ](https://csu.gov.cz/vykazy/program_statistickych_zjistovani) lze zjistit, v jakém dotazníku se sbírají jaká data
+    - **[Eurobarometer](https://europa.eu/eurobarometer/)**: zde najdete standardizované otázky kladené stabilně, ale také tematická šetření - starší dotazníky opět hledejte v [GESIS](https://www.gesis.org/en/home)
+- Akademická šetření v oblasti postojů a hodnot
+    - [European Social Survey](https://www.europeansocialsurvey.org/)
+    - [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp) / [European Values Study](https://europeanvaluesstudy.eu/)
+- Na různá témata se hodí prozkoumat, jak se na danou věc ptá Gallup či Pew Research, v českém prostředí se podívejte do dlouhodobých šetření ústavu [STEM](https://www.stem.cz/) a [Centra pro výzkum veřejného mínění Akademie věd](https://cvvm.soc.cas.cz/cz/), v oblasti životních podmínek pak [dlouhodobé sběry dat PAQ Research](https://www.paqresearch.cz/) (Život k nezaplacení, Život během pandemie). Dotazníky, dokumentaci i datové soubory k mnohým z těchto šetření najdete v [Českém sociálněvědním datovém archivu](https://archiv.soc.cas.cz/cz/pristup-k-datum/datovy-katalog).
+- Tematické
+    - v oblasti práce [Eurofound](https://www.eurofound.europa.eu/en/surveys)
+    - v oblasti rovnosti pohlaví [EIGE](https://eige.europa.eu/)
+    - při zkoumání veřejného sektoru můžete využít otázky posbírané v Global Survey of Public Servants [@schusterGlobalSurveyPublic2023a], na [webu](https://www.globalsurveyofpublicservants.org/) najdete velkou excelovou tabulku s přesnou formulací otázek pokládaných v jednotlivých zemích i v harmonizovaném dotazníku.
+
+### Odkazovaná literatura
+
+:::{#refs}
+:::
