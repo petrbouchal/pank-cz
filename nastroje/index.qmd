@@ -78,7 +78,7 @@ listing:
       path: https://ingsa.org/home/Podcast/
       categories: ["Podcasty"]
     - title: Zákulisí sociologie
-      subtitle: Od výzkumníků [ústavu STEM](https://stem.cz)
+      subtitle: Od výzkumníků <a href = "https://stem.cz">ústavu STEM</a>
       path: https://talk.youradio.cz/porady/zakulisi-sociologie
       categories: ["Podcasty"]
     - title: De facto
@@ -105,6 +105,10 @@ listing:
       subtitle: Podcasty o produktovém přístupu k využívání dat
       path: https://designingforanalytics.com/experiencing-data-podcast/
       categories: ["Podcasty"]
+    - title: Vybraná témata analýzy dat (v R)
+      subtitle: série workshopů na sociologii FF UK v režii Aleše Vomáčky (<a href = "https://www.youtube.com/@R-workshopy">a videa na youtube</a>)
+      path: https://sociology-fa-cu.github.io/vybranatemataanalyzy/
+      categories: [Vzdělávání & rozvoj]
     - title: IDEA Talks
       subtitle: Video a Podcasty o studiích think tanku IDEA
       categories: ["Studie & projekty", "Podcasty"]
