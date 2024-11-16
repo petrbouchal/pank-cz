@@ -99,6 +99,7 @@ K většině veřejných šetření najdete dotazníky na webu dané instituce, 
     - [European Social Survey](https://www.europeansocialsurvey.org/)
     - [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp) / [European Values Study](https://europeanvaluesstudy.eu/)
 - Na různá témata se hodí prozkoumat, jak se na danou věc ptá Gallup či Pew Research, v českém prostředí se podívejte do dlouhodobých šetření ústavu [STEM](https://www.stem.cz/) a [Centra pro výzkum veřejného mínění Akademie věd](https://cvvm.soc.cas.cz/cz/), v oblasti životních podmínek pak [dlouhodobé sběry dat PAQ Research](https://www.paqresearch.cz/) (Život k nezaplacení, Život během pandemie). Dotazníky, dokumentaci i datové soubory k mnohým z těchto šetření najdete v [Českém sociálněvědním datovém archivu](https://archiv.soc.cas.cz/cz/pristup-k-datum/datovy-katalog).
+- Předchozí akademické výzkumu najdete v [Českém sociálněvědním datovém archivu](https://archiv.soc.cas.cz) a na evropské úrovni v [CESSDA](https://www.cessda.eu/Tools/Data-Catalogue) -- podívejte se, kdo danou věc už zkoumal a jaký dotazník k tomu použil.
 - Tematické
     - v oblasti práce [Eurofound](https://www.eurofound.europa.eu/en/surveys)
     - v oblasti rovnosti pohlaví [EIGE](https://eige.europa.eu/)
