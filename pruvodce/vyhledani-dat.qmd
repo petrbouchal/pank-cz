@@ -6,13 +6,279 @@ poradi: 1
 editor: source
 ---
 
-> ## Tento návod ještě připravujeme.
->
-> Tento návod nezvnikl v rámci projektu PANK jako výsledek práce se [zapojenými týmy](/pribeh-projektu.qmd#zapojené-týmy-ve-státní-správě).
->
-> Vytváříme ho až následně, abychom nad rámec původního projektu poskytli podporu v oblasti, kde podle nás chybí. 
->
-> Návod zveřejníme na jaře 2024.
+## O co jde a k čemu to je
+
+Tento návod neposkytuje postup krok za krokem, ale je především rozcestníkem a repozitářem základních znalostí nutných pro práci s veřejnými daty. Myslíme zde především data, která se hodí pro kvantitativní analýzu.
+
+## O čem mluvíme
+
+### *Veřejná* data?
+
+Tím myslíme dvě věci:
+
+1. data, která jsou veřejně dostupná
+2. data, která produkuje veřejný sektor
+
+Tyto dvě množiny se nepřekrývají dokonale...
+
+### *Data*?
+
+Tím myslíme převážně kvantitativní data určená pro kvantitativní analýzu, tj. počítání, typicky v Excelu, R, Pythonu nebo jiném nástroji určeném na práci se *strukturovanými* daty. Takto myšlená data odlišujeme od jednotlivých čísel ve studiích a dokumentech.
+
+## Co hledat? Data pro lidi, data pro stroje
+
+Právě pro účely analýzy je vhodné hledat data tzv. ve strojově čitelné formě.
+
+- nejčastěji jde o data v tabulkovém formátu, většinou CSV. Pokud jsou data v excelovém souboru, měla by být formátována tak, aby nic nebránilo strojovému využití, viz @bromanDataOrganizationSpreadsheets2018.
+- častým způsobem, jak data zpřístupnit právě v takovém formátu a navíc veřejně a s patřičným svolením k využití, je dodržení [standardu otevřených dat](https://data.gov.cz/informace/z%C3%A1klady-otev%C5%99en%C3%BDch-dat-pro-z%C3%A1jemce/).
+- naopak méně vhodné jsou některé statistické tabulky, jako např. přílohy ročenek, které data poskytují v různých souborech, často v nesourodé organizaci a formátu, a primárně s cílem umožnit čtení tabulek čtenářům. 
+
+Data, která najdete ve strojově špatně zpracovatelné formě, často jsou zveřejněna i ve strojově čitelném formátu -- to platí např. o mnohých výstupech ČSÚ. Proto se vyplatí vědět, kde hledat.
+
+## Kde tedy hledat?
+
+:::{.callout-tip}
+
+### Ve zkratce: kde hledat jako první
+
+- Česká statistická data: [katalog ČSÚ (otevřená data)](https://csu.gov.cz/otevrena-data-v-katalogu-produktu-csu?pocet=10&start=0&vlastnostiVystupu=22&pouzeVydane=true&razeni=-datumVydani), pak [VDB ČSÚ](https://vdb.czso.cz/vdbvo2/)
+- Další otevřená data českého státu: [národní katalog otevřených dat](https://data.gov.cz/datov%C3%A9-sady)
+- Metadata pro česká data: [Databáze metainformací ČSÚ](https://apl2.czso.cz/iSMS/klaslist.jsp)
+- Česká prostorová data: [VDP RÚIAN (ČÚZK)](https://vdp.cuzk.cz/vdp/ruian)
+- Eurostat: [katalog datových sad](https://ec.europa.eu/eurostat/web/products-catalogues/-/ks-76-06-324)
+- Data z výzkumů: v ČR [ČSDA AV ČR](https://archiv.soc.cas.cz/cz/), v EU [CESSDA](https://www.cessda.eu/) a [GESIS](https://www.gesis.org/home)
+
+:::
+
+Na otázku **kde brát data?** neexistujte jedna jasná odpověď -- v Česku nenajdete jeden katalog nebo rozcestník dat. Kde máte hledat záleží na tom, jaký typ dat hledáte.
+
+Nabízíme tuto (nedokonalou) typologii, která může pomoct.
+
+### 1. Statistická data[^2]
+
+[^2]: kvalitní informační a popularizační texty ke statistice v ČR najdete v časopise ČSÚ [Statistika a my](https://statistikaamy.csu.gov.cz/) 
+
+#### Co je kde
+
+Oficiální statistická zjišťování v Česku realizují tzv. pracoviště *státní statistické služby*.
+
+:::{.callout-note}
+
+##### Statistická služba!?
+
+Kromě ČSÚ statistickou službu vykonávají i jiné veřejné organizace, především ministerstva. Viz [tento přehled](https://www.csu.gov.cz/csu/czso/pracoviste_statni_statisticke_sluzby).
+
+:::
+
+Seznam těchto šetření se aktualizuje a schvaluje (formou meziresortního připomínkového řízení, jde totiž o vyhlášku) v tzv. Programu statistických zjišťování. 
+
+- ten na rok 2024 najdete na <https://csu.gov.cz/csu/vykazy/program-statistickych-zjistovani-na-rok-2024>
+- ten na rok 2025 najdete na <https://csu.gov.cz/vykazy/program-statistickych-zjistovani-na-rok-2025> 
+
+Může se hodit [přehled pravidelných šetření domácností](https://csu.gov.cz/vykazy/setreni_u_domacnosti), popř. [přehled všech sběrů dat](https://csu.gov.cz/vykazy/vykazy-sber-dat).
+
+Součástí statistických zjišťování pak je mnohdy i využití existujících např. administrativních dat, především státu, ale i soukromého sektoru. Ne všechna data, která uvidíte od ČSÚ, jsou tedy výsledkem sběru dotazníků nebo výkazů.
+
+:::{callout-info}
+
+**ČSÚ a Eurostat**
+
+Eurostat vlastní data nesbírá (výjimkou je snad jen Eurobarometer, evropské šetření postojů občanů). Přebírá data od národních statistických úřadů, tedy i ČSÚ -- to je možné proto, že velká část národních sběrů dat vychází z evropsky harmonizované metodiky.
+
+Eurostat pak tato data publikuje ve sladěné formě. To má několik výhod:
+
+- Eurostat ve strojově čitelné formě poskytuje i některé datové sady a řady, které ČSÚ zatím publikuje pouze ve Veřejné databázi nebo jako excelové soubory u jednotlivých publikací.
+- Někdy Eurostat data publikuje v agregacích (např. podle věkových skupin), které se liší od těch, které při publikaci využívá ČSÚ a mohou se vám lépe hodit pro analýzu
+- a konečně, samozřejmě, vám to umožní mezinárodní srovnání.
+
+:::
+
+**ČSÚ a otevřená data**
+
+ČSÚ část svých výstupů poskytuje ve formě otevřených dat. Najdete je pak
+
+- v katalogu produktů ČSÚ
+- v Národním katalogu (otevřených) dat
+
+Jde o samotné datové sady i o metadata (číselníky aj.)
+
+#### Jak hledat data ČSÚ [^1]
+
+[^1]: ČSÚ zlepšuje svůj web a chystá i změnu ve VDB, toto se tedy může brzy změnit.
+
+Jakákoli data: začněte v [katalogu produktů ČSÚ](https://csu.gov.cz/katalog-produktu?pocet=10&start=0&pouzeVydane=true&pouzePosledni=false&razeni=-datumVydani). Ten ve výchozím nastavení ukazuje jen vydané produkty, ale lze v něm najít i plánované produkty.
+
+Otevřená data: [začněte také v katalogu produktů, ale filtrujte](https://csu.gov.cz/otevrena-data-v-katalogu-produktu-csu?pocet=10&start=0&vlastnostiVystupu=22&pouzeVydane=true&razeni=-datumVydani). Případně použijte tento [rozcestník otevřených statistických dat](https://csu.gov.cz/otevrena_data).
+
+Alternativně otevřená data ČSÚ najdete v [Národním katalogu otevřených dat](https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/00025593). Hůře se v nich filtruje než v katalogu produktů ČSÚ, ale výhodou je, že datové sady ČSÚ vidíte v katalogu spolu s datovými sadami jiných poskytovatelů.
+
+Pokud neuspějete tam, hledejte ve [Veřejná databázi (VDB)](https://vdb.czso.cz/vdbvo2/); pokud údaje nenajdete tam, hledejte v obecném katalogu produktů -- a možná budete odkázáni na excelové soubory připojené k dané publikaci.
+
+Někdy se může hodit hledat data [podle indikátoru, který sledují](https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=metodika-uvod).
+
+Data o územích pak ČSÚ poskytuje na [statistickém geoportálu](https://geodata.csu.gov.cz/portal/apps/sites/#/homepage).
+
+#### Metadata
+
+ČSÚ poskytuje a udržuje velkou část potřebných metadat -- číselníků, klasifikací a definic indikátorů. K tomu [ detailněji níže](#metadata-klasifikace-a-číselníky). 
+
+#### Veřejně nepřístupná data
+
+ČSÚ i další poskytovalé statistik udržují i individuální data, ze kterých jsou agregované statistiky spočteny. K těm lze získat přístup za určitých podmínek a pod přísnou kontrolou, pokud jde o data nějak chráněná (např. osobní nebo obchodně citlivé údaje). 
+
+- ČSÚ za tímtu účelem provozuje tzv. [Safe Centrum](https://csu.gov.cz/provozni-rad-safecentra-csu). Data lze získat pouze pro výzkumné účely, což je aktuálně interpretováno jako výzkum akademický, mezi studenty pak jde o diplomové a disertační práce.
+- Svůj režim přístupu k neveřejným datům má i Ústav zdratovnických informací a služeb.
+
+Některé zahraniční agentury poskytují méně omezený přístup k redigovaným nebo pozměněným mikrodatům tak, aby jejich zpřístupnění neohrozilo ochranu dat -- často je najdete pod názvem *public use file*.
+
+Pro zjišťování, jaká data stát má, se může hodit vědět, jaké útvary mají kde na ministerstvech danou věc na starosti. K tomu může posloužit organogram [Mapa státu](nastroje/mapa-statu), kterou poskytujeme v rámci webu PANK. Pomoci může i systém [Registr práv a povinností](https://rpp-ais.egon.gov.cz/AISP/), který obsahuje mj. databázi informačních systémů státu s různou mírou detailu o tom, jaká data v systémech jsou.
+
+:::{callout-tip}
+
+#### Řízený přístup k datům
+
+V přípravě je zákon o správě dat a o řízeném přístupu k datům (v [eKlepu(https://odok.cz/portal/veklep/material/KORND4KLAAG6/)]; dále viz [noticku DIA](https://data.gov.cz/%C4%8Dl%C3%A1nky/z%C3%A1kon-o-spr%C3%A1v%C4%9B-dat-a-%C5%99%C3%ADzen%C3%A9m-p%C5%99%C3%ADstupu-k-dat%C5%AFm))
+
+Ten by měl umožnit řízení zpřístupňování vybraných dat pro výzkumné a další vybrané účely, a to za určěných podmínek a pod přísnou kontrolou tak, aby bylo možné pro tyto účely poskytnout i data, které jinak není možné zpřístupnit kvůli nutnosti je chránit (např. kvůli ochraně osobních údajů.) Zákon také umožní žádat data z více subjektů a v kontrolovaném prostředí je propojit.
+
+:::
+
+#### ČSÚ a jiní poskytovatelé
+
+Kromě ČSÚ se vyplatí vědět i o dalších poskytovalelích, zvláště pokud hledáte sektorově specifická data, která se často řídí jinými zákony a nespadají do práce ČSÚ.
+
+1. ČÚZK: udržuje kompletní systém prostorových dat o ČR, viz [níže](#prostorová-data-od-veřejného-sektoru)
+2. ÚZIS: udržuje [systém dat o zdravotnictví](https://www.uzis.cz/index.php?pg=nzis)
+3. MPSV: [Trexima / ISPV](https://ispv.cz): Informační systém o platech je výstup statistik trhu práce, řízeného MPSV; data spravuje a poskytuje společnost Trexima.
+3. [CENIA](https://www.uzis.cz/index.php?pg=nzis): spravuje data o životním prostředí
+4. Česká národní banka: shromažďuje mnohá data o ekonomice
+5. OECD, Světová banka, MMF: poskytují některá vlastní data, popř. mezinárodní indexy a odvozené datové produkty (indexy)
+
+#### Prostorová data od veřejného sektoru
+
+Je dobré vědět, že téměř veškerá široce využitelná prostorová data -- počínaje hranicemi územních celků, přes definice adresních bodů, po detailní ortofotomapy a velkou část katastrálních dat -- jsou dostupná jako otevřená data Registru územní identifikace a nemovitostí (RÚIAN) spravovaného Českým úřadem zeměměřickým a katastrálním.
+
+Není tedy třeba si pokoutně posílat SHP soubory -- vše je v aktuální verzi dobře dostupné z tzv. [Vzdáleného přístupu k datům RUIAN](https://vdp.cuzk.cz/vdp/ruian).
+
+Hranice evropských regionů a dalších území najdete [na webu Eurostatu](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Geographical_information_system_of_the_Commission_(GISCO)).
+
+### 2. Administrativní data
+
+Administrativní data vznikají jako vedlejší produkt nějaké aktivity -- poskytování nějaké služby nebo administrace nějakéb agendy. To s sebou nese výhody i nevýhody, každopádně ale mnohdy jde o data velmi cenná pro analytickou a výzkumnou práci.
+
+Vesměs jde o data obsažená uvnitř velkých informačních systémů států, v určitém slova smyslu ale jsou deriváte administrativních dat např. i data mobilních operátorů, které [do nějaké míry stát také zveřejňuje](https://www.kamdojizdime.cz/). Mezi administartivními daty důležitou roli hrají mj. data o veřejných financích (ta jsou dobře dostupná), ale také např. data o všech zaměstnancích, která shromažďuje Česká správa sociálního zabezpečení -- ta naopak veřejně dostupná nejsou.
+
+:::{.callout-note}
+
+#### Data veřejného sektoru
+
+Základní přehled o datové architektuře českého státu poskytuje web <https://archi.gov.cz>: viz [Propojený datový fond](https://archi.gov.cz/znalostni_baze:ga_ppdf?s[]=propojen%C3%BD%2A&s[]=datov%C3%BD%2A&s[]=fond%2A).
+
+:::
+
+#### Příklady dostupných administrativních dat
+
+- [Monitor státní pokladny](https://monitor.statnipokladna.cz/): velmi detailní údaje o příjmech, výdajích a účetních výkazech téměř všech veřejných organizací. Otevřená data nejsou snadno zpracovatelná, ale jsou funkční (viz [níže](#jak-se-k-datům-dostat-technicky)); pro základní účely poslouží analytické rozhraní. Spíše sporou dokumentaci částečně doplňuje tzv. [manuál identifikace koruny](https://www.statnipokladna.cz/cs/rispr/metodicke-informace/identifikace-koruny-material-s-metodicky-1833).
+- [IS RED](https://red.fs.gov.cz/): ústřední registr dotací
+- [Fondy EU](https://dotaceeu.cz/cs/statistiky-a-analyzy/seznam-operaci-(prijemcu)): data o všech dotací EU fondů v Česku
+
+Dobrý přehled dostupných dat a nástroje na jejich zpracování do využitelné formy poskutuje Ondřej Kokeš na <https://github.com/kokes/od>.
+
+### 3. Výzkumná data
+
+Jde o dva druhy dat:
+
+- data sbíraná dlouhodobě a často mezinárodně s cílem sledovat nějaký jev
+- data sbíraná pro účelu konkrétního výzkumu, ale dále využitelná.
+
+Příkladem prvního je PISA nebo světová šetření postojů World Values Study; do druhé kategorie spadají data posbíraná výzkumníky pro jednotlivé projekty. V akademickém světě se v posledních letech prosazuje praxe veřejné archivace dat k jednotlivým výzkumům, proto mnohé datové sady lze najít v online archivačních systémech; identifikaci archivu často najdete v konkrétním článku.
+
+Archivaci a katalogizaci vědeckých dat pro opakované použití zajišťuje
+
+- v Česku [Český sociálněvědní datový archiv](https://archiv.soc.cas.cz/cz/pristup-k-datum/nase-data); tam najdete i kvalitativní data
+- na evropské úrovni sociálněvědní archivy katalogizuje [CESSDA](https://www.cessda.eu/Tools/Data-Catalogue )
+- v Evropě je nejvýznamnější GESIS -- tam najdete např. archivní data Eurobarometru nebo datové sady velkých šetření jako World Values Survey nebo European Social Survey.
+
+Data k jednotlivým výzkumům můžete najít v systémech jako osf.io nebo figshare. 
+
+U velkých institucionálních šetření jako PISA hledejte u jejich autorů (OECD aj.)
+
+### 4. Metadata: klasifikace a číselníky
+
+Ať použijete jakákoli data, nejspíš se v nich pracuje s nějakými kategoriemi, jednotkami pozorování či indikátory. Abyste s těmiti prvky mohli dále pracovat, potřebujete vědět, kde najít jejich kanonickou formu. Ty nejdůležitější číselníky, klasifikace a definice ukazatelů spravuje buď ČSÚ nebo ČÚZK. 
+
+#### Proč číselníky a klasifikace využívat a proč je brát od zdroje
+
+Číselníky mají následující funkce:
+
+- určují kompletní výčet entit nějaké kategie v nějaký čas
+- dávají jim unikátní identifikátory (kódy) a až k identifikátorům přiřazují názvy a další informace. Díky tomu se nám nebudou plést všechny obce s názvem Lhota, a nebude nás trápit, když někdo zapíše Ústí nad Labem jako Ústí n. Labem, pokud poskytne i kód obce.
+- umožňují ukládat data jen s kódy a dodatečné informace (názvy, vlastnosti) daných entit doplnit pomocí číselníku, což šetří místo.
+
+Podstatný detail je *časová podmíněnost číselníků*: mění se v čase, proto je dobré je brát od zdroje a exportovat stav číselníku ke stejnému datu, ke kterému jsou platná data, na která chcete číselník napojit. 
+
+[Prakticky]: v databázi metainformací ČSÚ si můžete vyhledat, prohlédnout, a ve formátu CSV nebo excel stáhnout jakýkoli číselník nebo klasifikaci, ve stavu k jakémukoli datu. 
+
+:::{.callout-tip}
+
+#### Jak fungují metadata
+
+Obecně v českém veřejném sektoru platí pravidlo, že na jednu věc (jev, indikátor, kategorizaci, územní prvek) by měl existovat jeden číselník. Ten by měl někdo spravovat a ostatní by jej měli využívat.
+
+Většinu číselníku spravuje ČSÚ, ale např. některé číselníky území spravuje ČÚZK. V praxi bohužel někteří poskytovatelé používají vlastní číselníky nebo jejich verze, popř. zastaralé číselníky, a ne vždy je snadné vše sladit. Přesto se ale vyplatí správní číselníky používat a vědět, odkud se berou.
+
+ČSÚ spravuje tyto druhy metadat
+
+- číselníky: např. číselník obcí -- má jen jednu úroveň
+- klasifikace: jde o víceúrovňová členění, např. klasifikaci odvětví, která může odvětví členit na kategorie nebo podkategorie
+- indikátory: definice samotných měřených či sledovaných údajů
+
+Dále v poskytovaných datech často najdete tzv. vazby mezi číselníky -- jde o informace nutné pro propojení dvou číselníků. Díky nim se např. dovíte, do jakého kraje patří která obec.
+
+Pozn.: něco trochu jiného znamenají metadata celých datových sad -- jde o dokumentaci o tom, jak data vznikla, co obsahují, atd.
+
+:::
+
+Kromě databáze metainformací ČSÚ se mohou hodit i metadata státní pokladny, kde mj. najdete seznam všech organizací veřejného sektoru, které mají vazbu na veřejné finance, včetně jejich IČO a dalších metadat. Jde zřejmě o jediný opravdu plošný číselník veřejných organizací.
+
+## Jak se k datům dostat technicky
+
+
+
+Pokud pracujete v R nebo Pythony, k datům některých poskytovatelů výše se dostanete pomocí specializovaných knihoven, které vám urychlí vyhledání a načtení dat:
+
+- ČSÚ: v R použijte balík [{czso}](https://petrbouchal.xyz/czso) [@bouchalCzsoUseOpen2020]
+- Státní pokladna: v R použijte balík [{statnipokladna}](https://petrbouchal.xyz/statnipokladna/) [@bouchalStatnipokladnaUseData2020]
+- Eurostat: v R použijte balík {eurostat}, v Python knihovnu se stejným názvem
+- OECD: v R balík {OECD}
+- Světová banka: v R balík {wbstats}
+- prostorová data: pro data od ČÚZK v R balík {RCzechia}, hranice evropských území {giscoR}
+
+K tomuto lze využít materiály z několika workshopů:
+
+- [Workshop pro analytiky resortů](https://github.com/petrbouchal/analytici-r-publicdata)
+- [Workshop na FF UK](https://github.com/petrbouchal/ffuk-r-publicdata) + video níže
+
+{{< video https://www.youtube.com/watch?v=ATUrm_wjjW0 >}}
+
+## Jak s daty dál pracovat
+
+K tomuto viz [oddělený návod](analyza-dat.qmd). Obecně doporučujeme:
+
+- pokud pracujete v Excelu, vyzkoušejte jeho modul PowerQuery: přiblíží vás dobré praxi práce s daty
+- na podobná data využít Python nebo R; ty vám poslouží dobře i [na práci s prostorovými daty](https://geocompx.org/).
+
+Velmi stručné shrnutí principů -- spolu s rozcestníkem datových zdrojů -- poskytuje přehledový dokument vytvořený pro [pilotní školení analytiků veřejné správy](https://petrbouchal.xyz/analytici/).
+
+```{=html}
+<embed src="https://petrbouchal.xyz/analytici/one-pager.pdf" width="800px" height="2100px" />
+```
+
+## Odkazované zdroje
+
+:::{#refs}
+
+
 
 
 
