@@ -164,6 +164,18 @@ Není tedy třeba si pokoutně posílat SHP soubory -- vše je v aktuální verz
 
 Hranice evropských regionů a dalších území najdete [na webu Eurostatu](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Geographical_information_system_of_the_Commission_(GISCO)).
 
+:::callout-tip
+
+#### Data o místech
+
+Kromě standardní tematických datových sad, kde se můžete dovědět údaje za různá území, jsou k dispozici i datové sady, které sdružují všechny možné údaje za všechna území
+
+- databáze [KROK](https://csu.gov.cz/produkty/databaze-krok-otevrena-data) a [MOS](https://csu.gov.cz/produkty/databaze-mos-otevrena-data) od ČSÚ sdružují velké množství údajů o krajích a obcích; dostupné jsou ve formě otevřených dat.  
+- struktura území je "multičíselních" od ČSÚ, který umožnňuje připojením jedné tabulky na jakýkoli seznam území (obcí, ORP atd.) přidat kompletní územní metadata (do jakých vyšších celků dané území patří atd.)
+- [DataPAQ]() od PAQ research kompiluje velké množství údajů o obcích (a nejen o školství) -- viz tlačítko "stáhnout data" vpravo nahoře.
+
+:::
+
 ### 2. Administrativní data
 
 Administrativní data vznikají jako vedlejší produkt nějaké aktivity -- poskytování nějaké služby nebo administrace nějakéb agendy. To s sebou nese výhody i nevýhody, každopádně ale mnohdy jde o data velmi cenná pro analytickou a výzkumnou práci.
@@ -219,7 +231,7 @@ Ať použijete jakákoli data, nejspíš se v nich pracuje s nějakými kategori
 
 Podstatný detail je *časová podmíněnost číselníků*: mění se v čase, proto je dobré je brát od zdroje a exportovat stav číselníku ke stejnému datu, ke kterému jsou platná data, na která chcete číselník napojit. 
 
-[Prakticky]: v databázi metainformací ČSÚ si můžete vyhledat, prohlédnout, a ve formátu CSV nebo excel stáhnout jakýkoli číselník nebo klasifikaci, ve stavu k jakémukoli datu. 
+Prakticky: v databázi metainformací ČSÚ si můžete vyhledat, prohlédnout, a ve formátu CSV nebo excel stáhnout jakýkoli číselník nebo klasifikaci, ve stavu k jakémukoli datu. 
 
 :::{.callout-tip}
 
