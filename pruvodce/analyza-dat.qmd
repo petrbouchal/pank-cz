@@ -10,5 +10,84 @@ blok: ["metody"]
 > Tento návod nezvnikl v rámci projektu PANK jako výsledek práce se [zapojenými týmy](/pribeh-projektu.qmd#zapojené-týmy-ve-státní-správě).
 >
 > Vytváříme ho až následně, abychom nad rámec původního projektu poskytli podporu v oblasti, kde podle nás chybí. 
->
-> Návod zveřejníme na jaře 2024.
+> 
+> Zde zatím najdete vybrané zdroje a odkazy; návod budeme postupně rozšiřovat.
+
+## O co jde a proč to řešit?
+
+Moderní analýza dat 
+
+- pracuje s potřebami uživatelů a proto pracuje agilně
+- se soustředí na reprodukovatelnost, automatizovatelnost a transparentnost výsledků, proto pracuje v kódu a postupy se blíží vývoji softwaru
+- často vytváří jiné výstupy než reporty v PDF: automatizované zprávy, dashboardy, webová rozhraní
+
+Tyto cíle a praktiky vyžadují jednak technické znalosti a dovednosti, jednak určité změny způsobů práce. Zdroje zařazené níže vám pomůžou porozumět, co to znamená, a začít na tom pracovat.
+
+## Kde začít
+
+Velmi stručné shrnutí principů -- spolu s rozcestníkem datových zdrojů -- poskytuje přehledový dokument vytvořený pro [pilotní školení analytiků veřejné správy](https://petrbouchal.xyz/analytici/).
+
+```{=html}
+<embed src="https://petrbouchal.xyz/analytici/one-pager.pdf" width="800px" height="2100px" />
+```
+
+## Kudy do analýzy dat, když excel nestačí
+
+Pokud pracujete v Excelu, dobrý začátek je do práce zařadit nástroj PowerQuery, který vám umožní se k mnohým dobrým praxím analýzy dat přiblížit, aniž byste opustili známé prostředí [@kadukPowerQueryExcel2018].
+
+### R, nebo Python?
+
+Tuto otázku si asi budete klást, jakmile se rozhodnete rozšířit repertoár nástrojů na práci s daty. 
+
+Jasná odpověď na to není. Obecně nejspíš platí, že Python je univerzálnější nástroj, zatímco Rko je více zaměřené na práci s daty. Také platí, že s Rkem budete blíž akademickému světu, s Pythonem tomu komerčnímu.
+
+Oba světy se ale přibližují:
+
+- vznikají nástroje, které vám umožní v jednom projektu, nebo i jendom souboru, pracovat s více jazyky (Quarto, ale i Jupyter Notebooks)
+- vznikají knihovny a balíčky, které přibližují způsob práce v obou světech (např. Polars pro zpracování dat)
+- čím dál více nástrojů na skladování a analýzu dat funguje multijazykově (Arrow, DuckDB)
+
+### Vybrané online učebnice
+
+- kvalitní standardní úvod do analýzy dat v R je [R for Data Science](https://r4ds.hadley.nz/) [@wickhamDataScienceImport2023], existuje i verze pro Python: [Python for Data Science](https://aeturrell.github.io/python4DS/welcome.html) [@turrellPythonDataScience2024]
+- pro práci s prostorovými daty najdete úvodní texty v sadě Geocomputation with [R / Python / Julia] na adrese [geocompx.org/](https://geocompx.org/) [@lovelaceGeocomputation2024]
+- rozcestník volně dostupných tematických kurzů pro práci s daty v R a Pythonu od UK Data Service: [Computational social science: Reflecting the changing data research landscape](https://ukdataservice.ac.uk/learning-hub/computational-social-science/)
+- *Big Data and Social Science: Data Science Methods and Tools for Research and Practice* [@fosterBigDataSocial2021]
+- *Telling Stories with Data* [@alexanderTellingStoriesData2023].
+
+### Techničtější návody
+
+- Úvod do gitu pro uživatele R: "Happy Git and GitHub for the useR" [@tasHappyGitGitHub]
+- What they forgot to teach you about R: <https://rstats.wtf/>
+
+### Širší úvody do datové vědy
+
+- *Data Science in Context* [@spectorDataScienceContext2022], viz [volně dostupný text](https://datascienceincontext.com/manuscript/) zahrnuje kapitoly ke kauzalitě, etice aj.
+- *Handbook of Computational Social Science for Policy* [@bertoniHandbookComputationalSocial2023]: obsahuje kapitoly s příklady využití různých metod a zdrojů dat.
+- Pro účely analýzy státní správy viz @roggerGovernmentAnalyticsHandbook2023
+
+#### Česky
+
+- [Kurzy na Katedře sociologie FF UK](https://sociology-fa-cu.github.io/courses.html) - Stránka obsahuje přehled kurzů nabízených Katedrou sociologie na Filozofické fakultě Univerzity Karlovy, zaměřených na statistiku a kvantitativní metodologii.
+
+    - [Úvod do R](https://sociology-fa-cu.github.io/uvod-do-r/) - Tento kurz poskytuje základní informace o programovacím jazyce R, včetně instalace softwaru, manipulace s daty a jejich vizualizace.
+    - [Úvod do R - Kniha](https://sociology-fa-cu.github.io/uvod-do-r-kniha/) - Online učebnice pro začátečníky, která pokrývá základy analýzy dat v R, od instalace softwaru po pokročilé techniky vizualizace dat.
+    - [Aplikovaná regresní analýza v R](https://sociology-fa-cu.github.io/appliedregressioninr/) - Kurz zaměřený na aplikovanou regresní analýzu pomocí R, který studenty provede různými technikami lineární regrese a jejich praktickým využitím.
+    - [Vybraná témata analýzy dat](https://sociology-fa-cu.github.io/vybranatemataanalyzy/) - Repozitář pro kurz, který se zabývá pokročilými tématy v analýze dat, včetně bayesiánského modelování a efektivní organizace práce
+    - [Statistika 1](https://sociology-fa-cu.github.io/statistika1/) - Materiály ke kurzu Statistika 1, který pokrývá základní statistické koncepty a techniky, včetně práce s daty a jejich analýzy.
+
+- [Analýza a vizualizace dat v jazyce R](https://promis.econ.muni.cz/) [@kvasnickaAnalyzaVizualizaceDat2023]
+
+- Učebnice VŠE:
+    - [R snadno a rychle 1](https://oeconomica.vse.cz/wp-content/uploads/Danko_Safr_R-snadno-a-rychle_1.pdf) - První díl učebnice, která představuje základy programovacího jazyka R, včetně instalace, základních operací a práce s datovými strukturami. [@dankoSnadnoRychle12020]
+    - [R snadno a rychle 2](https://oeconomica.vse.cz/wp-content/uploads/Safr_Danko_R-snadno-a-rychle_2.pdf) - Druhý díl učebnice zaměřený na vizualizaci dat a programování v R, pokrývající pokročilé techniky a tvorbu grafů. [@dankoSnadnoRychle22020]
+
+## Jak práci s daty, kódem a lidmi dobře zvládnout
+
+Práce s daty není jen o schopnosti počítat, programovat a používat statistické metody. Je také o schopnosti řídit projekty, pracovat s lidmi, a starat se o znalosti, kód i data.
+
+Doporučujeme si projít některé z těchto průvodců rozumnou prací s daty v praxi:
+
+- "Good Enough Practices in Scientific Computing" [@wilsonGoodEnoughPractices2017] shrnuje minimum základních dobrých praxí
+- Pro ladění postupů práce s daty na pomezí věcné expertizy a datové analytiky se vám může hodit [průvodce The Turing Way](https://the-turing-way.netlify.app/index.html) od britského Turing Institute, která zachycuje nejen praktické postupy pro technickou práci, ale i tipy pro spolupráci a práci s partnery [@theturingwaycommunityTuringWayHandbook2022].
+- v praxi velkých organizací toto ukazuje Goldacre Review, které shrnuje doporučení pro modernizace práce s daty v britském zdravotnictví [@goldacreBetterBroaderSafer2022]
