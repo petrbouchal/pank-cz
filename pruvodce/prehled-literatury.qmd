@@ -8,10 +8,86 @@ poradi: 2
 editor: source
 ---
 
-> ## Tento návod ještě připravujeme.
->
-> Tento návod nezvnikl v rámci projektu PANK jako výsledek práce se [zapojenými týmy](/pribeh-projektu.qmd#zapojené-týmy-ve-státní-správě).
->
-> Vytváříme ho až následně, abychom nad rámec původního projektu poskytli podporu v oblasti, kde podle nás chybí. 
->
-> Návod zveřejníme na jaře 2024.
+> Tento návod budeme postupně rozšířovat. Zatím zde najdete anotovaný seznam nástrojů na vyhledání literatury a odkazy na existující metodiky pro syntézu poznatků.
+
+## O co jde a proč to řešit
+
+Problém, který se snažíte vyřešit (jako analytici nebo při tvobě politik a opatření), nejspíš už někdo zkoumal. Buď přímo v Česku, a pak vám literatura může pomoct také problém popsat a analyzovat, anebo jinde, a pak vám existující výzkum může pomoct přijít na to, jaké nástroje a opatření se v dané oblasti používají, jak fungují a jaké mají dopady.
+
+K tomu ale potřebujete
+
+- vědět, kde a jak existující výzkum najít
+- zvládnout vybrat ten relevantní a kvalitní
+- umět jeho poznatky správě syntetizovat a aplikovat
+
+Toto všechno vás v těch pár odstavcích na této stránce nenaučíme, ale dáme vám pár tipů.
+
+## AI nástroje na vyhledání a syntézu literatury
+
+Tyto nástroje vám pomůžou literaturu najít a do jisté míry syntetizovat; částečně vám pomůžou i s tím, o jaký typ výzkumu se jedná (např. některé nástroje označují nalezené či zahrnuté články podle typu výzkumného designu, popř. vypíchnou systematické přehledy.)
+
+:::callout-warning
+
+Zde zachycujeme stav na podzim 2023. Může se rychle měnit.
+
+:::
+
+
+Z vlastní zkušenosti doporučujeme následující nástroje, které jsou alespoň v základní verzi volně dostupné:
+
+- [Consensus.app](https://consensus.app/): shrne výsledky výzkumu v reakci na výzkumnou otázku, včetně odkazů na literaturu a citace klíčových pasáží z klíčových prací 
+- [Elicit](https://elicit.com/): odpovídá na výzkumné otázky (shrne top 4 papery k dané otázce), vytváří mapy pojmů
+- [Inciteful](https://inciteful.xyz/): vytvoří přehled literatury podle první citace
+
+Další dostupné:
+
+- [Typeset](https://typeset.io/)
+- [ResearchRabbit](https://www.researchrabbit.ai/)
+- [Open Knowledge Maps](https://openknowledgemaps.org/ )
+- [Paper Digest](https://www.paperdigest.org/review/)
+
+A několik nástrojů, které pracují tradičnějšími postupy (bez AI)
+
+- [OpenAlex](https://openalex.org/): sofistikované vyhledávání literatury, zcela volně dostupný nástroj
+- [ConnectedPapers](https://www.connectedpapers.com/), [Litmaps](https://www.litmaps.com/), [SemanticScholar](https://www.semanticscholar.org/paper/The-Data-Product-Canvas-A-Visual-Collaborative-Tool-Fruhwirth-Breitfuss/fbb0728e76717552de86fd3781eda4667bff6b2a): vytváří mapu prací propojených citacemi
+
+> Průběžně [aktualizovaný seznam AI nástrojů pro výzkumnou práci] udržuje pro veřejnost prof. [Niels Van Quaquebeke](https://www.linkedin.com/in/quaquebeke/).
+
+## Návody jak na syntézu poznatků
+
+Kvalitní start je existující metodika systematického přehledu poznatků vytvořená pro státní správu: 
+@nekolaMetodikaSystematickehoPrehledu2017. Tato metodika poskytuje strukturovaný přístup k systematickému přehledu literatury.
+
+Návod na tvorbu **mapy poznatků a mezer v nich** (evidence and gap maps) od Campbell Collaboration, organizace zaměřené na syntézu poznatků pro tvorbu veřejných politik: @whiteGuidanceProducingCampbell2020. Tento návod pomáhá identifikovat oblasti, kde je potřeba další výzkum, a poskytuje rámec pro systematické mapování existujících poznatků.
+
+Další užitečný zdroj je [Right Review](https://rightreview.knowledgetranslation.net/), který nabízí nástroje a metodiky pro systematické přehledy a pomůže vám rozhodnout se, jaký typ přehledu literatury vlastně potřebujete.
+
+Pro rigorozní přehledy literatury pak lze použít i software [ASReview](https://asreview.nl/).
+
+## Kde hledat syntézy literatury a clearinghouses
+
+Ve světě i v Česku existují organizace a iniciativy, které vytvářejí syntézy poznatků o zásadních problémech pro použití při tvorbě veřejných politik. Velká část z nich je tematicky či sektorově specifická; většinou je najdete pod názvy jako *evidence clearinghouse* nebo *what works center*. Níže odkazujeme na několik takových iniciativ, z nichž některé zasahují širší spektrum témat.
+
+- [Campbell Collaboration](https://www.campbellcollaboration.org/evidence/): Databáze systematických přehledů a metaanalýz zaměřených na sociální vědy.
+- [What Works Network UK](https://www.gov.uk/guidance/what-works-network) Síť organizací zaměřených na zlepšování veřejných služeb prostřednictvím důkazů; většina z nich nabízí systematické přehledy literatury o klíčových problémech jednotlivých veřejněpolitických oblastí
+- [Results First Evidence Clearinghouse](https://evidence2impact.psu.edu/results-first-resources/clearing-house-database/): Přehled poznatků k různám intervenčním programům, s možností filtrovat podle kvality zahrnutých studií
+- [The International Public Policy Observatory](https://theippo.co.uk/)
+
+České zdroje:
+
+- [Desegregace](https://www.desegregace.cz/): Projekt zaměřený na desegregaci škol v České republice.
+- [Schola Empirica](https://www.scholaempirica.org/): Organizace podporující vzdělávání a sociální inovace prostřednictvím výzkumu.
+
+## Jak poznat kvalitní výzkum
+
+Pokud se chystáte nějaký výzkumný výstup využít nebo zahrnout do přehledu literatury nebo systematického přehledu, mělo by vás zajímat, jak kvalitní jde. Speciálně by vás mělo trápit, jestli tvrzení o příčinných vztazích mezi různými jevy, jsou skutečně opodstatněná na základě využitých dat a metod. Níže tedy nabízíme několik knih dostupných online, které (spíše netechnicky) představují moderní metody pro usuzování na kauzální vztahy z (neexperimentálních) dat.
+
+- Kniha *The Effect: An Introduction to Research Design and Causality* od Huntington-Kleina: [-@huntington-kleinEffectIntroductionResearch2021]. Tato kniha je úvodem do návrhu výzkumu a kauzality, což je klíčové pro pochopení a interpretaci výzkumných studií.
+- *Bit by Bit: Social Research in the Digital Age* z roku 2019 od Matthew Salganika  [-@salganikBitBitSocial2019] ukazuje, jak uvažovat o datech a usuzování z nich v kontextu digitálního světa. Knížku lze [celou číst online](https://www.bitbybitbook.com/en/1st-ed/preface/).
+- *Telling Stories with Data* od Rohana Alexandera [-@alexanderTellingStoriesData2023]. Viz zvlášť kapitolu 15 [Causality from observational data](https://tellingstorieswithdata.com/14-causality_from_obs.html).
+- Pokročilejší úvod do usuzování o kauzalitě a k tomu určených statistických technik nabízí *Causal Inference: The Mixtape* od Scotta Cunninghama [-@cunninghamCausalInferenceMixtape2021].
+
+### Odkazovaná literatura
+
+:::{#refs}
+:::
