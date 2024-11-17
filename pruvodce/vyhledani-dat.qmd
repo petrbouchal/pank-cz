@@ -178,9 +178,11 @@ Kromě standardní tematických datových sad, kde se můžete dovědět údaje 
 
 ### 2. Administrativní data
 
-Administrativní data vznikají jako vedlejší produkt nějaké aktivity -- poskytování nějaké služby nebo administrace nějakéb agendy. To s sebou nese výhody i nevýhody, každopádně ale mnohdy jde o data velmi cenná pro analytickou a výzkumnou práci.
+Administrativní data vznikají jako vedlejší produkt nějaké aktivity -- poskytování nějaké služby nebo administrace nějakéb agendy. To s sebou nese výhody i nevýhody, každopádně ale mnohdy jde o data velmi cenná pro analytickou a výzkumnou práci.[^1]
 
-Vesměs jde o data obsažená uvnitř velkých informačních systémů států, v určitém slova smyslu ale jsou deriváte administrativních dat např. i data mobilních operátorů, které [do nějaké míry stát také zveřejňuje](https://www.kamdojizdime.cz/). Mezi administartivními daty důležitou roli hrají mj. data o veřejných financích (ta jsou dobře dostupná), ale také např. data o všech zaměstnancích, která shromažďuje Česká správa sociálního zabezpečení -- ta naopak veřejně dostupná nejsou.
+[^1]: Příklady využití administartivních dat pro účely tvorby a vyhodnocování politik v Evropě viz @cratoDataDrivenPolicyImpact2019.
+
+Vesměs jde o data obsažená uvnitř velkých informačních systémů států, v určitém slova smyslu ale jsou deriváte administrativních dat např. i data mobilních operátorů, které [do nějaké míry stát také zveřejňuje](https://www.kamdojizdime.cz/). Mezi administrativními daty důležitou roli hrají mj. data o veřejných financích (ta jsou dobře dostupná), ale také např. data o všech zaměstnancích, která shromažďuje Česká správa sociálního zabezpečení -- ta naopak veřejně dostupná nejsou.
 
 :::{.callout-note}
 
