@@ -174,12 +174,12 @@ Některé překážky kvalitní práce s poznatky mají kořeny v zákonech, pra
 
 ## Náš tým podporuje informované rozhodování ve veřejné správě
 
-Jsme tým složený hlavně z výzkumníků z [Českých priorit](https://ceskepriority.cz).
+PANK připravil tým výzkumníků z [Českých priorit](https://ceskepriority.cz).
 
 Rádi Vám pomůžeme při využití některého z [návodů v průvodci](/pruvodce) nebo s Vámi prodiskutujeme naše [doporučení](/doporuceni).
 
 :::{.btn .btn-primary}
-[Ozvěte se nám&nbsp;⟶](mailto:email@ceskepriority.cz)
+[Ozvěte se nám&nbsp;⟶](mailto:pank@ceskepriority.cz)
 :::
 
 <br />
