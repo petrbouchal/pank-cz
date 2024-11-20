@@ -50,7 +50,7 @@ website:
     locale: cs_CZ
   favicon: favicon.png
   page-footer:
-    left: "[České priority](https://ceskepriority.cz) 2023<div class='img-license'>[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)</div>"
+    left: "[České priority](https://ceskepriority.cz) 2022-2024<div class='img-license'>[![](https://i.creativecommons.org/l/by-nd/3.0/cz/80x15.png)](https://creativecommons.org/licenses/by-nd/3.0/cz/)</div>"
     center: "[![](/images/logolink_eta.png)](https://starfos.tacr.cz/cs/project/TL05000330)"
     right: "Built with [Quarto](https://quarto.org), kód <a href=https://github.com/petrbouchal/pank-cz>na Githubu</a>"
   repo-url: https://github.com/petrbouchal/pank-cz
