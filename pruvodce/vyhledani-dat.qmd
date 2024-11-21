@@ -54,9 +54,7 @@ Na otázku **kde brát data?** neexistujte jedna jasná odpověď -- v Česku ne
 
 Nabízíme tuto (nedokonalou) typologii, která může pomoct.
 
-### 1. Statistická data[^2]
-
-[^2]: kvalitní informační a popularizační texty ke statistice v ČR najdete v časopise ČSÚ [Statistika a my](https://statistikaamy.csu.gov.cz/) 
+### 1. Statistická data ^[kvalitní informační a popularizační texty ke statistice v ČR najdete v časopise ČSÚ [Statistika a my](https://statistikaamy.csu.gov.cz/)]
 
 #### Co je kde
 
@@ -102,9 +100,7 @@ Eurostat pak tato data publikuje ve sladěné formě. To má několik výhod:
 
 Jde o samotné datové sady i o metadata (číselníky aj.)
 
-#### Jak hledat data ČSÚ [^1]
-
-[^1]: ČSÚ zlepšuje svůj web a chystá i změnu ve VDB, toto se tedy může brzy změnit.
+#### Jak hledat data ČSÚ ^[ČSÚ zlepšuje svůj web a chystá i změnu ve VDB, toto se tedy může brzy změnit.]
 
 Jakákoli data: začněte v [katalogu produktů ČSÚ](https://csu.gov.cz/katalog-produktu?pocet=10&start=0&pouzeVydane=true&pouzePosledni=false&razeni=-datumVydani). Ten ve výchozím nastavení ukazuje jen vydané produkty, ale lze v něm najít i plánované produkty.
 
@@ -172,15 +168,13 @@ Kromě standardní tematických datových sad, kde se můžete dovědět údaje 
 
 - databáze [KROK](https://csu.gov.cz/produkty/databaze-krok-otevrena-data) a [MOS](https://csu.gov.cz/produkty/databaze-mos-otevrena-data) od ČSÚ sdružují velké množství údajů o krajích a obcích; dostupné jsou ve formě otevřených dat.  
 - struktura území je "multičíselních" od ČSÚ, který umožnňuje připojením jedné tabulky na jakýkoli seznam území (obcí, ORP atd.) přidat kompletní územní metadata (do jakých vyšších celků dané území patří atd.)
-- [DataPAQ]() od PAQ research kompiluje velké množství údajů o obcích (a nejen o školství) -- viz tlačítko "stáhnout data" vpravo nahoře.
+- [DataPAQ](https://www.datapaq.cz/) od PAQ research kompiluje velké množství údajů o obcích (a nejen o školství) -- viz tlačítko "stáhnout data" vpravo nahoře.
 
 :::
 
 ### 2. Administrativní data
 
-Administrativní data vznikají jako vedlejší produkt nějaké aktivity -- poskytování nějaké služby nebo administrace nějakéb agendy. To s sebou nese výhody i nevýhody, každopádně ale mnohdy jde o data velmi cenná pro analytickou a výzkumnou práci.[^1]
-
-[^1]: Příklady využití administartivních dat pro účely tvorby a vyhodnocování politik v Evropě viz @cratoDataDrivenPolicyImpact2019.
+Administrativní data vznikají jako vedlejší produkt nějaké aktivity -- poskytování nějaké služby nebo administrace nějakéb agendy. To s sebou nese výhody i nevýhody, každopádně ale mnohdy jde o data velmi cenná pro analytickou a výzkumnou práci.^[ Příklady využití administrativních dat pro účely tvorby a vyhodnocování politik v Evropě viz @cratoDataDrivenPolicyImpact2019.]
 
 Vesměs jde o data obsažená uvnitř velkých informačních systémů států, v určitém slova smyslu ale jsou deriváte administrativních dat např. i data mobilních operátorů, které [do nějaké míry stát také zveřejňuje](https://www.kamdojizdime.cz/). Mezi administrativními daty důležitou roli hrají mj. data o veřejných financích (ta jsou dobře dostupná), ale také např. data o všech zaměstnancích, která shromažďuje Česká správa sociálního zabezpečení -- ta naopak veřejně dostupná nejsou.
 
