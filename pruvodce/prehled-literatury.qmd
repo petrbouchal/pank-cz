@@ -73,10 +73,10 @@ Ve světě i v Česku existují organizace a iniciativy, které vytvářejí syn
 - [Results First Evidence Clearinghouse](https://evidence2impact.psu.edu/results-first-resources/clearing-house-database/): Přehled poznatků k různám intervenčním programům, s možností filtrovat podle kvality zahrnutých studií
 - [The International Public Policy Observatory](https://theippo.co.uk/)
 
-České zdroje:
+České zdroje, především v oblasti vzdělávání:
 
-- [Desegregace](https://www.desegregace.cz/): Projekt zaměřený na desegregaci škol v České republice.
-- [Schola Empirica](https://www.scholaempirica.org/): Organizace podporující vzdělávání a sociální inovace prostřednictvím výzkumu.
+- [Desegregace](https://www.desegregace.cz/): obsahuje přehled doložených dobrých praxí v oblasti desegregace škol.
+- [Schola Empirica](https://www.scholaempirica.org/): organizace, která se zabývá přenosem dobré praxe v oblasti vzdělávání a včasné péče; doložené dobré praxe převádí do českého prostředí.
 
 ## Jak poznat kvalitní výzkum
 
