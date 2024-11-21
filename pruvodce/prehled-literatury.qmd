@@ -80,6 +80,20 @@ Ve světě i v Česku existují organizace a iniciativy, které vytvářejí syn
 
 ## Jak poznat kvalitní výzkum
 
+::: aside
+**Jak se dostat k dalším zdrojům**
+
+Knihy níže jsou přístupné online. Zdarma přístupná ale nemusí být další knihy, ani odborná literatura, se kterou se snažíte popasovat.
+
+Pokud nemáte přístup k univerzitní knihovně [Národní knihovna](https://nkp.cz) a [Národní technická knihovna](https://techlib.cz) nabízejí (vzdálený) online přístup k mnoha odborným časopisům i specializovaným knihám.
+
+Členství v každé z nich stojí řádově stokoruny ročně, vyplatí se to.
+
+Knihovna Akademie věd také [nabízí členství externistům](https://www.lib.cas.cz/sluzby/vypujcni-sluzby/registrace/).
+
+Přístup do knihovny Vám možná umožní i Vaše univerzita coby absolventovi\*ce.
+:::
+
 Pokud se chystáte nějaký výzkumný výstup využít nebo zahrnout do přehledu literatury nebo systematického přehledu, mělo by vás zajímat, jak kvalitní jde. Speciálně by vás mělo trápit, jestli tvrzení o příčinných vztazích mezi různými jevy, jsou skutečně opodstatněná na základě využitých dat a metod. Níže tedy nabízíme několik knih dostupných online, které (spíše netechnicky) představují moderní metody pro usuzování na kauzální vztahy z (neexperimentálních) dat.
 
 - Kniha *The Effect: An Introduction to Research Design and Causality* od Huntington-Kleina: [-@huntington-kleinEffectIntroductionResearch2021]. Tato kniha je úvodem do návrhu výzkumu a kauzality, což je klíčové pro pochopení a interpretaci výzkumných studií.
