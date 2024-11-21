@@ -25,10 +25,10 @@ Tyto cíle a praktiky vyžadují jednak technické znalosti a dovednosti, jednak
 
 ## Kde začít
 
-Velmi stručné shrnutí principů -- spolu s rozcestníkem datových zdrojů -- poskytuje přehledový dokument vytvořený pro [pilotní školení analytiků veřejné správy](https://petrbouchal.xyz/analytici/).
+Velmi stručné shrnutí principů -- spolu s rozcestníkem datových zdrojů -- poskytuje přehledový dokument vytvořený pro [pilotní školení analytiků veřejné správy](https://petrbouchal.xyz/analytici/), které [organizovalo Ministerstvo vnitra](https://kvalitavs.gov.cz/kurzy/ukoncene-kurzy/vzdelavaci-program-pro-analytiky/).
 
 ```{=html}
-<embed src="https://petrbouchal.xyz/analytici/one-pager.pdf" width="800px" height="2100px" />
+<embed src="https://petrbouchal.xyz/analytici/one-pager.pdf" width="600px" height="1000px" />
 ```
 
 ## Kudy do analýzy dat, když excel nestačí
