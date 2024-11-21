@@ -57,7 +57,7 @@ Oba světy se ale přibližují:
 
 ### Techničtější návody
 
-- Úvod do gitu (nejen) pro uživatele R: "Happy Git and GitHub for the useR" [@bryanHappyGitGitHub2021]
+- Úvod do verzování pomocí nástroje *git* (nejen) pro uživatele R: "Excuse me, do you have a moment to talk about version control?" [@bryanExcuseMeYou2017]; praktický návod "Happy Git and GitHub for the useR" [@bryanHappyGitGitHub2021]. Pomoct může i [oficiální intro](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control).
 - What they forgot to teach you about R: <https://rstats.wtf/>
 
 ### Širší úvody do datové vědy
