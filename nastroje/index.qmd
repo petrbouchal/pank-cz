@@ -29,10 +29,6 @@ listing:
       subtitle: Projekty aplikovaného výzkumu pro stát od roku 2013
       categories: ["Studie & projekty"]
       path: beta/
-    - title: Kurzy pro analytiky
-      subtitle: Aktuální seznam kurzů pro analytiky od MV ČR
-      categories: ["Vzdělávání a rozvoj"]
-      path: https://www.kvalitavs.cz/kurzy-pro-analytiky-ve-verejne-sprave/
     - title: "ČP.edu: data"
       subtitle: Série přednášek na téma práce s kvantitativními daty
       categories: ["Toolkity & metody"]
@@ -153,10 +149,10 @@ listing:
       subtitle: Úvodní kurz evaluačních přístupů a metod
       categories: ["Vzdělávání a rozvoj"]
       path: https://czecheval.cz/cs/Skoleni-a-kurzy
-    - title: Webináře KvalitaVS.cz
+    - title: Webináře KvalitaVS.gov.cz
       subtitle: Série s příklady dobré praxe inovací nejen v práci s poznatky
-      path: https://www.kvalitavs.cz/webinare-inovacni-management/
-      categories: [Toolkity & metody, Vzdělávání a rozvoj]
+      path: https://www.kvalitavs.gov.cz/webinare-inovacni-management/
+      categories: [Toolkity & metody]
     - title: Expertní stanoviska AV ČR AVEX
       subtitle: Příklady shrnutí vědeckých poznatků k různým tématům
       categories: ["Studie & projekty"]
