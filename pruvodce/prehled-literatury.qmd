@@ -22,7 +22,7 @@ K tomu ale potřebujete
 
 Toto všechno vás v těch pár odstavcích na této stránce nenaučíme, ale dáme vám pár tipů.
 
-## AI nástroje na vyhledání a syntézu literatury
+## AI nástroje na vyhledání a syntézu literatury {#ai-nastroje}
 
 Tyto nástroje vám pomůžou literaturu najít a do jisté míry syntetizovat; částečně vám pomůžou i s tím, o jaký typ výzkumu se jedná (např. některé nástroje označují nalezené či zahrnuté články podle typu výzkumného designu, popř. vypíchnou systematické přehledy.)
 

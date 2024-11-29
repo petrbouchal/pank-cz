@@ -215,7 +215,7 @@ listing:
       categories: ["Studie & projekty"]
     - title: AI nástroje na práci s literaturou [PANK]
       subtitle: Nástroje, které vám pomůžou hledat poznatky 
-      path: /pruvodce/reserse-literatury#nastroje
+      path: /pruvodce/prehled-literatury#ai-nastroje
       categories: ["Toolkity & metody"]
     - title: Metodika budovania analytických kapacít [SK]
       subtitle: Standardy a postupy slovenských analytických útvarů
