@@ -76,11 +76,15 @@ Oba světy se ale přibližují:
     - [Vybraná témata analýzy dat](https://sociology-fa-cu.github.io/vybranatemataanalyzy/) - Repozitář pro kurz, který se zabývá pokročilými tématy v analýze dat, včetně bayesiánského modelování a efektivní organizace práce
     - [Statistika 1](https://sociology-fa-cu.github.io/statistika1/) - Materiály ke kurzu Statistika 1, který pokrývá základní statistické koncepty a techniky, včetně práce s daty a jejich analýzy.
 
-- [Analýza a vizualizace dat v jazyce R](https://promis.econ.muni.cz/) [@kvasnickaAnalyzaVizualizaceDat2023]
+- [Analýza a vizualizace dat v jazyce R](https://aved.econ.muni.cz/) [@kvasnickaAnalyzaVizualizaceDat2023]
 
 - Učebnice VŠE:
     - [R snadno a rychle 1](https://oeconomica.vse.cz/wp-content/uploads/Danko_Safr_R-snadno-a-rychle_1.pdf) - První díl učebnice, která představuje základy programovacího jazyka R, včetně instalace, základních operací a práce s datovými strukturami. [@dankoSnadnoRychle12020]
     - [R snadno a rychle 2](https://oeconomica.vse.cz/wp-content/uploads/Safr_Danko_R-snadno-a-rychle_2.pdf) - Druhý díl učebnice zaměřený na vizualizaci dat a programování v R, pokrývající pokročilé techniky a tvorbu grafů. [@dankoSnadnoRychle22020]
+
+## Další nástroje
+
+
 
 ## Jak práci s daty, kódem a lidmi dobře zvládnout
 
