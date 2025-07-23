@@ -110,15 +110,17 @@ Alternativně otevřená data ČSÚ najdete v [Národním katalogu otevřených 
 
 Pokud neuspějete tam, hledejte ve [Veřejná databázi (VDB)](https://vdb.czso.cz/vdbvo2/); pokud údaje nenajdete tam, hledejte v obecném katalogu produktů -- a možná budete odkázáni na excelové soubory připojené k dané publikaci.
 
+> O něco hůře jsou v otevřených datech zastoupena data o trhu práce; ta má smysl hledat ve VDB a na webu, případně u Eurostatu, který v některých případech publikuje jiné agregace (např. do věkových skupin) než ČSÚ, což může lépe odpovídat Vašim potřebám. Ještě lépe jsou data o trhu práce zpřístupňována v systému [ILOstat Mezinárodní organizace práce](https://ilostat.ilo.org/). 
+
 Někdy se může hodit hledat data [podle indikátoru, který sledují](https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=metodika-uvod).
 
 Data o územích pak ČSÚ poskytuje na [statistickém geoportálu](https://geodata.csu.gov.cz/portal/apps/sites/#/homepage).
 
-> Pokud na webu ČSÚ nenajdete požadovaný rozpad nebo agregaci dat, můžete si je v rozumné míře vyžádat od [informačních služeb](https://csu.gov.cz/informacni_sluzby_ustredi). 
+> Pokud na webu ČSÚ nenajdete požadovaný rozpad nebo agregaci dat, můžete si je v rozumné míře vyžádat od [informačních služeb](https://csu.gov.cz/informacni_sluzby_ustredi). I obecně platí, že mnohá data přebírá Eurostat a může je zpřístupňovat způsobem, který pro Vás může být příhodnější.
 
 #### Metadata
 
-ČSÚ poskytuje a udržuje velkou část potřebných metadat -- číselníků, klasifikací a definic indikátorů. K tomu [ detailněji níže](#metadata-klasifikace-a-číselníky). 
+ČSÚ poskytuje a udržuje velkou část oběcně používaných metadat -- číselníků, klasifikací a definic indikátorů. K tomu [ detailněji níže](#metadata-klasifikace-a-číselníky). 
 
 #### Veřejně nepřístupná data
 
@@ -149,8 +151,9 @@ Kromě ČSÚ se vyplatí vědět i o dalších poskytovalelích, zvláště poku
 2. ÚZIS: udržuje [systém dat o zdravotnictví](https://www.uzis.cz/index.php?pg=nzis)
 3. MPSV: [Trexima / ISPV](https://ispv.cz): Informační systém o platech je výstup statistik trhu práce, řízeného MPSV; data spravuje a poskytuje společnost Trexima.
 3. [CENIA](https://www.uzis.cz/index.php?pg=nzis): spravuje data o životním prostředí
-4. Česká národní banka: shromažďuje mnohá data o ekonomice
+4. Česká národní banka: shromažďuje mnohá data o ekonomice, strukturovaně skrze systém [ARAD](https://www.cnb.cz/arad/), kde najdete dlouhé časové řady makroekonomických ukazatelů, dílčích prvků z národních účtů, ale např. i výběry daní a příjmy a výdaje státního rozpočtu
 5. OECD, Světová banka, MMF: poskytují některá vlastní data, popř. mezinárodní indexy a odvozené datové produkty (indexy)
+6. Tematicky zaměřené mezinárodní organizace, často agentury OSN: například Mezinárodní organizace práce (ILO), mezinárodní organizace pro migraci (IOM) - typicky kompilují a slaďují data z národních zdrojů.
 
 #### Prostorová data od veřejného sektoru
 
@@ -255,13 +258,15 @@ Kromě databáze metainformací ČSÚ se mohou hodit i metadata státní pokladn
 
 
 
-Pokud pracujete v R nebo Pythony, k datům některých poskytovatelů výše se dostanete pomocí specializovaných knihoven, které vám urychlí vyhledání a načtení dat:
+Pokud pracujete v R nebo Pythonu, k datům některých poskytovatelů výše se dostanete pomocí specializovaných knihoven, které vám urychlí vyhledání a načtení dat:
 
 - ČSÚ: v R použijte balík [{czso}](https://petrbouchal.xyz/czso) [@bouchalCzsoUseOpen2020]
 - Státní pokladna: v R použijte balík [{statnipokladna}](https://petrbouchal.xyz/statnipokladna/) [@bouchalStatnipokladnaUseData2020]
 - Eurostat: v R použijte balík {eurostat}, v Python knihovnu se stejným názvem
 - OECD: v R balík {OECD}
 - Světová banka: v R balík {wbstats}
+- ČNB systém ARAD: v R balík [{cnbrrr}](https://github.com/petrbouchal/cnbrrr)
+- ILOStat: v R balík {Rilostat}
 - prostorová data: pro data od ČÚZK v R balík {RCzechia}, hranice evropských území {giscoR}
 
 K tomuto lze využít materiály z několika workshopů:
