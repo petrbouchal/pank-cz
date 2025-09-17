@@ -137,7 +137,7 @@ Pro zjišťování, jaká data stát má, se může hodit vědět, jaké útvary
 
 #### Řízený přístup k datům
 
-V přípravě je zákon o správě dat a o řízeném přístupu k datům (v [eKlepu(https://odok.cz/portal/veklep/material/KORND4KLAAG6/)]; dále viz [noticku DIA](https://data.gov.cz/%C4%8Dl%C3%A1nky/z%C3%A1kon-o-spr%C3%A1v%C4%9B-dat-a-%C5%99%C3%ADzen%C3%A9m-p%C5%99%C3%ADstupu-k-dat%C5%AFm))
+V přípravě je zákon o správě dat a o řízeném přístupu k datům (v [eKlepu](https://odok.cz/portal/veklep/material/KORND4KLAAG6/); dále viz [noticku DIA](https://data.gov.cz/%C4%8Dl%C3%A1nky/z%C3%A1kon-o-spr%C3%A1v%C4%9B-dat-a-%C5%99%C3%ADzen%C3%A9m-p%C5%99%C3%ADstupu-k-dat%C5%AFm))
 
 Ten by měl umožnit řízení zpřístupňování vybraných dat pro výzkumné a další vybrané účely, a to za určěných podmínek a pod přísnou kontrolou tak, aby bylo možné pro tyto účely poskytnout i data, které jinak není možné zpřístupnit kvůli nutnosti je chránit (např. kvůli ochraně osobních údajů.) Zákon také umožní žádat data z více subjektů a v kontrolovaném prostředí je propojit.
 
@@ -170,8 +170,11 @@ Hranice evropských regionů a dalších území najdete [na webu Eurostatu](htt
 Kromě standardní tematických datových sad, kde se můžete dovědět údaje za různá území, jsou k dispozici i datové sady, které sdružují všechny možné údaje za všechna území
 
 - databáze [KROK](https://csu.gov.cz/produkty/databaze-krok-otevrena-data) a [MOS](https://csu.gov.cz/produkty/databaze-mos-otevrena-data) od ČSÚ sdružují velké množství údajů o krajích a obcích; dostupné jsou ve formě otevřených dat.  
-- struktura území je "multičíselních" od ČSÚ, který umožnňuje připojením jedné tabulky na jakýkoli seznam území (obcí, ORP atd.) přidat kompletní územní metadata (do jakých vyšších celků dané území patří atd.)
+- [struktura území](https://csu.gov.cz/i_zakladni_uzemni_ciselniky_na_uzemi_cr_a_klasifikace_cz_nuts) je "multičíselník" od ČSÚ, který umožnňuje připojením jedné tabulky na jakýkoli seznam území (obcí, ORP atd.) přidat kompletní územní metadata (do jakých vyšších celků dané území patří atd.) Existuje i v otevřených datech.
+- ČSÚ od roku 2025 nově publikuje i [otevřená data z Registru sčítacích obvodů](https://data.gov.cz/datov%C3%A9-sady?kl%C3%AD%C4%8Dov%C3%A1-slova=RSO), kde jsou za relativně malá území i údaje ze sčítání (SLDB); jde o geodata, ale ta s sebou i tyto statistické údaje.
+- podobnou sadu, ale podle svých klasifikací území, poskytuje i ĆÚZK: [hierarchie prvků RÚIAN pro stát](https://geoportal.cuzk.cz/(S(yk4feapeksyr4k5jawt104hv))/Default.aspx?lng=CZ&mode=TextMeta&side=dsady_RUIAN_vse&metadataID=CZ-00025712-CUZK_SERIES-MD_RUIAN-CSV-HIE-ST)
 - [DataPAQ](https://www.datapaq.cz/) od PAQ research kompiluje velké množství údajů o obcích (a nejen o školství) -- viz tlačítko "stáhnout data" vpravo nahoře.
+- ČÚZK poskytuje [velký soubor všech adresních míst](https://geoportal.cuzk.cz/(S(yk4feapeksyr4k5jawt104hv))/Default.aspx?mode=TextMeta&metadataID=CZ-00025712-CUZK_SERIES-MD_RUIAN-CSV-ADR-OB&metadataXSL=full&side=dsady_RUIAN_vse) s jejich zařazením do územních a administrativních jednotek.
 
 :::
 
